@@ -1,0 +1,432 @@
+Unnamed: 0,state_id,Manufacturer,Model Name,quantity,Equipment Type,Age,OS,Certification Level,Scanning Rate,Error Rate,Reliability,Quality,Short Description
+0,2,Dominion,ImageCast Central,11,Batch-Fed Optical Scanner,14.0,Windows,VVSG 1.0 (2005),High-speed,"<=1/500,000",0.75,0.57,High-speed central-count batch optical scanner for absentee/mail paper ballots.
+1,2,Dominion,ImageCast Precinct 2,562,Hand-Fed Optical Scanner,,,VVSG 1.0 (2005),,"<=1/500,000",0.7,0.51,Precinct optical scanner/tabulator for paper ballots (polling place).
+2,2,Dominion,ImageCast X as DRE,145,DRE Touchscreen,,,,,,0.95,0.83,Touchscreen DRE voting machine.
+3,4,Dominion,ImageCast Central,12,Batch-Fed Optical Scanner,14.0,Windows,VVSG 1.0 (2005),High-speed,"<=1/500,000",0.75,0.57,High-speed central-count batch optical scanner for absentee/mail paper ballots.
+4,4,Dominion,ImageCast Precinct 2,507,Hand-Fed Optical Scanner,,,VVSG 1.0 (2005),,"<=1/500,000",0.7,0.51,Precinct optical scanner/tabulator for paper ballots (polling place).
+5,4,Dominion,ImageCast X as DRE,224,DRE Touchscreen,,,,,,0.95,0.83,Touchscreen DRE voting machine.
+6,4,ES&S,DS200,48,Hand-Fed Optical Scanner,15.0,Windows,VVSG 1.0 (2005),Highspeed,"<=1/500,000",0.75,0.57,Precinct optical scanner/tabulator for paper ballots (polling place).
+7,4,ES&S,DS300,1,Hand-Fed Optical Scanner,,Windows,VVSG 1.0 (2005),,"<=1/500,000",0.7,0.57,Precinct optical scanner/tabulator for paper ballots (polling place).
+8,4,ES&S,DS450,10,Batch-Fed Optical Scanner,9.0,Windows,VVSG 1.0 (2005),72 ballots/minute,"<=1/500,000",0.85,0.64,central-count batch optical scanner for absentee/mail paper ballots.
+9,4,ES&S,DS850,15,Batch-Fed Optical Scanner,13.0,Windows,VVSG 1.0 (2005),300 ballots/min,"<=1/500,000",0.75,0.64,central-count batch optical scanner for absentee/mail paper ballots.
+10,4,ES&S,DS950,7,Batch-Fed Optical Scanner,,,(VVSG) 2.0,280 ballots/minute,"<=1/1,670,000",0.7,0.66,central-count batch optical scanner for absentee/mail paper ballots.
+11,4,ES&S,ExpressTouch,18,DRE Touchscreen,,Windows,VVSG 1.0 (2005),,"<=1/500,000",0.7,0.58,Touchscreen DRE voting machine.
+12,4,ES&S,ExpressVote,910,BMD,11.0,Windows,VVSG 1.0 (2005),,"<=1/500,000",0.85,0.62,Accessible ballot-marking device that prints a marked paper ballot.
+13,4,ES&S,ExpressVote XL,3,BMD/Tabulator,,Windows,VVSG 1.0 (2005),,"<=1/500,000",0.7,0.58,Hybrid polling-place device for ballot marking and paper-ballot scanning/tabulation.
+14,4,Unisyn,Freedom Vote Tablet (FVT),47,BMD,,,,,,1.0,0.86,Accessible ballot-marking device that prints a marked paper ballot.
+15,4,Unisyn,OpenElect (OVCS),4,,,,,,,,,nan voting equipment.
+16,5,ES&S,DS200,1087,Hand-Fed Optical Scanner,15.0,Windows,VVSG 1.0 (2005),Highspeed,"<=1/500,000",0.75,0.57,Precinct optical scanner/tabulator for paper ballots (polling place).
+17,5,ES&S,DS450,3,Batch-Fed Optical Scanner,9.0,Windows,VVSG 1.0 (2005),72 ballots/minute,"<=1/500,000",0.85,0.64,central-count batch optical scanner for absentee/mail paper ballots.
+18,5,ES&S,ExpressVote,4584,BMD,11.0,Windows,VVSG 1.0 (2005),,"<=1/500,000",0.85,0.62,Accessible ballot-marking device that prints a marked paper ballot.
+19,5,ES&S,iVotronic,318,DRE Touchscreen,,,,,,0.65,0.3,Touchscreen DRE voting machine.
+20,6,Avalue,SLD-21V-237-B1R,603,,,,,,,,,nan voting equipment.
+21,6,Dominion,Democracy Suite 5.10-A,16,,,,,,,,,nan voting equipment.
+22,6,Dominion,ImageCast Central,210,Batch-Fed Optical Scanner,14.0,Windows,VVSG 1.0 (2005),High-speed,"<=1/500,000",0.75,0.57,High-speed central-count batch optical scanner for absentee/mail paper ballots.
+23,6,Dominion,ImageCast Evolution,136,Hybrid Optical Scanner/BMD,14.0,Windows,VVSG 1.0 (2005),,"<=1/500,000",0.75,0.57,Hybrid polling-place device for ballot marking and paper-ballot scanning/tabulation.
+24,6,Dominion,ImageCast Precinct 2,425,Hand-Fed Optical Scanner,,,VVSG 1.0 (2005),,"<=1/500,000",0.7,0.51,Precinct optical scanner/tabulator for paper ballots (polling place).
+25,6,Dominion,ImageCast X,9114,BMD,12.0,Android,VVSG 1.0 (2005),,"<=1/500,000",0.75,0.67,Accessible ballot-marking device that prints a marked paper ballot.
+26,6,ES&S,DS200,13,Hand-Fed Optical Scanner,15.0,Windows,VVSG 1.0 (2005),Highspeed,"<=1/500,000",0.75,0.57,Precinct optical scanner/tabulator for paper ballots (polling place).
+27,6,ES&S,DS300,28,Hand-Fed Optical Scanner,,Windows,VVSG 1.0 (2005),,"<=1/500,000",0.7,0.57,Precinct optical scanner/tabulator for paper ballots (polling place).
+28,6,ES&S,DS450,4,Batch-Fed Optical Scanner,9.0,Windows,VVSG 1.0 (2005),72 ballots/minute,"<=1/500,000",0.85,0.64,central-count batch optical scanner for absentee/mail paper ballots.
+29,6,ES&S,DS950,0,Batch-Fed Optical Scanner,,,(VVSG) 2.0,280 ballots/minute,"<=1/1,670,000",0.7,0.66,central-count batch optical scanner for absentee/mail paper ballots.
+30,6,ES&S,ExpressVote,72,BMD,11.0,Windows,VVSG 1.0 (2005),,"<=1/500,000",0.85,0.62,Accessible ballot-marking device that prints a marked paper ballot.
+31,6,Hart InterCivic,Verity Central,54,Batch-Fed Optical Scanner,,,,,,0.95,0.69,central-count batch optical scanner for absentee/mail paper ballots.
+32,6,Hart InterCivic,Verity Scan,654,Hand-Fed Optical Scanner,,,,,,0.95,0.79,Precinct optical scanner/tabulator for paper ballots (polling place).
+33,6,Hart InterCivic,Verity Touch Writer,1175,BMD,,,,,,0.95,0.73,Accessible ballot-marking device that prints a marked paper ballot.
+34,6,Smartmatic/Los Angeles County,IBML,22,,,,,,,,,nan voting equipment.
+35,6,Smartmatic/Los Angeles County,VSAP BMD,11144,BMD,,,,,,0.95,0.45,Accessible ballot-marking device that prints a marked paper ballot.
+36,8,Clear Ballot,ClearAccess,79,BMD,,,VVSG 1.0 (2005),,"<=1/500,000",1.0,0.79,Accessible ballot-marking device that prints a marked paper ballot.
+37,8,Clear Ballot,ClearCount,10,Batch-Fed Optical Scanner,,,VVSG 1.0 (2005),,"<=1/500,000",1.0,0.77,central-count batch optical scanner for absentee/mail paper ballots.
+38,8,Dominion,ImageCast Central,172,Batch-Fed Optical Scanner,14.0,Windows,VVSG 1.0 (2005),High-speed,"<=1/500,000",0.75,0.57,High-speed central-count batch optical scanner for absentee/mail paper ballots.
+39,8,Dominion,ImageCast X,1466,BMD,12.0,Android,VVSG 1.0 (2005),,"<=1/500,000",0.75,0.67,Accessible ballot-marking device that prints a marked paper ballot.
+40,9,IVS,Inspire Ballot Marking Device,718,BMD,,,,,,0.95,0.77,Accessible ballot-marking device that prints a marked paper ballot.
+41,9,Premier Election Solutions (Diebold),AccuVote OS,1436,Hand-Fed Optical Scanner,,,,,,0.95,0.44,Precinct optical scanner/tabulator for paper ballots (polling place).
+42,10,ES&S,DS450,10,Batch-Fed Optical Scanner,9.0,Windows,VVSG 1.0 (2005),72 ballots/minute,"<=1/500,000",0.85,0.64,central-count batch optical scanner for absentee/mail paper ballots.
+43,10,ES&S,ExpressVote XL,1353,BMD/Tabulator,,Windows,VVSG 1.0 (2005),,"<=1/500,000",0.7,0.58,Hybrid polling-place device for ballot marking and paper-ballot scanning/tabulation.
+44,11,ES&S,DS200,103,Hand-Fed Optical Scanner,15.0,Windows,VVSG 1.0 (2005),Highspeed,"<=1/500,000",0.75,0.57,Precinct optical scanner/tabulator for paper ballots (polling place).
+45,11,ES&S,ExpressVote,337,BMD,11.0,Windows,VVSG 1.0 (2005),,"<=1/500,000",0.85,0.62,Accessible ballot-marking device that prints a marked paper ballot.
+46,12,Clear Ballot,ClearCount,6,Batch-Fed Optical Scanner,,,VVSG 1.0 (2005),,"<=1/500,000",1.0,0.77,central-count batch optical scanner for absentee/mail paper ballots.
+47,12,Dominion,ImageCast Central,18,Batch-Fed Optical Scanner,14.0,Windows,VVSG 1.0 (2005),High-speed,"<=1/500,000",0.75,0.57,High-speed central-count batch optical scanner for absentee/mail paper ballots.
+48,12,Dominion,ImageCast Evolution,1113,Hybrid Optical Scanner/BMD,14.0,Windows,VVSG 1.0 (2005),,"<=1/500,000",0.75,0.57,Hybrid polling-place device for ballot marking and paper-ballot scanning/tabulation.
+49,12,ES&S,DS200,5205,Hand-Fed Optical Scanner,15.0,Windows,VVSG 1.0 (2005),Highspeed,"<=1/500,000",0.75,0.57,Precinct optical scanner/tabulator for paper ballots (polling place).
+50,12,ES&S,DS300,2275,Hand-Fed Optical Scanner,,Windows,VVSG 1.0 (2005),,"<=1/500,000",0.7,0.57,Precinct optical scanner/tabulator for paper ballots (polling place).
+51,12,ES&S,DS450,8,Batch-Fed Optical Scanner,9.0,Windows,VVSG 1.0 (2005),72 ballots/minute,"<=1/500,000",0.85,0.64,central-count batch optical scanner for absentee/mail paper ballots.
+52,12,ES&S,DS850,64,Batch-Fed Optical Scanner,13.0,Windows,VVSG 1.0 (2005),300 ballots/min,"<=1/500,000",0.75,0.64,central-count batch optical scanner for absentee/mail paper ballots.
+53,12,ES&S,DS950,37,Batch-Fed Optical Scanner,,,(VVSG) 2.0,280 ballots/minute,"<=1/1,670,000",0.7,0.66,central-count batch optical scanner for absentee/mail paper ballots.
+54,12,ES&S,ExpressVote,5148,BMD,11.0,Windows,VVSG 1.0 (2005),,"<=1/500,000",0.85,0.62,Accessible ballot-marking device that prints a marked paper ballot.
+55,12,ES&S,ExpressVote XL,8,BMD/Tabulator,,Windows,VVSG 1.0 (2005),,"<=1/500,000",0.7,0.58,Hybrid polling-place device for ballot marking and paper-ballot scanning/tabulation.
+56,13,Dominion,ImageCast Central,172,Batch-Fed Optical Scanner,14.0,Windows,VVSG 1.0 (2005),High-speed,"<=1/500,000",0.75,0.57,High-speed central-count batch optical scanner for absentee/mail paper ballots.
+57,13,Dominion,ImageCast Precinct,2601,Hand-Fed Optical Scanner,14.0,,VVSG 1.0 (2005),,"<=1/500,000",0.75,0.51,Precinct optical scanner/tabulator for paper ballots (polling place).
+58,13,Dominion,ImageCast X,19441,BMD,12.0,Android,VVSG 1.0 (2005),,"<=1/500,000",0.75,0.67,Accessible ballot-marking device that prints a marked paper ballot.
+59,15,Hart InterCivic,Verity Central,13,Batch-Fed Optical Scanner,,,,,,0.95,0.69,central-count batch optical scanner for absentee/mail paper ballots.
+60,15,Hart InterCivic,Verity Scan,33,Hand-Fed Optical Scanner,,,,,,0.95,0.79,Precinct optical scanner/tabulator for paper ballots (polling place).
+61,15,Hart InterCivic,Verity Touch Writer,62,BMD,,,,,,0.95,0.73,Accessible ballot-marking device that prints a marked paper ballot.
+62,16,ES&S,DS200,179,Hand-Fed Optical Scanner,15.0,Windows,VVSG 1.0 (2005),Highspeed,"<=1/500,000",0.75,0.57,Precinct optical scanner/tabulator for paper ballots (polling place).
+63,16,ES&S,DS300,48,Hand-Fed Optical Scanner,,Windows,VVSG 1.0 (2005),,"<=1/500,000",0.7,0.57,Precinct optical scanner/tabulator for paper ballots (polling place).
+64,16,ES&S,DS450,9,Batch-Fed Optical Scanner,9.0,Windows,VVSG 1.0 (2005),72 ballots/minute,"<=1/500,000",0.85,0.64,central-count batch optical scanner for absentee/mail paper ballots.
+65,16,ES&S,DS850,4,Batch-Fed Optical Scanner,13.0,Windows,VVSG 1.0 (2005),300 ballots/min,"<=1/500,000",0.75,0.64,central-count batch optical scanner for absentee/mail paper ballots.
+66,16,ES&S,ExpressVote,571,BMD,11.0,Windows,VVSG 1.0 (2005),,"<=1/500,000",0.85,0.62,Accessible ballot-marking device that prints a marked paper ballot.
+67,16,Hart InterCivic,Verity Central,5,Batch-Fed Optical Scanner,,,,,,0.95,0.69,central-count batch optical scanner for absentee/mail paper ballots.
+68,16,Hart InterCivic,Verity Scan,479,Hand-Fed Optical Scanner,,,,,,0.95,0.79,Precinct optical scanner/tabulator for paper ballots (polling place).
+69,16,Hart InterCivic,Verity Touch Writer,667,BMD,,,,,,0.95,0.73,Accessible ballot-marking device that prints a marked paper ballot.
+70,17,Dominion,AutoMARK,113,,,,,,,,,nan voting equipment.
+71,17,Dominion,ImageCast Precinct,1408,Hand-Fed Optical Scanner,14.0,,VVSG 1.0 (2005),,"<=1/500,000",0.75,0.51,Precinct optical scanner/tabulator for paper ballots (polling place).
+72,17,Dominion,ImageCast Precinct 2,1500,Hand-Fed Optical Scanner,,,VVSG 1.0 (2005),,"<=1/500,000",0.7,0.51,Precinct optical scanner/tabulator for paper ballots (polling place).
+73,17,Dominion,ImageCast X,5285,BMD,12.0,Android,VVSG 1.0 (2005),,"<=1/500,000",0.75,0.67,Accessible ballot-marking device that prints a marked paper ballot.
+74,17,ES&S,DS200,1622,Hand-Fed Optical Scanner,15.0,Windows,VVSG 1.0 (2005),Highspeed,"<=1/500,000",0.75,0.57,Precinct optical scanner/tabulator for paper ballots (polling place).
+75,17,ES&S,DS450,3,Batch-Fed Optical Scanner,9.0,Windows,VVSG 1.0 (2005),72 ballots/minute,"<=1/500,000",0.85,0.64,central-count batch optical scanner for absentee/mail paper ballots.
+76,17,ES&S,DS850,1,Batch-Fed Optical Scanner,13.0,Windows,VVSG 1.0 (2005),300 ballots/min,"<=1/500,000",0.75,0.64,central-count batch optical scanner for absentee/mail paper ballots.
+77,17,ES&S,ExpressVote,2069,BMD,11.0,Windows,VVSG 1.0 (2005),,"<=1/500,000",0.85,0.62,Accessible ballot-marking device that prints a marked paper ballot.
+78,17,ES&S,M100,49,,,,,,,,,nan voting equipment.
+79,17,Hart InterCivic,Veracity,71,,,,,,,,,nan voting equipment.
+80,17,Hart InterCivic,Verity 2.7,1275,,,,,,,,,nan voting equipment.
+81,17,Hart InterCivic,Verity Scan,2361,Hand-Fed Optical Scanner,,,,,,0.95,0.79,Precinct optical scanner/tabulator for paper ballots (polling place).
+82,17,Hart InterCivic,Verity Touch Writer,1023,BMD,,,,,,0.95,0.73,Accessible ballot-marking device that prints a marked paper ballot.
+83,17,Premier Election Solutions (Diebold),AccuVote OS,68,Hand-Fed Optical Scanner,,,,,,0.95,0.44,Precinct optical scanner/tabulator for paper ballots (polling place).
+84,17,Premier Election Solutions (Diebold),AccuVote TSX,34,DRE Touchscreen,,,,,,0.7,0.34,Touchscreen DRE voting machine.
+85,17,Premier Election Solutions (Diebold),TSX,72,,,,,,,,,nan voting equipment.
+86,17,Unisyn,AccuVote,31,,,,,,,,,nan voting equipment.
+87,17,Unisyn,Freedom Vote Tablet (FVT),1004,BMD,,,,,,1.0,0.86,Accessible ballot-marking device that prints a marked paper ballot.
+88,17,Unisyn,OpenElect OVI,29,BMD,,,,,,0.95,0.77,Accessible ballot-marking device that prints a marked paper ballot.
+89,17,Unisyn,OpenElect OVO,684,Hand-Fed Optical Scanner,,,,,,0.95,0.8,Precinct optical scanner/tabulator for paper ballots (polling place).
+90,18,Dominion,AutoMARK,62,,,,,,,,,nan voting equipment.
+91,18,ES&S,DS200,774,Hand-Fed Optical Scanner,15.0,Windows,VVSG 1.0 (2005),Highspeed,"<=1/500,000",0.75,0.57,Precinct optical scanner/tabulator for paper ballots (polling place).
+92,18,ES&S,ExpressVote,3399,BMD,11.0,Windows,VVSG 1.0 (2005),,"<=1/500,000",0.85,0.62,Accessible ballot-marking device that prints a marked paper ballot.
+93,18,ES&S,M100,20,,,,,,,,,nan voting equipment.
+94,18,Hart,InterCivic,178,,,,,,,,,nan voting equipment.
+95,18,Hart InterCivic,Verity Duo,43,BMD,,,,,,1.0,0.55,Accessible ballot-marking device that prints a marked paper ballot.
+96,18,Hart InterCivic,Verity Scan,111,Hand-Fed Optical Scanner,,,,,,0.95,0.79,Precinct optical scanner/tabulator for paper ballots (polling place).
+97,18,Hart InterCivic,Verity Touch Writer,68,BMD,,,,,,0.95,0.73,Accessible ballot-marking device that prints a marked paper ballot.
+98,18,Hart InterCivic,Verity Voting 2.5,300,,,,,,,,,nan voting equipment.
+99,18,MicroVote,Chatsworth ACP,66,,,,,,,,,nan voting equipment.
+100,18,MicroVote,EMS,7771,,,,,,,,,nan voting equipment.
+101,18,Unisyn,Freedom Vote Scan (FVS),43,Hand-Fed Optical Scanner,,,,,,1.0,0.85,Precinct optical scanner/tabulator for paper ballots (polling place).
+102,18,Unisyn,Freedom Vote Tablet (FVT),1507,BMD,,,,,,1.0,0.86,Accessible ballot-marking device that prints a marked paper ballot.
+103,18,Unisyn,OpenElect OVO,152,Hand-Fed Optical Scanner,,,,,,0.95,0.8,Precinct optical scanner/tabulator for paper ballots (polling place).
+104,21,ES&S,DS200,932,Hand-Fed Optical Scanner,15.0,Windows,VVSG 1.0 (2005),Highspeed,"<=1/500,000",0.75,0.57,Precinct optical scanner/tabulator for paper ballots (polling place).
+105,21,ES&S,DS300,5,Hand-Fed Optical Scanner,,Windows,VVSG 1.0 (2005),,"<=1/500,000",0.7,0.57,Precinct optical scanner/tabulator for paper ballots (polling place).
+106,21,ES&S,DS450,3,Batch-Fed Optical Scanner,9.0,Windows,VVSG 1.0 (2005),72 ballots/minute,"<=1/500,000",0.85,0.64,central-count batch optical scanner for absentee/mail paper ballots.
+107,21,ES&S,ExpressVote,1499,BMD,11.0,Windows,VVSG 1.0 (2005),,"<=1/500,000",0.85,0.62,Accessible ballot-marking device that prints a marked paper ballot.
+108,21,Hart,InterCivic,3,,,,,,,,,nan voting equipment.
+109,21,Hart InterCivic,Verity Duo,565,BMD,,,,,,1.0,0.55,Accessible ballot-marking device that prints a marked paper ballot.
+110,21,Hart InterCivic,Verity Scan,2150,Hand-Fed Optical Scanner,,,,,,0.95,0.79,Precinct optical scanner/tabulator for paper ballots (polling place).
+111,21,Hart InterCivic,Verity Touch Writer,741,BMD,,,,,,0.95,0.73,Accessible ballot-marking device that prints a marked paper ballot.
+112,21,Hart InterCivic,eScan,5,Hand-Fed Optical Scanner,,,,,,0.95,0.83,Precinct optical scanner/tabulator for paper ballots (polling place).
+113,22,Canon,DR-G2140,1,,,,,,,,,nan voting equipment.
+114,22,Canon,DR-G2141,1,,,,,,,,,nan voting equipment.
+115,22,Canon,DR-G2142,1,,,,,,,,,nan voting equipment.
+116,22,Canon,DR-G2143,1,,,,,,,,,nan voting equipment.
+117,22,Canon,DR-G2144,1,,,,,,,,,nan voting equipment.
+118,22,Canon,DR-G2145,1,,,,,,,,,nan voting equipment.
+119,22,Canon,DR-G2146,1,,,,,,,,,nan voting equipment.
+120,22,Canon,DR-G2147,1,,,,,,,,,nan voting equipment.
+121,22,Canon,DR-G2148,3,,,,,,,,,nan voting equipment.
+122,22,Canon,DR-G2149,1,,,,,,,,,nan voting equipment.
+123,22,Canon,DR-G2150,1,,,,,,,,,nan voting equipment.
+124,22,Canon,DR-G2151,1,,,,,,,,,nan voting equipment.
+125,22,Canon,DR-G2152,1,,,,,,,,,nan voting equipment.
+126,22,Canon,DR-G2153,1,,,,,,,,,nan voting equipment.
+127,22,Canon,DR-G2154,1,,,,,,,,,nan voting equipment.
+128,22,Canon,DR-G2155,1,,,,,,,,,nan voting equipment.
+129,22,Canon,DR-G2156,3,,,,,,,,,nan voting equipment.
+130,22,Canon,DR-G2157,1,,,,,,,,,nan voting equipment.
+131,22,Canon,DR-G2158,1,,,,,,,,,nan voting equipment.
+132,22,Canon,DR-G2159,1,,,,,,,,,nan voting equipment.
+133,22,Canon,DR-G2160,1,,,,,,,,,nan voting equipment.
+134,22,Canon,DR-G2161,1,,,,,,,,,nan voting equipment.
+135,22,Canon,DR-G2162,1,,,,,,,,,nan voting equipment.
+136,22,Canon,DR-G2163,1,,,,,,,,,nan voting equipment.
+137,22,Canon,DR-G2164,1,,,,,,,,,nan voting equipment.
+138,22,Canon,DR-G2165,3,,,,,,,,,nan voting equipment.
+139,22,Canon,DR-G2166,1,,,,,,,,,nan voting equipment.
+140,22,Canon,DR-G2167,2,,,,,,,,,nan voting equipment.
+141,22,Canon,DR-G2168,1,,,,,,,,,nan voting equipment.
+142,22,Canon,DR-G2169,1,,,,,,,,,nan voting equipment.
+143,22,Canon,DR-G2170,1,,,,,,,,,nan voting equipment.
+144,22,Canon,DR-G2171,1,,,,,,,,,nan voting equipment.
+145,22,Canon,DR-G2172,1,,,,,,,,,nan voting equipment.
+146,22,Canon,DR-G2173,1,,,,,,,,,nan voting equipment.
+147,22,Canon,DR-G2174,1,,,,,,,,,nan voting equipment.
+148,22,Canon,DR-G2175,3,,,,,,,,,nan voting equipment.
+149,22,Canon,DR-G2176,2,,,,,,,,,nan voting equipment.
+150,22,Canon,DR-G2177,1,,,,,,,,,nan voting equipment.
+151,22,Canon,DR-G2178,1,,,,,,,,,nan voting equipment.
+152,22,Canon,DR-G2179,1,,,,,,,,,nan voting equipment.
+153,22,Canon,DR-G2180,1,,,,,,,,,nan voting equipment.
+154,22,Canon,DR-G2181,1,,,,,,,,,nan voting equipment.
+155,22,Canon,DR-G2182,1,,,,,,,,,nan voting equipment.
+156,22,Canon,DR-G2183,1,,,,,,,,,nan voting equipment.
+157,22,Canon,DR-G2184,1,,,,,,,,,nan voting equipment.
+158,22,Canon,DR-G2185,1,,,,,,,,,nan voting equipment.
+159,22,Canon,DR-G2186,1,,,,,,,,,nan voting equipment.
+160,22,Canon,DR-G2187,1,,,,,,,,,nan voting equipment.
+161,22,Canon,DR-G2188,2,,,,,,,,,nan voting equipment.
+162,22,Canon,DR-G2189,1,,,,,,,,,nan voting equipment.
+163,22,Canon,DR-G2190,1,,,,,,,,,nan voting equipment.
+164,22,Canon,DR-G2191,2,,,,,,,,,nan voting equipment.
+165,22,Canon,DR-G2192,1,,,,,,,,,nan voting equipment.
+166,22,Canon,DR-G2193,1,,,,,,,,,nan voting equipment.
+167,22,Canon,DR-G2194,2,,,,,,,,,nan voting equipment.
+168,22,Canon,DR-G2195,1,,,,,,,,,nan voting equipment.
+169,22,Canon,DR-G2196,1,,,,,,,,,nan voting equipment.
+170,22,Canon,DR-G2197,1,,,,,,,,,nan voting equipment.
+171,22,Canon,DR-G2198,1,,,,,,,,,nan voting equipment.
+172,22,Canon,DR-G2199,1,,,,,,,,,nan voting equipment.
+173,22,Canon,DR-G2200,1,,,,,,,,,nan voting equipment.
+174,22,Canon,DR-G2201,1,,,,,,,,,nan voting equipment.
+175,22,Canon,DR-G2202,1,,,,,,,,,nan voting equipment.
+176,22,Canon,DR-G2203,1,,,,,,,,,nan voting equipment.
+177,22,Dominion,ImageCast X as DRE,801,DRE Touchscreen,,,,,,0.95,0.83,Touchscreen DRE voting machine.
+178,22,Sequoia Voting Systems,AV,8734,,,,,,,,,nan voting equipment.
+179,23,ES&S,DS200,600,Hand-Fed Optical Scanner,15.0,Windows,VVSG 1.0 (2005),Highspeed,"<=1/500,000",0.75,0.57,Precinct optical scanner/tabulator for paper ballots (polling place).
+180,23,ES&S,ExpressVote,516,BMD,11.0,Windows,VVSG 1.0 (2005),,"<=1/500,000",0.85,0.62,Accessible ballot-marking device that prints a marked paper ballot.
+181,24,ES&S,DS200,0,Hand-Fed Optical Scanner,15.0,Windows,VVSG 1.0 (2005),Highspeed,"<=1/500,000",0.75,0.57,Precinct optical scanner/tabulator for paper ballots (polling place).
+182,24,ES&S,DS850,0,Batch-Fed Optical Scanner,13.0,Windows,VVSG 1.0 (2005),300 ballots/min,"<=1/500,000",0.75,0.64,central-count batch optical scanner for absentee/mail paper ballots.
+183,24,ES&S,ExpressVote,6104,BMD,11.0,Windows,VVSG 1.0 (2005),,"<=1/500,000",0.85,0.62,Accessible ballot-marking device that prints a marked paper ballot.
+184,25,Dominion,AutoMARK,1671,,,,,,,,,nan voting equipment.
+185,25,Dominion,ImageCast Central,55,Batch-Fed Optical Scanner,14.0,Windows,VVSG 1.0 (2005),High-speed,"<=1/500,000",0.75,0.57,High-speed central-count batch optical scanner for absentee/mail paper ballots.
+186,25,Dominion,ImageCast Precinct,1789,Hand-Fed Optical Scanner,14.0,,VVSG 1.0 (2005),,"<=1/500,000",0.75,0.51,Precinct optical scanner/tabulator for paper ballots (polling place).
+187,25,Dominion,ImageCast Precinct 2,534,Hand-Fed Optical Scanner,,,VVSG 1.0 (2005),,"<=1/500,000",0.7,0.51,Precinct optical scanner/tabulator for paper ballots (polling place).
+188,25,ES&S,DS200,528,Hand-Fed Optical Scanner,15.0,Windows,VVSG 1.0 (2005),Highspeed,"<=1/500,000",0.75,0.57,Precinct optical scanner/tabulator for paper ballots (polling place).
+189,25,ES&S,DS450,6,Batch-Fed Optical Scanner,9.0,Windows,VVSG 1.0 (2005),72 ballots/minute,"<=1/500,000",0.85,0.64,central-count batch optical scanner for absentee/mail paper ballots.
+190,25,ES&S,DS850,1,Batch-Fed Optical Scanner,13.0,Windows,VVSG 1.0 (2005),300 ballots/min,"<=1/500,000",0.75,0.64,central-count batch optical scanner for absentee/mail paper ballots.
+191,25,Premier Election Solutions (Diebold),AccuVote OS,53,Hand-Fed Optical Scanner,,,,,,0.95,0.44,Precinct optical scanner/tabulator for paper ballots (polling place).
+192,26,Dominion,ImageCast Precinct,0,Hand-Fed Optical Scanner,14.0,,VVSG 1.0 (2005),,"<=1/500,000",0.75,0.51,Precinct optical scanner/tabulator for paper ballots (polling place).
+193,26,Dominion,ImageCast X,2632,BMD,12.0,Android,VVSG 1.0 (2005),,"<=1/500,000",0.75,0.67,Accessible ballot-marking device that prints a marked paper ballot.
+194,26,ES&S,DS200,0,Hand-Fed Optical Scanner,15.0,Windows,VVSG 1.0 (2005),Highspeed,"<=1/500,000",0.75,0.57,Precinct optical scanner/tabulator for paper ballots (polling place).
+195,26,ES&S,ExpressVote,551,BMD,11.0,Windows,VVSG 1.0 (2005),,"<=1/500,000",0.85,0.62,Accessible ballot-marking device that prints a marked paper ballot.
+196,26,Hart InterCivic,Verity Scan,0,Hand-Fed Optical Scanner,,,,,,0.95,0.79,Precinct optical scanner/tabulator for paper ballots (polling place).
+197,26,Hart InterCivic,Verity Touch Writer,1157,BMD,,,,,,0.95,0.73,Accessible ballot-marking device that prints a marked paper ballot.
+198,27,Democracy Live,OmniBallot Tablet,1911,BMD,,Windows 10 IoT Enterprise,,,,0.7,0.45,Accessible ballot-marking device that prints a marked paper ballot.
+199,27,Dominion,AutoMARK,459,,,,,,,,,nan voting equipment.
+200,27,Dominion,ImageCast Evolution,580,Hybrid Optical Scanner/BMD,14.0,Windows,VVSG 1.0 (2005),,"<=1/500,000",0.75,0.57,Hybrid polling-place device for ballot marking and paper-ballot scanning/tabulation.
+201,27,ES&S,DS200,2423,Hand-Fed Optical Scanner,15.0,Windows,VVSG 1.0 (2005),Highspeed,"<=1/500,000",0.75,0.57,Precinct optical scanner/tabulator for paper ballots (polling place).
+202,27,ES&S,DS450,29,Batch-Fed Optical Scanner,9.0,Windows,VVSG 1.0 (2005),72 ballots/minute,"<=1/500,000",0.85,0.64,central-count batch optical scanner for absentee/mail paper ballots.
+203,27,ES&S,DS850,5,Batch-Fed Optical Scanner,13.0,Windows,VVSG 1.0 (2005),300 ballots/min,"<=1/500,000",0.75,0.64,central-count batch optical scanner for absentee/mail paper ballots.
+204,27,ES&S,DS950,11,Batch-Fed Optical Scanner,,,(VVSG) 2.0,280 ballots/minute,"<=1/1,670,000",0.7,0.66,central-count batch optical scanner for absentee/mail paper ballots.
+205,27,ES&S,ExpressVote,120,BMD,11.0,Windows,VVSG 1.0 (2005),,"<=1/500,000",0.85,0.62,Accessible ballot-marking device that prints a marked paper ballot.
+206,27,Hart InterCivic,Verity Central,12,Batch-Fed Optical Scanner,,,,,,0.95,0.69,central-count batch optical scanner for absentee/mail paper ballots.
+207,27,Hart InterCivic,Verity Scan,196,Hand-Fed Optical Scanner,,,,,,0.95,0.79,Precinct optical scanner/tabulator for paper ballots (polling place).
+208,27,Hart InterCivic,Verity Touch Writer,186,BMD,,,,,,0.95,0.73,Accessible ballot-marking device that prints a marked paper ballot.
+209,28,ES&S,DS200,0,Hand-Fed Optical Scanner,15.0,Windows,VVSG 1.0 (2005),Highspeed,"<=1/500,000",0.75,0.57,Precinct optical scanner/tabulator for paper ballots (polling place).
+210,28,ES&S,ExpressVote,0,BMD,11.0,Windows,VVSG 1.0 (2005),,"<=1/500,000",0.85,0.62,Accessible ballot-marking device that prints a marked paper ballot.
+211,28,Hart InterCivic,Verity Scan,0,Hand-Fed Optical Scanner,,,,,,0.95,0.79,Precinct optical scanner/tabulator for paper ballots (polling place).
+212,28,Hart InterCivic,Verity Touch Writer,0,BMD,,,,,,0.95,0.73,Accessible ballot-marking device that prints a marked paper ballot.
+213,28,VotingWorks,Unknown,0,,,,,,,,,nan voting equipment.
+214,29,Dominion,ImageCast Precinct,359,Hand-Fed Optical Scanner,14.0,,VVSG 1.0 (2005),,"<=1/500,000",0.75,0.51,Precinct optical scanner/tabulator for paper ballots (polling place).
+215,29,Dominion,ImageCast X,231,BMD,12.0,Android,VVSG 1.0 (2005),,"<=1/500,000",0.75,0.67,Accessible ballot-marking device that prints a marked paper ballot.
+216,29,ES&S,DS200,333,Hand-Fed Optical Scanner,15.0,Windows,VVSG 1.0 (2005),Highspeed,"<=1/500,000",0.75,0.57,Precinct optical scanner/tabulator for paper ballots (polling place).
+217,29,ES&S,DS300,113,Hand-Fed Optical Scanner,,Windows,VVSG 1.0 (2005),,"<=1/500,000",0.7,0.57,Precinct optical scanner/tabulator for paper ballots (polling place).
+218,29,ES&S,DS450,7,Batch-Fed Optical Scanner,9.0,Windows,VVSG 1.0 (2005),72 ballots/minute,"<=1/500,000",0.85,0.64,central-count batch optical scanner for absentee/mail paper ballots.
+219,29,ES&S,ExpressVote,632,BMD,11.0,Windows,VVSG 1.0 (2005),,"<=1/500,000",0.85,0.62,Accessible ballot-marking device that prints a marked paper ballot.
+220,29,Hart InterCivic,Verity Scan,573,Hand-Fed Optical Scanner,,,,,,0.95,0.79,Precinct optical scanner/tabulator for paper ballots (polling place).
+221,29,Hart InterCivic,Verity Touch Writer,297,BMD,,,,,,0.95,0.73,Accessible ballot-marking device that prints a marked paper ballot.
+222,29,Unisyn,Freedom Vote Scan (FVS),699,Hand-Fed Optical Scanner,,,,,,1.0,0.85,Precinct optical scanner/tabulator for paper ballots (polling place).
+223,29,Unisyn,Freedom Vote Tablet (FVT),868,BMD,,,,,,1.0,0.86,Accessible ballot-marking device that prints a marked paper ballot.
+224,29,Unisyn,OpenElect (OVCS),1,,,,,,,,,nan voting equipment.
+225,29,Unisyn,OpenElect OVI,261,BMD,,,,,,0.95,0.77,Accessible ballot-marking device that prints a marked paper ballot.
+226,29,Unisyn,OpenElect OVO,556,Hand-Fed Optical Scanner,,,,,,0.95,0.8,Precinct optical scanner/tabulator for paper ballots (polling place).
+227,30,ES&S,DS200,82,Hand-Fed Optical Scanner,15.0,Windows,VVSG 1.0 (2005),Highspeed,"<=1/500,000",0.75,0.57,Precinct optical scanner/tabulator for paper ballots (polling place).
+228,30,ES&S,DS300,17,Hand-Fed Optical Scanner,,Windows,VVSG 1.0 (2005),,"<=1/500,000",0.7,0.57,Precinct optical scanner/tabulator for paper ballots (polling place).
+229,30,ES&S,DS450,16,Batch-Fed Optical Scanner,9.0,Windows,VVSG 1.0 (2005),72 ballots/minute,"<=1/500,000",0.85,0.64,central-count batch optical scanner for absentee/mail paper ballots.
+230,30,ES&S,DS850,22,Batch-Fed Optical Scanner,13.0,Windows,VVSG 1.0 (2005),300 ballots/min,"<=1/500,000",0.75,0.64,central-count batch optical scanner for absentee/mail paper ballots.
+231,30,ES&S,DS950,4,Batch-Fed Optical Scanner,,,(VVSG) 2.0,280 ballots/minute,"<=1/1,670,000",0.7,0.66,central-count batch optical scanner for absentee/mail paper ballots.
+232,30,ES&S,ExpressVote,367,BMD,11.0,Windows,VVSG 1.0 (2005),,"<=1/500,000",0.85,0.62,Accessible ballot-marking device that prints a marked paper ballot.
+233,31,ES&S,DS200,70,Hand-Fed Optical Scanner,15.0,Windows,VVSG 1.0 (2005),Highspeed,"<=1/500,000",0.75,0.57,Precinct optical scanner/tabulator for paper ballots (polling place).
+234,31,ES&S,DS450,70,Batch-Fed Optical Scanner,9.0,Windows,VVSG 1.0 (2005),72 ballots/minute,"<=1/500,000",0.85,0.64,central-count batch optical scanner for absentee/mail paper ballots.
+235,31,ES&S,DS850,19,Batch-Fed Optical Scanner,13.0,Windows,VVSG 1.0 (2005),300 ballots/min,"<=1/500,000",0.75,0.64,central-count batch optical scanner for absentee/mail paper ballots.
+236,31,ES&S,ExpressVote,1284,BMD,11.0,Windows,VVSG 1.0 (2005),,"<=1/500,000",0.85,0.62,Accessible ballot-marking device that prints a marked paper ballot.
+237,32,Dominion,ImageCast Central,30,Batch-Fed Optical Scanner,14.0,Windows,VVSG 1.0 (2005),High-speed,"<=1/500,000",0.75,0.57,High-speed central-count batch optical scanner for absentee/mail paper ballots.
+238,32,Dominion,ImageCast Precinct 2,3,Hand-Fed Optical Scanner,,,VVSG 1.0 (2005),,"<=1/500,000",0.7,0.51,Precinct optical scanner/tabulator for paper ballots (polling place).
+239,32,Dominion,ImageCast X,41,BMD,12.0,Android,VVSG 1.0 (2005),,"<=1/500,000",0.75,0.67,Accessible ballot-marking device that prints a marked paper ballot.
+240,32,Dominion,ImageCast X as DRE,5035,DRE Touchscreen,,,,,,0.95,0.83,Touchscreen DRE voting machine.
+241,32,ES&S,DS200,6,Hand-Fed Optical Scanner,15.0,Windows,VVSG 1.0 (2005),Highspeed,"<=1/500,000",0.75,0.57,Precinct optical scanner/tabulator for paper ballots (polling place).
+242,32,ES&S,DS450,2,Batch-Fed Optical Scanner,9.0,Windows,VVSG 1.0 (2005),72 ballots/minute,"<=1/500,000",0.85,0.64,central-count batch optical scanner for absentee/mail paper ballots.
+243,32,ES&S,DS950,1,Batch-Fed Optical Scanner,,,(VVSG) 2.0,280 ballots/minute,"<=1/1,670,000",0.7,0.66,central-count batch optical scanner for absentee/mail paper ballots.
+244,32,ES&S,ExpressVote,80,BMD,11.0,Windows,VVSG 1.0 (2005),,"<=1/500,000",0.85,0.62,Accessible ballot-marking device that prints a marked paper ballot.
+245,32,InterScan,HiPro 8x1,6,,,,,,,,,nan voting equipment.
+246,33,Premier Election Solutions (Diebold),AccuVote OS,265,Hand-Fed Optical Scanner,,,,,,0.95,0.44,Precinct optical scanner/tabulator for paper ballots (polling place).
+247,33,VotingWorks,VXSUITE 3.1.2,24,,,,,,,,,nan voting equipment.
+248,34,Dominion,ImageCast Central,24,Batch-Fed Optical Scanner,14.0,Windows,VVSG 1.0 (2005),High-speed,"<=1/500,000",0.75,0.57,High-speed central-count batch optical scanner for absentee/mail paper ballots.
+249,34,Dominion,ImageCast X,3202,BMD,12.0,Android,VVSG 1.0 (2005),,"<=1/500,000",0.75,0.67,Accessible ballot-marking device that prints a marked paper ballot.
+250,34,ES&S,DS450,20,Batch-Fed Optical Scanner,9.0,Windows,VVSG 1.0 (2005),72 ballots/minute,"<=1/500,000",0.85,0.64,central-count batch optical scanner for absentee/mail paper ballots.
+251,34,ES&S,DS850,7,Batch-Fed Optical Scanner,13.0,Windows,VVSG 1.0 (2005),300 ballots/min,"<=1/500,000",0.75,0.64,central-count batch optical scanner for absentee/mail paper ballots.
+252,34,ES&S,DS950,14,Batch-Fed Optical Scanner,,,(VVSG) 2.0,280 ballots/minute,"<=1/1,670,000",0.7,0.66,central-count batch optical scanner for absentee/mail paper ballots.
+253,34,ES&S,ExpressVote,347,BMD,11.0,Windows,VVSG 1.0 (2005),,"<=1/500,000",0.85,0.62,Accessible ballot-marking device that prints a marked paper ballot.
+254,34,ES&S,ExpressVote XL,7612,BMD/Tabulator,,Windows,VVSG 1.0 (2005),,"<=1/500,000",0.7,0.58,Hybrid polling-place device for ballot marking and paper-ballot scanning/tabulation.
+255,35,Dominion,ImageCast Central,48,Batch-Fed Optical Scanner,14.0,Windows,VVSG 1.0 (2005),High-speed,"<=1/500,000",0.75,0.57,High-speed central-count batch optical scanner for absentee/mail paper ballots.
+256,35,Dominion,ImageCast Evolution,1527,Hybrid Optical Scanner/BMD,14.0,Windows,VVSG 1.0 (2005),,"<=1/500,000",0.75,0.57,Hybrid polling-place device for ballot marking and paper-ballot scanning/tabulation.
+257,36,Clear Ballot,ClearCast,951,Hand-Fed Optical Scanner,,,VVSG 1.0 (2005),,"<=1/500,000",1.0,0.71,Precinct optical scanner/tabulator for paper ballots (polling place).
+258,36,Clear Ballot,ClearMark,681,BMD,,,NYSBOE (2023),,,1.0,0.72,Accessible ballot-marking device that prints a marked paper ballot.
+259,36,Dominion,AutoMARK,2161,,,,,,,,,nan voting equipment.
+260,36,Dominion,ImageCast Evolution,5923,Hybrid Optical Scanner/BMD,14.0,Windows,VVSG 1.0 (2005),,"<=1/500,000",0.75,0.57,Hybrid polling-place device for ballot marking and paper-ballot scanning/tabulation.
+261,36,Dominion,ImageCast Precinct,115,Hand-Fed Optical Scanner,14.0,,VVSG 1.0 (2005),,"<=1/500,000",0.75,0.51,Precinct optical scanner/tabulator for paper ballots (polling place).
+262,36,Dominion,ImageCast Precinct 2,24,Hand-Fed Optical Scanner,,,VVSG 1.0 (2005),,"<=1/500,000",0.7,0.51,Precinct optical scanner/tabulator for paper ballots (polling place).
+263,36,ES&S,DS200,5579,Hand-Fed Optical Scanner,15.0,Windows,VVSG 1.0 (2005),Highspeed,"<=1/500,000",0.75,0.57,Precinct optical scanner/tabulator for paper ballots (polling place).
+264,36,ES&S,DS300,276,Hand-Fed Optical Scanner,,Windows,VVSG 1.0 (2005),,"<=1/500,000",0.7,0.57,Precinct optical scanner/tabulator for paper ballots (polling place).
+265,36,Hart InterCivic,Verity Scan,263,Hand-Fed Optical Scanner,,,,,,0.95,0.79,Precinct optical scanner/tabulator for paper ballots (polling place).
+266,36,Hart InterCivic,Verity Touch Writer,202,BMD,,,,,,0.95,0.73,Accessible ballot-marking device that prints a marked paper ballot.
+267,37,Dominion,AutoMARK,604,,,,,,,,,nan voting equipment.
+268,37,ES&S,DS200,3165,Hand-Fed Optical Scanner,15.0,Windows,VVSG 1.0 (2005),Highspeed,"<=1/500,000",0.75,0.57,Precinct optical scanner/tabulator for paper ballots (polling place).
+269,37,ES&S,DS300,93,Hand-Fed Optical Scanner,,Windows,VVSG 1.0 (2005),,"<=1/500,000",0.7,0.57,Precinct optical scanner/tabulator for paper ballots (polling place).
+270,37,ES&S,DS450,28,Batch-Fed Optical Scanner,9.0,Windows,VVSG 1.0 (2005),72 ballots/minute,"<=1/500,000",0.85,0.64,central-count batch optical scanner for absentee/mail paper ballots.
+271,37,ES&S,DS850,33,Batch-Fed Optical Scanner,13.0,Windows,VVSG 1.0 (2005),300 ballots/min,"<=1/500,000",0.75,0.64,central-count batch optical scanner for absentee/mail paper ballots.
+272,37,ES&S,ExpressVote,5406,BMD,11.0,Windows,VVSG 1.0 (2005),,"<=1/500,000",0.85,0.62,Accessible ballot-marking device that prints a marked paper ballot.
+273,37,ES&S,M100,43,,,,,,,,,nan voting equipment.
+274,37,Hart InterCivic,Verity Central,6,Batch-Fed Optical Scanner,,,,,,0.95,0.69,central-count batch optical scanner for absentee/mail paper ballots.
+275,37,Hart InterCivic,Verity Scan,215,Hand-Fed Optical Scanner,,,,,,0.95,0.79,Precinct optical scanner/tabulator for paper ballots (polling place).
+276,37,Hart InterCivic,Verity Touch Writer,182,BMD,,,,,,0.95,0.73,Accessible ballot-marking device that prints a marked paper ballot.
+277,38,ES&S,DS200,453,Hand-Fed Optical Scanner,15.0,Windows,VVSG 1.0 (2005),Highspeed,"<=1/500,000",0.75,0.57,Precinct optical scanner/tabulator for paper ballots (polling place).
+278,38,ES&S,DS450,57,Batch-Fed Optical Scanner,9.0,Windows,VVSG 1.0 (2005),72 ballots/minute,"<=1/500,000",0.85,0.64,central-count batch optical scanner for absentee/mail paper ballots.
+279,38,ES&S,ExpressVote,429,BMD,11.0,Windows,VVSG 1.0 (2005),,"<=1/500,000",0.85,0.62,Accessible ballot-marking device that prints a marked paper ballot.
+280,39,Clear Ballot,ClearAccess,574,BMD,,,VVSG 1.0 (2005),,"<=1/500,000",1.0,0.79,Accessible ballot-marking device that prints a marked paper ballot.
+281,39,Clear Ballot,ClearCast,1607,Hand-Fed Optical Scanner,,,VVSG 1.0 (2005),,"<=1/500,000",1.0,0.71,Precinct optical scanner/tabulator for paper ballots (polling place).
+282,39,Clear Ballot,ClearCount,53,Batch-Fed Optical Scanner,,,VVSG 1.0 (2005),,"<=1/500,000",1.0,0.77,central-count batch optical scanner for absentee/mail paper ballots.
+283,39,Dominion,AutoMARK,21,,,,,,,,,nan voting equipment.
+284,39,Dominion,ImageCast Central,24,Batch-Fed Optical Scanner,14.0,Windows,VVSG 1.0 (2005),High-speed,"<=1/500,000",0.75,0.57,High-speed central-count batch optical scanner for absentee/mail paper ballots.
+285,39,Dominion,ImageCast Evolution,40,Hybrid Optical Scanner/BMD,14.0,Windows,VVSG 1.0 (2005),,"<=1/500,000",0.75,0.57,Hybrid polling-place device for ballot marking and paper-ballot scanning/tabulation.
+286,39,Dominion,ImageCast Precinct,116,Hand-Fed Optical Scanner,14.0,,VVSG 1.0 (2005),,"<=1/500,000",0.75,0.51,Precinct optical scanner/tabulator for paper ballots (polling place).
+287,39,Dominion,ImageCast X as DRE,5826,DRE Touchscreen,,,,,,0.95,0.83,Touchscreen DRE voting machine.
+288,39,ES&S,DS200,2729,Hand-Fed Optical Scanner,15.0,Windows,VVSG 1.0 (2005),Highspeed,"<=1/500,000",0.75,0.57,Precinct optical scanner/tabulator for paper ballots (polling place).
+289,39,ES&S,DS300,11,Hand-Fed Optical Scanner,,Windows,VVSG 1.0 (2005),,"<=1/500,000",0.7,0.57,Precinct optical scanner/tabulator for paper ballots (polling place).
+290,39,ES&S,DS450,29,Batch-Fed Optical Scanner,9.0,Windows,VVSG 1.0 (2005),72 ballots/minute,"<=1/500,000",0.85,0.64,central-count batch optical scanner for absentee/mail paper ballots.
+291,39,ES&S,DS850,5,Batch-Fed Optical Scanner,13.0,Windows,VVSG 1.0 (2005),300 ballots/min,"<=1/500,000",0.75,0.64,central-count batch optical scanner for absentee/mail paper ballots.
+292,39,ES&S,DS950,4,Batch-Fed Optical Scanner,,,(VVSG) 2.0,280 ballots/minute,"<=1/1,670,000",0.7,0.66,central-count batch optical scanner for absentee/mail paper ballots.
+293,39,ES&S,ExpressVote,10560,BMD,11.0,Windows,VVSG 1.0 (2005),,"<=1/500,000",0.85,0.62,Accessible ballot-marking device that prints a marked paper ballot.
+294,39,ES&S,ExpressVote XL,11,BMD/Tabulator,,Windows,VVSG 1.0 (2005),,"<=1/500,000",0.7,0.58,Hybrid polling-place device for ballot marking and paper-ballot scanning/tabulation.
+295,39,Fujitsu,fi-7900,5,,,,,,,,,nan voting equipment.
+296,39,Hart InterCivic,Verity Central,5,Batch-Fed Optical Scanner,,,,,,0.95,0.69,central-count batch optical scanner for absentee/mail paper ballots.
+297,39,Hart InterCivic,Verity Scan,596,Hand-Fed Optical Scanner,,,,,,0.95,0.79,Precinct optical scanner/tabulator for paper ballots (polling place).
+298,39,Hart InterCivic,Verity Touch Writer,313,BMD,,,,,,0.95,0.73,Accessible ballot-marking device that prints a marked paper ballot.
+299,39,Unisyn,Freedom Vote Scan (FVS),12,Hand-Fed Optical Scanner,,,,,,1.0,0.85,Precinct optical scanner/tabulator for paper ballots (polling place).
+300,39,Unisyn,Freedom Vote Tablet (FVT),1925,BMD,,,,,,1.0,0.86,Accessible ballot-marking device that prints a marked paper ballot.
+301,39,Unisyn,OpenElect (OVCS),45,,,,,,,,,nan voting equipment.
+302,39,Unisyn,OpenElect OVI,30,BMD,,,,,,0.95,0.77,Accessible ballot-marking device that prints a marked paper ballot.
+303,39,Unisyn,OpenElect OVO,223,Hand-Fed Optical Scanner,,,,,,0.95,0.8,Precinct optical scanner/tabulator for paper ballots (polling place).
+304,40,Hart InterCivic,Verity Central,4,Batch-Fed Optical Scanner,,,,,,0.95,0.69,central-count batch optical scanner for absentee/mail paper ballots.
+305,40,Hart InterCivic,eScan,2067,Hand-Fed Optical Scanner,,,,,,0.95,0.83,Precinct optical scanner/tabulator for paper ballots (polling place).
+306,41,Clear Ballot,ClearCount,0,Batch-Fed Optical Scanner,,,VVSG 1.0 (2005),,"<=1/500,000",1.0,0.77,central-count batch optical scanner for absentee/mail paper ballots.
+307,41,ES&S,DS450,0,Batch-Fed Optical Scanner,9.0,Windows,VVSG 1.0 (2005),72 ballots/minute,"<=1/500,000",0.85,0.64,central-count batch optical scanner for absentee/mail paper ballots.
+308,41,ES&S,DS850,0,Batch-Fed Optical Scanner,13.0,Windows,VVSG 1.0 (2005),300 ballots/min,"<=1/500,000",0.75,0.64,central-count batch optical scanner for absentee/mail paper ballots.
+309,41,ES&S,M650,0,,,,,,,,,nan voting equipment.
+310,41,Hart InterCivic,Verity Central,0,Batch-Fed Optical Scanner,,,,,,0.95,0.69,central-count batch optical scanner for absentee/mail paper ballots.
+311,42,Clear Ballot,ClearAccess,521,BMD,,,VVSG 1.0 (2005),,"<=1/500,000",1.0,0.79,Accessible ballot-marking device that prints a marked paper ballot.
+312,42,Clear Ballot,ClearCast,840,Hand-Fed Optical Scanner,,,VVSG 1.0 (2005),,"<=1/500,000",1.0,0.71,Precinct optical scanner/tabulator for paper ballots (polling place).
+313,42,Clear Ballot,ClearCount,17,Batch-Fed Optical Scanner,,,VVSG 1.0 (2005),,"<=1/500,000",1.0,0.77,central-count batch optical scanner for absentee/mail paper ballots.
+314,42,Dominion,ImageCast Central,25,Batch-Fed Optical Scanner,14.0,Windows,VVSG 1.0 (2005),High-speed,"<=1/500,000",0.75,0.57,High-speed central-count batch optical scanner for absentee/mail paper ballots.
+315,42,Dominion,ImageCast Precinct,1058,Hand-Fed Optical Scanner,14.0,,VVSG 1.0 (2005),,"<=1/500,000",0.75,0.51,Precinct optical scanner/tabulator for paper ballots (polling place).
+316,42,Dominion,ImageCast X,1636,BMD,12.0,Android,VVSG 1.0 (2005),,"<=1/500,000",0.75,0.67,Accessible ballot-marking device that prints a marked paper ballot.
+317,42,ES&S,DS200,4079,Hand-Fed Optical Scanner,15.0,Windows,VVSG 1.0 (2005),Highspeed,"<=1/500,000",0.75,0.57,Precinct optical scanner/tabulator for paper ballots (polling place).
+318,42,ES&S,DS450,37,Batch-Fed Optical Scanner,9.0,Windows,VVSG 1.0 (2005),72 ballots/minute,"<=1/500,000",0.85,0.64,central-count batch optical scanner for absentee/mail paper ballots.
+319,42,ES&S,DS850,11,Batch-Fed Optical Scanner,13.0,Windows,VVSG 1.0 (2005),300 ballots/min,"<=1/500,000",0.75,0.64,central-count batch optical scanner for absentee/mail paper ballots.
+320,42,ES&S,DS950,2,Batch-Fed Optical Scanner,,,(VVSG) 2.0,280 ballots/minute,"<=1/1,670,000",0.7,0.66,central-count batch optical scanner for absentee/mail paper ballots.
+321,42,ES&S,ExpressVote,6077,BMD,11.0,Windows,VVSG 1.0 (2005),,"<=1/500,000",0.85,0.62,Accessible ballot-marking device that prints a marked paper ballot.
+322,42,ES&S,ExpressVote XL,8202,BMD/Tabulator,,Windows,VVSG 1.0 (2005),,"<=1/500,000",0.7,0.58,Hybrid polling-place device for ballot marking and paper-ballot scanning/tabulation.
+323,42,Hart InterCivic,Verity Central,7,Batch-Fed Optical Scanner,,,,,,0.95,0.69,central-count batch optical scanner for absentee/mail paper ballots.
+324,42,Hart InterCivic,Verity Scan,442,Hand-Fed Optical Scanner,,,,,,0.95,0.79,Precinct optical scanner/tabulator for paper ballots (polling place).
+325,42,Hart InterCivic,Verity Touch Writer,441,BMD,,,,,,0.95,0.73,Accessible ballot-marking device that prints a marked paper ballot.
+326,42,Unisyn,Freedom Vote Tablet (FVT),552,BMD,,,,,,1.0,0.86,Accessible ballot-marking device that prints a marked paper ballot.
+327,42,Unisyn,OpenElect (OVCS),4,,,,,,,,,nan voting equipment.
+328,42,Unisyn,OpenElect OVO,128,Hand-Fed Optical Scanner,,,,,,0.95,0.8,Precinct optical scanner/tabulator for paper ballots (polling place).
+329,44,ES&S,DS200,590,Hand-Fed Optical Scanner,15.0,Windows,VVSG 1.0 (2005),Highspeed,"<=1/500,000",0.75,0.57,Precinct optical scanner/tabulator for paper ballots (polling place).
+330,44,ES&S,DS850,117,Batch-Fed Optical Scanner,13.0,Windows,VVSG 1.0 (2005),300 ballots/min,"<=1/500,000",0.75,0.64,central-count batch optical scanner for absentee/mail paper ballots.
+331,44,ES&S,ExpressVote,495,BMD,11.0,Windows,VVSG 1.0 (2005),,"<=1/500,000",0.85,0.62,Accessible ballot-marking device that prints a marked paper ballot.
+332,45,ES&S,DS300,3124,Hand-Fed Optical Scanner,,Windows,VVSG 1.0 (2005),,"<=1/500,000",0.7,0.57,Precinct optical scanner/tabulator for paper ballots (polling place).
+333,45,ES&S,DS450,21,Batch-Fed Optical Scanner,9.0,Windows,VVSG 1.0 (2005),72 ballots/minute,"<=1/500,000",0.85,0.64,central-count batch optical scanner for absentee/mail paper ballots.
+334,45,ES&S,DS850,1,Batch-Fed Optical Scanner,13.0,Windows,VVSG 1.0 (2005),300 ballots/min,"<=1/500,000",0.75,0.64,central-count batch optical scanner for absentee/mail paper ballots.
+335,45,ES&S,ExpressVote,15659,BMD,11.0,Windows,VVSG 1.0 (2005),,"<=1/500,000",0.85,0.62,Accessible ballot-marking device that prints a marked paper ballot.
+336,46,Dominion,AutoMARK,17,,,,,,,,,nan voting equipment.
+337,46,ES&S,DS200,32,Hand-Fed Optical Scanner,15.0,Windows,VVSG 1.0 (2005),Highspeed,"<=1/500,000",0.75,0.57,Precinct optical scanner/tabulator for paper ballots (polling place).
+338,46,ES&S,DS450,25,Batch-Fed Optical Scanner,9.0,Windows,VVSG 1.0 (2005),72 ballots/minute,"<=1/500,000",0.85,0.64,central-count batch optical scanner for absentee/mail paper ballots.
+339,46,ES&S,DS850,14,Batch-Fed Optical Scanner,13.0,Windows,VVSG 1.0 (2005),300 ballots/min,"<=1/500,000",0.75,0.64,central-count batch optical scanner for absentee/mail paper ballots.
+340,46,ES&S,ExpressVote,420,BMD,11.0,Windows,VVSG 1.0 (2005),,"<=1/500,000",0.85,0.62,Accessible ballot-marking device that prints a marked paper ballot.
+341,47,ES&S,DS200,955,Hand-Fed Optical Scanner,15.0,Windows,VVSG 1.0 (2005),Highspeed,"<=1/500,000",0.75,0.57,Precinct optical scanner/tabulator for paper ballots (polling place).
+342,47,ES&S,DS300,117,Hand-Fed Optical Scanner,,Windows,VVSG 1.0 (2005),,"<=1/500,000",0.7,0.57,Precinct optical scanner/tabulator for paper ballots (polling place).
+343,47,ES&S,DS450,10,Batch-Fed Optical Scanner,9.0,Windows,VVSG 1.0 (2005),72 ballots/minute,"<=1/500,000",0.85,0.64,central-count batch optical scanner for absentee/mail paper ballots.
+344,47,ES&S,DS950,1,Batch-Fed Optical Scanner,,,(VVSG) 2.0,280 ballots/minute,"<=1/1,670,000",0.7,0.66,central-count batch optical scanner for absentee/mail paper ballots.
+345,47,ES&S,ExpressVote,3595,BMD,11.0,Windows,VVSG 1.0 (2005),,"<=1/500,000",0.85,0.62,Accessible ballot-marking device that prints a marked paper ballot.
+346,47,Hart InterCivic,Verity Central,3,Batch-Fed Optical Scanner,,,,,,0.95,0.69,central-count batch optical scanner for absentee/mail paper ballots.
+347,47,Hart InterCivic,Verity Duo,254,BMD,,,,,,1.0,0.55,Accessible ballot-marking device that prints a marked paper ballot.
+348,47,Hart InterCivic,Verity Scan,535,Hand-Fed Optical Scanner,,,,,,0.95,0.79,Precinct optical scanner/tabulator for paper ballots (polling place).
+349,47,Hart InterCivic,Verity Touch Writer,716,BMD,,,,,,0.95,0.73,Accessible ballot-marking device that prints a marked paper ballot.
+350,47,MicroVote,Infinity,2930,DRE Push Button,,"Microsoft Windows 2000, Windows XP Professional",,,,0.95,0.48,Push-button DRE voting machine.
+351,47,Unisyn,Freedom Vote Tablet (FVT),56,BMD,,,,,,1.0,0.86,Accessible ballot-marking device that prints a marked paper ballot.
+352,47,Unisyn,OpenElect OVI,11,BMD,,,,,,0.95,0.77,Accessible ballot-marking device that prints a marked paper ballot.
+353,47,Unisyn,OpenElect OVO,11,Hand-Fed Optical Scanner,,,,,,0.95,0.8,Precinct optical scanner/tabulator for paper ballots (polling place).
+354,48,Dominion,AutoMARK,84,,,,,,,,,nan voting equipment.
+355,48,ES&S,DS200,3026,Hand-Fed Optical Scanner,15.0,Windows,VVSG 1.0 (2005),Highspeed,"<=1/500,000",0.75,0.57,Precinct optical scanner/tabulator for paper ballots (polling place).
+356,48,ES&S,DS300,78,Hand-Fed Optical Scanner,,Windows,VVSG 1.0 (2005),,"<=1/500,000",0.7,0.57,Precinct optical scanner/tabulator for paper ballots (polling place).
+357,48,ES&S,DS450,38,Batch-Fed Optical Scanner,9.0,Windows,VVSG 1.0 (2005),72 ballots/minute,"<=1/500,000",0.85,0.64,central-count batch optical scanner for absentee/mail paper ballots.
+358,48,ES&S,DS850,7,Batch-Fed Optical Scanner,13.0,Windows,VVSG 1.0 (2005),300 ballots/min,"<=1/500,000",0.75,0.64,central-count batch optical scanner for absentee/mail paper ballots.
+359,48,ES&S,DS950,4,Batch-Fed Optical Scanner,,,(VVSG) 2.0,280 ballots/minute,"<=1/1,670,000",0.7,0.66,central-count batch optical scanner for absentee/mail paper ballots.
+360,48,ES&S,ExpressTouch,733,DRE Touchscreen,,Windows,VVSG 1.0 (2005),,"<=1/500,000",0.7,0.58,Touchscreen DRE voting machine.
+361,48,ES&S,ExpressVote,17186,BMD,11.0,Windows,VVSG 1.0 (2005),,"<=1/500,000",0.85,0.62,Accessible ballot-marking device that prints a marked paper ballot.
+362,48,ES&S,ExpressVote XL,8,BMD/Tabulator,,Windows,VVSG 1.0 (2005),,"<=1/500,000",0.7,0.58,Hybrid polling-place device for ballot marking and paper-ballot scanning/tabulation.
+363,48,ES&S,M100,4,,,,,,,,,nan voting equipment.
+364,48,ES&S,M650,1,,,,,,,,,nan voting equipment.
+365,48,ES&S,iVotronic,63,DRE Touchscreen,,,,,,0.65,0.3,Touchscreen DRE voting machine.
+366,48,Hart InterCivic,Verity Central,34,Batch-Fed Optical Scanner,,,,,,0.95,0.69,central-count batch optical scanner for absentee/mail paper ballots.
+367,48,Hart InterCivic,Verity Controller,17,,,,,,,,,nan voting equipment.
+368,48,Hart InterCivic,Verity Duo,16542,BMD,,,,,,1.0,0.55,Accessible ballot-marking device that prints a marked paper ballot.
+369,48,Hart InterCivic,Verity Duo Go,120,,,,,,,,,nan voting equipment.
+370,48,Hart InterCivic,Verity Scan,5138,Hand-Fed Optical Scanner,,,,,,0.95,0.79,Precinct optical scanner/tabulator for paper ballots (polling place).
+371,48,Hart InterCivic,Verity Touch,59,DRE Touchscreen,,,,,,0.95,0.65,Touchscreen DRE voting machine.
+372,48,Hart InterCivic,Verity Touch Writer,12030,BMD,,,,,,0.95,0.73,Accessible ballot-marking device that prints a marked paper ballot.
+373,48,Hart InterCivic,Verity Voting 2.5,40,,,,,,,,,nan voting equipment.
+374,48,Hart InterCivic,eScan,133,Hand-Fed Optical Scanner,,,,,,0.95,0.83,Precinct optical scanner/tabulator for paper ballots (polling place).
+375,48,Hart InterCivic,eSlate,175,DRE Dial,,,,,,0.95,0.8,Dial-based DRE voting machine.
+376,48,Kodak,I260,1,,,,,,,,,nan voting equipment.
+377,48,Kodak,I620,1,,,,,,,,,nan voting equipment.
+378,49,Dominion,ImageCast Central,9,Batch-Fed Optical Scanner,14.0,Windows,VVSG 1.0 (2005),High-speed,"<=1/500,000",0.75,0.57,High-speed central-count batch optical scanner for absentee/mail paper ballots.
+379,49,Dominion,ImageCast X as DRE,665,DRE Touchscreen,,,,,,0.95,0.83,Touchscreen DRE voting machine.
+380,49,ES&S,DS200,39,Hand-Fed Optical Scanner,15.0,Windows,VVSG 1.0 (2005),Highspeed,"<=1/500,000",0.75,0.57,Precinct optical scanner/tabulator for paper ballots (polling place).
+381,49,ES&S,DS300,26,Hand-Fed Optical Scanner,,Windows,VVSG 1.0 (2005),,"<=1/500,000",0.7,0.57,Precinct optical scanner/tabulator for paper ballots (polling place).
+382,49,ES&S,DS450,20,Batch-Fed Optical Scanner,9.0,Windows,VVSG 1.0 (2005),72 ballots/minute,"<=1/500,000",0.85,0.64,central-count batch optical scanner for absentee/mail paper ballots.
+383,49,ES&S,DS850,2,Batch-Fed Optical Scanner,13.0,Windows,VVSG 1.0 (2005),300 ballots/min,"<=1/500,000",0.75,0.64,central-count batch optical scanner for absentee/mail paper ballots.
+384,49,ES&S,ExpressVote,169,BMD,11.0,Windows,VVSG 1.0 (2005),,"<=1/500,000",0.85,0.62,Accessible ballot-marking device that prints a marked paper ballot.
+385,49,Premier Election Solutions (Diebold),AccuVote TSX,2,DRE Touchscreen,,,,,,0.7,0.34,Touchscreen DRE voting machine.
+386,49,Unisyn,OpenElect OVO,1,Hand-Fed Optical Scanner,,,,,,0.95,0.8,Precinct optical scanner/tabulator for paper ballots (polling place).
+387,50,Democracy Live,OmniBallot Tablet,262,BMD,,Windows 10 IoT Enterprise,,,,0.7,0.45,Accessible ballot-marking device that prints a marked paper ballot.
+388,51,Dominion,ImageCast Evolution,756,Hybrid Optical Scanner/BMD,14.0,Windows,VVSG 1.0 (2005),,"<=1/500,000",0.75,0.57,Hybrid polling-place device for ballot marking and paper-ballot scanning/tabulation.
+389,51,Dominion,ImageCast Precinct,23,Hand-Fed Optical Scanner,14.0,,VVSG 1.0 (2005),,"<=1/500,000",0.75,0.51,Precinct optical scanner/tabulator for paper ballots (polling place).
+390,51,Dominion,ImageCast Precinct 2,21,Hand-Fed Optical Scanner,,,VVSG 1.0 (2005),,"<=1/500,000",0.7,0.51,Precinct optical scanner/tabulator for paper ballots (polling place).
+391,51,ES&S,DS200,1862,Hand-Fed Optical Scanner,15.0,Windows,VVSG 1.0 (2005),Highspeed,"<=1/500,000",0.75,0.57,Precinct optical scanner/tabulator for paper ballots (polling place).
+392,51,ES&S,DS300,132,Hand-Fed Optical Scanner,,Windows,VVSG 1.0 (2005),,"<=1/500,000",0.7,0.57,Precinct optical scanner/tabulator for paper ballots (polling place).
+393,51,ES&S,DS450,5,Batch-Fed Optical Scanner,9.0,Windows,VVSG 1.0 (2005),72 ballots/minute,"<=1/500,000",0.85,0.64,central-count batch optical scanner for absentee/mail paper ballots.
+394,51,ES&S,DS850,2,Batch-Fed Optical Scanner,13.0,Windows,VVSG 1.0 (2005),300 ballots/min,"<=1/500,000",0.75,0.64,central-count batch optical scanner for absentee/mail paper ballots.
+395,51,ES&S,ExpressVote,1699,BMD,11.0,Windows,VVSG 1.0 (2005),,"<=1/500,000",0.85,0.62,Accessible ballot-marking device that prints a marked paper ballot.
+396,51,Hart InterCivic,Verity Central,5,Batch-Fed Optical Scanner,,,,,,0.95,0.69,central-count batch optical scanner for absentee/mail paper ballots.
+397,51,Hart InterCivic,Verity Scan,586,Hand-Fed Optical Scanner,,,,,,0.95,0.79,Precinct optical scanner/tabulator for paper ballots (polling place).
+398,51,Hart InterCivic,Verity Touch Writer,413,BMD,,,,,,0.95,0.73,Accessible ballot-marking device that prints a marked paper ballot.
+399,51,Unisyn,Freedom Vote Scan (FVS),349,Hand-Fed Optical Scanner,,,,,,1.0,0.85,Precinct optical scanner/tabulator for paper ballots (polling place).
+400,51,Unisyn,Freedom Vote Tablet (FVT),130,BMD,,,,,,1.0,0.86,Accessible ballot-marking device that prints a marked paper ballot.
+401,51,Unisyn,OpenElect (OVCS),5,,,,,,,,,nan voting equipment.
+402,51,Unisyn,OpenElect OVI,453,BMD,,,,,,0.95,0.77,Accessible ballot-marking device that prints a marked paper ballot.
+403,51,Unisyn,OpenElect OVO,414,Hand-Fed Optical Scanner,,,,,,0.95,0.8,Precinct optical scanner/tabulator for paper ballots (polling place).
+404,53,Clear Ballot,ClearAccess,48,BMD,,,VVSG 1.0 (2005),,"<=1/500,000",1.0,0.79,Accessible ballot-marking device that prints a marked paper ballot.
+405,53,Clear Ballot,ClearCount,47,Batch-Fed Optical Scanner,,,VVSG 1.0 (2005),,"<=1/500,000",1.0,0.77,central-count batch optical scanner for absentee/mail paper ballots.
+406,53,Dominion,ImageCast Central,2,Batch-Fed Optical Scanner,14.0,Windows,VVSG 1.0 (2005),High-speed,"<=1/500,000",0.75,0.57,High-speed central-count batch optical scanner for absentee/mail paper ballots.
+407,53,Dominion,ImageCast X,1,BMD,12.0,Android,VVSG 1.0 (2005),,"<=1/500,000",0.75,0.67,Accessible ballot-marking device that prints a marked paper ballot.
+408,53,ES&S,DS450,2,Batch-Fed Optical Scanner,9.0,Windows,VVSG 1.0 (2005),72 ballots/minute,"<=1/500,000",0.85,0.64,central-count batch optical scanner for absentee/mail paper ballots.
+409,53,ES&S,DS850,4,Batch-Fed Optical Scanner,13.0,Windows,VVSG 1.0 (2005),300 ballots/min,"<=1/500,000",0.75,0.64,central-count batch optical scanner for absentee/mail paper ballots.
+410,53,ES&S,DS950,2,Batch-Fed Optical Scanner,,,(VVSG) 2.0,280 ballots/minute,"<=1/1,670,000",0.7,0.66,central-count batch optical scanner for absentee/mail paper ballots.
+411,53,ES&S,ExpressVote,12,BMD,11.0,Windows,VVSG 1.0 (2005),,"<=1/500,000",0.85,0.62,Accessible ballot-marking device that prints a marked paper ballot.
+412,53,ES&S,ExpressVote XL,9,BMD/Tabulator,,Windows,VVSG 1.0 (2005),,"<=1/500,000",0.7,0.58,Hybrid polling-place device for ballot marking and paper-ballot scanning/tabulation.
+413,53,Hart InterCivic,Verity Central,28,Batch-Fed Optical Scanner,,,,,,0.95,0.69,central-count batch optical scanner for absentee/mail paper ballots.
+414,53,Hart InterCivic,Verity Touch Writer,24,BMD,,,,,,0.95,0.73,Accessible ballot-marking device that prints a marked paper ballot.
+415,54,ES&S,DS200,1575,Hand-Fed Optical Scanner,15.0,Windows,VVSG 1.0 (2005),Highspeed,"<=1/500,000",0.75,0.57,Precinct optical scanner/tabulator for paper ballots (polling place).
+416,54,ES&S,DS450,3,Batch-Fed Optical Scanner,9.0,Windows,VVSG 1.0 (2005),72 ballots/minute,"<=1/500,000",0.85,0.64,central-count batch optical scanner for absentee/mail paper ballots.
+417,54,ES&S,DS850,1,Batch-Fed Optical Scanner,13.0,Windows,VVSG 1.0 (2005),300 ballots/min,"<=1/500,000",0.75,0.64,central-count batch optical scanner for absentee/mail paper ballots.
+418,54,ES&S,ExpressVote,5971,BMD,11.0,Windows,VVSG 1.0 (2005),,"<=1/500,000",0.85,0.62,Accessible ballot-marking device that prints a marked paper ballot.
+419,54,ES&S,M650,1,,,,,,,,,nan voting equipment.
+420,55,Clear Ballot,ClearAccess,0,BMD,,,VVSG 1.0 (2005),,"<=1/500,000",1.0,0.79,Accessible ballot-marking device that prints a marked paper ballot.
+421,55,Clear Ballot,ClearCast,0,Hand-Fed Optical Scanner,,,VVSG 1.0 (2005),,"<=1/500,000",1.0,0.71,Precinct optical scanner/tabulator for paper ballots (polling place).
+422,55,Dominion,ImageCast X,0,BMD,12.0,Android,VVSG 1.0 (2005),,"<=1/500,000",0.75,0.67,Accessible ballot-marking device that prints a marked paper ballot.
+423,55,Dominion,ImageCast X as DRE,0,DRE Touchscreen,,,,,,0.95,0.83,Touchscreen DRE voting machine.
+424,55,ES&S,DS200,0,Hand-Fed Optical Scanner,15.0,Windows,VVSG 1.0 (2005),Highspeed,"<=1/500,000",0.75,0.57,Precinct optical scanner/tabulator for paper ballots (polling place).
+425,55,ES&S,DS450,0,Batch-Fed Optical Scanner,9.0,Windows,VVSG 1.0 (2005),72 ballots/minute,"<=1/500,000",0.85,0.64,central-count batch optical scanner for absentee/mail paper ballots.
+426,55,ES&S,DS850,0,Batch-Fed Optical Scanner,13.0,Windows,VVSG 1.0 (2005),300 ballots/min,"<=1/500,000",0.75,0.64,central-count batch optical scanner for absentee/mail paper ballots.
+427,56,ES&S,DS200,383,Hand-Fed Optical Scanner,15.0,Windows,VVSG 1.0 (2005),Highspeed,"<=1/500,000",0.75,0.57,Precinct optical scanner/tabulator for paper ballots (polling place).
+428,56,ES&S,DS450,10,Batch-Fed Optical Scanner,9.0,Windows,VVSG 1.0 (2005),72 ballots/minute,"<=1/500,000",0.85,0.64,central-count batch optical scanner for absentee/mail paper ballots.
+429,56,ES&S,DS850,1,Batch-Fed Optical Scanner,13.0,Windows,VVSG 1.0 (2005),300 ballots/min,"<=1/500,000",0.75,0.64,central-count batch optical scanner for absentee/mail paper ballots.
+430,56,ES&S,ExpressVote,510,BMD,11.0,Windows,VVSG 1.0 (2005),,"<=1/500,000",0.85,0.62,Accessible ballot-marking device that prints a marked paper ballot.

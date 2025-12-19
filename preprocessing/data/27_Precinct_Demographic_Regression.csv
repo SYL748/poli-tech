@@ -1,0 +1,13 @@
+,state,party,demographic,coef_a,coef_b,coef_c
+0,Alabama,Democratic,White,0.000345,-0.949716,95.698004
+1,Alabama,Republican,White,-0.00012,0.927997,3.257758
+2,Alabama,Democratic,Hispanic,0.147286,-3.577919,38.735892
+3,Alabama,Republican,Hispanic,-0.136168,3.407108,60.158556
+4,Alabama,Democratic,African American,-0.000887,0.929412,8.68537
+5,Alabama,Republican,African American,0.001088,-0.948037,90.196806
+6,Texas,Democratic,White,-0.002121,-0.288758,61.398784
+7,Texas,Republican,White,0.003543,0.191498,33.787773
+8,Texas,Democratic,Hispanic,-0.003925,0.617898,27.054722
+9,Texas,Republican,Hispanic,0.005723,-0.777148,69.918729
+10,Texas,Democratic,African American,-8.3e-05,0.626643,32.463626
+11,Texas,Republican,African American,0.002508,-0.842642,64.115405

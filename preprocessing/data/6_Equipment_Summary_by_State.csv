@@ -1,0 +1,432 @@
+,state_id,Manufacturer,Model Name,quantity,Equipment Type,Age,OS,Certification Level,Scanning Rate,Error Rate,Reliability,Quality
+0,02,Dominion,ImageCast Central,11,Batch-Fed Optical Scanner,14,Windows,VVSG 1.0 (2005),High-speed,"<=1/500,000",0.75,0.57
+1,02,Dominion,ImageCast Precinct 2,562,Hand-Fed Optical Scanner,,,VVSG 1.0 (2005),,"<=1/500,000",0.7,0.51
+2,02,Dominion,ImageCast X as DRE,145,DRE Touchscreen,,,,,,0.95,0.83
+3,04,Dominion,ImageCast Central,12,Batch-Fed Optical Scanner,14,Windows,VVSG 1.0 (2005),High-speed,"<=1/500,000",0.75,0.57
+4,04,Dominion,ImageCast Precinct 2,507,Hand-Fed Optical Scanner,,,VVSG 1.0 (2005),,"<=1/500,000",0.7,0.51
+5,04,Dominion,ImageCast X as DRE,224,DRE Touchscreen,,,,,,0.95,0.83
+6,04,ES&S,DS200,48,Hand-Fed Optical Scanner,15,Windows,VVSG 1.0 (2005),Highspeed,"<=1/500,000",0.75,0.57
+7,04,ES&S,DS300,1,Hand-Fed Optical Scanner,,Windows,VVSG 1.0 (2005),,"<=1/500,000",0.7,0.57
+8,04,ES&S,DS450,10,Batch-Fed Optical Scanner,9,Windows,VVSG 1.0 (2005),72 ballots/minute,"<=1/500,000",0.85,0.64
+9,04,ES&S,DS850,15,Batch-Fed Optical Scanner,13,Windows,VVSG 1.0 (2005),300 ballots/min,"<=1/500,000",0.75,0.64
+10,04,ES&S,DS950,7,Batch-Fed Optical Scanner,,,(VVSG) 2.0,280 ballots/minute,"<=1/1,670,000",0.7,0.66
+11,04,ES&S,ExpressTouch,18,DRE Touchscreen,,Windows,VVSG 1.0 (2005),,"<=1/500,000",0.7,0.58
+12,04,ES&S,ExpressVote,910,BMD,11,Windows,VVSG 1.0 (2005),,"<=1/500,000",0.85,0.62
+13,04,ES&S,ExpressVote XL,3,BMD/Tabulator,,Windows,VVSG 1.0 (2005),,"<=1/500,000",0.7,0.58
+14,04,Unisyn,Freedom Vote Tablet (FVT),47,BMD,,,,,,1.0,0.86
+15,04,Unisyn,OpenElect (OVCS),4,,,,,,,,
+16,05,ES&S,DS200,1087,Hand-Fed Optical Scanner,15,Windows,VVSG 1.0 (2005),Highspeed,"<=1/500,000",0.75,0.57
+17,05,ES&S,DS450,3,Batch-Fed Optical Scanner,9,Windows,VVSG 1.0 (2005),72 ballots/minute,"<=1/500,000",0.85,0.64
+18,05,ES&S,ExpressVote,4584,BMD,11,Windows,VVSG 1.0 (2005),,"<=1/500,000",0.85,0.62
+19,05,ES&S,iVotronic,318,DRE Touchscreen,,,,,,0.65,0.3
+20,06,Avalue,SLD-21V-237-B1R,603,,,,,,,,
+21,06,Dominion,Democracy Suite 5.10-A,16,,,,,,,,
+22,06,Dominion,ImageCast Central,210,Batch-Fed Optical Scanner,14,Windows,VVSG 1.0 (2005),High-speed,"<=1/500,000",0.75,0.57
+23,06,Dominion,ImageCast Evolution,136,Hybrid Optical Scanner/BMD,14,Windows,VVSG 1.0 (2005),,"<=1/500,000",0.75,0.57
+24,06,Dominion,ImageCast Precinct 2,425,Hand-Fed Optical Scanner,,,VVSG 1.0 (2005),,"<=1/500,000",0.7,0.51
+25,06,Dominion,ImageCast X,9114,BMD,12,Android,VVSG 1.0 (2005),,"<=1/500,000",0.75,0.67
+26,06,ES&S,DS200,13,Hand-Fed Optical Scanner,15,Windows,VVSG 1.0 (2005),Highspeed,"<=1/500,000",0.75,0.57
+27,06,ES&S,DS300,28,Hand-Fed Optical Scanner,,Windows,VVSG 1.0 (2005),,"<=1/500,000",0.7,0.57
+28,06,ES&S,DS450,4,Batch-Fed Optical Scanner,9,Windows,VVSG 1.0 (2005),72 ballots/minute,"<=1/500,000",0.85,0.64
+29,06,ES&S,DS950,0,Batch-Fed Optical Scanner,,,(VVSG) 2.0,280 ballots/minute,"<=1/1,670,000",0.7,0.66
+30,06,ES&S,ExpressVote,72,BMD,11,Windows,VVSG 1.0 (2005),,"<=1/500,000",0.85,0.62
+31,06,Hart InterCivic,Verity Central,54,Batch-Fed Optical Scanner,,,,,,0.95,0.69
+32,06,Hart InterCivic,Verity Scan,654,Hand-Fed Optical Scanner,,,,,,0.95,0.79
+33,06,Hart InterCivic,Verity Touch Writer,1175,BMD,,,,,,0.95,0.73
+34,06,Smartmatic/Los Angeles County,IBML,22,,,,,,,,
+35,06,Smartmatic/Los Angeles County,VSAP BMD,11144,BMD,,,,,,0.95,0.45
+36,08,Clear Ballot,ClearAccess,79,BMD,,,VVSG 1.0 (2005),,"<=1/500,000",1.0,0.79
+37,08,Clear Ballot,ClearCount,10,Batch-Fed Optical Scanner,,,VVSG 1.0 (2005),,"<=1/500,000",1.0,0.77
+38,08,Dominion,ImageCast Central,172,Batch-Fed Optical Scanner,14,Windows,VVSG 1.0 (2005),High-speed,"<=1/500,000",0.75,0.57
+39,08,Dominion,ImageCast X,1466,BMD,12,Android,VVSG 1.0 (2005),,"<=1/500,000",0.75,0.67
+40,09,IVS,Inspire Ballot Marking Device,718,BMD,,,,,,0.95,0.77
+41,09,Premier Election Solutions (Diebold),AccuVote OS,1436,Hand-Fed Optical Scanner,,,,,,0.95,0.44
+42,10,ES&S,DS450,10,Batch-Fed Optical Scanner,9,Windows,VVSG 1.0 (2005),72 ballots/minute,"<=1/500,000",0.85,0.64
+43,10,ES&S,ExpressVote XL,1353,BMD/Tabulator,,Windows,VVSG 1.0 (2005),,"<=1/500,000",0.7,0.58
+44,11,ES&S,DS200,103,Hand-Fed Optical Scanner,15,Windows,VVSG 1.0 (2005),Highspeed,"<=1/500,000",0.75,0.57
+45,11,ES&S,ExpressVote,337,BMD,11,Windows,VVSG 1.0 (2005),,"<=1/500,000",0.85,0.62
+46,12,Clear Ballot,ClearCount,6,Batch-Fed Optical Scanner,,,VVSG 1.0 (2005),,"<=1/500,000",1.0,0.77
+47,12,Dominion,ImageCast Central,18,Batch-Fed Optical Scanner,14,Windows,VVSG 1.0 (2005),High-speed,"<=1/500,000",0.75,0.57
+48,12,Dominion,ImageCast Evolution,1113,Hybrid Optical Scanner/BMD,14,Windows,VVSG 1.0 (2005),,"<=1/500,000",0.75,0.57
+49,12,ES&S,DS200,5205,Hand-Fed Optical Scanner,15,Windows,VVSG 1.0 (2005),Highspeed,"<=1/500,000",0.75,0.57
+50,12,ES&S,DS300,2275,Hand-Fed Optical Scanner,,Windows,VVSG 1.0 (2005),,"<=1/500,000",0.7,0.57
+51,12,ES&S,DS450,8,Batch-Fed Optical Scanner,9,Windows,VVSG 1.0 (2005),72 ballots/minute,"<=1/500,000",0.85,0.64
+52,12,ES&S,DS850,64,Batch-Fed Optical Scanner,13,Windows,VVSG 1.0 (2005),300 ballots/min,"<=1/500,000",0.75,0.64
+53,12,ES&S,DS950,37,Batch-Fed Optical Scanner,,,(VVSG) 2.0,280 ballots/minute,"<=1/1,670,000",0.7,0.66
+54,12,ES&S,ExpressVote,5148,BMD,11,Windows,VVSG 1.0 (2005),,"<=1/500,000",0.85,0.62
+55,12,ES&S,ExpressVote XL,8,BMD/Tabulator,,Windows,VVSG 1.0 (2005),,"<=1/500,000",0.7,0.58
+56,13,Dominion,ImageCast Central,172,Batch-Fed Optical Scanner,14,Windows,VVSG 1.0 (2005),High-speed,"<=1/500,000",0.75,0.57
+57,13,Dominion,ImageCast Precinct,2601,Hand-Fed Optical Scanner,14,,VVSG 1.0 (2005),,"<=1/500,000",0.75,0.51
+58,13,Dominion,ImageCast X,19441,BMD,12,Android,VVSG 1.0 (2005),,"<=1/500,000",0.75,0.67
+59,15,Hart InterCivic,Verity Central,13,Batch-Fed Optical Scanner,,,,,,0.95,0.69
+60,15,Hart InterCivic,Verity Scan,33,Hand-Fed Optical Scanner,,,,,,0.95,0.79
+61,15,Hart InterCivic,Verity Touch Writer,62,BMD,,,,,,0.95,0.73
+62,16,ES&S,DS200,179,Hand-Fed Optical Scanner,15,Windows,VVSG 1.0 (2005),Highspeed,"<=1/500,000",0.75,0.57
+63,16,ES&S,DS300,48,Hand-Fed Optical Scanner,,Windows,VVSG 1.0 (2005),,"<=1/500,000",0.7,0.57
+64,16,ES&S,DS450,9,Batch-Fed Optical Scanner,9,Windows,VVSG 1.0 (2005),72 ballots/minute,"<=1/500,000",0.85,0.64
+65,16,ES&S,DS850,4,Batch-Fed Optical Scanner,13,Windows,VVSG 1.0 (2005),300 ballots/min,"<=1/500,000",0.75,0.64
+66,16,ES&S,ExpressVote,571,BMD,11,Windows,VVSG 1.0 (2005),,"<=1/500,000",0.85,0.62
+67,16,Hart InterCivic,Verity Central,5,Batch-Fed Optical Scanner,,,,,,0.95,0.69
+68,16,Hart InterCivic,Verity Scan,479,Hand-Fed Optical Scanner,,,,,,0.95,0.79
+69,16,Hart InterCivic,Verity Touch Writer,667,BMD,,,,,,0.95,0.73
+70,17,Dominion,AutoMARK,113,,,,,,,,
+71,17,Dominion,ImageCast Precinct,1408,Hand-Fed Optical Scanner,14,,VVSG 1.0 (2005),,"<=1/500,000",0.75,0.51
+72,17,Dominion,ImageCast Precinct 2,1500,Hand-Fed Optical Scanner,,,VVSG 1.0 (2005),,"<=1/500,000",0.7,0.51
+73,17,Dominion,ImageCast X,5285,BMD,12,Android,VVSG 1.0 (2005),,"<=1/500,000",0.75,0.67
+74,17,ES&S,DS200,1622,Hand-Fed Optical Scanner,15,Windows,VVSG 1.0 (2005),Highspeed,"<=1/500,000",0.75,0.57
+75,17,ES&S,DS450,3,Batch-Fed Optical Scanner,9,Windows,VVSG 1.0 (2005),72 ballots/minute,"<=1/500,000",0.85,0.64
+76,17,ES&S,DS850,1,Batch-Fed Optical Scanner,13,Windows,VVSG 1.0 (2005),300 ballots/min,"<=1/500,000",0.75,0.64
+77,17,ES&S,ExpressVote,2069,BMD,11,Windows,VVSG 1.0 (2005),,"<=1/500,000",0.85,0.62
+78,17,ES&S,M100,49,,,,,,,,
+79,17,Hart InterCivic,Veracity,71,,,,,,,,
+80,17,Hart InterCivic,Verity 2.7,1275,,,,,,,,
+81,17,Hart InterCivic,Verity Scan,2361,Hand-Fed Optical Scanner,,,,,,0.95,0.79
+82,17,Hart InterCivic,Verity Touch Writer,1023,BMD,,,,,,0.95,0.73
+83,17,Premier Election Solutions (Diebold),AccuVote OS,68,Hand-Fed Optical Scanner,,,,,,0.95,0.44
+84,17,Premier Election Solutions (Diebold),AccuVote TSX,34,DRE Touchscreen,,,,,,0.7,0.34
+85,17,Premier Election Solutions (Diebold),TSX,72,,,,,,,,
+86,17,Unisyn,AccuVote,31,,,,,,,,
+87,17,Unisyn,Freedom Vote Tablet (FVT),1004,BMD,,,,,,1.0,0.86
+88,17,Unisyn,OpenElect OVI,29,BMD,,,,,,0.95,0.77
+89,17,Unisyn,OpenElect OVO,684,Hand-Fed Optical Scanner,,,,,,0.95,0.8
+90,18,Dominion,AutoMARK,62,,,,,,,,
+91,18,ES&S,DS200,774,Hand-Fed Optical Scanner,15,Windows,VVSG 1.0 (2005),Highspeed,"<=1/500,000",0.75,0.57
+92,18,ES&S,ExpressVote,3399,BMD,11,Windows,VVSG 1.0 (2005),,"<=1/500,000",0.85,0.62
+93,18,ES&S,M100,20,,,,,,,,
+94,18,Hart,InterCivic,178,,,,,,,,
+95,18,Hart InterCivic,Verity Duo,43,BMD,,,,,,1.0,0.55
+96,18,Hart InterCivic,Verity Scan,111,Hand-Fed Optical Scanner,,,,,,0.95,0.79
+97,18,Hart InterCivic,Verity Touch Writer,68,BMD,,,,,,0.95,0.73
+98,18,Hart InterCivic,Verity Voting 2.5,300,,,,,,,,
+99,18,MicroVote,Chatsworth ACP,66,,,,,,,,
+100,18,MicroVote,EMS,7771,,,,,,,,
+101,18,Unisyn,Freedom Vote Scan (FVS),43,Hand-Fed Optical Scanner,,,,,,1.0,0.85
+102,18,Unisyn,Freedom Vote Tablet (FVT),1507,BMD,,,,,,1.0,0.86
+103,18,Unisyn,OpenElect OVO,152,Hand-Fed Optical Scanner,,,,,,0.95,0.8
+104,21,ES&S,DS200,932,Hand-Fed Optical Scanner,15,Windows,VVSG 1.0 (2005),Highspeed,"<=1/500,000",0.75,0.57
+105,21,ES&S,DS300,5,Hand-Fed Optical Scanner,,Windows,VVSG 1.0 (2005),,"<=1/500,000",0.7,0.57
+106,21,ES&S,DS450,3,Batch-Fed Optical Scanner,9,Windows,VVSG 1.0 (2005),72 ballots/minute,"<=1/500,000",0.85,0.64
+107,21,ES&S,ExpressVote,1499,BMD,11,Windows,VVSG 1.0 (2005),,"<=1/500,000",0.85,0.62
+108,21,Hart,InterCivic,3,,,,,,,,
+109,21,Hart InterCivic,Verity Duo,565,BMD,,,,,,1.0,0.55
+110,21,Hart InterCivic,Verity Scan,2150,Hand-Fed Optical Scanner,,,,,,0.95,0.79
+111,21,Hart InterCivic,Verity Touch Writer,741,BMD,,,,,,0.95,0.73
+112,21,Hart InterCivic,eScan,5,Hand-Fed Optical Scanner,,,,,,0.95,0.83
+113,22,Canon,DR-G2140,1,,,,,,,,
+114,22,Canon,DR-G2141,1,,,,,,,,
+115,22,Canon,DR-G2142,1,,,,,,,,
+116,22,Canon,DR-G2143,1,,,,,,,,
+117,22,Canon,DR-G2144,1,,,,,,,,
+118,22,Canon,DR-G2145,1,,,,,,,,
+119,22,Canon,DR-G2146,1,,,,,,,,
+120,22,Canon,DR-G2147,1,,,,,,,,
+121,22,Canon,DR-G2148,3,,,,,,,,
+122,22,Canon,DR-G2149,1,,,,,,,,
+123,22,Canon,DR-G2150,1,,,,,,,,
+124,22,Canon,DR-G2151,1,,,,,,,,
+125,22,Canon,DR-G2152,1,,,,,,,,
+126,22,Canon,DR-G2153,1,,,,,,,,
+127,22,Canon,DR-G2154,1,,,,,,,,
+128,22,Canon,DR-G2155,1,,,,,,,,
+129,22,Canon,DR-G2156,3,,,,,,,,
+130,22,Canon,DR-G2157,1,,,,,,,,
+131,22,Canon,DR-G2158,1,,,,,,,,
+132,22,Canon,DR-G2159,1,,,,,,,,
+133,22,Canon,DR-G2160,1,,,,,,,,
+134,22,Canon,DR-G2161,1,,,,,,,,
+135,22,Canon,DR-G2162,1,,,,,,,,
+136,22,Canon,DR-G2163,1,,,,,,,,
+137,22,Canon,DR-G2164,1,,,,,,,,
+138,22,Canon,DR-G2165,3,,,,,,,,
+139,22,Canon,DR-G2166,1,,,,,,,,
+140,22,Canon,DR-G2167,2,,,,,,,,
+141,22,Canon,DR-G2168,1,,,,,,,,
+142,22,Canon,DR-G2169,1,,,,,,,,
+143,22,Canon,DR-G2170,1,,,,,,,,
+144,22,Canon,DR-G2171,1,,,,,,,,
+145,22,Canon,DR-G2172,1,,,,,,,,
+146,22,Canon,DR-G2173,1,,,,,,,,
+147,22,Canon,DR-G2174,1,,,,,,,,
+148,22,Canon,DR-G2175,3,,,,,,,,
+149,22,Canon,DR-G2176,2,,,,,,,,
+150,22,Canon,DR-G2177,1,,,,,,,,
+151,22,Canon,DR-G2178,1,,,,,,,,
+152,22,Canon,DR-G2179,1,,,,,,,,
+153,22,Canon,DR-G2180,1,,,,,,,,
+154,22,Canon,DR-G2181,1,,,,,,,,
+155,22,Canon,DR-G2182,1,,,,,,,,
+156,22,Canon,DR-G2183,1,,,,,,,,
+157,22,Canon,DR-G2184,1,,,,,,,,
+158,22,Canon,DR-G2185,1,,,,,,,,
+159,22,Canon,DR-G2186,1,,,,,,,,
+160,22,Canon,DR-G2187,1,,,,,,,,
+161,22,Canon,DR-G2188,2,,,,,,,,
+162,22,Canon,DR-G2189,1,,,,,,,,
+163,22,Canon,DR-G2190,1,,,,,,,,
+164,22,Canon,DR-G2191,2,,,,,,,,
+165,22,Canon,DR-G2192,1,,,,,,,,
+166,22,Canon,DR-G2193,1,,,,,,,,
+167,22,Canon,DR-G2194,2,,,,,,,,
+168,22,Canon,DR-G2195,1,,,,,,,,
+169,22,Canon,DR-G2196,1,,,,,,,,
+170,22,Canon,DR-G2197,1,,,,,,,,
+171,22,Canon,DR-G2198,1,,,,,,,,
+172,22,Canon,DR-G2199,1,,,,,,,,
+173,22,Canon,DR-G2200,1,,,,,,,,
+174,22,Canon,DR-G2201,1,,,,,,,,
+175,22,Canon,DR-G2202,1,,,,,,,,
+176,22,Canon,DR-G2203,1,,,,,,,,
+177,22,Dominion,ImageCast X as DRE,801,DRE Touchscreen,,,,,,0.95,0.83
+178,22,Sequoia Voting Systems,AV,8734,,,,,,,,
+179,23,ES&S,DS200,600,Hand-Fed Optical Scanner,15,Windows,VVSG 1.0 (2005),Highspeed,"<=1/500,000",0.75,0.57
+180,23,ES&S,ExpressVote,516,BMD,11,Windows,VVSG 1.0 (2005),,"<=1/500,000",0.85,0.62
+181,24,ES&S,DS200,0,Hand-Fed Optical Scanner,15,Windows,VVSG 1.0 (2005),Highspeed,"<=1/500,000",0.75,0.57
+182,24,ES&S,DS850,0,Batch-Fed Optical Scanner,13,Windows,VVSG 1.0 (2005),300 ballots/min,"<=1/500,000",0.75,0.64
+183,24,ES&S,ExpressVote,6104,BMD,11,Windows,VVSG 1.0 (2005),,"<=1/500,000",0.85,0.62
+184,25,Dominion,AutoMARK,1671,,,,,,,,
+185,25,Dominion,ImageCast Central,55,Batch-Fed Optical Scanner,14,Windows,VVSG 1.0 (2005),High-speed,"<=1/500,000",0.75,0.57
+186,25,Dominion,ImageCast Precinct,1789,Hand-Fed Optical Scanner,14,,VVSG 1.0 (2005),,"<=1/500,000",0.75,0.51
+187,25,Dominion,ImageCast Precinct 2,534,Hand-Fed Optical Scanner,,,VVSG 1.0 (2005),,"<=1/500,000",0.7,0.51
+188,25,ES&S,DS200,528,Hand-Fed Optical Scanner,15,Windows,VVSG 1.0 (2005),Highspeed,"<=1/500,000",0.75,0.57
+189,25,ES&S,DS450,6,Batch-Fed Optical Scanner,9,Windows,VVSG 1.0 (2005),72 ballots/minute,"<=1/500,000",0.85,0.64
+190,25,ES&S,DS850,1,Batch-Fed Optical Scanner,13,Windows,VVSG 1.0 (2005),300 ballots/min,"<=1/500,000",0.75,0.64
+191,25,Premier Election Solutions (Diebold),AccuVote OS,53,Hand-Fed Optical Scanner,,,,,,0.95,0.44
+192,26,Dominion,ImageCast Precinct,0,Hand-Fed Optical Scanner,14,,VVSG 1.0 (2005),,"<=1/500,000",0.75,0.51
+193,26,Dominion,ImageCast X,2632,BMD,12,Android,VVSG 1.0 (2005),,"<=1/500,000",0.75,0.67
+194,26,ES&S,DS200,0,Hand-Fed Optical Scanner,15,Windows,VVSG 1.0 (2005),Highspeed,"<=1/500,000",0.75,0.57
+195,26,ES&S,ExpressVote,551,BMD,11,Windows,VVSG 1.0 (2005),,"<=1/500,000",0.85,0.62
+196,26,Hart InterCivic,Verity Scan,0,Hand-Fed Optical Scanner,,,,,,0.95,0.79
+197,26,Hart InterCivic,Verity Touch Writer,1157,BMD,,,,,,0.95,0.73
+198,27,Democracy Live,OmniBallot Tablet,1911,BMD,,Windows 10 IoT Enterprise,,,,0.7,0.45
+199,27,Dominion,AutoMARK,459,,,,,,,,
+200,27,Dominion,ImageCast Evolution,580,Hybrid Optical Scanner/BMD,14,Windows,VVSG 1.0 (2005),,"<=1/500,000",0.75,0.57
+201,27,ES&S,DS200,2423,Hand-Fed Optical Scanner,15,Windows,VVSG 1.0 (2005),Highspeed,"<=1/500,000",0.75,0.57
+202,27,ES&S,DS450,29,Batch-Fed Optical Scanner,9,Windows,VVSG 1.0 (2005),72 ballots/minute,"<=1/500,000",0.85,0.64
+203,27,ES&S,DS850,5,Batch-Fed Optical Scanner,13,Windows,VVSG 1.0 (2005),300 ballots/min,"<=1/500,000",0.75,0.64
+204,27,ES&S,DS950,11,Batch-Fed Optical Scanner,,,(VVSG) 2.0,280 ballots/minute,"<=1/1,670,000",0.7,0.66
+205,27,ES&S,ExpressVote,120,BMD,11,Windows,VVSG 1.0 (2005),,"<=1/500,000",0.85,0.62
+206,27,Hart InterCivic,Verity Central,12,Batch-Fed Optical Scanner,,,,,,0.95,0.69
+207,27,Hart InterCivic,Verity Scan,196,Hand-Fed Optical Scanner,,,,,,0.95,0.79
+208,27,Hart InterCivic,Verity Touch Writer,186,BMD,,,,,,0.95,0.73
+209,28,ES&S,DS200,0,Hand-Fed Optical Scanner,15,Windows,VVSG 1.0 (2005),Highspeed,"<=1/500,000",0.75,0.57
+210,28,ES&S,ExpressVote,0,BMD,11,Windows,VVSG 1.0 (2005),,"<=1/500,000",0.85,0.62
+211,28,Hart InterCivic,Verity Scan,0,Hand-Fed Optical Scanner,,,,,,0.95,0.79
+212,28,Hart InterCivic,Verity Touch Writer,0,BMD,,,,,,0.95,0.73
+213,28,VotingWorks,Unknown,0,,,,,,,,
+214,29,Dominion,ImageCast Precinct,359,Hand-Fed Optical Scanner,14,,VVSG 1.0 (2005),,"<=1/500,000",0.75,0.51
+215,29,Dominion,ImageCast X,231,BMD,12,Android,VVSG 1.0 (2005),,"<=1/500,000",0.75,0.67
+216,29,ES&S,DS200,333,Hand-Fed Optical Scanner,15,Windows,VVSG 1.0 (2005),Highspeed,"<=1/500,000",0.75,0.57
+217,29,ES&S,DS300,113,Hand-Fed Optical Scanner,,Windows,VVSG 1.0 (2005),,"<=1/500,000",0.7,0.57
+218,29,ES&S,DS450,7,Batch-Fed Optical Scanner,9,Windows,VVSG 1.0 (2005),72 ballots/minute,"<=1/500,000",0.85,0.64
+219,29,ES&S,ExpressVote,632,BMD,11,Windows,VVSG 1.0 (2005),,"<=1/500,000",0.85,0.62
+220,29,Hart InterCivic,Verity Scan,573,Hand-Fed Optical Scanner,,,,,,0.95,0.79
+221,29,Hart InterCivic,Verity Touch Writer,297,BMD,,,,,,0.95,0.73
+222,29,Unisyn,Freedom Vote Scan (FVS),699,Hand-Fed Optical Scanner,,,,,,1.0,0.85
+223,29,Unisyn,Freedom Vote Tablet (FVT),868,BMD,,,,,,1.0,0.86
+224,29,Unisyn,OpenElect (OVCS),1,,,,,,,,
+225,29,Unisyn,OpenElect OVI,261,BMD,,,,,,0.95,0.77
+226,29,Unisyn,OpenElect OVO,556,Hand-Fed Optical Scanner,,,,,,0.95,0.8
+227,30,ES&S,DS200,82,Hand-Fed Optical Scanner,15,Windows,VVSG 1.0 (2005),Highspeed,"<=1/500,000",0.75,0.57
+228,30,ES&S,DS300,17,Hand-Fed Optical Scanner,,Windows,VVSG 1.0 (2005),,"<=1/500,000",0.7,0.57
+229,30,ES&S,DS450,16,Batch-Fed Optical Scanner,9,Windows,VVSG 1.0 (2005),72 ballots/minute,"<=1/500,000",0.85,0.64
+230,30,ES&S,DS850,22,Batch-Fed Optical Scanner,13,Windows,VVSG 1.0 (2005),300 ballots/min,"<=1/500,000",0.75,0.64
+231,30,ES&S,DS950,4,Batch-Fed Optical Scanner,,,(VVSG) 2.0,280 ballots/minute,"<=1/1,670,000",0.7,0.66
+232,30,ES&S,ExpressVote,367,BMD,11,Windows,VVSG 1.0 (2005),,"<=1/500,000",0.85,0.62
+233,31,ES&S,DS200,70,Hand-Fed Optical Scanner,15,Windows,VVSG 1.0 (2005),Highspeed,"<=1/500,000",0.75,0.57
+234,31,ES&S,DS450,70,Batch-Fed Optical Scanner,9,Windows,VVSG 1.0 (2005),72 ballots/minute,"<=1/500,000",0.85,0.64
+235,31,ES&S,DS850,19,Batch-Fed Optical Scanner,13,Windows,VVSG 1.0 (2005),300 ballots/min,"<=1/500,000",0.75,0.64
+236,31,ES&S,ExpressVote,1284,BMD,11,Windows,VVSG 1.0 (2005),,"<=1/500,000",0.85,0.62
+237,32,Dominion,ImageCast Central,30,Batch-Fed Optical Scanner,14,Windows,VVSG 1.0 (2005),High-speed,"<=1/500,000",0.75,0.57
+238,32,Dominion,ImageCast Precinct 2,3,Hand-Fed Optical Scanner,,,VVSG 1.0 (2005),,"<=1/500,000",0.7,0.51
+239,32,Dominion,ImageCast X,41,BMD,12,Android,VVSG 1.0 (2005),,"<=1/500,000",0.75,0.67
+240,32,Dominion,ImageCast X as DRE,5035,DRE Touchscreen,,,,,,0.95,0.83
+241,32,ES&S,DS200,6,Hand-Fed Optical Scanner,15,Windows,VVSG 1.0 (2005),Highspeed,"<=1/500,000",0.75,0.57
+242,32,ES&S,DS450,2,Batch-Fed Optical Scanner,9,Windows,VVSG 1.0 (2005),72 ballots/minute,"<=1/500,000",0.85,0.64
+243,32,ES&S,DS950,1,Batch-Fed Optical Scanner,,,(VVSG) 2.0,280 ballots/minute,"<=1/1,670,000",0.7,0.66
+244,32,ES&S,ExpressVote,80,BMD,11,Windows,VVSG 1.0 (2005),,"<=1/500,000",0.85,0.62
+245,32,InterScan,HiPro 8x1,6,,,,,,,,
+246,33,Premier Election Solutions (Diebold),AccuVote OS,265,Hand-Fed Optical Scanner,,,,,,0.95,0.44
+247,33,VotingWorks,VXSUITE 3.1.2,24,,,,,,,,
+248,34,Dominion,ImageCast Central,24,Batch-Fed Optical Scanner,14,Windows,VVSG 1.0 (2005),High-speed,"<=1/500,000",0.75,0.57
+249,34,Dominion,ImageCast X,3202,BMD,12,Android,VVSG 1.0 (2005),,"<=1/500,000",0.75,0.67
+250,34,ES&S,DS450,20,Batch-Fed Optical Scanner,9,Windows,VVSG 1.0 (2005),72 ballots/minute,"<=1/500,000",0.85,0.64
+251,34,ES&S,DS850,7,Batch-Fed Optical Scanner,13,Windows,VVSG 1.0 (2005),300 ballots/min,"<=1/500,000",0.75,0.64
+252,34,ES&S,DS950,14,Batch-Fed Optical Scanner,,,(VVSG) 2.0,280 ballots/minute,"<=1/1,670,000",0.7,0.66
+253,34,ES&S,ExpressVote,347,BMD,11,Windows,VVSG 1.0 (2005),,"<=1/500,000",0.85,0.62
+254,34,ES&S,ExpressVote XL,7612,BMD/Tabulator,,Windows,VVSG 1.0 (2005),,"<=1/500,000",0.7,0.58
+255,35,Dominion,ImageCast Central,48,Batch-Fed Optical Scanner,14,Windows,VVSG 1.0 (2005),High-speed,"<=1/500,000",0.75,0.57
+256,35,Dominion,ImageCast Evolution,1527,Hybrid Optical Scanner/BMD,14,Windows,VVSG 1.0 (2005),,"<=1/500,000",0.75,0.57
+257,36,Clear Ballot,ClearCast,951,Hand-Fed Optical Scanner,,,VVSG 1.0 (2005),,"<=1/500,000",1.0,0.71
+258,36,Clear Ballot,ClearMark,681,BMD,,,NYSBOE (2023),,,1.0,0.72
+259,36,Dominion,AutoMARK,2161,,,,,,,,
+260,36,Dominion,ImageCast Evolution,5923,Hybrid Optical Scanner/BMD,14,Windows,VVSG 1.0 (2005),,"<=1/500,000",0.75,0.57
+261,36,Dominion,ImageCast Precinct,115,Hand-Fed Optical Scanner,14,,VVSG 1.0 (2005),,"<=1/500,000",0.75,0.51
+262,36,Dominion,ImageCast Precinct 2,24,Hand-Fed Optical Scanner,,,VVSG 1.0 (2005),,"<=1/500,000",0.7,0.51
+263,36,ES&S,DS200,5579,Hand-Fed Optical Scanner,15,Windows,VVSG 1.0 (2005),Highspeed,"<=1/500,000",0.75,0.57
+264,36,ES&S,DS300,276,Hand-Fed Optical Scanner,,Windows,VVSG 1.0 (2005),,"<=1/500,000",0.7,0.57
+265,36,Hart InterCivic,Verity Scan,263,Hand-Fed Optical Scanner,,,,,,0.95,0.79
+266,36,Hart InterCivic,Verity Touch Writer,202,BMD,,,,,,0.95,0.73
+267,37,Dominion,AutoMARK,604,,,,,,,,
+268,37,ES&S,DS200,3165,Hand-Fed Optical Scanner,15,Windows,VVSG 1.0 (2005),Highspeed,"<=1/500,000",0.75,0.57
+269,37,ES&S,DS300,93,Hand-Fed Optical Scanner,,Windows,VVSG 1.0 (2005),,"<=1/500,000",0.7,0.57
+270,37,ES&S,DS450,28,Batch-Fed Optical Scanner,9,Windows,VVSG 1.0 (2005),72 ballots/minute,"<=1/500,000",0.85,0.64
+271,37,ES&S,DS850,33,Batch-Fed Optical Scanner,13,Windows,VVSG 1.0 (2005),300 ballots/min,"<=1/500,000",0.75,0.64
+272,37,ES&S,ExpressVote,5406,BMD,11,Windows,VVSG 1.0 (2005),,"<=1/500,000",0.85,0.62
+273,37,ES&S,M100,43,,,,,,,,
+274,37,Hart InterCivic,Verity Central,6,Batch-Fed Optical Scanner,,,,,,0.95,0.69
+275,37,Hart InterCivic,Verity Scan,215,Hand-Fed Optical Scanner,,,,,,0.95,0.79
+276,37,Hart InterCivic,Verity Touch Writer,182,BMD,,,,,,0.95,0.73
+277,38,ES&S,DS200,453,Hand-Fed Optical Scanner,15,Windows,VVSG 1.0 (2005),Highspeed,"<=1/500,000",0.75,0.57
+278,38,ES&S,DS450,57,Batch-Fed Optical Scanner,9,Windows,VVSG 1.0 (2005),72 ballots/minute,"<=1/500,000",0.85,0.64
+279,38,ES&S,ExpressVote,429,BMD,11,Windows,VVSG 1.0 (2005),,"<=1/500,000",0.85,0.62
+280,39,Clear Ballot,ClearAccess,574,BMD,,,VVSG 1.0 (2005),,"<=1/500,000",1.0,0.79
+281,39,Clear Ballot,ClearCast,1607,Hand-Fed Optical Scanner,,,VVSG 1.0 (2005),,"<=1/500,000",1.0,0.71
+282,39,Clear Ballot,ClearCount,53,Batch-Fed Optical Scanner,,,VVSG 1.0 (2005),,"<=1/500,000",1.0,0.77
+283,39,Dominion,AutoMARK,21,,,,,,,,
+284,39,Dominion,ImageCast Central,24,Batch-Fed Optical Scanner,14,Windows,VVSG 1.0 (2005),High-speed,"<=1/500,000",0.75,0.57
+285,39,Dominion,ImageCast Evolution,40,Hybrid Optical Scanner/BMD,14,Windows,VVSG 1.0 (2005),,"<=1/500,000",0.75,0.57
+286,39,Dominion,ImageCast Precinct,116,Hand-Fed Optical Scanner,14,,VVSG 1.0 (2005),,"<=1/500,000",0.75,0.51
+287,39,Dominion,ImageCast X as DRE,5826,DRE Touchscreen,,,,,,0.95,0.83
+288,39,ES&S,DS200,2729,Hand-Fed Optical Scanner,15,Windows,VVSG 1.0 (2005),Highspeed,"<=1/500,000",0.75,0.57
+289,39,ES&S,DS300,11,Hand-Fed Optical Scanner,,Windows,VVSG 1.0 (2005),,"<=1/500,000",0.7,0.57
+290,39,ES&S,DS450,29,Batch-Fed Optical Scanner,9,Windows,VVSG 1.0 (2005),72 ballots/minute,"<=1/500,000",0.85,0.64
+291,39,ES&S,DS850,5,Batch-Fed Optical Scanner,13,Windows,VVSG 1.0 (2005),300 ballots/min,"<=1/500,000",0.75,0.64
+292,39,ES&S,DS950,4,Batch-Fed Optical Scanner,,,(VVSG) 2.0,280 ballots/minute,"<=1/1,670,000",0.7,0.66
+293,39,ES&S,ExpressVote,10560,BMD,11,Windows,VVSG 1.0 (2005),,"<=1/500,000",0.85,0.62
+294,39,ES&S,ExpressVote XL,11,BMD/Tabulator,,Windows,VVSG 1.0 (2005),,"<=1/500,000",0.7,0.58
+295,39,Fujitsu,fi-7900,5,,,,,,,,
+296,39,Hart InterCivic,Verity Central,5,Batch-Fed Optical Scanner,,,,,,0.95,0.69
+297,39,Hart InterCivic,Verity Scan,596,Hand-Fed Optical Scanner,,,,,,0.95,0.79
+298,39,Hart InterCivic,Verity Touch Writer,313,BMD,,,,,,0.95,0.73
+299,39,Unisyn,Freedom Vote Scan (FVS),12,Hand-Fed Optical Scanner,,,,,,1.0,0.85
+300,39,Unisyn,Freedom Vote Tablet (FVT),1925,BMD,,,,,,1.0,0.86
+301,39,Unisyn,OpenElect (OVCS),45,,,,,,,,
+302,39,Unisyn,OpenElect OVI,30,BMD,,,,,,0.95,0.77
+303,39,Unisyn,OpenElect OVO,223,Hand-Fed Optical Scanner,,,,,,0.95,0.8
+304,40,Hart InterCivic,Verity Central,4,Batch-Fed Optical Scanner,,,,,,0.95,0.69
+305,40,Hart InterCivic,eScan,2067,Hand-Fed Optical Scanner,,,,,,0.95,0.83
+306,41,Clear Ballot,ClearCount,0,Batch-Fed Optical Scanner,,,VVSG 1.0 (2005),,"<=1/500,000",1.0,0.77
+307,41,ES&S,DS450,0,Batch-Fed Optical Scanner,9,Windows,VVSG 1.0 (2005),72 ballots/minute,"<=1/500,000",0.85,0.64
+308,41,ES&S,DS850,0,Batch-Fed Optical Scanner,13,Windows,VVSG 1.0 (2005),300 ballots/min,"<=1/500,000",0.75,0.64
+309,41,ES&S,M650,0,,,,,,,,
+310,41,Hart InterCivic,Verity Central,0,Batch-Fed Optical Scanner,,,,,,0.95,0.69
+311,42,Clear Ballot,ClearAccess,521,BMD,,,VVSG 1.0 (2005),,"<=1/500,000",1.0,0.79
+312,42,Clear Ballot,ClearCast,840,Hand-Fed Optical Scanner,,,VVSG 1.0 (2005),,"<=1/500,000",1.0,0.71
+313,42,Clear Ballot,ClearCount,17,Batch-Fed Optical Scanner,,,VVSG 1.0 (2005),,"<=1/500,000",1.0,0.77
+314,42,Dominion,ImageCast Central,25,Batch-Fed Optical Scanner,14,Windows,VVSG 1.0 (2005),High-speed,"<=1/500,000",0.75,0.57
+315,42,Dominion,ImageCast Precinct,1058,Hand-Fed Optical Scanner,14,,VVSG 1.0 (2005),,"<=1/500,000",0.75,0.51
+316,42,Dominion,ImageCast X,1636,BMD,12,Android,VVSG 1.0 (2005),,"<=1/500,000",0.75,0.67
+317,42,ES&S,DS200,4079,Hand-Fed Optical Scanner,15,Windows,VVSG 1.0 (2005),Highspeed,"<=1/500,000",0.75,0.57
+318,42,ES&S,DS450,37,Batch-Fed Optical Scanner,9,Windows,VVSG 1.0 (2005),72 ballots/minute,"<=1/500,000",0.85,0.64
+319,42,ES&S,DS850,11,Batch-Fed Optical Scanner,13,Windows,VVSG 1.0 (2005),300 ballots/min,"<=1/500,000",0.75,0.64
+320,42,ES&S,DS950,2,Batch-Fed Optical Scanner,,,(VVSG) 2.0,280 ballots/minute,"<=1/1,670,000",0.7,0.66
+321,42,ES&S,ExpressVote,6077,BMD,11,Windows,VVSG 1.0 (2005),,"<=1/500,000",0.85,0.62
+322,42,ES&S,ExpressVote XL,8202,BMD/Tabulator,,Windows,VVSG 1.0 (2005),,"<=1/500,000",0.7,0.58
+323,42,Hart InterCivic,Verity Central,7,Batch-Fed Optical Scanner,,,,,,0.95,0.69
+324,42,Hart InterCivic,Verity Scan,442,Hand-Fed Optical Scanner,,,,,,0.95,0.79
+325,42,Hart InterCivic,Verity Touch Writer,441,BMD,,,,,,0.95,0.73
+326,42,Unisyn,Freedom Vote Tablet (FVT),552,BMD,,,,,,1.0,0.86
+327,42,Unisyn,OpenElect (OVCS),4,,,,,,,,
+328,42,Unisyn,OpenElect OVO,128,Hand-Fed Optical Scanner,,,,,,0.95,0.8
+329,44,ES&S,DS200,590,Hand-Fed Optical Scanner,15,Windows,VVSG 1.0 (2005),Highspeed,"<=1/500,000",0.75,0.57
+330,44,ES&S,DS850,117,Batch-Fed Optical Scanner,13,Windows,VVSG 1.0 (2005),300 ballots/min,"<=1/500,000",0.75,0.64
+331,44,ES&S,ExpressVote,495,BMD,11,Windows,VVSG 1.0 (2005),,"<=1/500,000",0.85,0.62
+332,45,ES&S,DS300,3124,Hand-Fed Optical Scanner,,Windows,VVSG 1.0 (2005),,"<=1/500,000",0.7,0.57
+333,45,ES&S,DS450,21,Batch-Fed Optical Scanner,9,Windows,VVSG 1.0 (2005),72 ballots/minute,"<=1/500,000",0.85,0.64
+334,45,ES&S,DS850,1,Batch-Fed Optical Scanner,13,Windows,VVSG 1.0 (2005),300 ballots/min,"<=1/500,000",0.75,0.64
+335,45,ES&S,ExpressVote,15659,BMD,11,Windows,VVSG 1.0 (2005),,"<=1/500,000",0.85,0.62
+336,46,Dominion,AutoMARK,17,,,,,,,,
+337,46,ES&S,DS200,32,Hand-Fed Optical Scanner,15,Windows,VVSG 1.0 (2005),Highspeed,"<=1/500,000",0.75,0.57
+338,46,ES&S,DS450,25,Batch-Fed Optical Scanner,9,Windows,VVSG 1.0 (2005),72 ballots/minute,"<=1/500,000",0.85,0.64
+339,46,ES&S,DS850,14,Batch-Fed Optical Scanner,13,Windows,VVSG 1.0 (2005),300 ballots/min,"<=1/500,000",0.75,0.64
+340,46,ES&S,ExpressVote,420,BMD,11,Windows,VVSG 1.0 (2005),,"<=1/500,000",0.85,0.62
+341,47,ES&S,DS200,955,Hand-Fed Optical Scanner,15,Windows,VVSG 1.0 (2005),Highspeed,"<=1/500,000",0.75,0.57
+342,47,ES&S,DS300,117,Hand-Fed Optical Scanner,,Windows,VVSG 1.0 (2005),,"<=1/500,000",0.7,0.57
+343,47,ES&S,DS450,10,Batch-Fed Optical Scanner,9,Windows,VVSG 1.0 (2005),72 ballots/minute,"<=1/500,000",0.85,0.64
+344,47,ES&S,DS950,1,Batch-Fed Optical Scanner,,,(VVSG) 2.0,280 ballots/minute,"<=1/1,670,000",0.7,0.66
+345,47,ES&S,ExpressVote,3595,BMD,11,Windows,VVSG 1.0 (2005),,"<=1/500,000",0.85,0.62
+346,47,Hart InterCivic,Verity Central,3,Batch-Fed Optical Scanner,,,,,,0.95,0.69
+347,47,Hart InterCivic,Verity Duo,254,BMD,,,,,,1.0,0.55
+348,47,Hart InterCivic,Verity Scan,535,Hand-Fed Optical Scanner,,,,,,0.95,0.79
+349,47,Hart InterCivic,Verity Touch Writer,716,BMD,,,,,,0.95,0.73
+350,47,MicroVote,Infinity,2930,DRE Push Button,,"Microsoft Windows 2000, Windows XP Professional",,,,0.95,0.48
+351,47,Unisyn,Freedom Vote Tablet (FVT),56,BMD,,,,,,1.0,0.86
+352,47,Unisyn,OpenElect OVI,11,BMD,,,,,,0.95,0.77
+353,47,Unisyn,OpenElect OVO,11,Hand-Fed Optical Scanner,,,,,,0.95,0.8
+354,48,Dominion,AutoMARK,84,,,,,,,,
+355,48,ES&S,DS200,3026,Hand-Fed Optical Scanner,15,Windows,VVSG 1.0 (2005),Highspeed,"<=1/500,000",0.75,0.57
+356,48,ES&S,DS300,78,Hand-Fed Optical Scanner,,Windows,VVSG 1.0 (2005),,"<=1/500,000",0.7,0.57
+357,48,ES&S,DS450,38,Batch-Fed Optical Scanner,9,Windows,VVSG 1.0 (2005),72 ballots/minute,"<=1/500,000",0.85,0.64
+358,48,ES&S,DS850,7,Batch-Fed Optical Scanner,13,Windows,VVSG 1.0 (2005),300 ballots/min,"<=1/500,000",0.75,0.64
+359,48,ES&S,DS950,4,Batch-Fed Optical Scanner,,,(VVSG) 2.0,280 ballots/minute,"<=1/1,670,000",0.7,0.66
+360,48,ES&S,ExpressTouch,733,DRE Touchscreen,,Windows,VVSG 1.0 (2005),,"<=1/500,000",0.7,0.58
+361,48,ES&S,ExpressVote,17186,BMD,11,Windows,VVSG 1.0 (2005),,"<=1/500,000",0.85,0.62
+362,48,ES&S,ExpressVote XL,8,BMD/Tabulator,,Windows,VVSG 1.0 (2005),,"<=1/500,000",0.7,0.58
+363,48,ES&S,M100,4,,,,,,,,
+364,48,ES&S,M650,1,,,,,,,,
+365,48,ES&S,iVotronic,63,DRE Touchscreen,,,,,,0.65,0.3
+366,48,Hart InterCivic,Verity Central,34,Batch-Fed Optical Scanner,,,,,,0.95,0.69
+367,48,Hart InterCivic,Verity Controller,17,,,,,,,,
+368,48,Hart InterCivic,Verity Duo,16542,BMD,,,,,,1.0,0.55
+369,48,Hart InterCivic,Verity Duo Go,120,,,,,,,,
+370,48,Hart InterCivic,Verity Scan,5138,Hand-Fed Optical Scanner,,,,,,0.95,0.79
+371,48,Hart InterCivic,Verity Touch,59,DRE Touchscreen,,,,,,0.95,0.65
+372,48,Hart InterCivic,Verity Touch Writer,12030,BMD,,,,,,0.95,0.73
+373,48,Hart InterCivic,Verity Voting 2.5,40,,,,,,,,
+374,48,Hart InterCivic,eScan,133,Hand-Fed Optical Scanner,,,,,,0.95,0.83
+375,48,Hart InterCivic,eSlate,175,DRE Dial,,,,,,0.95,0.8
+376,48,Kodak,I260,1,,,,,,,,
+377,48,Kodak,I620,1,,,,,,,,
+378,49,Dominion,ImageCast Central,9,Batch-Fed Optical Scanner,14,Windows,VVSG 1.0 (2005),High-speed,"<=1/500,000",0.75,0.57
+379,49,Dominion,ImageCast X as DRE,665,DRE Touchscreen,,,,,,0.95,0.83
+380,49,ES&S,DS200,39,Hand-Fed Optical Scanner,15,Windows,VVSG 1.0 (2005),Highspeed,"<=1/500,000",0.75,0.57
+381,49,ES&S,DS300,26,Hand-Fed Optical Scanner,,Windows,VVSG 1.0 (2005),,"<=1/500,000",0.7,0.57
+382,49,ES&S,DS450,20,Batch-Fed Optical Scanner,9,Windows,VVSG 1.0 (2005),72 ballots/minute,"<=1/500,000",0.85,0.64
+383,49,ES&S,DS850,2,Batch-Fed Optical Scanner,13,Windows,VVSG 1.0 (2005),300 ballots/min,"<=1/500,000",0.75,0.64
+384,49,ES&S,ExpressVote,169,BMD,11,Windows,VVSG 1.0 (2005),,"<=1/500,000",0.85,0.62
+385,49,Premier Election Solutions (Diebold),AccuVote TSX,2,DRE Touchscreen,,,,,,0.7,0.34
+386,49,Unisyn,OpenElect OVO,1,Hand-Fed Optical Scanner,,,,,,0.95,0.8
+387,50,Democracy Live,OmniBallot Tablet,262,BMD,,Windows 10 IoT Enterprise,,,,0.7,0.45
+388,51,Dominion,ImageCast Evolution,756,Hybrid Optical Scanner/BMD,14,Windows,VVSG 1.0 (2005),,"<=1/500,000",0.75,0.57
+389,51,Dominion,ImageCast Precinct,23,Hand-Fed Optical Scanner,14,,VVSG 1.0 (2005),,"<=1/500,000",0.75,0.51
+390,51,Dominion,ImageCast Precinct 2,21,Hand-Fed Optical Scanner,,,VVSG 1.0 (2005),,"<=1/500,000",0.7,0.51
+391,51,ES&S,DS200,1862,Hand-Fed Optical Scanner,15,Windows,VVSG 1.0 (2005),Highspeed,"<=1/500,000",0.75,0.57
+392,51,ES&S,DS300,132,Hand-Fed Optical Scanner,,Windows,VVSG 1.0 (2005),,"<=1/500,000",0.7,0.57
+393,51,ES&S,DS450,5,Batch-Fed Optical Scanner,9,Windows,VVSG 1.0 (2005),72 ballots/minute,"<=1/500,000",0.85,0.64
+394,51,ES&S,DS850,2,Batch-Fed Optical Scanner,13,Windows,VVSG 1.0 (2005),300 ballots/min,"<=1/500,000",0.75,0.64
+395,51,ES&S,ExpressVote,1699,BMD,11,Windows,VVSG 1.0 (2005),,"<=1/500,000",0.85,0.62
+396,51,Hart InterCivic,Verity Central,5,Batch-Fed Optical Scanner,,,,,,0.95,0.69
+397,51,Hart InterCivic,Verity Scan,586,Hand-Fed Optical Scanner,,,,,,0.95,0.79
+398,51,Hart InterCivic,Verity Touch Writer,413,BMD,,,,,,0.95,0.73
+399,51,Unisyn,Freedom Vote Scan (FVS),349,Hand-Fed Optical Scanner,,,,,,1.0,0.85
+400,51,Unisyn,Freedom Vote Tablet (FVT),130,BMD,,,,,,1.0,0.86
+401,51,Unisyn,OpenElect (OVCS),5,,,,,,,,
+402,51,Unisyn,OpenElect OVI,453,BMD,,,,,,0.95,0.77
+403,51,Unisyn,OpenElect OVO,414,Hand-Fed Optical Scanner,,,,,,0.95,0.8
+404,53,Clear Ballot,ClearAccess,48,BMD,,,VVSG 1.0 (2005),,"<=1/500,000",1.0,0.79
+405,53,Clear Ballot,ClearCount,47,Batch-Fed Optical Scanner,,,VVSG 1.0 (2005),,"<=1/500,000",1.0,0.77
+406,53,Dominion,ImageCast Central,2,Batch-Fed Optical Scanner,14,Windows,VVSG 1.0 (2005),High-speed,"<=1/500,000",0.75,0.57
+407,53,Dominion,ImageCast X,1,BMD,12,Android,VVSG 1.0 (2005),,"<=1/500,000",0.75,0.67
+408,53,ES&S,DS450,2,Batch-Fed Optical Scanner,9,Windows,VVSG 1.0 (2005),72 ballots/minute,"<=1/500,000",0.85,0.64
+409,53,ES&S,DS850,4,Batch-Fed Optical Scanner,13,Windows,VVSG 1.0 (2005),300 ballots/min,"<=1/500,000",0.75,0.64
+410,53,ES&S,DS950,2,Batch-Fed Optical Scanner,,,(VVSG) 2.0,280 ballots/minute,"<=1/1,670,000",0.7,0.66
+411,53,ES&S,ExpressVote,12,BMD,11,Windows,VVSG 1.0 (2005),,"<=1/500,000",0.85,0.62
+412,53,ES&S,ExpressVote XL,9,BMD/Tabulator,,Windows,VVSG 1.0 (2005),,"<=1/500,000",0.7,0.58
+413,53,Hart InterCivic,Verity Central,28,Batch-Fed Optical Scanner,,,,,,0.95,0.69
+414,53,Hart InterCivic,Verity Touch Writer,24,BMD,,,,,,0.95,0.73
+415,54,ES&S,DS200,1575,Hand-Fed Optical Scanner,15,Windows,VVSG 1.0 (2005),Highspeed,"<=1/500,000",0.75,0.57
+416,54,ES&S,DS450,3,Batch-Fed Optical Scanner,9,Windows,VVSG 1.0 (2005),72 ballots/minute,"<=1/500,000",0.85,0.64
+417,54,ES&S,DS850,1,Batch-Fed Optical Scanner,13,Windows,VVSG 1.0 (2005),300 ballots/min,"<=1/500,000",0.75,0.64
+418,54,ES&S,ExpressVote,5971,BMD,11,Windows,VVSG 1.0 (2005),,"<=1/500,000",0.85,0.62
+419,54,ES&S,M650,1,,,,,,,,
+420,55,Clear Ballot,ClearAccess,0,BMD,,,VVSG 1.0 (2005),,"<=1/500,000",1.0,0.79
+421,55,Clear Ballot,ClearCast,0,Hand-Fed Optical Scanner,,,VVSG 1.0 (2005),,"<=1/500,000",1.0,0.71
+422,55,Dominion,ImageCast X,0,BMD,12,Android,VVSG 1.0 (2005),,"<=1/500,000",0.75,0.67
+423,55,Dominion,ImageCast X as DRE,0,DRE Touchscreen,,,,,,0.95,0.83
+424,55,ES&S,DS200,0,Hand-Fed Optical Scanner,15,Windows,VVSG 1.0 (2005),Highspeed,"<=1/500,000",0.75,0.57
+425,55,ES&S,DS450,0,Batch-Fed Optical Scanner,9,Windows,VVSG 1.0 (2005),72 ballots/minute,"<=1/500,000",0.85,0.64
+426,55,ES&S,DS850,0,Batch-Fed Optical Scanner,13,Windows,VVSG 1.0 (2005),300 ballots/min,"<=1/500,000",0.75,0.64
+427,56,ES&S,DS200,383,Hand-Fed Optical Scanner,15,Windows,VVSG 1.0 (2005),Highspeed,"<=1/500,000",0.75,0.57
+428,56,ES&S,DS450,10,Batch-Fed Optical Scanner,9,Windows,VVSG 1.0 (2005),72 ballots/minute,"<=1/500,000",0.85,0.64
+429,56,ES&S,DS850,1,Batch-Fed Optical Scanner,13,Windows,VVSG 1.0 (2005),300 ballots/min,"<=1/500,000",0.75,0.64
+430,56,ES&S,ExpressVote,510,BMD,11,Windows,VVSG 1.0 (2005),,"<=1/500,000",0.85,0.62
