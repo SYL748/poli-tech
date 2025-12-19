@@ -1,0 +1,32 @@
+[
+  {
+    "state": "Iowa",
+    "registrationType": "Opt-in",
+    "votingEligiblePopulation": 2421000,
+    "registeredVoters": 2251000,
+    "registrationRate": 93.0,
+    "votesCast": 1737000,
+    "turnoutRate": 77.2,
+    "badgeColor": "blue"
+  },
+  {
+    "state": "Illinois",
+    "registrationType": "Opt-out + Same-day",
+    "votingEligiblePopulation": 9642000,
+    "registeredVoters": 8562000,
+    "registrationRate": 88.8,
+    "votesCast": 5984000,
+    "turnoutRate": 69.9,
+    "badgeColor": "green"
+  },
+  {
+    "state": "Delaware",
+    "registrationType": "Opt-out",
+    "votingEligiblePopulation": 782000,
+    "registeredVoters": 673000,
+    "registrationRate": 86.1,
+    "votesCast": 461000,
+    "turnoutRate": 68.5,
+    "badgeColor": "purple"
+  }
+]

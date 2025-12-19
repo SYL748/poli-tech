@@ -1,0 +1,48 @@
+[
+  {
+    "category": "Felony Voting Rights",
+    "iowa": "Rights restored after completing sentence and parole/probation",
+    "illinois": "Rights restored automatically upon release from prison"
+  },
+  {
+    "category": "Mail Ballot Percentage (2024)",
+    "iowa": "23.4%",
+    "illinois": "31.7%"
+  },
+  {
+    "category": "Drop Box Ballot Percentage (2024)",
+    "iowa": "8.2%",
+    "illinois": "14.5%"
+  },
+  {
+    "category": "Early Voting Period",
+    "iowa": "29 days before election",
+    "illinois": "40 days before election"
+  },
+  {
+    "category": "Voter ID Requirement",
+    "iowa": "Photo ID required",
+    "illinois": "No photo ID required"
+  },
+  {
+    "category": "Same-Day Registration",
+    "iowa": "Not available",
+    "illinois": "Available during early voting and on Election Day"
+  },
+  {
+    "category": "Absentee Ballot Request Deadline",
+    "iowa": "10 days before election",
+    "illinois": "5 days before election"
+  },
+  {
+    "category": "Automatic Voter Registration",
+    "iowa": "Not implemented",
+    "illinois": "Implemented (via DMV)"
+  },
+  {
+    "category": "No-Excuse Absentee Voting",
+    "iowa": "Yes",
+    "illinois": "Yes"
+  }
+]
+

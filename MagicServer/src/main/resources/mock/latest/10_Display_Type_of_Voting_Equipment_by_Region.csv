@@ -1,0 +1,5201 @@
+region_id,Type_of_Equipment_Used
+68,"Ballot Marking Device,DRE with VVPAT,Scanner"
+69,"Ballot Marking Device,Scanner"
+70,"Ballot Marking Device,Scanner"
+71,"Ballot Marking Device,Scanner"
+72,"Ballot Marking Device,Scanner"
+73,"Ballot Marking Device,Scanner"
+74,"Ballot Marking Device,DRE with VVPAT,Scanner"
+75,"Ballot Marking Device,Scanner"
+76,"Ballot Marking Device,Scanner"
+77,"Ballot Marking Device,Scanner"
+78,"Ballot Marking Device,Scanner"
+79,"Ballot Marking Device,Scanner"
+80,"Ballot Marking Device,Scanner"
+81,"Ballot Marking Device,Scanner"
+82,"Ballot Marking Device,Scanner"
+83,"Ballot Marking Device,Scanner"
+84,"Ballot Marking Device,Scanner"
+85,"Ballot Marking Device,Scanner"
+86,Ballot Marking Device
+87,"Ballot Marking Device,Scanner"
+88,"Ballot Marking Device,Scanner"
+89,"Ballot Marking Device,DRE with VVPAT,Scanner"
+90,"Ballot Marking Device,Scanner"
+91,"Ballot Marking Device,Scanner"
+92,"Ballot Marking Device,Scanner"
+94,Ballot Marking Device
+95,"Ballot Marking Device,DRE with VVPAT"
+96,Ballot Marking Device
+97,"Ballot Marking Device,Scanner"
+98,"Ballot Marking Device,Scanner"
+99,"Ballot Marking Device,Scanner"
+100,"Ballot Marking Device,Scanner"
+101,"Ballot Marking Device,Scanner"
+102,"Ballot Marking Device,Scanner"
+103,DRE with VVPAT
+104,DRE with VVPAT
+105,"Ballot Marking Device,Scanner"
+106,"Ballot Marking Device,Scanner"
+107,Ballot Marking Device
+108,"Ballot Marking Device,Scanner"
+109,"Ballot Marking Device,Scanner"
+110,"Ballot Marking Device,Scanner"
+111,"Ballot Marking Device,Scanner"
+112,Ballot Marking Device
+113,"Ballot Marking Device,Scanner"
+114,"Ballot Marking Device,Scanner"
+115,Ballot Marking Device
+116,Scanner
+117,"Ballot Marking Device,Scanner"
+118,"Ballot Marking Device,Scanner"
+119,"Ballot Marking Device,Scanner"
+121,"Ballot Marking Device,Scanner"
+122,Scanner
+123,"Ballot Marking Device,Scanner"
+124,"Ballot Marking Device,Scanner"
+125,"Ballot Marking Device,Scanner"
+126,"Ballot Marking Device,Scanner"
+127,"Ballot Marking Device,Scanner"
+128,"Ballot Marking Device,Scanner"
+129,"Ballot Marking Device,Scanner"
+130,"Ballot Marking Device,Scanner"
+131,"Ballot Marking Device,Scanner"
+132,"DRE with VVPAT,Scanner"
+133,"Ballot Marking Device,DRE with VVPAT,Scanner"
+134,"Ballot Marking Device,DRE with VVPAT"
+135,Ballot Marking Device
+136,DRE with VVPAT
+137,DRE with VVPAT
+138,"Ballot Marking Device,Scanner"
+139,"Ballot Marking Device,Scanner"
+140,"Ballot Marking Device,Scanner"
+141,"Ballot Marking Device,Scanner"
+142,"Ballot Marking Device,DRE with VVPAT,Scanner"
+143,"Ballot Marking Device,Scanner"
+144,"Ballot Marking Device,Scanner"
+145,"Ballot Marking Device,Scanner"
+146,"Ballot Marking Device,Scanner"
+147,Ballot Marking Device
+149,Ballot Marking Device
+150,"Ballot Marking Device,Scanner"
+151,"Ballot Marking Device,Scanner"
+152,"Ballot Marking Device,Scanner"
+153,"Ballot Marking Device,Scanner"
+154,Ballot Marking Device
+155,"Ballot Marking Device,Scanner"
+156,Ballot Marking Device
+157,"Ballot Marking Device,Scanner"
+158,Ballot Marking Device
+159,"Ballot Marking Device,Scanner"
+160,"Ballot Marking Device,Scanner"
+161,"Ballot Marking Device,Scanner"
+162,"Ballot Marking Device,Scanner"
+163,"Ballot Marking Device,Scanner"
+164,"Ballot Marking Device,Scanner"
+165,"Ballot Marking Device,Scanner"
+166,"Ballot Marking Device,Scanner"
+167,"Ballot Marking Device,Scanner"
+168,"Ballot Marking Device,Scanner"
+169,"Ballot Marking Device,Scanner"
+170,"Ballot Marking Device,Scanner"
+171,"Ballot Marking Device,Scanner"
+172,"Ballot Marking Device,Scanner"
+173,"Ballot Marking Device,Scanner"
+174,"Ballot Marking Device,Scanner"
+175,"Ballot Marking Device,Scanner"
+176,"Ballot Marking Device,Scanner"
+177,"Ballot Marking Device,Scanner"
+178,"Ballot Marking Device,Scanner"
+179,"Ballot Marking Device,Scanner"
+180,"Ballot Marking Device,Scanner"
+181,"Ballot Marking Device,Scanner"
+182,"Ballot Marking Device,Scanner"
+183,"Ballot Marking Device,Scanner"
+184,"Ballot Marking Device,Scanner"
+185,"Ballot Marking Device,Scanner"
+186,"Ballot Marking Device,Scanner"
+187,"Ballot Marking Device,Scanner"
+188,"Ballot Marking Device,Scanner"
+189,"Ballot Marking Device,Scanner"
+190,"Ballot Marking Device,Scanner"
+191,"Ballot Marking Device,Scanner"
+192,"Ballot Marking Device,Scanner"
+193,"Ballot Marking Device,Scanner"
+194,"Ballot Marking Device,Scanner"
+195,"Ballot Marking Device,Scanner"
+196,"Ballot Marking Device,Scanner"
+197,"Ballot Marking Device,Scanner"
+198,"Ballot Marking Device,Scanner"
+199,"Ballot Marking Device,Scanner"
+200,"Ballot Marking Device,Scanner"
+201,"Ballot Marking Device,Scanner"
+202,"Ballot Marking Device,Scanner"
+203,"Ballot Marking Device,Scanner"
+204,"Ballot Marking Device,Scanner"
+205,"Ballot Marking Device,Scanner"
+206,"Ballot Marking Device,Scanner"
+207,"Ballot Marking Device,Scanner"
+208,"Ballot Marking Device,Scanner"
+209,"Ballot Marking Device,Scanner"
+210,"Ballot Marking Device,Scanner"
+211,"Ballot Marking Device,Scanner"
+212,"Ballot Marking Device,Scanner"
+213,"Ballot Marking Device,Scanner"
+214,"Ballot Marking Device,Scanner"
+215,"Ballot Marking Device,Scanner"
+216,"Ballot Marking Device,Scanner"
+217,"Ballot Marking Device,Scanner"
+218,"Ballot Marking Device,Scanner"
+219,"Ballot Marking Device,Scanner"
+220,"Ballot Marking Device,Scanner"
+221,"Ballot Marking Device,Scanner"
+222,"Ballot Marking Device,Scanner"
+223,"Ballot Marking Device,Scanner"
+224,"Ballot Marking Device,Scanner"
+225,"Ballot Marking Device,Scanner"
+226,"Ballot Marking Device,Scanner"
+227,"Ballot Marking Device,Scanner"
+228,"Ballot Marking Device,Scanner"
+229,"Ballot Marking Device,Scanner"
+230,"Ballot Marking Device,Scanner"
+231,"Ballot Marking Device,Scanner"
+232,"Ballot Marking Device,Scanner"
+233,"Ballot Marking Device,Scanner"
+234,"Ballot Marking Device,Scanner"
+235,"Ballot Marking Device,Scanner"
+236,"Ballot Marking Device,Scanner"
+237,"Ballot Marking Device,Scanner"
+238,"Ballot Marking Device,Scanner"
+239,"Ballot Marking Device,Scanner"
+240,"Ballot Marking Device,Scanner"
+241,"Ballot Marking Device,Scanner"
+242,"Ballot Marking Device,Scanner"
+243,"Ballot Marking Device,Scanner"
+244,"Ballot Marking Device,Scanner"
+245,"Ballot Marking Device,Scanner"
+246,"Ballot Marking Device,Scanner"
+247,"Ballot Marking Device,Scanner"
+248,"Ballot Marking Device,Scanner"
+249,"Ballot Marking Device,Scanner"
+250,"Ballot Marking Device,Scanner"
+251,"Ballot Marking Device,Scanner"
+252,"Ballot Marking Device,Scanner"
+253,"Ballot Marking Device,Scanner"
+254,"Ballot Marking Device,Scanner"
+255,"Ballot Marking Device,Scanner"
+256,"Ballot Marking Device,Scanner"
+257,"Ballot Marking Device,Scanner"
+258,"Ballot Marking Device,Scanner"
+259,"Ballot Marking Device,Scanner"
+260,"Ballot Marking Device,Scanner"
+261,"Ballot Marking Device,Scanner"
+262,"Ballot Marking Device,Scanner"
+263,"Ballot Marking Device,Scanner"
+264,"Ballot Marking Device,Scanner"
+265,"Ballot Marking Device,Scanner"
+266,"Ballot Marking Device,Scanner"
+267,"Ballot Marking Device,Scanner"
+268,"Ballot Marking Device,Scanner"
+269,"Ballot Marking Device,Scanner"
+270,"Ballot Marking Device,Scanner"
+271,"Ballot Marking Device,Scanner"
+272,"Ballot Marking Device,Scanner"
+273,Ballot Marking Device
+274,"Ballot Marking Device,Scanner"
+275,"Ballot Marking Device,Scanner"
+276,"Ballot Marking Device,Scanner"
+277,"Ballot Marking Device,Scanner"
+278,"Ballot Marking Device,Scanner"
+279,"Ballot Marking Device,Scanner"
+280,"Ballot Marking Device,Scanner"
+281,"Ballot Marking Device,Scanner"
+282,"Ballot Marking Device,Scanner"
+283,"Ballot Marking Device,Scanner"
+284,"Ballot Marking Device,Scanner"
+285,"Ballot Marking Device,Scanner"
+286,"Ballot Marking Device,Scanner"
+287,"Ballot Marking Device,Scanner"
+288,"Ballot Marking Device,Scanner"
+289,"Ballot Marking Device,Scanner"
+290,"Ballot Marking Device,Scanner"
+291,"Ballot Marking Device,Scanner"
+292,"Ballot Marking Device,Scanner"
+293,"Ballot Marking Device,Scanner"
+294,"Ballot Marking Device,Scanner"
+295,"Ballot Marking Device,Scanner"
+296,"Ballot Marking Device,Scanner"
+297,"Ballot Marking Device,Scanner"
+298,"Ballot Marking Device,Scanner"
+299,"Ballot Marking Device,Scanner"
+300,"Ballot Marking Device,Scanner"
+301,"Ballot Marking Device,Scanner"
+302,"Ballot Marking Device,Scanner"
+303,"Ballot Marking Device,Scanner"
+304,"Ballot Marking Device,Scanner"
+305,"Ballot Marking Device,Scanner"
+306,"Ballot Marking Device,Scanner"
+307,"Ballot Marking Device,Scanner"
+308,"Ballot Marking Device,Scanner"
+309,"Ballot Marking Device,Scanner"
+310,"Ballot Marking Device,Scanner"
+311,"Ballot Marking Device,Scanner"
+312,"Ballot Marking Device,Scanner"
+313,"Ballot Marking Device,Scanner"
+314,"Ballot Marking Device,Scanner"
+315,"Ballot Marking Device,Scanner"
+316,"Ballot Marking Device,Scanner"
+317,"Ballot Marking Device,Scanner"
+318,"Ballot Marking Device,Scanner"
+319,"Ballot Marking Device,Scanner"
+320,"Ballot Marking Device,Scanner"
+321,"Ballot Marking Device,Scanner"
+322,"Ballot Marking Device,Scanner"
+323,"Ballot Marking Device,Scanner"
+324,"Ballot Marking Device,Scanner"
+325,"Ballot Marking Device,Scanner"
+326,"Ballot Marking Device,Scanner"
+327,"Ballot Marking Device,Scanner"
+328,"Ballot Marking Device,Scanner"
+329,"Ballot Marking Device,Scanner"
+330,"Ballot Marking Device,Scanner"
+331,"Ballot Marking Device,Scanner"
+332,"Ballot Marking Device,Scanner"
+333,"Ballot Marking Device,Scanner"
+334,"Ballot Marking Device,Scanner"
+335,"Ballot Marking Device,Scanner"
+336,"Ballot Marking Device,Scanner"
+337,"Ballot Marking Device,Scanner"
+338,"Ballot Marking Device,Scanner"
+339,"Ballot Marking Device,Scanner"
+340,"Ballot Marking Device,Scanner"
+341,"Ballot Marking Device,Scanner"
+342,"Ballot Marking Device,Scanner"
+343,"Ballot Marking Device,Scanner"
+344,"Ballot Marking Device,Scanner"
+345,"Ballot Marking Device,Scanner"
+346,"Ballot Marking Device,Scanner"
+347,"Ballot Marking Device,Scanner"
+348,"Ballot Marking Device,Scanner"
+349,"Ballot Marking Device,Scanner"
+350,"Ballot Marking Device,Scanner"
+351,"Ballot Marking Device,Scanner"
+352,"Ballot Marking Device,Scanner"
+353,"Ballot Marking Device,Scanner"
+354,"Ballot Marking Device,Scanner"
+355,"Ballot Marking Device,Scanner"
+356,"Ballot Marking Device,Scanner"
+357,"Ballot Marking Device,Scanner"
+358,"Ballot Marking Device,Scanner"
+359,"Ballot Marking Device,Scanner"
+360,"Ballot Marking Device,Scanner"
+361,"Ballot Marking Device,Scanner"
+362,"Ballot Marking Device,Scanner"
+363,"Ballot Marking Device,Scanner"
+364,"Ballot Marking Device,Scanner"
+365,"Ballot Marking Device,Scanner"
+366,"Ballot Marking Device,Scanner"
+367,"Ballot Marking Device,Scanner"
+368,"Ballot Marking Device,Scanner"
+369,"Ballot Marking Device,Scanner"
+370,"Ballot Marking Device,Scanner"
+371,"Ballot Marking Device,Scanner"
+372,"Ballot Marking Device,Scanner"
+373,"Ballot Marking Device,Scanner"
+374,"Ballot Marking Device,Scanner"
+375,"Ballot Marking Device,Scanner"
+376,"Ballot Marking Device,Scanner"
+377,"Ballot Marking Device,Scanner"
+378,"Ballot Marking Device,Scanner"
+379,"Ballot Marking Device,Scanner"
+380,"Ballot Marking Device,Scanner"
+381,"Ballot Marking Device,Scanner"
+382,"Ballot Marking Device,Scanner"
+383,"Ballot Marking Device,Scanner"
+384,"Ballot Marking Device,Scanner"
+385,"Ballot Marking Device,Scanner"
+386,"Ballot Marking Device,Scanner"
+387,"Ballot Marking Device,Scanner"
+388,"Ballot Marking Device,Scanner"
+389,"Ballot Marking Device,Scanner"
+390,"Ballot Marking Device,Scanner"
+391,"Ballot Marking Device,Scanner"
+392,"Ballot Marking Device,Scanner"
+393,"Ballot Marking Device,Scanner"
+394,"Ballot Marking Device,Scanner"
+395,"Ballot Marking Device,Scanner"
+396,"Ballot Marking Device,Scanner"
+397,"Ballot Marking Device,Scanner"
+398,"Ballot Marking Device,Scanner"
+399,"Ballot Marking Device,Scanner"
+400,"Ballot Marking Device,Scanner"
+401,"Ballot Marking Device,Scanner"
+402,"Ballot Marking Device,Scanner"
+403,"Ballot Marking Device,Scanner"
+404,"Ballot Marking Device,Scanner"
+405,"Ballot Marking Device,Scanner"
+406,"Ballot Marking Device,Scanner"
+407,"Ballot Marking Device,Scanner"
+408,"Ballot Marking Device,Scanner"
+409,"Ballot Marking Device,Scanner"
+410,"Ballot Marking Device,Scanner"
+411,"Ballot Marking Device,Scanner"
+412,"Ballot Marking Device,Scanner"
+413,"Ballot Marking Device,Scanner"
+414,"Ballot Marking Device,Scanner"
+415,"Ballot Marking Device,Scanner"
+416,"Ballot Marking Device,Scanner"
+417,"Ballot Marking Device,Scanner"
+418,"Ballot Marking Device,Scanner"
+419,"Ballot Marking Device,Scanner"
+420,"Ballot Marking Device,Scanner"
+421,"Ballot Marking Device,Scanner"
+422,"Ballot Marking Device,Scanner"
+423,"Ballot Marking Device,Scanner"
+424,"Ballot Marking Device,Scanner"
+425,"Ballot Marking Device,Scanner"
+426,"Ballot Marking Device,Scanner"
+427,"Ballot Marking Device,Scanner"
+428,"Ballot Marking Device,Scanner"
+429,"Ballot Marking Device,Scanner"
+430,"Ballot Marking Device,Scanner"
+431,"Ballot Marking Device,Scanner"
+432,"Ballot Marking Device,Scanner"
+433,"Ballot Marking Device,Scanner"
+434,"Ballot Marking Device,Scanner"
+435,"Ballot Marking Device,Scanner"
+436,"Ballot Marking Device,Scanner"
+437,"Ballot Marking Device,Scanner"
+438,"Ballot Marking Device,Scanner"
+439,"Ballot Marking Device,Scanner"
+440,"Ballot Marking Device,Scanner"
+441,"Ballot Marking Device,Scanner"
+442,"Ballot Marking Device,Scanner"
+443,"Ballot Marking Device,Scanner"
+444,"Ballot Marking Device,Scanner"
+445,"Ballot Marking Device,Scanner"
+446,"Ballot Marking Device,Scanner"
+447,"Ballot Marking Device,Scanner"
+448,"Ballot Marking Device,Scanner"
+449,"Ballot Marking Device,Scanner"
+450,"DRE with VVPAT,Scanner"
+451,"DRE with VVPAT,Scanner"
+452,"DRE with VVPAT,Scanner"
+453,"Ballot Marking Device,Scanner"
+454,Scanner
+455,Scanner
+456,"Ballot Marking Device,Scanner"
+457,"Ballot Marking Device,Scanner"
+458,"Ballot Marking Device,Scanner"
+459,Scanner
+460,"Ballot Marking Device,Scanner"
+461,"Ballot Marking Device,Scanner"
+462,"Ballot Marking Device,Scanner"
+463,"Ballot Marking Device,Scanner"
+464,"Ballot Marking Device,Scanner"
+465,"Ballot Marking Device,Scanner"
+466,"Ballot Marking Device,Scanner"
+467,Scanner
+468,"Ballot Marking Device,Scanner"
+469,"Ballot Marking Device,Scanner"
+470,"Ballot Marking Device,Scanner"
+471,Scanner
+472,"Ballot Marking Device,Scanner"
+473,"Ballot Marking Device,Scanner"
+474,"Ballot Marking Device,Scanner"
+475,"Ballot Marking Device,Scanner"
+476,"Ballot Marking Device,Scanner"
+477,Scanner
+478,"Ballot Marking Device,Scanner"
+479,Scanner
+480,"Ballot Marking Device,Scanner"
+481,"Ballot Marking Device,Scanner"
+482,"Ballot Marking Device,Scanner"
+483,"Ballot Marking Device,Scanner"
+484,"Ballot Marking Device,Scanner"
+485,"Ballot Marking Device,Scanner"
+486,"Ballot Marking Device,Scanner"
+487,"Ballot Marking Device,Scanner"
+488,"Ballot Marking Device,Scanner"
+489,Scanner
+490,Scanner
+491,"Ballot Marking Device,Scanner"
+492,"Ballot Marking Device,Scanner"
+493,"Ballot Marking Device,Scanner"
+494,"Ballot Marking Device,Scanner"
+495,"Ballot Marking Device,Scanner"
+496,"Ballot Marking Device,Scanner"
+497,"Ballot Marking Device,Scanner"
+498,"Ballot Marking Device,Scanner"
+499,"Ballot Marking Device,Scanner"
+500,"Ballot Marking Device,Scanner"
+501,"Ballot Marking Device,Scanner"
+502,"Ballot Marking Device,Scanner"
+503,"Ballot Marking Device,Scanner"
+504,"Ballot Marking Device,Scanner"
+505,"Ballot Marking Device,Scanner"
+506,"Ballot Marking Device,Scanner"
+507,"Ballot Marking Device,Scanner"
+508,"Ballot Marking Device,Scanner"
+509,"Ballot Marking Device,Scanner"
+510,"Ballot Marking Device,Scanner"
+511,"Ballot Marking Device,Scanner"
+512,"Ballot Marking Device,Scanner"
+513,"Ballot Marking Device,Scanner"
+514,Scanner
+515,"Ballot Marking Device,Scanner"
+516,"Ballot Marking Device,Scanner"
+517,"Ballot Marking Device,Scanner"
+518,"Ballot Marking Device,Scanner"
+519,"Ballot Marking Device,Scanner"
+520,"Ballot Marking Device,Scanner"
+521,"Ballot Marking Device,Scanner"
+522,"Ballot Marking Device,Scanner"
+523,"Ballot Marking Device,Scanner"
+524,"Ballot Marking Device,Scanner"
+525,"Ballot Marking Device,Scanner"
+526,"Ballot Marking Device,Scanner"
+527,"Ballot Marking Device,Scanner"
+528,"Ballot Marking Device,Scanner"
+529,"Ballot Marking Device,Scanner"
+530,"Ballot Marking Device,Scanner"
+531,"Ballot Marking Device,Scanner"
+532,"Ballot Marking Device,Scanner"
+533,"Ballot Marking Device,Scanner"
+534,"Ballot Marking Device,Scanner"
+535,"Ballot Marking Device,Scanner"
+536,"Ballot Marking Device,Scanner"
+537,"Ballot Marking Device,Scanner"
+538,"Ballot Marking Device,Scanner"
+539,"Ballot Marking Device,Scanner"
+540,"Ballot Marking Device,Scanner"
+541,"Ballot Marking Device,Scanner"
+542,"Ballot Marking Device,Scanner"
+543,"Ballot Marking Device,Scanner"
+544,"Ballot Marking Device,Scanner"
+545,"Ballot Marking Device,Scanner"
+546,"Ballot Marking Device,Scanner"
+547,"Ballot Marking Device,Scanner"
+548,"Ballot Marking Device,Scanner"
+549,"Ballot Marking Device,Scanner"
+550,"Ballot Marking Device,Scanner"
+551,"Ballot Marking Device,Scanner"
+552,"Ballot Marking Device,Scanner"
+553,"Ballot Marking Device,Scanner"
+554,"Ballot Marking Device,Scanner"
+555,"Ballot Marking Device,Scanner"
+556,"Ballot Marking Device,Scanner"
+557,"Ballot Marking Device,Scanner"
+558,"Ballot Marking Device,Scanner"
+559,"Ballot Marking Device,Scanner"
+560,"Ballot Marking Device,Scanner"
+561,"Ballot Marking Device,Scanner"
+562,"Ballot Marking Device,Scanner"
+563,"Ballot Marking Device,Scanner"
+564,"Ballot Marking Device,Scanner"
+565,"Ballot Marking Device,Scanner"
+566,"Ballot Marking Device,Scanner"
+567,"Ballot Marking Device,Scanner"
+568,"Ballot Marking Device,Scanner"
+569,"Ballot Marking Device,Scanner"
+570,"Ballot Marking Device,Scanner"
+571,"Ballot Marking Device,Scanner"
+572,"Ballot Marking Device,Scanner"
+573,"Ballot Marking Device,Scanner"
+574,"Ballot Marking Device,Scanner"
+575,"Ballot Marking Device,Scanner"
+576,"Ballot Marking Device,Scanner"
+577,"Ballot Marking Device,Scanner"
+578,"Ballot Marking Device,Scanner"
+579,"Ballot Marking Device,Scanner"
+580,"Ballot Marking Device,Scanner"
+581,"Ballot Marking Device,Scanner"
+582,"Ballot Marking Device,Scanner"
+583,"Ballot Marking Device,Scanner"
+584,"Ballot Marking Device,Scanner"
+585,"Ballot Marking Device,Scanner"
+586,"Ballot Marking Device,Scanner"
+587,"Ballot Marking Device,Scanner"
+588,"Ballot Marking Device,Scanner"
+589,"Ballot Marking Device,Scanner"
+590,"Ballot Marking Device,Scanner"
+591,"Ballot Marking Device,Scanner"
+592,"Ballot Marking Device,Scanner"
+593,"Ballot Marking Device,Scanner"
+594,"Ballot Marking Device,Scanner"
+595,"Ballot Marking Device,Scanner"
+596,"Ballot Marking Device,Scanner"
+597,"Ballot Marking Device,Scanner"
+598,"Ballot Marking Device,Scanner"
+599,"Ballot Marking Device,Scanner"
+600,"Ballot Marking Device,Scanner"
+601,"Ballot Marking Device,Scanner"
+602,"Ballot Marking Device,Scanner"
+603,"Ballot Marking Device,Scanner"
+604,"Ballot Marking Device,Scanner"
+605,"Ballot Marking Device,Scanner"
+606,"Ballot Marking Device,Scanner"
+607,"Ballot Marking Device,Scanner"
+608,"Ballot Marking Device,Scanner"
+609,"Ballot Marking Device,Scanner"
+610,"Ballot Marking Device,Scanner"
+611,"Ballot Marking Device,Scanner"
+612,"Ballot Marking Device,Scanner"
+613,"Ballot Marking Device,Scanner"
+614,"Ballot Marking Device,Scanner"
+615,"Ballot Marking Device,Scanner"
+616,"Ballot Marking Device,Scanner"
+617,"Ballot Marking Device,Scanner"
+618,"Ballot Marking Device,Scanner"
+619,"Ballot Marking Device,Scanner"
+620,"Ballot Marking Device,Scanner"
+621,"Ballot Marking Device,Scanner"
+622,"Ballot Marking Device,Scanner"
+623,"Ballot Marking Device,Scanner"
+624,"Ballot Marking Device,Scanner"
+625,"Ballot Marking Device,Scanner"
+626,"Ballot Marking Device,Scanner"
+627,"Ballot Marking Device,Scanner"
+628,"Ballot Marking Device,Scanner"
+629,"Ballot Marking Device,Scanner"
+630,"Ballot Marking Device,Scanner"
+631,"Ballot Marking Device,Scanner"
+632,"Ballot Marking Device,Scanner"
+633,"Ballot Marking Device,Scanner"
+634,"Ballot Marking Device,Scanner"
+635,"Ballot Marking Device,Scanner"
+636,"Ballot Marking Device,Scanner"
+637,"Ballot Marking Device,Scanner"
+638,"Ballot Marking Device,Scanner"
+639,"Ballot Marking Device,Scanner"
+640,"Ballot Marking Device,Scanner"
+641,"Ballot Marking Device,Scanner"
+642,"Ballot Marking Device,Scanner"
+643,"Ballot Marking Device,Scanner"
+644,"Ballot Marking Device,Scanner"
+645,"Ballot Marking Device,Scanner"
+646,"Ballot Marking Device,Scanner"
+647,"Ballot Marking Device,Scanner"
+648,"Ballot Marking Device,Scanner"
+649,"Ballot Marking Device,Scanner"
+650,"Ballot Marking Device,Scanner"
+651,"Ballot Marking Device,Scanner"
+652,"Ballot Marking Device,Scanner"
+653,"Ballot Marking Device,Scanner"
+654,"Ballot Marking Device,Scanner"
+655,"Ballot Marking Device,Scanner"
+656,"Ballot Marking Device,Scanner"
+657,"Ballot Marking Device,Scanner"
+658,"Ballot Marking Device,Scanner"
+659,"Ballot Marking Device,Scanner"
+660,"Ballot Marking Device,Scanner"
+661,"Ballot Marking Device,Scanner"
+662,"Ballot Marking Device,Scanner"
+663,"Ballot Marking Device,Scanner"
+664,"Ballot Marking Device,Scanner"
+665,"Ballot Marking Device,Scanner"
+666,"Ballot Marking Device,Scanner"
+667,"Ballot Marking Device,Scanner"
+668,"Ballot Marking Device,Scanner"
+669,"Ballot Marking Device,Scanner"
+670,"Ballot Marking Device,Scanner"
+671,"Ballot Marking Device,Scanner"
+672,"Ballot Marking Device,Scanner"
+673,"Ballot Marking Device,Scanner"
+674,"Ballot Marking Device,Scanner"
+675,"Ballot Marking Device,Scanner"
+676,"Ballot Marking Device,Scanner"
+677,"Ballot Marking Device,Scanner"
+678,"Ballot Marking Device,Scanner"
+679,"Ballot Marking Device,Scanner"
+680,"Ballot Marking Device,Scanner"
+681,"Ballot Marking Device,Scanner"
+683,"Ballot Marking Device,Scanner"
+684,"Ballot Marking Device,Scanner"
+685,"Ballot Marking Device,Scanner"
+686,Ballot Marking Device
+687,"Ballot Marking Device,Scanner"
+688,Ballot Marking Device
+689,Ballot Marking Device
+690,"Ballot Marking Device,Scanner"
+691,"Ballot Marking Device,Scanner"
+692,"Ballot Marking Device,Scanner"
+693,"Ballot Marking Device,Scanner"
+694,"Ballot Marking Device,Scanner"
+695,"Ballot Marking Device,Scanner"
+696,Ballot Marking Device
+697,Ballot Marking Device
+698,"Ballot Marking Device,Scanner"
+699,"Ballot Marking Device,Scanner"
+700,"Ballot Marking Device,Scanner"
+701,Ballot Marking Device
+702,"Ballot Marking Device,Scanner"
+703,Ballot Marking Device
+704,"Ballot Marking Device,Scanner"
+705,"Ballot Marking Device,Scanner"
+706,"Ballot Marking Device,Scanner"
+707,"Ballot Marking Device,Scanner"
+708,"Ballot Marking Device,Scanner"
+709,"Ballot Marking Device,Scanner"
+710,"Ballot Marking Device,Scanner"
+711,"Ballot Marking Device,Scanner"
+712,"Ballot Marking Device,Scanner"
+713,"Ballot Marking Device,Scanner"
+714,"Ballot Marking Device,Scanner"
+715,"Ballot Marking Device,Scanner"
+716,"Ballot Marking Device,Scanner"
+717,"Ballot Marking Device,Scanner"
+718,"Ballot Marking Device,Scanner"
+719,"Ballot Marking Device,Scanner"
+720,"Ballot Marking Device,Scanner"
+721,"Ballot Marking Device,Scanner"
+722,"Ballot Marking Device,Scanner"
+723,"Ballot Marking Device,Scanner"
+724,"Ballot Marking Device,Scanner"
+725,"Ballot Marking Device,Scanner"
+726,"Ballot Marking Device,Scanner"
+727,"Ballot Marking Device,Scanner"
+728,"Ballot Marking Device,Scanner"
+729,"Ballot Marking Device,Scanner"
+730,"Ballot Marking Device,Scanner"
+731,"Ballot Marking Device,Scanner"
+732,Ballot Marking Device
+733,"Ballot Marking Device,Scanner"
+734,"Ballot Marking Device,Scanner"
+735,"Ballot Marking Device,Scanner"
+736,"Ballot Marking Device,Scanner"
+737,"Ballot Marking Device,DRE with VVPAT,Scanner"
+738,Ballot Marking Device
+739,"Ballot Marking Device,Scanner"
+740,"Ballot Marking Device,Scanner"
+741,Ballot Marking Device
+742,"Ballot Marking Device,Scanner"
+743,"Ballot Marking Device,Scanner"
+744,"Ballot Marking Device,Scanner"
+745,"Ballot Marking Device,Scanner"
+746,"Ballot Marking Device,Scanner"
+747,"Ballot Marking Device,Scanner"
+748,"Ballot Marking Device,Scanner"
+749,"Ballot Marking Device,Scanner"
+750,"Ballot Marking Device,Scanner"
+751,"Ballot Marking Device,Scanner"
+752,"Ballot Marking Device,Scanner"
+753,"Ballot Marking Device,Scanner"
+754,"Ballot Marking Device,Scanner"
+755,"Ballot Marking Device,Scanner"
+756,"Ballot Marking Device,Scanner"
+757,"Ballot Marking Device,Scanner"
+758,"Ballot Marking Device,Scanner"
+759,"Ballot Marking Device,Scanner"
+760,"Ballot Marking Device,Scanner"
+761,"Ballot Marking Device,Scanner"
+762,"Ballot Marking Device,Scanner"
+763,"Ballot Marking Device,Scanner"
+764,"Ballot Marking Device,Scanner"
+765,"Ballot Marking Device,Scanner"
+766,"Ballot Marking Device,Scanner"
+767,"Ballot Marking Device,Scanner"
+768,"Ballot Marking Device,Scanner"
+769,"Ballot Marking Device,Scanner"
+770,"Ballot Marking Device,Scanner"
+771,"Ballot Marking Device,Scanner"
+772,"Ballot Marking Device,Scanner"
+773,"Ballot Marking Device,Scanner"
+774,"Ballot Marking Device,Scanner"
+775,"Ballot Marking Device,Scanner"
+776,"Ballot Marking Device,Scanner"
+777,DRE with VVPAT
+778,"Ballot Marking Device,Scanner"
+779,Ballot Marking Device
+780,"Ballot Marking Device,Scanner"
+781,"Ballot Marking Device,Scanner"
+782,"Ballot Marking Device,Scanner"
+783,"Ballot Marking Device,Scanner"
+784,"Ballot Marking Device,Scanner"
+785,"Ballot Marking Device,Scanner"
+786,"Ballot Marking Device,Scanner"
+787,"Ballot Marking Device,Scanner"
+788,"Ballot Marking Device,Scanner"
+789,"Ballot Marking Device,Scanner"
+790,"Ballot Marking Device,Scanner"
+791,Ballot Marking Device
+792,"Ballot Marking Device,Scanner"
+793,"Ballot Marking Device,Scanner"
+794,"Ballot Marking Device,Scanner"
+795,"Ballot Marking Device,Scanner"
+796,"Ballot Marking Device,Scanner"
+797,"Ballot Marking Device,Scanner"
+798,"Ballot Marking Device,Scanner"
+799,"Ballot Marking Device,Scanner"
+800,"Ballot Marking Device,Scanner"
+801,Ballot Marking Device
+802,"Ballot Marking Device,Scanner"
+803,"Ballot Marking Device,Scanner"
+804,Ballot Marking Device
+805,"Ballot Marking Device,Scanner"
+806,"DRE with VVPAT,Scanner"
+807,"Ballot Marking Device,Scanner"
+808,Ballot Marking Device
+809,"Ballot Marking Device,Scanner"
+810,"Ballot Marking Device,Scanner"
+811,"Ballot Marking Device,Scanner"
+812,"Ballot Marking Device,Scanner"
+813,"Ballot Marking Device,Scanner"
+814,"Ballot Marking Device,Scanner"
+815,"Ballot Marking Device,Scanner"
+816,"Ballot Marking Device,Scanner"
+817,"Ballot Marking Device,Scanner"
+818,"Ballot Marking Device,Scanner"
+819,"Ballot Marking Device,Scanner"
+820,"Ballot Marking Device,Scanner"
+821,"Ballot Marking Device,Scanner"
+822,"Ballot Marking Device,Scanner"
+823,"Ballot Marking Device,Scanner"
+824,"Ballot Marking Device,Scanner"
+825,"Ballot Marking Device,Scanner"
+826,"Ballot Marking Device,Scanner"
+827,"Ballot Marking Device,Scanner"
+828,"Ballot Marking Device,Scanner"
+829,"Ballot Marking Device,Scanner"
+830,"Ballot Marking Device,Scanner"
+831,"Ballot Marking Device,Scanner"
+832,"Ballot Marking Device,Scanner"
+833,"Ballot Marking Device,Scanner"
+834,"Ballot Marking Device,Scanner"
+835,"Ballot Marking Device,Scanner"
+836,Ballot Marking Device
+837,"DRE with VVPAT,Scanner"
+838,"DRE with VVPAT,Scanner"
+839,"DRE with VVPAT,Scanner"
+840,"DRE with VVPAT,Scanner"
+841,"DRE with VVPAT,Scanner"
+842,"DRE with VVPAT,Scanner"
+843,"Ballot Marking Device,Scanner"
+844,"Ballot Marking Device,Scanner"
+845,Scanner
+846,"Ballot Marking Device,Scanner"
+847,"DRE with VVPAT,Scanner"
+848,"DRE with VVPAT,Scanner"
+849,"Ballot Marking Device,Scanner"
+850,"DRE with VVPAT,Scanner"
+851,"Ballot Marking Device,Scanner"
+852,"DRE with VVPAT,Scanner"
+853,"DRE with VVPAT,Scanner"
+854,"DRE with VVPAT,Scanner"
+855,"DRE with VVPAT,Scanner"
+856,"Ballot Marking Device,Scanner"
+857,"DRE with VVPAT,Scanner"
+858,"Ballot Marking Device,Scanner"
+859,"Ballot Marking Device,Scanner"
+860,"DRE with VVPAT,Scanner"
+861,"DRE with VVPAT,Scanner"
+862,"Ballot Marking Device,Scanner"
+863,"DRE with VVPAT,Scanner"
+864,"DRE with VVPAT,Scanner"
+865,"DRE with VVPAT,Scanner"
+866,"Ballot Marking Device,Scanner"
+867,"Ballot Marking Device,Scanner"
+868,"DRE with VVPAT,Scanner"
+869,"Ballot Marking Device,Scanner"
+870,"Ballot Marking Device,Scanner"
+871,"DRE with VVPAT,Scanner"
+872,"Ballot Marking Device,Scanner"
+873,"DRE with VVPAT,Scanner"
+874,"DRE with VVPAT,Scanner"
+875,"DRE with VVPAT,Scanner"
+876,"Ballot Marking Device,Scanner"
+877,"DRE with VVPAT,Scanner"
+878,"DRE with VVPAT,Scanner"
+879,"DRE with VVPAT,Scanner"
+880,"DRE with VVPAT,Scanner"
+881,"DRE with VVPAT,Scanner"
+882,"DRE with VVPAT,Scanner"
+883,"DRE with VVPAT,Scanner"
+884,"Ballot Marking Device,Scanner"
+885,"Ballot Marking Device,Scanner"
+886,"DRE with VVPAT,Scanner"
+887,"Ballot Marking Device,Scanner"
+888,"DRE with VVPAT,Scanner"
+889,"Ballot Marking Device,Scanner"
+890,"Ballot Marking Device,Scanner"
+891,"DRE with VVPAT,Scanner"
+892,"Ballot Marking Device,Scanner"
+893,"DRE with VVPAT,Scanner"
+894,"Ballot Marking Device,DRE with VVPAT,Scanner"
+895,"DRE with VVPAT,Scanner"
+896,"DRE with VVPAT,Scanner"
+897,"DRE with VVPAT,Scanner"
+898,"DRE with VVPAT,Scanner"
+899,"DRE with VVPAT,Scanner"
+900,"Ballot Marking Device,Scanner"
+901,"Ballot Marking Device,Scanner"
+902,"DRE with VVPAT,Scanner"
+903,"DRE with VVPAT,Scanner"
+904,"DRE with VVPAT,Scanner"
+905,"Ballot Marking Device,Scanner"
+906,"DRE with VVPAT,Scanner"
+907,"Ballot Marking Device,Scanner"
+908,"DRE with VVPAT,Scanner"
+909,"DRE with VVPAT,Scanner"
+910,"DRE with VVPAT,Scanner"
+911,"DRE with VVPAT,Scanner"
+912,"DRE with VVPAT,Scanner"
+913,"DRE with VVPAT,Scanner"
+914,Scanner
+915,"DRE with VVPAT,Scanner"
+916,"DRE with VVPAT,Scanner"
+917,"Ballot Marking Device,Scanner"
+918,"Ballot Marking Device,Scanner"
+919,"DRE with VVPAT,Scanner"
+920,"Ballot Marking Device,Scanner"
+921,"DRE with VVPAT,Scanner"
+922,Scanner
+923,"DRE with VVPAT,Scanner"
+924,"Ballot Marking Device,Scanner"
+925,"Ballot Marking Device,Scanner"
+926,"DRE with VVPAT,Scanner"
+927,"DRE with VVPAT,Scanner"
+928,"DRE with VVPAT,Scanner"
+1133,"Ballot Marking Device,Scanner"
+1134,"Ballot Marking Device,Scanner"
+1135,"Ballot Marking Device,Scanner"
+1136,"Ballot Marking Device,Scanner"
+1137,"Ballot Marking Device,Scanner"
+1138,"Ballot Marking Device,Scanner"
+1139,"Ballot Marking Device,Scanner"
+1140,"Ballot Marking Device,Scanner"
+1141,"Ballot Marking Device,Scanner"
+1142,"Ballot Marking Device,Scanner"
+1143,"Ballot Marking Device,Scanner"
+1144,"Ballot Marking Device,Scanner"
+1145,"Ballot Marking Device,Scanner"
+1146,"Ballot Marking Device,Scanner"
+1147,"Ballot Marking Device,Scanner"
+1148,"Ballot Marking Device,Scanner"
+1149,"Ballot Marking Device,Scanner"
+1150,"Ballot Marking Device,Scanner"
+1151,"Ballot Marking Device,Scanner"
+1152,"Ballot Marking Device,Scanner"
+1153,"Ballot Marking Device,Scanner"
+1154,"Ballot Marking Device,Scanner"
+1155,"Ballot Marking Device,Scanner"
+1156,"Ballot Marking Device,Scanner"
+1157,"Ballot Marking Device,Scanner"
+1158,"Ballot Marking Device,Scanner"
+1159,"Ballot Marking Device,Scanner"
+1160,"Ballot Marking Device,Scanner"
+1161,"Ballot Marking Device,Scanner"
+1162,"Ballot Marking Device,Scanner"
+1163,"Ballot Marking Device,Scanner"
+1164,"Ballot Marking Device,Scanner"
+1165,"Ballot Marking Device,Scanner"
+1166,"Ballot Marking Device,Scanner"
+1167,"Ballot Marking Device,Scanner"
+1168,"Ballot Marking Device,Scanner"
+1169,"Ballot Marking Device,Scanner"
+1170,"Ballot Marking Device,Scanner"
+1171,"Ballot Marking Device,Scanner"
+1172,"Ballot Marking Device,Scanner"
+1173,"Ballot Marking Device,Scanner"
+1174,"Ballot Marking Device,Scanner"
+1175,"Ballot Marking Device,Scanner"
+1176,"Ballot Marking Device,Scanner"
+1177,"Ballot Marking Device,Scanner"
+1178,"Ballot Marking Device,Scanner"
+1179,"Ballot Marking Device,Scanner"
+1180,"Ballot Marking Device,Scanner"
+1181,"Ballot Marking Device,Scanner"
+1182,"Ballot Marking Device,Scanner"
+1183,"Ballot Marking Device,Scanner"
+1184,"Ballot Marking Device,Scanner"
+1185,"Ballot Marking Device,Scanner"
+1186,"Ballot Marking Device,Scanner"
+1187,"Ballot Marking Device,Scanner"
+1188,"Ballot Marking Device,Scanner"
+1189,"Ballot Marking Device,Scanner"
+1190,"Ballot Marking Device,Scanner"
+1191,"Ballot Marking Device,Scanner"
+1192,"Ballot Marking Device,Scanner"
+1193,"Ballot Marking Device,Scanner"
+1194,"Ballot Marking Device,Scanner"
+1195,"Ballot Marking Device,Scanner"
+1196,"Ballot Marking Device,Scanner"
+1197,"Ballot Marking Device,Scanner"
+1198,"Ballot Marking Device,Scanner"
+1199,"Ballot Marking Device,Scanner"
+1200,"Ballot Marking Device,Scanner"
+1201,"Ballot Marking Device,Scanner"
+1202,"Ballot Marking Device,Scanner"
+1203,"Ballot Marking Device,Scanner"
+1204,"Ballot Marking Device,Scanner"
+1205,"Ballot Marking Device,Scanner"
+1206,"Ballot Marking Device,Scanner"
+1207,"Ballot Marking Device,Scanner"
+1208,"Ballot Marking Device,Scanner"
+1209,"Ballot Marking Device,Scanner"
+1210,"Ballot Marking Device,Scanner"
+1211,"Ballot Marking Device,Scanner"
+1212,"Ballot Marking Device,Scanner"
+1213,"Ballot Marking Device,Scanner"
+1214,"Ballot Marking Device,Scanner"
+1215,"Ballot Marking Device,Scanner"
+1216,"Ballot Marking Device,Scanner"
+1217,"Ballot Marking Device,Scanner"
+1218,"Ballot Marking Device,Scanner"
+1219,"Ballot Marking Device,Scanner"
+1220,"Ballot Marking Device,Scanner"
+1221,"Ballot Marking Device,Scanner"
+1222,"Ballot Marking Device,Scanner"
+1223,"Ballot Marking Device,Scanner"
+1224,"Ballot Marking Device,Scanner"
+1225,"Ballot Marking Device,Scanner"
+1226,"Ballot Marking Device,Scanner"
+1227,"Ballot Marking Device,Scanner"
+1228,"Ballot Marking Device,Scanner"
+1229,"Ballot Marking Device,Scanner"
+1230,"Ballot Marking Device,Scanner"
+1231,"Ballot Marking Device,Scanner"
+1232,"Ballot Marking Device,Scanner"
+1233,"Ballot Marking Device,Scanner"
+1234,"Ballot Marking Device,Scanner"
+1235,"Ballot Marking Device,Scanner"
+1236,"Ballot Marking Device,Scanner"
+1237,"Ballot Marking Device,Scanner"
+1238,"Ballot Marking Device,Scanner"
+1239,"Ballot Marking Device,Scanner"
+1240,"Ballot Marking Device,Scanner"
+1241,"Ballot Marking Device,Scanner"
+1242,"Ballot Marking Device,Scanner"
+1243,"Ballot Marking Device,Scanner"
+1244,"Ballot Marking Device,Scanner"
+1245,"Ballot Marking Device,Scanner"
+1246,"Ballot Marking Device,Scanner"
+1247,"Ballot Marking Device,Scanner"
+1248,"Ballot Marking Device,Scanner"
+1249,"Ballot Marking Device,Scanner"
+1250,"Ballot Marking Device,Scanner"
+1251,"Ballot Marking Device,Scanner"
+1252,"Ballot Marking Device,Scanner"
+1253,"DRE no VVPAT,Scanner"
+1254,"DRE no VVPAT,Scanner"
+1255,"DRE no VVPAT,Scanner"
+1256,"DRE no VVPAT,Scanner"
+1257,"DRE no VVPAT,Scanner"
+1258,"DRE no VVPAT,Scanner"
+1259,"DRE no VVPAT,Scanner"
+1260,"DRE no VVPAT,Scanner"
+1261,"DRE no VVPAT,Scanner"
+1262,"DRE no VVPAT,Scanner"
+1263,"DRE no VVPAT,Scanner"
+1264,"DRE no VVPAT,Scanner"
+1265,"DRE no VVPAT,Scanner"
+1266,"DRE no VVPAT,Scanner"
+1267,"DRE no VVPAT,Scanner"
+1268,"DRE no VVPAT,Scanner"
+1269,"DRE no VVPAT,Scanner"
+1270,"DRE no VVPAT,Scanner"
+1271,"DRE no VVPAT,Scanner"
+1272,"DRE no VVPAT,Scanner"
+1273,"DRE no VVPAT,Scanner"
+1274,"DRE no VVPAT,Scanner"
+1275,"DRE no VVPAT,Scanner"
+1276,"DRE no VVPAT,Scanner"
+1277,"DRE no VVPAT,Scanner"
+1278,"DRE no VVPAT,Scanner"
+1279,"DRE no VVPAT,Scanner"
+1280,"DRE no VVPAT,Scanner"
+1281,"DRE no VVPAT,Scanner"
+1282,"DRE no VVPAT,Scanner"
+1283,"DRE no VVPAT,Scanner"
+1284,"DRE no VVPAT,Scanner"
+1285,"DRE no VVPAT,Scanner"
+1286,"DRE no VVPAT,Scanner"
+1287,"DRE no VVPAT,Scanner"
+1288,"DRE no VVPAT,Scanner"
+1289,"DRE no VVPAT,Scanner"
+1290,"DRE no VVPAT,Scanner"
+1291,"DRE no VVPAT,Scanner"
+1292,"DRE no VVPAT,Scanner"
+1293,"DRE no VVPAT,Scanner"
+1294,"DRE no VVPAT,Scanner"
+1295,"DRE no VVPAT,Scanner"
+1296,"DRE no VVPAT,Scanner"
+1297,"DRE no VVPAT,Scanner"
+1298,"DRE no VVPAT,Scanner"
+1299,"DRE no VVPAT,Scanner"
+1300,"DRE no VVPAT,Scanner"
+1301,"DRE no VVPAT,Scanner"
+1302,"DRE no VVPAT,Scanner"
+1303,"DRE no VVPAT,Scanner"
+1304,"DRE no VVPAT,Scanner"
+1305,"DRE no VVPAT,Scanner"
+1306,"DRE no VVPAT,Scanner"
+1307,"DRE no VVPAT,Scanner"
+1308,"DRE no VVPAT,Scanner"
+1309,"DRE no VVPAT,Scanner"
+1310,"DRE no VVPAT,Scanner"
+1311,"DRE no VVPAT,Scanner"
+1312,"DRE no VVPAT,Scanner"
+1313,"DRE no VVPAT,Scanner"
+1314,"DRE no VVPAT,Scanner"
+1315,"DRE no VVPAT,Scanner"
+1316,"DRE no VVPAT,Scanner"
+1318,"Ballot Marking Device,Scanner"
+1319,"Ballot Marking Device,Scanner"
+1320,"Ballot Marking Device,Scanner"
+1321,"Ballot Marking Device,Scanner"
+1322,"Ballot Marking Device,Scanner"
+1323,"Ballot Marking Device,Scanner"
+1324,"Ballot Marking Device,Scanner"
+1325,"Ballot Marking Device,Scanner"
+1326,"Ballot Marking Device,Scanner"
+1327,"Ballot Marking Device,Scanner"
+1328,"Ballot Marking Device,Scanner"
+1329,"Ballot Marking Device,Scanner"
+1330,"Ballot Marking Device,Scanner"
+1331,"Ballot Marking Device,Scanner"
+1332,Ballot Marking Device
+1333,Ballot Marking Device
+1334,"Ballot Marking Device,Scanner"
+1335,Ballot Marking Device
+1336,Ballot Marking Device
+1337,"Ballot Marking Device,Scanner"
+1338,Ballot Marking Device
+1339,Ballot Marking Device
+1340,Ballot Marking Device
+1341,"Ballot Marking Device,Scanner"
+1342,"Ballot Marking Device,Scanner"
+1343,Ballot Marking Device
+1344,Ballot Marking Device
+1345,"Ballot Marking Device,Scanner"
+1346,"Ballot Marking Device,Scanner"
+1347,"Ballot Marking Device,Scanner"
+1348,"Ballot Marking Device,Scanner"
+1349,"Ballot Marking Device,Scanner"
+1350,Ballot Marking Device
+1351,Ballot Marking Device
+1352,Ballot Marking Device
+1353,Ballot Marking Device
+1354,Ballot Marking Device
+1355,Ballot Marking Device
+1356,Ballot Marking Device
+1357,"Ballot Marking Device,Scanner"
+1358,"Ballot Marking Device,Scanner"
+1359,"Ballot Marking Device,Scanner"
+1360,"Ballot Marking Device,Scanner"
+1361,"Ballot Marking Device,Scanner"
+1362,"Ballot Marking Device,Scanner"
+1363,Ballot Marking Device
+1364,Ballot Marking Device
+1365,"Ballot Marking Device,Scanner"
+1366,"Ballot Marking Device,Scanner"
+1367,"Ballot Marking Device,Scanner"
+1368,Ballot Marking Device
+1369,Ballot Marking Device
+1370,Ballot Marking Device
+1371,Ballot Marking Device
+1372,Ballot Marking Device
+1373,Ballot Marking Device
+1374,Ballot Marking Device
+1375,Ballot Marking Device
+1376,Ballot Marking Device
+1377,Ballot Marking Device
+1378,Ballot Marking Device
+1379,Ballot Marking Device
+1380,Ballot Marking Device
+1381,"Ballot Marking Device,Scanner"
+1382,Ballot Marking Device
+1383,"Ballot Marking Device,Scanner"
+1384,Ballot Marking Device
+1385,Ballot Marking Device
+1386,"Ballot Marking Device,Scanner"
+1387,Ballot Marking Device
+1388,Ballot Marking Device
+1389,Ballot Marking Device
+1390,"Ballot Marking Device,Scanner"
+1391,Ballot Marking Device
+1392,Ballot Marking Device
+1393,"Ballot Marking Device,Scanner"
+1394,Ballot Marking Device
+1395,Ballot Marking Device
+1396,Ballot Marking Device
+1397,Ballot Marking Device
+1398,"Ballot Marking Device,Scanner"
+1399,"Ballot Marking Device,Scanner"
+1400,"Ballot Marking Device,Scanner"
+1401,"Ballot Marking Device,Scanner"
+1402,"Ballot Marking Device,Scanner"
+1403,"Ballot Marking Device,Scanner"
+1404,"Ballot Marking Device,Scanner"
+1405,"Ballot Marking Device,Scanner"
+1406,"Ballot Marking Device,Scanner"
+1407,Ballot Marking Device
+1408,"Ballot Marking Device,Scanner"
+1409,"Ballot Marking Device,Scanner"
+1410,"Ballot Marking Device,Scanner"
+1411,"Ballot Marking Device,Scanner"
+1412,Ballot Marking Device
+1413,"Ballot Marking Device,Scanner"
+1414,"Ballot Marking Device,Scanner"
+1415,"Ballot Marking Device,Scanner"
+1416,"Ballot Marking Device,Scanner"
+1417,"Ballot Marking Device,Scanner"
+1418,"Ballot Marking Device,Scanner"
+1419,"Ballot Marking Device,Scanner"
+1420,"Ballot Marking Device,Scanner"
+1421,"Ballot Marking Device,Scanner"
+1422,"Ballot Marking Device,Scanner"
+1423,"Ballot Marking Device,Scanner"
+1424,"Ballot Marking Device,Scanner"
+1425,"Ballot Marking Device,Scanner"
+1426,Ballot Marking Device
+1427,"Ballot Marking Device,Scanner"
+1428,"Ballot Marking Device,Scanner"
+1429,"Ballot Marking Device,Scanner"
+1430,Ballot Marking Device
+1431,Ballot Marking Device
+1432,"Ballot Marking Device,Scanner"
+1433,"Ballot Marking Device,Scanner"
+1434,"Ballot Marking Device,Scanner"
+1435,"Ballot Marking Device,Scanner"
+1436,"Ballot Marking Device,Scanner"
+1437,"Ballot Marking Device,Scanner"
+1438,Ballot Marking Device
+1439,"Ballot Marking Device,Scanner"
+1440,"Ballot Marking Device,Scanner"
+1441,Ballot Marking Device
+1442,Ballot Marking Device
+1443,"Ballot Marking Device,Scanner"
+1444,Ballot Marking Device
+1445,Ballot Marking Device
+1446,"Ballot Marking Device,Scanner"
+1447,Ballot Marking Device
+1448,Ballot Marking Device
+1449,"Ballot Marking Device,Scanner"
+1450,"Ballot Marking Device,Scanner"
+1451,"Ballot Marking Device,Scanner"
+1452,"Ballot Marking Device,Scanner"
+1453,"Ballot Marking Device,Scanner"
+1454,"Ballot Marking Device,Scanner"
+1455,Ballot Marking Device
+1456,"Ballot Marking Device,Scanner"
+1457,"Ballot Marking Device,Scanner"
+1458,"Ballot Marking Device,Scanner"
+1459,"Ballot Marking Device,Scanner"
+1460,"Ballot Marking Device,Scanner"
+1461,Ballot Marking Device
+1462,"Ballot Marking Device,Scanner"
+1463,Ballot Marking Device
+1464,"Ballot Marking Device,Scanner"
+1465,"Ballot Marking Device,Scanner"
+1466,Ballot Marking Device
+1467,"Ballot Marking Device,Scanner"
+1468,"Ballot Marking Device,Scanner"
+1469,Ballot Marking Device
+1470,"Ballot Marking Device,Scanner"
+1471,"Ballot Marking Device,Scanner"
+1472,"Ballot Marking Device,Scanner"
+1473,Ballot Marking Device
+1474,"Ballot Marking Device,Scanner"
+1475,"Ballot Marking Device,Scanner"
+1476,"Ballot Marking Device,Scanner"
+1477,"Ballot Marking Device,Scanner"
+1478,Ballot Marking Device
+1479,"Ballot Marking Device,Scanner"
+1480,"Ballot Marking Device,Scanner"
+1481,Ballot Marking Device
+1482,Ballot Marking Device
+1483,Ballot Marking Device
+1484,"Ballot Marking Device,Scanner"
+1485,"Ballot Marking Device,Scanner"
+1486,"Ballot Marking Device,Scanner"
+1487,"Ballot Marking Device,Scanner"
+1488,"Ballot Marking Device,Scanner"
+1489,"Ballot Marking Device,Scanner"
+1490,"Ballot Marking Device,Scanner"
+1491,"Ballot Marking Device,Scanner"
+1492,"Ballot Marking Device,Scanner"
+1493,"Ballot Marking Device,Scanner"
+1494,"Ballot Marking Device,Scanner"
+1495,"Ballot Marking Device,Scanner"
+1496,"Ballot Marking Device,Scanner"
+1497,"Ballot Marking Device,Scanner"
+1498,"Ballot Marking Device,Scanner"
+1499,"Ballot Marking Device,Scanner"
+1500,"Ballot Marking Device,Scanner"
+1501,"Ballot Marking Device,Scanner"
+1502,"Ballot Marking Device,Scanner"
+1503,"Ballot Marking Device,Scanner"
+1504,"Ballot Marking Device,Scanner"
+1505,"Ballot Marking Device,Scanner"
+1506,"Ballot Marking Device,Scanner"
+1507,"Ballot Marking Device,Scanner"
+1508,"Ballot Marking Device,Scanner"
+1509,"Ballot Marking Device,Scanner"
+1510,"Ballot Marking Device,Scanner"
+1511,"Ballot Marking Device,Scanner"
+1512,"Ballot Marking Device,Scanner"
+1513,"Ballot Marking Device,Scanner"
+1514,"Ballot Marking Device,Scanner"
+1515,"Ballot Marking Device,Scanner"
+1516,"Ballot Marking Device,Scanner"
+1517,"Ballot Marking Device,Scanner"
+1518,Ballot Marking Device
+1519,Ballot Marking Device
+1520,Ballot Marking Device
+1521,"Ballot Marking Device,Scanner"
+1522,"Ballot Marking Device,Scanner"
+1523,"Ballot Marking Device,Scanner"
+1524,"Ballot Marking Device,Scanner"
+1525,"Ballot Marking Device,Scanner"
+1526,"Ballot Marking Device,Scanner"
+1527,"Ballot Marking Device,Scanner"
+1528,"Ballot Marking Device,Scanner"
+1529,"Ballot Marking Device,Scanner"
+1530,"Ballot Marking Device,Scanner"
+1531,Ballot Marking Device
+1532,"Ballot Marking Device,Scanner"
+1533,"Ballot Marking Device,Scanner"
+1534,"Ballot Marking Device,Scanner"
+1535,"Ballot Marking Device,Scanner"
+1536,"Ballot Marking Device,Scanner"
+1537,"Ballot Marking Device,Scanner"
+1538,"Ballot Marking Device,Scanner"
+1539,"Ballot Marking Device,Scanner"
+1540,Ballot Marking Device
+1541,"Ballot Marking Device,Scanner"
+1542,"Ballot Marking Device,Scanner"
+1543,Ballot Marking Device
+1544,"Ballot Marking Device,Scanner"
+1545,"Ballot Marking Device,Scanner"
+1546,"Ballot Marking Device,Scanner"
+1547,"Ballot Marking Device,Scanner"
+1548,"Ballot Marking Device,Scanner"
+1549,"Ballot Marking Device,Scanner"
+1550,Ballot Marking Device
+1551,"Ballot Marking Device,Scanner"
+1552,"Ballot Marking Device,Scanner"
+1553,"Ballot Marking Device,Scanner"
+1554,Ballot Marking Device
+1555,"Ballot Marking Device,Scanner"
+1556,"Ballot Marking Device,Scanner"
+1557,"Ballot Marking Device,Scanner"
+1558,"Ballot Marking Device,Scanner"
+1559,"Ballot Marking Device,Scanner"
+1560,"Ballot Marking Device,Scanner"
+1561,Ballot Marking Device
+1562,"Ballot Marking Device,Scanner"
+1563,"Ballot Marking Device,Scanner"
+1564,"Ballot Marking Device,Scanner"
+1565,Ballot Marking Device
+1566,"Ballot Marking Device,Scanner"
+1567,Ballot Marking Device
+1568,"Ballot Marking Device,Scanner"
+1569,"Ballot Marking Device,Scanner"
+1570,"Ballot Marking Device,Scanner"
+1571,"Ballot Marking Device,Scanner"
+1572,"Ballot Marking Device,Scanner"
+1573,"Ballot Marking Device,Scanner"
+1574,"Ballot Marking Device,Scanner"
+1575,"Ballot Marking Device,Scanner"
+1576,Ballot Marking Device
+1577,"Ballot Marking Device,Scanner"
+1578,Ballot Marking Device
+1579,Ballot Marking Device
+1580,"Ballot Marking Device,Scanner"
+1581,Ballot Marking Device
+1582,Ballot Marking Device
+1583,"Ballot Marking Device,Scanner"
+1584,"Ballot Marking Device,Scanner"
+1585,"Ballot Marking Device,Scanner"
+1586,"Ballot Marking Device,Scanner"
+1587,"Ballot Marking Device,Scanner"
+1588,"Ballot Marking Device,Scanner"
+1589,"Ballot Marking Device,Scanner"
+1590,"Ballot Marking Device,Scanner"
+1591,Ballot Marking Device
+1592,"Ballot Marking Device,Scanner"
+1593,Ballot Marking Device
+1594,"Ballot Marking Device,Scanner"
+1595,Ballot Marking Device
+1596,"Ballot Marking Device,Scanner"
+1597,"Ballot Marking Device,Scanner"
+1598,"Ballot Marking Device,Scanner"
+1599,"Ballot Marking Device,Scanner"
+1600,"Ballot Marking Device,Scanner"
+1601,Ballot Marking Device
+1602,"Ballot Marking Device,Scanner"
+1603,"Ballot Marking Device,Scanner"
+1604,Ballot Marking Device
+1605,"Ballot Marking Device,Scanner"
+1606,"Ballot Marking Device,Scanner"
+1607,"Ballot Marking Device,Scanner"
+1608,"Ballot Marking Device,Scanner"
+1609,"Ballot Marking Device,Scanner"
+1610,"Ballot Marking Device,Scanner"
+1611,"Ballot Marking Device,Scanner"
+1612,"Ballot Marking Device,Scanner"
+1613,"Ballot Marking Device,Scanner"
+1614,"Ballot Marking Device,Scanner"
+1615,"Ballot Marking Device,Scanner"
+1616,"Ballot Marking Device,Scanner"
+1617,Ballot Marking Device
+1618,"Ballot Marking Device,Scanner"
+1619,Ballot Marking Device
+1620,"Ballot Marking Device,Scanner"
+1621,"Ballot Marking Device,Scanner"
+1622,"Ballot Marking Device,Scanner"
+1623,Ballot Marking Device
+1624,"Ballot Marking Device,Scanner"
+1625,Ballot Marking Device
+1626,"Ballot Marking Device,Scanner"
+1627,"Ballot Marking Device,Scanner"
+1628,"Ballot Marking Device,Scanner"
+1629,Ballot Marking Device
+1630,"Ballot Marking Device,Scanner"
+1631,"Ballot Marking Device,Scanner"
+1632,"Ballot Marking Device,Scanner"
+1633,"Ballot Marking Device,Scanner"
+1634,"Ballot Marking Device,Scanner"
+1635,Ballot Marking Device
+1636,"Ballot Marking Device,Scanner"
+1637,Ballot Marking Device
+1638,"Ballot Marking Device,Scanner"
+1639,Ballot Marking Device
+1640,Ballot Marking Device
+1641,Ballot Marking Device
+1642,Ballot Marking Device
+1643,"Ballot Marking Device,Scanner"
+1644,"Ballot Marking Device,Scanner"
+1645,Ballot Marking Device
+1646,Ballot Marking Device
+1647,Ballot Marking Device
+1648,"Ballot Marking Device,Scanner"
+1649,Ballot Marking Device
+1650,Ballot Marking Device
+1651,"Ballot Marking Device,Scanner"
+1652,"Ballot Marking Device,Scanner"
+1653,"Ballot Marking Device,Scanner"
+1654,"Ballot Marking Device,Scanner"
+1655,"Ballot Marking Device,Scanner"
+1656,Ballot Marking Device
+1657,Ballot Marking Device
+1658,"Ballot Marking Device,Scanner"
+1659,Ballot Marking Device
+1660,Ballot Marking Device
+1661,"Ballot Marking Device,Scanner"
+1662,"Ballot Marking Device,Scanner"
+1663,Ballot Marking Device
+1664,Ballot Marking Device
+1665,Ballot Marking Device
+1666,"Ballot Marking Device,Scanner"
+1667,"Ballot Marking Device,Scanner"
+1668,"Ballot Marking Device,Scanner"
+1669,"Ballot Marking Device,Scanner"
+1670,"Ballot Marking Device,Scanner"
+1671,"Ballot Marking Device,Scanner"
+1672,"Ballot Marking Device,Scanner"
+1673,"Ballot Marking Device,Scanner"
+1674,"Ballot Marking Device,Scanner"
+1675,"Ballot Marking Device,Scanner"
+1676,"Ballot Marking Device,Scanner"
+1677,"Ballot Marking Device,Scanner"
+1678,"Ballot Marking Device,Scanner"
+1679,Ballot Marking Device
+1680,Ballot Marking Device
+1681,"Ballot Marking Device,Scanner"
+1682,Ballot Marking Device
+1683,"Ballot Marking Device,Scanner"
+1684,Ballot Marking Device
+1685,"Ballot Marking Device,Scanner"
+1686,"Ballot Marking Device,Scanner"
+1687,"Ballot Marking Device,Scanner"
+1688,"Ballot Marking Device,Scanner"
+1689,"Ballot Marking Device,Scanner"
+1690,Ballot Marking Device
+1691,"Ballot Marking Device,Scanner"
+1692,"Ballot Marking Device,Scanner"
+1693,Ballot Marking Device
+1694,Ballot Marking Device
+1695,"Ballot Marking Device,Scanner"
+1696,Ballot Marking Device
+1697,"Ballot Marking Device,Scanner"
+1698,"Ballot Marking Device,Scanner"
+1699,"Ballot Marking Device,Scanner"
+1700,Ballot Marking Device
+1701,Ballot Marking Device
+1702,"Ballot Marking Device,Scanner"
+1703,"Ballot Marking Device,Scanner"
+1704,"Ballot Marking Device,Scanner"
+1705,"Ballot Marking Device,Scanner"
+1706,Ballot Marking Device
+1707,Ballot Marking Device
+1708,Ballot Marking Device
+1709,"Ballot Marking Device,Scanner"
+1710,"Ballot Marking Device,Scanner"
+1711,"Ballot Marking Device,Scanner"
+1712,"Ballot Marking Device,Scanner"
+1713,"Ballot Marking Device,Scanner"
+1714,Ballot Marking Device
+1715,"Ballot Marking Device,Scanner"
+1716,Ballot Marking Device
+1717,"Ballot Marking Device,Scanner"
+1718,"Ballot Marking Device,Scanner"
+1719,"Ballot Marking Device,Scanner"
+1720,"Ballot Marking Device,Scanner"
+1721,Ballot Marking Device
+1722,"Ballot Marking Device,Scanner"
+1723,"Ballot Marking Device,Scanner"
+1724,"Ballot Marking Device,Scanner"
+1725,Ballot Marking Device
+1726,"Ballot Marking Device,Scanner"
+1727,"Ballot Marking Device,Scanner"
+1728,"Ballot Marking Device,Scanner"
+1729,"Ballot Marking Device,Scanner"
+1730,"Ballot Marking Device,Scanner"
+1731,"Ballot Marking Device,Scanner"
+1732,"Ballot Marking Device,Scanner"
+1733,"Ballot Marking Device,Scanner"
+1734,"Ballot Marking Device,Scanner"
+1735,Ballot Marking Device
+1736,"Ballot Marking Device,Scanner"
+1737,Ballot Marking Device
+1738,"Ballot Marking Device,Scanner"
+1739,Ballot Marking Device
+1740,Ballot Marking Device
+1741,Ballot Marking Device
+1742,"Ballot Marking Device,Scanner"
+1743,Ballot Marking Device
+1744,"Ballot Marking Device,Scanner"
+1745,Ballot Marking Device
+1746,Ballot Marking Device
+1747,Ballot Marking Device
+1748,Ballot Marking Device
+1749,Ballot Marking Device
+1750,Ballot Marking Device
+1751,Ballot Marking Device
+1752,Ballot Marking Device
+1753,"Ballot Marking Device,Scanner"
+1754,"Ballot Marking Device,Scanner"
+1755,Ballot Marking Device
+1756,"Ballot Marking Device,Scanner"
+1757,Ballot Marking Device
+1758,"Ballot Marking Device,Scanner"
+1759,"Ballot Marking Device,Scanner"
+1760,"Ballot Marking Device,Scanner"
+1761,"Ballot Marking Device,Scanner"
+1762,Ballot Marking Device
+1763,Ballot Marking Device
+1764,"Ballot Marking Device,Scanner"
+1765,Ballot Marking Device
+1766,Ballot Marking Device
+1767,Ballot Marking Device
+1768,Ballot Marking Device
+1769,Ballot Marking Device
+1770,Ballot Marking Device
+1771,Ballot Marking Device
+1772,"Ballot Marking Device,Scanner"
+1773,Ballot Marking Device
+1774,Ballot Marking Device
+1775,Ballot Marking Device
+1776,Ballot Marking Device
+1777,Ballot Marking Device
+1778,Ballot Marking Device
+1779,Ballot Marking Device
+1780,"Ballot Marking Device,Scanner"
+1781,"Ballot Marking Device,Scanner"
+1782,"Ballot Marking Device,Scanner"
+1783,"Ballot Marking Device,Scanner"
+1784,"Ballot Marking Device,Scanner"
+1785,"Ballot Marking Device,Scanner"
+1786,"Ballot Marking Device,Scanner"
+1787,"Ballot Marking Device,Scanner"
+1788,"Ballot Marking Device,Scanner"
+1789,"Ballot Marking Device,Scanner"
+1790,"Ballot Marking Device,Scanner"
+1791,"Ballot Marking Device,Scanner"
+1792,"Ballot Marking Device,Scanner"
+1793,"Ballot Marking Device,Scanner"
+1794,"Ballot Marking Device,Scanner"
+1795,"Ballot Marking Device,Scanner"
+1796,"Ballot Marking Device,Scanner"
+1797,"Ballot Marking Device,Scanner"
+1798,"Ballot Marking Device,Scanner"
+1799,"Ballot Marking Device,Scanner"
+1800,"Ballot Marking Device,Scanner"
+1801,"Ballot Marking Device,Scanner"
+1802,"Ballot Marking Device,Scanner"
+1803,"Ballot Marking Device,Scanner"
+1804,"Ballot Marking Device,Scanner"
+1805,"Ballot Marking Device,Scanner"
+1806,"Ballot Marking Device,Scanner"
+1807,"Ballot Marking Device,Scanner"
+1808,"Ballot Marking Device,Scanner"
+1809,Ballot Marking Device
+1810,"Ballot Marking Device,Scanner"
+1811,Ballot Marking Device
+1812,Ballot Marking Device
+1813,Ballot Marking Device
+1814,"Ballot Marking Device,Scanner"
+1815,"Ballot Marking Device,Scanner"
+1816,"Ballot Marking Device,Scanner"
+1817,"Ballot Marking Device,Scanner"
+1818,"Ballot Marking Device,Scanner"
+1819,"Ballot Marking Device,Scanner"
+1820,"Ballot Marking Device,Scanner"
+1821,"Ballot Marking Device,Scanner"
+1822,"Ballot Marking Device,Scanner"
+1823,"Ballot Marking Device,Scanner"
+1824,"Ballot Marking Device,Scanner"
+1825,"Ballot Marking Device,Scanner"
+1826,"Ballot Marking Device,Scanner"
+1827,"Ballot Marking Device,Scanner"
+1828,"Ballot Marking Device,Scanner"
+1829,"Ballot Marking Device,Scanner"
+1830,"Ballot Marking Device,Scanner"
+1831,"Ballot Marking Device,Scanner"
+1832,"Ballot Marking Device,Scanner"
+1833,"Ballot Marking Device,Scanner"
+1834,"Ballot Marking Device,Scanner"
+1835,"Ballot Marking Device,Scanner"
+1836,"Ballot Marking Device,Scanner"
+1837,"Ballot Marking Device,Scanner"
+1838,"Ballot Marking Device,Scanner"
+1839,"Ballot Marking Device,Scanner"
+1840,"Ballot Marking Device,Scanner"
+1841,"Ballot Marking Device,Scanner"
+1842,"Ballot Marking Device,Scanner"
+1843,"Ballot Marking Device,Scanner"
+1844,"Ballot Marking Device,Scanner"
+1845,"Ballot Marking Device,Scanner"
+1846,"Ballot Marking Device,Scanner"
+1847,"Ballot Marking Device,Scanner"
+1848,"Ballot Marking Device,Scanner"
+1849,"Ballot Marking Device,Scanner"
+1850,Ballot Marking Device
+1851,"Ballot Marking Device,Scanner"
+1852,"Ballot Marking Device,Scanner"
+1853,"Ballot Marking Device,Scanner"
+1854,Ballot Marking Device
+1855,"Ballot Marking Device,Scanner"
+1856,"Ballot Marking Device,Scanner"
+1857,"Ballot Marking Device,Scanner"
+1858,"Ballot Marking Device,Scanner"
+1859,"Ballot Marking Device,Scanner"
+1860,Ballot Marking Device
+1861,"Ballot Marking Device,Scanner"
+1862,Ballot Marking Device
+1863,Ballot Marking Device
+1864,"Ballot Marking Device,Scanner"
+1865,"Ballot Marking Device,Scanner"
+1866,"Ballot Marking Device,Scanner"
+1867,Ballot Marking Device
+1868,Ballot Marking Device
+1869,Ballot Marking Device
+1870,"Ballot Marking Device,Scanner"
+1871,"Ballot Marking Device,Scanner"
+1872,"Ballot Marking Device,Scanner"
+1873,Ballot Marking Device
+1874,"Ballot Marking Device,Scanner"
+1875,"Ballot Marking Device,Scanner"
+1876,Ballot Marking Device
+1877,Ballot Marking Device
+1878,"Ballot Marking Device,Scanner"
+1879,"Ballot Marking Device,Scanner"
+1880,Ballot Marking Device
+1881,Ballot Marking Device
+1882,"Ballot Marking Device,Scanner"
+1883,"Ballot Marking Device,Scanner"
+1884,Ballot Marking Device
+1885,"Ballot Marking Device,Scanner"
+1886,"Ballot Marking Device,Scanner"
+1887,"Ballot Marking Device,Scanner"
+1888,"Ballot Marking Device,Scanner"
+1889,"Ballot Marking Device,Scanner"
+1890,"Ballot Marking Device,Scanner"
+1891,"Ballot Marking Device,Scanner"
+1892,"Ballot Marking Device,Scanner"
+1893,"Ballot Marking Device,Scanner"
+1894,"Ballot Marking Device,Scanner"
+1895,"Ballot Marking Device,Scanner"
+1896,"Ballot Marking Device,Scanner"
+1897,"Ballot Marking Device,Scanner"
+1898,"Ballot Marking Device,Scanner"
+1899,"Ballot Marking Device,Scanner"
+1900,"Ballot Marking Device,Scanner"
+1901,"Ballot Marking Device,Scanner"
+1902,"Ballot Marking Device,Scanner"
+1903,"Ballot Marking Device,Scanner"
+1904,"Ballot Marking Device,Scanner"
+1905,Ballot Marking Device
+1906,Ballot Marking Device
+1907,"Ballot Marking Device,Scanner"
+1908,Ballot Marking Device
+1909,"Ballot Marking Device,Scanner"
+1910,"Ballot Marking Device,Scanner"
+1911,"Ballot Marking Device,Scanner"
+1912,"Ballot Marking Device,Scanner"
+1913,"Ballot Marking Device,Scanner"
+1914,"Ballot Marking Device,Scanner"
+1915,"Ballot Marking Device,Scanner"
+1916,"Ballot Marking Device,Scanner"
+1917,"Ballot Marking Device,Scanner"
+1918,"Ballot Marking Device,Scanner"
+1919,"Ballot Marking Device,Scanner"
+1920,"Ballot Marking Device,Scanner"
+1921,"Ballot Marking Device,Scanner"
+1922,"Ballot Marking Device,Scanner"
+1923,"Ballot Marking Device,Scanner"
+1924,"Ballot Marking Device,Scanner"
+1925,"Ballot Marking Device,Scanner"
+1926,"Ballot Marking Device,Scanner"
+1927,"Ballot Marking Device,Scanner"
+1928,"Ballot Marking Device,Scanner"
+1929,"Ballot Marking Device,Scanner"
+1930,"Ballot Marking Device,Scanner"
+1931,"Ballot Marking Device,Scanner"
+1932,"Ballot Marking Device,Scanner"
+1933,"Ballot Marking Device,Scanner"
+1934,"Ballot Marking Device,Scanner"
+1935,"Ballot Marking Device,Scanner"
+1936,"Ballot Marking Device,Scanner"
+1937,"Ballot Marking Device,Scanner"
+1938,"Ballot Marking Device,Scanner"
+1939,"Ballot Marking Device,Scanner"
+1940,"Ballot Marking Device,Scanner"
+1941,"Ballot Marking Device,Scanner"
+1942,"Ballot Marking Device,Scanner"
+1943,"Ballot Marking Device,Scanner"
+1944,"Ballot Marking Device,Scanner"
+1945,"Ballot Marking Device,Scanner"
+1946,Ballot Marking Device
+1947,"Ballot Marking Device,Scanner"
+1948,"Ballot Marking Device,Scanner"
+1949,Ballot Marking Device
+1950,Ballot Marking Device
+1951,"Ballot Marking Device,Scanner"
+1952,"Ballot Marking Device,Scanner"
+1953,"Ballot Marking Device,Scanner"
+1954,"Ballot Marking Device,Scanner"
+1955,"Ballot Marking Device,Scanner"
+1956,Ballot Marking Device
+1957,Ballot Marking Device
+1958,Ballot Marking Device
+1959,Ballot Marking Device
+1960,Ballot Marking Device
+1961,"Ballot Marking Device,Scanner"
+1962,Ballot Marking Device
+1963,"Ballot Marking Device,Scanner"
+1964,"Ballot Marking Device,Scanner"
+1965,Ballot Marking Device
+1966,"Ballot Marking Device,Scanner"
+1967,Ballot Marking Device
+1968,"Ballot Marking Device,Scanner"
+1969,Ballot Marking Device
+1970,Ballot Marking Device
+1971,Ballot Marking Device
+1972,"Ballot Marking Device,Scanner"
+1973,"Ballot Marking Device,Scanner"
+1974,"Ballot Marking Device,Scanner"
+1975,Ballot Marking Device
+1976,"Ballot Marking Device,Scanner"
+1977,"Ballot Marking Device,Scanner"
+1978,Ballot Marking Device
+1979,Ballot Marking Device
+1980,"Ballot Marking Device,Scanner"
+1981,"Ballot Marking Device,Scanner"
+1982,"Ballot Marking Device,Scanner"
+1983,"Ballot Marking Device,Scanner"
+1984,"Ballot Marking Device,Scanner"
+1985,Ballot Marking Device
+1986,"Ballot Marking Device,Scanner"
+1987,"Ballot Marking Device,Scanner"
+1988,"Ballot Marking Device,Scanner"
+1989,"Ballot Marking Device,Scanner"
+1990,Ballot Marking Device
+1991,"Ballot Marking Device,Scanner"
+1992,"Ballot Marking Device,Scanner"
+1993,"Ballot Marking Device,Scanner"
+1994,"Ballot Marking Device,Scanner"
+1995,"Ballot Marking Device,Scanner"
+1996,"Ballot Marking Device,Scanner"
+1997,Ballot Marking Device
+1998,Ballot Marking Device
+1999,"Ballot Marking Device,Scanner"
+2000,Ballot Marking Device
+2001,"Ballot Marking Device,Scanner"
+2002,"Ballot Marking Device,Scanner"
+2003,"Ballot Marking Device,Scanner"
+2004,Ballot Marking Device
+2005,Ballot Marking Device
+2006,"Ballot Marking Device,Scanner"
+2007,"Ballot Marking Device,Scanner"
+2008,Ballot Marking Device
+2009,"Ballot Marking Device,Scanner"
+2010,"Ballot Marking Device,Scanner"
+2011,"Ballot Marking Device,Scanner"
+2012,Ballot Marking Device
+2013,"Ballot Marking Device,Scanner"
+2014,Ballot Marking Device
+2015,"Ballot Marking Device,Scanner"
+2016,"Ballot Marking Device,Scanner"
+2017,Ballot Marking Device
+2018,"Ballot Marking Device,Scanner"
+2019,"Ballot Marking Device,Scanner"
+2020,"Ballot Marking Device,Scanner"
+2021,"Ballot Marking Device,Scanner"
+2022,"Ballot Marking Device,Scanner"
+2023,"Ballot Marking Device,Scanner"
+2024,"Ballot Marking Device,Scanner"
+2025,"Ballot Marking Device,Scanner"
+2026,"Ballot Marking Device,Scanner"
+2027,"Ballot Marking Device,Scanner"
+2028,"Ballot Marking Device,Scanner"
+2029,"Ballot Marking Device,Scanner"
+2030,"Ballot Marking Device,Scanner"
+2031,"Ballot Marking Device,Scanner"
+2032,"Ballot Marking Device,Scanner"
+2033,"Ballot Marking Device,Scanner"
+2034,"Ballot Marking Device,Scanner"
+2035,"Ballot Marking Device,Scanner"
+2036,"Ballot Marking Device,Scanner"
+2037,"Ballot Marking Device,Scanner"
+2038,"Ballot Marking Device,Scanner"
+2039,"Ballot Marking Device,Scanner"
+2040,"Ballot Marking Device,Scanner"
+2041,"Ballot Marking Device,Scanner"
+2042,"Ballot Marking Device,Scanner"
+2043,"Ballot Marking Device,Scanner"
+2044,"Ballot Marking Device,Scanner"
+2045,"Ballot Marking Device,Scanner"
+2046,"Ballot Marking Device,Scanner"
+2047,"Ballot Marking Device,Scanner"
+2048,"Ballot Marking Device,Scanner"
+2049,"Ballot Marking Device,Scanner"
+2050,"Ballot Marking Device,Scanner"
+2051,"Ballot Marking Device,Scanner"
+2052,"Ballot Marking Device,Scanner"
+2053,"Ballot Marking Device,Scanner"
+2054,"Ballot Marking Device,Scanner"
+2055,"Ballot Marking Device,Scanner"
+2056,"Ballot Marking Device,Scanner"
+2057,"Ballot Marking Device,Scanner"
+2058,"Ballot Marking Device,Scanner"
+2059,"Ballot Marking Device,Scanner"
+2060,"Ballot Marking Device,Scanner"
+2061,"Ballot Marking Device,Scanner"
+2062,"Ballot Marking Device,Scanner"
+2063,"Ballot Marking Device,Scanner"
+2064,"Ballot Marking Device,Scanner"
+2065,"Ballot Marking Device,Scanner"
+2066,"Ballot Marking Device,Scanner"
+2067,"Ballot Marking Device,Scanner"
+2068,"Ballot Marking Device,Scanner"
+2069,"Ballot Marking Device,Scanner"
+2070,"Ballot Marking Device,Scanner"
+2071,"Ballot Marking Device,Scanner"
+2072,"Ballot Marking Device,Scanner"
+2073,"Ballot Marking Device,Scanner"
+2074,"Ballot Marking Device,Scanner"
+2075,"Ballot Marking Device,Scanner"
+2076,"Ballot Marking Device,Scanner"
+2077,"Ballot Marking Device,Scanner"
+2078,"Ballot Marking Device,Scanner"
+2079,"Ballot Marking Device,Scanner"
+2080,"Ballot Marking Device,Scanner"
+2081,"Ballot Marking Device,Scanner"
+2082,"Ballot Marking Device,Scanner"
+2083,"Ballot Marking Device,Scanner"
+2084,"Ballot Marking Device,Scanner"
+2085,"Ballot Marking Device,Scanner"
+2086,"Ballot Marking Device,Scanner"
+2087,"Ballot Marking Device,Scanner"
+2088,"Ballot Marking Device,Scanner"
+2089,"Ballot Marking Device,Scanner"
+2090,"Ballot Marking Device,Scanner"
+2091,"Ballot Marking Device,Scanner"
+2092,"Ballot Marking Device,Scanner"
+2093,"Ballot Marking Device,Scanner"
+2094,"Ballot Marking Device,Scanner"
+2095,"Ballot Marking Device,Scanner"
+2096,"Ballot Marking Device,Scanner"
+2097,"Ballot Marking Device,Scanner"
+2098,"Ballot Marking Device,Scanner"
+2099,"Ballot Marking Device,Scanner"
+2100,"Ballot Marking Device,Scanner"
+2101,"Ballot Marking Device,Scanner"
+2102,"Ballot Marking Device,Scanner"
+2103,"Ballot Marking Device,Scanner"
+2104,"Ballot Marking Device,Scanner"
+2105,"Ballot Marking Device,Scanner"
+2106,"Ballot Marking Device,Scanner"
+2107,"Ballot Marking Device,Scanner"
+2108,"Ballot Marking Device,Scanner"
+2109,"Ballot Marking Device,Scanner"
+2110,"Ballot Marking Device,Scanner"
+2111,"Ballot Marking Device,Scanner"
+2112,"Ballot Marking Device,Scanner"
+2113,"Ballot Marking Device,Scanner"
+2114,"Ballot Marking Device,Scanner"
+2115,"Ballot Marking Device,Scanner"
+2116,"Ballot Marking Device,Scanner"
+2117,"Ballot Marking Device,Scanner"
+2118,"Ballot Marking Device,Scanner"
+2119,"Ballot Marking Device,Scanner"
+2120,"Ballot Marking Device,Scanner"
+2121,"Ballot Marking Device,Scanner"
+2122,"Ballot Marking Device,Scanner"
+2123,"Ballot Marking Device,Scanner"
+2124,"Ballot Marking Device,Scanner"
+2125,"Ballot Marking Device,Scanner"
+2126,"Ballot Marking Device,Scanner"
+2127,"Ballot Marking Device,Scanner"
+2128,"Ballot Marking Device,Scanner"
+2129,"Ballot Marking Device,Scanner"
+2130,"Ballot Marking Device,Scanner"
+2131,"Ballot Marking Device,Scanner"
+2132,"Ballot Marking Device,Scanner"
+2133,"Ballot Marking Device,Scanner"
+2134,"Ballot Marking Device,Scanner"
+2135,"Ballot Marking Device,Scanner"
+2136,"Ballot Marking Device,Scanner"
+2137,"Ballot Marking Device,Scanner"
+2138,"Ballot Marking Device,Scanner"
+2139,"Ballot Marking Device,Scanner"
+2140,"Ballot Marking Device,Scanner"
+2141,"Ballot Marking Device,Scanner"
+2142,"Ballot Marking Device,Scanner"
+2143,"Ballot Marking Device,Scanner"
+2144,"Ballot Marking Device,Scanner"
+2145,"Ballot Marking Device,Scanner"
+2146,"Ballot Marking Device,Scanner"
+2147,"Ballot Marking Device,Scanner"
+2148,"Ballot Marking Device,Scanner"
+2149,"Ballot Marking Device,Scanner"
+2150,"Ballot Marking Device,Scanner"
+2151,"Ballot Marking Device,Scanner"
+2152,"Ballot Marking Device,Scanner"
+2153,"Ballot Marking Device,Scanner"
+2154,"Ballot Marking Device,Scanner"
+2155,"Ballot Marking Device,Scanner"
+2156,"Ballot Marking Device,Scanner"
+2157,"Ballot Marking Device,Scanner"
+2158,Ballot Marking Device
+2159,Ballot Marking Device
+2160,"Ballot Marking Device,Scanner"
+2161,"Ballot Marking Device,Scanner"
+2162,"Ballot Marking Device,Scanner"
+2163,"Ballot Marking Device,Scanner"
+2164,"Ballot Marking Device,Scanner"
+2165,"Ballot Marking Device,Scanner"
+2166,Ballot Marking Device
+2167,Ballot Marking Device
+2168,"Ballot Marking Device,Scanner"
+2169,Ballot Marking Device
+2170,"Ballot Marking Device,Scanner"
+2171,"Ballot Marking Device,Scanner"
+2172,"Ballot Marking Device,Scanner"
+2173,"Ballot Marking Device,Scanner"
+2174,"Ballot Marking Device,Scanner"
+2175,"Ballot Marking Device,Scanner"
+2176,"Ballot Marking Device,Scanner"
+2177,"Ballot Marking Device,Scanner"
+2178,"Ballot Marking Device,Scanner"
+2179,"Ballot Marking Device,Scanner"
+2180,"Ballot Marking Device,Scanner"
+2181,"Ballot Marking Device,Scanner"
+2182,"Ballot Marking Device,Scanner"
+2183,"Ballot Marking Device,Scanner"
+2184,"Ballot Marking Device,Scanner"
+2185,"Ballot Marking Device,Scanner"
+2186,"Ballot Marking Device,Scanner"
+2187,"Ballot Marking Device,Scanner"
+2188,"Ballot Marking Device,Scanner"
+2189,"Ballot Marking Device,Scanner"
+2190,"Ballot Marking Device,Scanner"
+2191,"Ballot Marking Device,Scanner"
+2192,"Ballot Marking Device,Scanner"
+2193,"Ballot Marking Device,Scanner"
+2194,"Ballot Marking Device,Scanner"
+2195,"Ballot Marking Device,Scanner"
+2196,"Ballot Marking Device,Scanner"
+2197,"Ballot Marking Device,Scanner"
+2198,"Ballot Marking Device,Scanner"
+2199,"Ballot Marking Device,Scanner"
+2200,"Ballot Marking Device,Scanner"
+2201,"Ballot Marking Device,Scanner"
+2202,"Ballot Marking Device,Scanner"
+2203,"Ballot Marking Device,Scanner"
+2204,"Ballot Marking Device,Scanner"
+2205,"Ballot Marking Device,Scanner"
+2206,"Ballot Marking Device,Scanner"
+2207,"Ballot Marking Device,Scanner"
+2208,"Ballot Marking Device,Scanner"
+2209,"Ballot Marking Device,Scanner"
+2210,"Ballot Marking Device,Scanner"
+2211,"Ballot Marking Device,Scanner"
+2212,"Ballot Marking Device,Scanner"
+2213,"Ballot Marking Device,Scanner"
+2214,"Ballot Marking Device,Scanner"
+2215,"Ballot Marking Device,Scanner"
+2216,"Ballot Marking Device,Scanner"
+2217,"Ballot Marking Device,Scanner"
+2218,"Ballot Marking Device,Scanner"
+2219,"Ballot Marking Device,Scanner"
+2220,"Ballot Marking Device,Scanner"
+2221,"Ballot Marking Device,Scanner"
+2222,"Ballot Marking Device,Scanner"
+2223,"Ballot Marking Device,Scanner"
+2224,"Ballot Marking Device,Scanner"
+2225,"Ballot Marking Device,Scanner"
+2226,"Ballot Marking Device,Scanner"
+2227,"Ballot Marking Device,Scanner"
+2228,"Ballot Marking Device,Scanner"
+2229,"Ballot Marking Device,Scanner"
+2230,"Ballot Marking Device,Scanner"
+2231,"Ballot Marking Device,Scanner"
+2232,"Ballot Marking Device,Scanner"
+2233,"Ballot Marking Device,Scanner"
+2234,"Ballot Marking Device,Scanner"
+2235,"Ballot Marking Device,Scanner"
+2236,"Ballot Marking Device,Scanner"
+2237,"Ballot Marking Device,Scanner"
+2238,"Ballot Marking Device,Scanner"
+2239,"Ballot Marking Device,Scanner"
+2240,"Ballot Marking Device,Scanner"
+2241,"Ballot Marking Device,Scanner"
+2242,"Ballot Marking Device,Scanner"
+2243,"Ballot Marking Device,Scanner"
+2244,"Ballot Marking Device,Scanner"
+2245,"Ballot Marking Device,Scanner"
+2246,"Ballot Marking Device,Scanner"
+2247,"Ballot Marking Device,Scanner"
+2248,"Ballot Marking Device,Scanner"
+2249,"Ballot Marking Device,Scanner"
+2250,"Ballot Marking Device,Scanner"
+2251,"Ballot Marking Device,Scanner"
+2252,"Ballot Marking Device,Scanner"
+2253,"Ballot Marking Device,Scanner"
+2254,"Ballot Marking Device,Scanner"
+2255,"Ballot Marking Device,Scanner"
+2256,"Ballot Marking Device,Scanner"
+2257,"Ballot Marking Device,Scanner"
+2258,"Ballot Marking Device,Scanner"
+2259,"Ballot Marking Device,Scanner"
+2260,"Ballot Marking Device,Scanner"
+2261,"Ballot Marking Device,Scanner"
+2262,"Ballot Marking Device,Scanner"
+2263,"Ballot Marking Device,Scanner"
+2264,"Ballot Marking Device,Scanner"
+2265,"Ballot Marking Device,Scanner"
+2266,"Ballot Marking Device,Scanner"
+2267,"Ballot Marking Device,Scanner"
+2268,"Ballot Marking Device,Scanner"
+2269,"Ballot Marking Device,Scanner"
+2270,"Ballot Marking Device,Scanner"
+2271,"Ballot Marking Device,Scanner"
+2272,"Ballot Marking Device,Scanner"
+2273,"Ballot Marking Device,Scanner"
+2274,"Ballot Marking Device,Scanner"
+2275,"Ballot Marking Device,Scanner"
+2276,"Ballot Marking Device,Scanner"
+2277,"Ballot Marking Device,Scanner"
+2278,"Ballot Marking Device,Scanner"
+2279,"Ballot Marking Device,Scanner"
+2280,"Ballot Marking Device,Scanner"
+2281,"Ballot Marking Device,Scanner"
+2282,"Ballot Marking Device,Scanner"
+2283,"Ballot Marking Device,Scanner"
+2284,"Ballot Marking Device,Scanner"
+2285,"Ballot Marking Device,Scanner"
+2286,"Ballot Marking Device,Scanner"
+2287,"Ballot Marking Device,Scanner"
+2288,"Ballot Marking Device,Scanner"
+2289,"Ballot Marking Device,Scanner"
+2290,"Ballot Marking Device,Scanner"
+2291,"Ballot Marking Device,Scanner"
+2292,"Ballot Marking Device,Scanner"
+2293,"Ballot Marking Device,Scanner"
+2294,"Ballot Marking Device,Scanner"
+2295,"Ballot Marking Device,Scanner"
+2296,"Ballot Marking Device,Scanner"
+2297,"Ballot Marking Device,Scanner"
+2298,"Ballot Marking Device,Scanner"
+2299,"Ballot Marking Device,Scanner"
+2300,"Ballot Marking Device,Scanner"
+2301,"Ballot Marking Device,Scanner"
+2302,"Ballot Marking Device,Scanner"
+2303,"Ballot Marking Device,Scanner"
+2304,"Ballot Marking Device,Scanner"
+2305,"Ballot Marking Device,Scanner"
+2306,"Ballot Marking Device,Scanner"
+2307,"Ballot Marking Device,Scanner"
+2308,"Ballot Marking Device,Scanner"
+2309,"Ballot Marking Device,Scanner"
+2310,"Ballot Marking Device,Scanner"
+2311,"Ballot Marking Device,Scanner"
+2312,"Ballot Marking Device,Scanner"
+2313,"Ballot Marking Device,Scanner"
+2314,"Ballot Marking Device,Scanner"
+2315,"Ballot Marking Device,Scanner"
+2316,"Ballot Marking Device,Scanner"
+2317,"Ballot Marking Device,Scanner"
+2318,"Ballot Marking Device,Scanner"
+2319,"Ballot Marking Device,Scanner"
+2320,"Ballot Marking Device,Scanner"
+2321,"Ballot Marking Device,Scanner"
+2322,"Ballot Marking Device,Scanner"
+2323,"Ballot Marking Device,Scanner"
+2324,"Ballot Marking Device,Scanner"
+2325,"Ballot Marking Device,Scanner"
+2326,"Ballot Marking Device,Scanner"
+2327,"Ballot Marking Device,Scanner"
+2328,"Ballot Marking Device,Scanner"
+2329,"Ballot Marking Device,Scanner"
+2330,"Ballot Marking Device,Scanner"
+2331,"Ballot Marking Device,Scanner"
+2332,"Ballot Marking Device,Scanner"
+2333,"Ballot Marking Device,Scanner"
+2334,"Ballot Marking Device,Scanner"
+2335,"Ballot Marking Device,Scanner"
+2336,"Ballot Marking Device,Scanner"
+2337,"Ballot Marking Device,Scanner"
+2338,"Ballot Marking Device,Scanner"
+2339,"Ballot Marking Device,Scanner"
+2340,"Ballot Marking Device,Scanner"
+2341,"Ballot Marking Device,Scanner"
+2342,"Ballot Marking Device,Scanner"
+2343,"Ballot Marking Device,Scanner"
+2344,"Ballot Marking Device,Scanner"
+2345,"Ballot Marking Device,Scanner"
+2346,"Ballot Marking Device,Scanner"
+2347,"Ballot Marking Device,Scanner"
+2348,"Ballot Marking Device,Scanner"
+2349,"Ballot Marking Device,Scanner"
+2350,"Ballot Marking Device,Scanner"
+2351,"Ballot Marking Device,Scanner"
+2352,"Ballot Marking Device,Scanner"
+2353,"Ballot Marking Device,Scanner"
+2354,"Ballot Marking Device,Scanner"
+2355,"Ballot Marking Device,Scanner"
+2356,"Ballot Marking Device,Scanner"
+2357,"Ballot Marking Device,Scanner"
+2358,"Ballot Marking Device,Scanner"
+2359,"Ballot Marking Device,Scanner"
+2360,"Ballot Marking Device,Scanner"
+2361,"Ballot Marking Device,Scanner"
+2362,"Ballot Marking Device,Scanner"
+2363,"Ballot Marking Device,Scanner"
+2364,"Ballot Marking Device,Scanner"
+2365,"Ballot Marking Device,Scanner"
+2366,"Ballot Marking Device,Scanner"
+2367,"Ballot Marking Device,Scanner"
+2368,"Ballot Marking Device,Scanner"
+2369,"Ballot Marking Device,Scanner"
+2370,"Ballot Marking Device,Scanner"
+2371,"Ballot Marking Device,Scanner"
+2372,"Ballot Marking Device,Scanner"
+2373,"Ballot Marking Device,Scanner"
+2374,"Ballot Marking Device,Scanner"
+2375,"Ballot Marking Device,Scanner"
+2376,"Ballot Marking Device,Scanner"
+2377,"Ballot Marking Device,Scanner"
+2378,"Ballot Marking Device,Scanner"
+2379,"Ballot Marking Device,Scanner"
+2380,"Ballot Marking Device,Scanner"
+2381,"Ballot Marking Device,Scanner"
+2382,"Ballot Marking Device,Scanner"
+2383,"Ballot Marking Device,Scanner"
+2384,"Ballot Marking Device,Scanner"
+2385,"Ballot Marking Device,Scanner"
+2386,"Ballot Marking Device,Scanner"
+2387,"Ballot Marking Device,Scanner"
+2388,"Ballot Marking Device,Scanner"
+2389,"Ballot Marking Device,Scanner"
+2390,"Ballot Marking Device,Scanner"
+2391,"Ballot Marking Device,Scanner"
+2392,"Ballot Marking Device,Scanner"
+2393,"Ballot Marking Device,Scanner"
+2394,"Ballot Marking Device,Scanner"
+2395,"Ballot Marking Device,Scanner"
+2396,"Ballot Marking Device,Scanner"
+2397,"Ballot Marking Device,Scanner"
+2398,"Ballot Marking Device,Scanner"
+2399,"Ballot Marking Device,Scanner"
+2400,"Ballot Marking Device,Scanner"
+2401,"Ballot Marking Device,Scanner"
+2402,"Ballot Marking Device,Scanner"
+2403,"Ballot Marking Device,Scanner"
+2404,"Ballot Marking Device,Scanner"
+2405,"Ballot Marking Device,Scanner"
+2406,"Ballot Marking Device,Scanner"
+2407,"Ballot Marking Device,Scanner"
+2408,"Ballot Marking Device,Scanner"
+2409,"Ballot Marking Device,Scanner"
+2410,"Ballot Marking Device,Scanner"
+2411,"Ballot Marking Device,Scanner"
+2412,"Ballot Marking Device,Scanner"
+2413,"Ballot Marking Device,Scanner"
+2414,"Ballot Marking Device,Scanner"
+2415,"Ballot Marking Device,Scanner"
+2416,"Ballot Marking Device,Scanner"
+2417,"Ballot Marking Device,Scanner"
+2418,"Ballot Marking Device,Scanner"
+2419,"Ballot Marking Device,Scanner"
+2420,"Ballot Marking Device,Scanner"
+2421,"Ballot Marking Device,Scanner"
+2422,"Ballot Marking Device,Scanner"
+2423,"Ballot Marking Device,Scanner"
+2424,"Ballot Marking Device,Scanner"
+2425,"Ballot Marking Device,Scanner"
+2426,"Ballot Marking Device,Scanner"
+2427,"Ballot Marking Device,Scanner"
+2428,"Ballot Marking Device,Scanner"
+2429,"Ballot Marking Device,Scanner"
+2430,"Ballot Marking Device,Scanner"
+2431,"Ballot Marking Device,Scanner"
+2432,"Ballot Marking Device,Scanner"
+2433,"Ballot Marking Device,Scanner"
+2434,"Ballot Marking Device,Scanner"
+2435,"Ballot Marking Device,Scanner"
+2436,"Ballot Marking Device,Scanner"
+2437,"Ballot Marking Device,Scanner"
+2438,"Ballot Marking Device,Scanner"
+2439,"Ballot Marking Device,Scanner"
+2440,"Ballot Marking Device,Scanner"
+2441,"Ballot Marking Device,Scanner"
+2442,Scanner
+2443,"Ballot Marking Device,Scanner"
+2444,Ballot Marking Device
+2445,"Ballot Marking Device,Scanner"
+2446,"Ballot Marking Device,Scanner"
+2447,"Ballot Marking Device,Scanner"
+2448,"Ballot Marking Device,Scanner"
+2449,"Ballot Marking Device,Scanner"
+2450,"Ballot Marking Device,Scanner"
+2451,"Ballot Marking Device,Scanner"
+2452,"Ballot Marking Device,Scanner"
+2453,"Ballot Marking Device,Scanner"
+2454,"Ballot Marking Device,Scanner"
+2455,"Ballot Marking Device,Scanner"
+2456,"Ballot Marking Device,Scanner"
+2457,"Ballot Marking Device,Scanner"
+2458,"Ballot Marking Device,Scanner"
+2459,"Ballot Marking Device,Scanner"
+2460,"Ballot Marking Device,Scanner"
+2461,"Ballot Marking Device,Scanner"
+2462,"Ballot Marking Device,Scanner"
+2463,"Ballot Marking Device,Scanner"
+2464,"Ballot Marking Device,Scanner"
+2465,Scanner
+2466,"Ballot Marking Device,Scanner"
+2467,"Ballot Marking Device,Scanner"
+2468,"Ballot Marking Device,Scanner"
+2469,"Ballot Marking Device,Scanner"
+2470,"Ballot Marking Device,Scanner"
+2471,"Ballot Marking Device,Scanner"
+2472,"Ballot Marking Device,Scanner"
+2473,"Ballot Marking Device,Scanner"
+2474,"Ballot Marking Device,Scanner"
+2475,"Ballot Marking Device,Scanner"
+2476,"Ballot Marking Device,Scanner"
+2477,"Ballot Marking Device,Scanner"
+2478,"Ballot Marking Device,Scanner"
+2479,"Ballot Marking Device,Scanner"
+2480,"Ballot Marking Device,Scanner"
+2481,"Ballot Marking Device,Scanner"
+2482,"Ballot Marking Device,Scanner"
+2483,"Ballot Marking Device,Scanner"
+2484,"Ballot Marking Device,Scanner"
+2485,"Ballot Marking Device,Scanner"
+2486,"Ballot Marking Device,Scanner"
+2487,"Ballot Marking Device,Scanner"
+2488,"Ballot Marking Device,Scanner"
+2489,"Ballot Marking Device,Scanner"
+2490,"Ballot Marking Device,Scanner"
+2491,"Ballot Marking Device,Scanner"
+2492,"Ballot Marking Device,Scanner"
+2493,"Ballot Marking Device,Scanner"
+2494,"Ballot Marking Device,Scanner"
+2495,"Ballot Marking Device,Scanner"
+2496,"Ballot Marking Device,Scanner"
+2497,"Ballot Marking Device,Scanner"
+2498,"Ballot Marking Device,Scanner"
+2499,"Ballot Marking Device,Scanner"
+2500,"Ballot Marking Device,Scanner"
+2501,"Ballot Marking Device,Scanner"
+2502,"Ballot Marking Device,Scanner"
+2503,"Ballot Marking Device,Scanner"
+2504,"Ballot Marking Device,Scanner"
+2505,"Ballot Marking Device,Scanner"
+2506,"Ballot Marking Device,Scanner"
+2507,"Ballot Marking Device,Scanner"
+2508,"Ballot Marking Device,Scanner"
+2509,"Ballot Marking Device,Scanner"
+2510,"Ballot Marking Device,Scanner"
+2511,"Ballot Marking Device,Scanner"
+2512,"Ballot Marking Device,Scanner"
+2513,"Ballot Marking Device,Scanner"
+2514,"Ballot Marking Device,Scanner"
+2515,"Ballot Marking Device,Scanner"
+2516,"Ballot Marking Device,Scanner"
+2517,"Ballot Marking Device,Scanner"
+2518,"Ballot Marking Device,Scanner"
+2519,"Ballot Marking Device,Scanner"
+2520,"Ballot Marking Device,Scanner"
+2521,"Ballot Marking Device,Scanner"
+2522,"Ballot Marking Device,Scanner"
+2523,"Ballot Marking Device,Scanner"
+2524,"Ballot Marking Device,Scanner"
+2525,"Ballot Marking Device,Scanner"
+2526,"Ballot Marking Device,Scanner"
+2527,"Ballot Marking Device,Scanner"
+2528,"Ballot Marking Device,Scanner"
+2529,"Ballot Marking Device,Scanner"
+2530,"Ballot Marking Device,Scanner"
+2531,"Ballot Marking Device,Scanner"
+2532,"Ballot Marking Device,Scanner"
+2533,"Ballot Marking Device,Scanner"
+2534,"Ballot Marking Device,Scanner"
+2535,"Ballot Marking Device,Scanner"
+2536,"Ballot Marking Device,Scanner"
+2537,"Ballot Marking Device,Scanner"
+2538,"Ballot Marking Device,Scanner"
+2539,"Ballot Marking Device,Scanner"
+2540,"Ballot Marking Device,Scanner"
+2541,"Ballot Marking Device,Scanner"
+2542,"Ballot Marking Device,Scanner"
+2543,"Ballot Marking Device,Scanner"
+2544,"Ballot Marking Device,Scanner"
+2545,"Ballot Marking Device,Scanner"
+2546,"Ballot Marking Device,Scanner"
+2547,"Ballot Marking Device,Scanner"
+2548,"Ballot Marking Device,Scanner"
+2549,"Ballot Marking Device,Scanner"
+2550,"Ballot Marking Device,Scanner"
+2551,"Ballot Marking Device,Scanner"
+2552,"Ballot Marking Device,Scanner"
+2554,"Ballot Marking Device,Scanner"
+2555,"Ballot Marking Device,Scanner"
+2556,"Ballot Marking Device,Scanner"
+2557,"Ballot Marking Device,Scanner"
+2558,"Ballot Marking Device,Scanner"
+2559,"Ballot Marking Device,Scanner"
+2560,"Ballot Marking Device,Scanner"
+2561,"Ballot Marking Device,Scanner"
+2562,"Ballot Marking Device,Scanner"
+2563,"Ballot Marking Device,Scanner"
+2564,"Ballot Marking Device,Scanner"
+2565,"Ballot Marking Device,Scanner"
+2566,Ballot Marking Device
+2567,"Ballot Marking Device,Scanner"
+2568,"Ballot Marking Device,Scanner"
+2569,Ballot Marking Device
+2570,"Ballot Marking Device,Scanner"
+2571,"Ballot Marking Device,Scanner"
+2572,"Ballot Marking Device,Scanner"
+2573,Ballot Marking Device
+2574,"Ballot Marking Device,Scanner"
+2575,Ballot Marking Device
+2576,"Ballot Marking Device,Scanner"
+2577,"Ballot Marking Device,Scanner"
+2578,"Ballot Marking Device,Scanner"
+2579,"Ballot Marking Device,Scanner"
+2580,"Ballot Marking Device,Scanner"
+2581,"Ballot Marking Device,Scanner"
+2582,"Ballot Marking Device,Scanner"
+2583,"Ballot Marking Device,Scanner"
+2584,Ballot Marking Device
+2585,"Ballot Marking Device,Scanner"
+2586,Ballot Marking Device
+2587,"Ballot Marking Device,Scanner"
+2588,"Ballot Marking Device,Scanner"
+2589,"Ballot Marking Device,Scanner"
+2590,"Ballot Marking Device,Scanner"
+2591,"Ballot Marking Device,Scanner"
+2592,"Ballot Marking Device,Scanner"
+2593,"Ballot Marking Device,Scanner"
+2594,Ballot Marking Device
+2595,"Ballot Marking Device,Scanner"
+2596,Ballot Marking Device
+2597,"Ballot Marking Device,Scanner"
+2598,"Ballot Marking Device,Scanner"
+2599,"Ballot Marking Device,Scanner"
+2600,"Ballot Marking Device,Scanner"
+2601,"Ballot Marking Device,Scanner"
+2602,"Ballot Marking Device,Scanner"
+2603,"Ballot Marking Device,Scanner"
+2604,"Ballot Marking Device,Scanner"
+2605,"Ballot Marking Device,Scanner"
+2606,"Ballot Marking Device,Scanner"
+2607,"Ballot Marking Device,Scanner"
+2608,Ballot Marking Device
+2609,"Ballot Marking Device,Scanner"
+2610,"Ballot Marking Device,Scanner"
+2611,"Ballot Marking Device,Scanner"
+2612,"Ballot Marking Device,Scanner"
+2613,"Ballot Marking Device,Scanner"
+2614,"Ballot Marking Device,Scanner"
+2615,"Ballot Marking Device,Scanner"
+2616,"Ballot Marking Device,Scanner"
+2617,"Ballot Marking Device,Scanner"
+2618,"Ballot Marking Device,Scanner"
+2619,"Ballot Marking Device,Scanner"
+2620,"Ballot Marking Device,Scanner"
+2621,"Ballot Marking Device,Scanner"
+2622,"Ballot Marking Device,Scanner"
+2623,"Ballot Marking Device,Scanner"
+2624,"Ballot Marking Device,Scanner"
+2625,"Ballot Marking Device,Scanner"
+2626,"Ballot Marking Device,Scanner"
+2627,"Ballot Marking Device,Scanner"
+2628,"Ballot Marking Device,Scanner"
+2629,"Ballot Marking Device,Scanner"
+2630,"Ballot Marking Device,Scanner"
+2631,"Ballot Marking Device,Scanner"
+2632,"Ballot Marking Device,Scanner"
+2633,"Ballot Marking Device,Scanner"
+2634,"Ballot Marking Device,Scanner"
+2635,"Ballot Marking Device,Scanner"
+2636,"Ballot Marking Device,Scanner"
+2637,"Ballot Marking Device,Scanner"
+2638,"Ballot Marking Device,Scanner"
+2639,"Ballot Marking Device,Scanner"
+2640,"Ballot Marking Device,Scanner"
+2641,"Ballot Marking Device,Scanner"
+2642,"Ballot Marking Device,Scanner"
+2643,"Ballot Marking Device,Scanner"
+2644,"Ballot Marking Device,Scanner"
+2645,"Ballot Marking Device,Scanner"
+2646,"Ballot Marking Device,Scanner"
+2647,"Ballot Marking Device,Scanner"
+2648,"Ballot Marking Device,Scanner"
+2649,"Ballot Marking Device,Scanner"
+2650,"Ballot Marking Device,Scanner"
+2651,"Ballot Marking Device,Scanner"
+2652,"Ballot Marking Device,Scanner"
+2653,"Ballot Marking Device,Scanner"
+2654,"Ballot Marking Device,Scanner"
+2655,"Ballot Marking Device,Scanner"
+2656,"Ballot Marking Device,Scanner"
+2657,"Ballot Marking Device,Scanner"
+2658,"Ballot Marking Device,Scanner"
+2659,"Ballot Marking Device,Scanner"
+2660,"Ballot Marking Device,Scanner"
+2661,"Ballot Marking Device,Scanner"
+2662,"Ballot Marking Device,Scanner"
+2663,"Ballot Marking Device,Scanner"
+2664,"Ballot Marking Device,Scanner"
+2665,"Ballot Marking Device,Scanner"
+2666,"Ballot Marking Device,Scanner"
+2667,"Ballot Marking Device,Scanner"
+2668,"Ballot Marking Device,Scanner"
+2669,"Ballot Marking Device,Scanner"
+2670,"Ballot Marking Device,Scanner"
+2671,"Ballot Marking Device,Scanner"
+2672,"Ballot Marking Device,Scanner"
+2673,"Ballot Marking Device,Scanner"
+2674,"Ballot Marking Device,Scanner"
+2675,"Ballot Marking Device,Scanner"
+2676,"Ballot Marking Device,Scanner"
+2677,"Ballot Marking Device,Scanner"
+2678,"Ballot Marking Device,Scanner"
+2679,"Ballot Marking Device,Scanner"
+2680,"Ballot Marking Device,Scanner"
+2681,"Ballot Marking Device,Scanner"
+2682,"Ballot Marking Device,Scanner"
+2683,"Ballot Marking Device,Scanner"
+2684,"Ballot Marking Device,Scanner"
+2685,"Ballot Marking Device,Scanner"
+2686,"Ballot Marking Device,Scanner"
+2687,"Ballot Marking Device,Scanner"
+2688,"Ballot Marking Device,Scanner"
+2689,"Ballot Marking Device,Scanner"
+2690,"Ballot Marking Device,Scanner"
+2691,"Ballot Marking Device,Scanner"
+2692,"Ballot Marking Device,Scanner"
+2693,"Ballot Marking Device,Scanner"
+2694,"Ballot Marking Device,Scanner"
+2695,"Ballot Marking Device,Scanner"
+2696,"Ballot Marking Device,Scanner"
+2697,"Ballot Marking Device,Scanner"
+2698,"Ballot Marking Device,Scanner"
+2699,"Ballot Marking Device,Scanner"
+2700,"Ballot Marking Device,Scanner"
+2701,"Ballot Marking Device,Scanner"
+2702,"Ballot Marking Device,Scanner"
+2703,"Ballot Marking Device,Scanner"
+2704,"Ballot Marking Device,Scanner"
+2705,"Ballot Marking Device,Scanner"
+2706,"DRE with VVPAT,Scanner"
+2707,"DRE with VVPAT,Scanner"
+2708,"DRE with VVPAT,Scanner"
+2709,"DRE with VVPAT,Scanner"
+2710,"Ballot Marking Device,Scanner"
+2711,"Ballot Marking Device,Scanner"
+2712,"DRE with VVPAT,Scanner"
+2713,"Ballot Marking Device,Scanner"
+2714,"DRE with VVPAT,Scanner"
+2715,"DRE with VVPAT,Scanner"
+2716,"Ballot Marking Device,Scanner"
+2717,"DRE with VVPAT,Scanner"
+2718,"DRE with VVPAT,Scanner"
+2719,"DRE with VVPAT,Scanner"
+2720,"DRE with VVPAT,Scanner"
+2721,"Ballot Marking Device,Scanner"
+2722,"Ballot Marking Device,Scanner"
+2723,Scanner
+2724,Scanner
+2725,Scanner
+2727,Scanner
+2728,Scanner
+2729,Scanner
+2730,Scanner
+2731,Scanner
+2732,Scanner
+2733,Scanner
+2734,Scanner
+2735,Scanner
+2736,Scanner
+2737,Scanner
+2738,Scanner
+2740,Scanner
+2743,Scanner
+2749,Scanner
+2750,Scanner
+2751,Scanner
+2752,Scanner
+2754,Scanner
+2756,Scanner
+2757,Scanner
+2761,Scanner
+2764,Scanner
+2765,Scanner
+2766,Scanner
+2767,Scanner
+2768,Scanner
+2769,Scanner
+2770,Scanner
+2771,Scanner
+2775,Scanner
+2777,Scanner
+2780,Scanner
+2782,Scanner
+2783,Scanner
+2784,Scanner
+2788,Scanner
+2790,Scanner
+2803,Scanner
+2829,Scanner
+2832,Scanner
+2834,Scanner
+2835,Scanner
+2836,Scanner
+2840,Scanner
+2842,Scanner
+2844,Scanner
+2845,Scanner
+2849,Scanner
+2850,Scanner
+2851,Scanner
+2852,Scanner
+2854,Scanner
+2862,Scanner
+2865,Scanner
+2869,Scanner
+2870,Scanner
+2871,Scanner
+2872,Scanner
+2874,Scanner
+2877,Scanner
+2881,Scanner
+2882,Scanner
+2883,Scanner
+2884,Scanner
+2886,Scanner
+2887,Scanner
+2888,Scanner
+2889,Scanner
+2890,Scanner
+2891,Scanner
+2892,Scanner
+2893,Scanner
+2894,Scanner
+2895,Scanner
+2896,Scanner
+2897,Scanner
+2899,Scanner
+2900,Scanner
+2901,Scanner
+2902,Scanner
+2903,Scanner
+2904,Scanner
+2905,Scanner
+2906,Scanner
+2907,Scanner
+2908,Scanner
+2909,Scanner
+2910,Scanner
+2911,Scanner
+2912,Scanner
+2913,Scanner
+2914,Scanner
+2917,Scanner
+2918,Scanner
+2920,Scanner
+2922,Scanner
+2923,Scanner
+2925,Scanner
+2927,Scanner
+2928,Scanner
+2929,Scanner
+2930,Scanner
+2931,Scanner
+2932,Scanner
+2933,Scanner
+2934,Scanner
+2935,Scanner
+2936,Scanner
+2939,Scanner
+2940,Scanner
+2941,Scanner
+2942,Scanner
+2943,Scanner
+2945,Scanner
+2946,Scanner
+2947,Scanner
+2948,Scanner
+2949,Scanner
+2951,Scanner
+2952,Scanner
+2958,Scanner
+2959,Scanner
+2960,Scanner
+2961,Scanner
+2962,Scanner
+2963,Scanner
+2964,Scanner
+2965,Scanner
+2966,Scanner
+2967,Scanner
+2968,Scanner
+2969,Scanner
+2970,Scanner
+2971,Scanner
+2972,Scanner
+2973,Scanner
+2974,Scanner
+2975,Scanner
+2976,Scanner
+2978,Scanner
+2979,Scanner
+2980,Scanner
+2981,Scanner
+2982,Scanner
+2983,Scanner
+2984,Scanner
+2985,Scanner
+2986,Scanner
+2987,Scanner
+2988,Scanner
+2989,Scanner
+2990,Scanner
+2991,Scanner
+2992,Scanner
+2993,Scanner
+2994,Scanner
+2995,Scanner
+2997,Scanner
+2998,Scanner
+2999,Scanner
+3000,Scanner
+3001,Scanner
+3002,Scanner
+3003,Scanner
+3004,Scanner
+3005,Scanner
+3006,Scanner
+3007,Scanner
+3008,Scanner
+3009,Scanner
+3010,Scanner
+3011,Scanner
+3012,Scanner
+3013,Scanner
+3014,Scanner
+3015,Scanner
+3016,Scanner
+3017,Scanner
+3018,Scanner
+3019,Scanner
+3020,Scanner
+3021,Scanner
+3022,Scanner
+3023,Scanner
+3024,Scanner
+3025,Scanner
+3027,Scanner
+3028,Scanner
+3029,Scanner
+3030,Scanner
+3034,Scanner
+3037,Scanner
+3039,Scanner
+3040,Scanner
+3043,"Ballot Marking Device,Scanner"
+3044,"Ballot Marking Device,Scanner"
+3045,"Ballot Marking Device,Scanner"
+3046,"Ballot Marking Device,Scanner"
+3047,"Ballot Marking Device,Scanner"
+3048,"Ballot Marking Device,Scanner"
+3049,"Ballot Marking Device,Scanner"
+3050,"Ballot Marking Device,Scanner"
+3051,"Ballot Marking Device,Scanner"
+3052,"Ballot Marking Device,Scanner"
+3053,"Ballot Marking Device,Scanner"
+3054,"Ballot Marking Device,Scanner"
+3055,"Ballot Marking Device,Scanner"
+3056,"Ballot Marking Device,Scanner"
+3057,"Ballot Marking Device,Scanner"
+3058,"Ballot Marking Device,Scanner"
+3059,"Ballot Marking Device,Scanner"
+3060,"Ballot Marking Device,Scanner"
+3061,"Ballot Marking Device,Scanner"
+3062,"Ballot Marking Device,Scanner"
+3063,"Ballot Marking Device,Scanner"
+3064,Scanner
+3065,Scanner
+3066,Scanner
+3067,Scanner
+3068,Scanner
+3069,Scanner
+3070,Scanner
+3071,Scanner
+3072,Scanner
+3073,Scanner
+3074,Scanner
+3075,Scanner
+3076,Scanner
+3077,Scanner
+3078,Scanner
+3079,Scanner
+3080,Scanner
+3081,Scanner
+3082,Scanner
+3083,Scanner
+3084,Scanner
+3085,Scanner
+3086,Scanner
+3087,Scanner
+3088,Scanner
+3089,Scanner
+3090,Scanner
+3091,Scanner
+3092,Scanner
+3093,Scanner
+3094,Scanner
+3095,Scanner
+3096,Scanner
+3097,"Ballot Marking Device,Scanner"
+3098,"Ballot Marking Device,Scanner"
+3099,"Ballot Marking Device,Scanner"
+3100,"Ballot Marking Device,Scanner"
+3101,"Ballot Marking Device,Scanner"
+3102,"Ballot Marking Device,Scanner"
+3103,"Ballot Marking Device,Scanner"
+3104,"Ballot Marking Device,Scanner"
+3105,"Ballot Marking Device,Scanner"
+3106,"Ballot Marking Device,Scanner"
+3107,"Ballot Marking Device,Scanner"
+3108,"Ballot Marking Device,Scanner"
+3109,"Ballot Marking Device,Scanner"
+3110,"Ballot Marking Device,Scanner"
+3111,"Ballot Marking Device,Scanner"
+3112,"Ballot Marking Device,Scanner"
+3113,"Ballot Marking Device,Scanner"
+3114,"Ballot Marking Device,Scanner"
+3115,"Ballot Marking Device,Scanner"
+3116,"Ballot Marking Device,Scanner"
+3117,"Ballot Marking Device,Scanner"
+3118,"Ballot Marking Device,Scanner"
+3119,"Ballot Marking Device,Scanner"
+3120,"Ballot Marking Device,Scanner"
+3121,"Ballot Marking Device,Scanner"
+3122,"Ballot Marking Device,Scanner"
+3123,"Ballot Marking Device,Scanner"
+3124,"Ballot Marking Device,Scanner"
+3125,"Ballot Marking Device,Scanner"
+3126,"Ballot Marking Device,Scanner"
+3127,"Ballot Marking Device,Scanner"
+3128,"Ballot Marking Device,Scanner"
+3129,"Ballot Marking Device,Scanner"
+3130,"Ballot Marking Device,Scanner"
+3131,"Ballot Marking Device,Scanner"
+3132,"Ballot Marking Device,Scanner"
+3133,"Ballot Marking Device,Scanner"
+3134,"Ballot Marking Device,Scanner"
+3135,"Ballot Marking Device,Scanner"
+3136,"Ballot Marking Device,Scanner"
+3137,"Ballot Marking Device,Scanner"
+3138,"Ballot Marking Device,Scanner"
+3139,"Ballot Marking Device,Scanner"
+3140,"Ballot Marking Device,Scanner"
+3141,"Ballot Marking Device,Scanner"
+3142,"Ballot Marking Device,Scanner"
+3143,"Ballot Marking Device,Scanner"
+3144,"Ballot Marking Device,Scanner"
+3145,"Ballot Marking Device,Scanner"
+3146,"Ballot Marking Device,Scanner"
+3147,"Ballot Marking Device,Scanner"
+3148,"Ballot Marking Device,Scanner"
+3149,"Ballot Marking Device,Scanner"
+3150,"Ballot Marking Device,Scanner"
+3151,"Ballot Marking Device,Scanner"
+3152,"Ballot Marking Device,Scanner"
+3153,"Ballot Marking Device,Scanner"
+3154,"Ballot Marking Device,Scanner"
+3155,"Ballot Marking Device,Scanner"
+3156,"Ballot Marking Device,Scanner"
+3157,"Ballot Marking Device,Scanner"
+3158,"Ballot Marking Device,Scanner"
+3159,"Ballot Marking Device,Scanner"
+3160,"Ballot Marking Device,Scanner"
+3161,"Ballot Marking Device,Scanner"
+3162,"Ballot Marking Device,Scanner"
+3163,"Ballot Marking Device,Scanner"
+3164,"Ballot Marking Device,Scanner"
+3165,"Ballot Marking Device,Scanner"
+3166,"Ballot Marking Device,Scanner"
+3167,"Ballot Marking Device,Scanner"
+3168,"Ballot Marking Device,Scanner"
+3169,"Ballot Marking Device,Scanner"
+3170,"Ballot Marking Device,Scanner"
+3171,"Ballot Marking Device,Scanner"
+3172,"Ballot Marking Device,Scanner"
+3173,"Ballot Marking Device,Scanner"
+3174,"Ballot Marking Device,Scanner"
+3175,"Ballot Marking Device,Scanner"
+3176,"Ballot Marking Device,Scanner"
+3177,"Ballot Marking Device,Scanner"
+3178,"Ballot Marking Device,Scanner"
+3179,"Ballot Marking Device,Scanner"
+3180,"Ballot Marking Device,Scanner"
+3181,"Ballot Marking Device,Scanner"
+3182,"Ballot Marking Device,Scanner"
+3183,"Ballot Marking Device,Scanner"
+3184,"Ballot Marking Device,Scanner"
+3185,"Ballot Marking Device,Scanner"
+3186,"Ballot Marking Device,Scanner"
+3187,"Ballot Marking Device,Scanner"
+3188,"Ballot Marking Device,Scanner"
+3189,"Ballot Marking Device,Scanner"
+3190,"Ballot Marking Device,Scanner"
+3191,"Ballot Marking Device,Scanner"
+3192,"Ballot Marking Device,Scanner"
+3193,"Ballot Marking Device,Scanner"
+3194,"Ballot Marking Device,Scanner"
+3195,"Ballot Marking Device,Scanner"
+3196,"Ballot Marking Device,Scanner"
+3197,"Ballot Marking Device,Scanner"
+3198,"Ballot Marking Device,Scanner"
+3199,"Ballot Marking Device,Scanner"
+3200,"Ballot Marking Device,Scanner"
+3201,"Ballot Marking Device,Scanner"
+3202,"Ballot Marking Device,Scanner"
+3203,"Ballot Marking Device,Scanner"
+3204,"Ballot Marking Device,Scanner"
+3205,"Ballot Marking Device,Scanner"
+3206,"Ballot Marking Device,Scanner"
+3207,"Ballot Marking Device,Scanner"
+3208,"Ballot Marking Device,Scanner"
+3209,"Ballot Marking Device,Scanner"
+3210,"Ballot Marking Device,Scanner"
+3211,"Ballot Marking Device,Scanner"
+3212,"Ballot Marking Device,Scanner"
+3213,"Ballot Marking Device,Scanner"
+3214,"Ballot Marking Device,Scanner"
+3215,"Ballot Marking Device,Scanner"
+3216,"Ballot Marking Device,Scanner"
+3217,"Ballot Marking Device,Scanner"
+3218,"Ballot Marking Device,Scanner"
+3219,"Ballot Marking Device,Scanner"
+3220,"Ballot Marking Device,Scanner"
+3221,"Ballot Marking Device,Scanner"
+3222,"Ballot Marking Device,Scanner"
+3223,"Ballot Marking Device,Scanner"
+3224,"Ballot Marking Device,Scanner"
+3225,"Ballot Marking Device,Scanner"
+3226,"Ballot Marking Device,Scanner"
+3227,"Ballot Marking Device,Scanner"
+3228,"Ballot Marking Device,Scanner"
+3229,"Ballot Marking Device,Scanner"
+3230,"Ballot Marking Device,Scanner"
+3231,"Ballot Marking Device,Scanner"
+3232,"Ballot Marking Device,Scanner"
+3233,"Ballot Marking Device,Scanner"
+3234,"Ballot Marking Device,Scanner"
+3235,"Ballot Marking Device,Scanner"
+3236,"Ballot Marking Device,Scanner"
+3237,"Ballot Marking Device,Scanner"
+3238,"Ballot Marking Device,Scanner"
+3239,"Ballot Marking Device,Scanner"
+3240,"Ballot Marking Device,Scanner"
+3241,"Ballot Marking Device,Scanner"
+3242,"Ballot Marking Device,Scanner"
+3243,"Ballot Marking Device,Scanner"
+3244,"Ballot Marking Device,Scanner"
+3245,"Ballot Marking Device,Scanner"
+3246,"Ballot Marking Device,Scanner"
+3247,"Ballot Marking Device,Scanner"
+3248,"Ballot Marking Device,Scanner"
+3249,"Ballot Marking Device,Scanner"
+3250,"Ballot Marking Device,Scanner"
+3251,"Ballot Marking Device,Scanner"
+3252,"Ballot Marking Device,Scanner"
+3253,"Ballot Marking Device,Scanner"
+3254,"Ballot Marking Device,Scanner"
+3255,"Ballot Marking Device,Scanner"
+3256,"Ballot Marking Device,Scanner"
+3257,"Ballot Marking Device,Scanner"
+3258,"Ballot Marking Device,Scanner"
+3259,"Ballot Marking Device,Scanner"
+3260,"Ballot Marking Device,Scanner"
+3261,"Ballot Marking Device,Scanner"
+3262,"Ballot Marking Device,Scanner"
+3263,"Ballot Marking Device,Scanner"
+3264,"Ballot Marking Device,Scanner"
+3265,"Ballot Marking Device,Scanner"
+3266,"Ballot Marking Device,Scanner"
+3267,"Ballot Marking Device,Scanner"
+3268,"Ballot Marking Device,Scanner"
+3269,"Ballot Marking Device,Scanner"
+3270,"Ballot Marking Device,Scanner"
+3271,"Ballot Marking Device,Scanner"
+3272,"Ballot Marking Device,Scanner"
+3273,"Ballot Marking Device,Scanner"
+3274,"Ballot Marking Device,Scanner"
+3275,"Ballot Marking Device,Scanner"
+3276,"Ballot Marking Device,Scanner"
+3277,"Ballot Marking Device,Scanner"
+3278,"Ballot Marking Device,Scanner"
+3279,"Ballot Marking Device,Scanner"
+3280,"Ballot Marking Device,Scanner"
+3281,"Ballot Marking Device,Scanner"
+3282,"Ballot Marking Device,Scanner"
+3283,"Ballot Marking Device,Scanner"
+3284,"Ballot Marking Device,Scanner"
+3285,"Ballot Marking Device,Scanner"
+3286,"Ballot Marking Device,Scanner"
+3287,"Ballot Marking Device,Scanner"
+3288,"Ballot Marking Device,Scanner"
+3289,"Ballot Marking Device,Scanner"
+3290,"Ballot Marking Device,Scanner"
+3291,"Ballot Marking Device,Scanner"
+3292,"Ballot Marking Device,Scanner"
+3293,"Ballot Marking Device,Scanner"
+3294,"Ballot Marking Device,Scanner"
+3295,"Ballot Marking Device,Scanner"
+3296,"Ballot Marking Device,Scanner"
+3297,"Ballot Marking Device,Scanner"
+3298,"Ballot Marking Device,Scanner"
+3299,"Ballot Marking Device,Scanner"
+3300,"Ballot Marking Device,Scanner"
+3301,"Ballot Marking Device,Scanner"
+3302,"Ballot Marking Device,Scanner"
+3303,"Ballot Marking Device,Scanner"
+3304,"Ballot Marking Device,Scanner"
+3305,"Ballot Marking Device,Scanner"
+3306,"Ballot Marking Device,Scanner"
+3307,"Ballot Marking Device,Scanner"
+3308,"Ballot Marking Device,Scanner"
+3309,"Ballot Marking Device,Scanner"
+3310,"Ballot Marking Device,Scanner"
+3311,"Ballot Marking Device,Scanner"
+3312,"DRE with VVPAT,Scanner"
+3313,"Ballot Marking Device,Scanner"
+3314,"Ballot Marking Device,Scanner"
+3315,"Ballot Marking Device,Scanner"
+3316,"Ballot Marking Device,Scanner"
+3317,"Ballot Marking Device,Scanner"
+3318,Scanner
+3319,"Ballot Marking Device,Scanner"
+3320,DRE with VVPAT
+3321,"Ballot Marking Device,Scanner"
+3322,"Ballot Marking Device,Scanner"
+3323,"Ballot Marking Device,Scanner"
+3324,"Ballot Marking Device,Scanner"
+3325,"Ballot Marking Device,Scanner"
+3326,"Ballot Marking Device,Scanner"
+3327,"Ballot Marking Device,Scanner"
+3328,"Ballot Marking Device,Scanner"
+3329,"Ballot Marking Device,Scanner"
+3330,"Ballot Marking Device,Scanner"
+3331,"Ballot Marking Device,Scanner"
+3332,"Ballot Marking Device,Scanner"
+3333,"Ballot Marking Device,Scanner"
+3334,"DRE with VVPAT,Scanner"
+3335,"DRE with VVPAT,Scanner"
+3336,"Ballot Marking Device,Scanner"
+3337,"Ballot Marking Device,Scanner"
+3338,"DRE with VVPAT,Scanner"
+3339,"Ballot Marking Device,Scanner"
+3340,"DRE with VVPAT,Scanner"
+3341,"Ballot Marking Device,Scanner"
+3342,"Ballot Marking Device,Scanner"
+3343,"DRE with VVPAT,Scanner"
+3344,"DRE with VVPAT,Scanner"
+3345,Scanner
+3346,"Ballot Marking Device,Scanner"
+3347,Scanner
+3348,"Ballot Marking Device,Scanner"
+3349,"Ballot Marking Device,Scanner"
+3350,Scanner
+3351,"Ballot Marking Device,Scanner"
+3352,Scanner
+3353,"Ballot Marking Device,Scanner"
+3354,"Ballot Marking Device,Scanner"
+3355,"Ballot Marking Device,Scanner"
+3356,"Ballot Marking Device,Scanner"
+3357,"Ballot Marking Device,Scanner"
+3358,"Ballot Marking Device,Scanner"
+3359,"Ballot Marking Device,Scanner"
+3360,Scanner
+3361,"Ballot Marking Device,Scanner"
+3362,"Ballot Marking Device,Scanner"
+3363,"Ballot Marking Device,Scanner"
+3364,Ballot Marking Device
+3365,"Ballot Marking Device,Scanner"
+3366,"Ballot Marking Device,Scanner"
+3367,"Ballot Marking Device,Scanner"
+3368,"Ballot Marking Device,Scanner"
+3369,"Ballot Marking Device,Scanner"
+3370,"Ballot Marking Device,Scanner"
+3371,Scanner
+3372,"Ballot Marking Device,Scanner"
+3373,"Ballot Marking Device,Scanner"
+3374,Scanner
+3375,"DRE with VVPAT,Scanner"
+3376,"Ballot Marking Device,Scanner"
+3377,"Ballot Marking Device,Scanner"
+3378,"Ballot Marking Device,Scanner"
+3379,"Ballot Marking Device,Scanner"
+3380,"Ballot Marking Device,Scanner"
+3381,"DRE with VVPAT,Scanner"
+3382,"Ballot Marking Device,DRE with VVPAT,Scanner"
+3383,"Ballot Marking Device,Scanner"
+3384,"DRE with VVPAT,Scanner"
+3385,Ballot Marking Device
+3386,"Ballot Marking Device,Scanner"
+3387,"DRE with VVPAT,Scanner"
+3388,"Ballot Marking Device,Scanner"
+3389,"Ballot Marking Device,Scanner"
+3390,"Ballot Marking Device,Scanner"
+3391,"Ballot Marking Device,Scanner"
+3392,"Ballot Marking Device,Scanner"
+3393,"Ballot Marking Device,Scanner"
+3394,"Ballot Marking Device,Scanner"
+3395,"Ballot Marking Device,Scanner"
+3396,"DRE with VVPAT,Scanner"
+3397,"Ballot Marking Device,Scanner"
+3398,"DRE with VVPAT,Scanner"
+3399,"Ballot Marking Device,Scanner"
+3400,Scanner
+3401,Scanner
+3402,Scanner
+3403,Scanner
+3404,Scanner
+3405,Scanner
+3406,Scanner
+3407,Scanner
+3408,Scanner
+3409,Scanner
+3410,Scanner
+3411,Scanner
+3412,Scanner
+3413,Scanner
+3414,Scanner
+3415,Scanner
+3416,Scanner
+3417,Scanner
+3418,Scanner
+3419,Scanner
+3420,Scanner
+3421,Scanner
+3422,Scanner
+3423,Scanner
+3424,Scanner
+3425,Scanner
+3426,Scanner
+3427,Scanner
+3428,Scanner
+3429,Scanner
+3430,Scanner
+3431,Scanner
+3432,Scanner
+3433,Scanner
+3434,Scanner
+3435,Scanner
+3436,Scanner
+3437,Scanner
+3438,Scanner
+3439,Scanner
+3440,Scanner
+3441,Scanner
+3442,Scanner
+3443,Scanner
+3444,Scanner
+3445,Scanner
+3446,Scanner
+3447,Scanner
+3448,Scanner
+3449,Scanner
+3450,Scanner
+3451,Scanner
+3452,Scanner
+3453,Scanner
+3454,Scanner
+3455,Scanner
+3456,Scanner
+3457,Scanner
+3458,Scanner
+3459,Scanner
+3460,Scanner
+3461,Scanner
+3462,Scanner
+3463,Scanner
+3464,Scanner
+3465,Scanner
+3466,Scanner
+3467,Scanner
+3468,Scanner
+3469,Scanner
+3470,Scanner
+3471,Scanner
+3472,Scanner
+3473,Scanner
+3474,Scanner
+3475,Scanner
+3476,Scanner
+3477,Scanner
+3478,Scanner
+3479,Scanner
+3480,Scanner
+3481,Scanner
+3482,Scanner
+3483,Scanner
+3484,Scanner
+3485,Scanner
+3486,Scanner
+3487,Scanner
+3488,Scanner
+3489,Scanner
+3490,Scanner
+3491,Scanner
+3492,Scanner
+3493,Scanner
+3494,Scanner
+3495,Scanner
+3496,Scanner
+3497,Scanner
+3498,Scanner
+3499,Scanner
+3500,Scanner
+3501,Scanner
+3502,Scanner
+3503,Scanner
+3504,Scanner
+3505,Scanner
+3506,Scanner
+3507,Scanner
+3508,Scanner
+3509,Scanner
+3510,Scanner
+3511,Scanner
+3512,Scanner
+3513,"Ballot Marking Device,Scanner"
+3514,"Ballot Marking Device,Scanner"
+3515,"Ballot Marking Device,Scanner"
+3516,"Ballot Marking Device,Scanner"
+3517,"Ballot Marking Device,Scanner"
+3518,"Ballot Marking Device,Scanner"
+3519,"Ballot Marking Device,Scanner"
+3520,"Ballot Marking Device,Scanner"
+3521,"Ballot Marking Device,Scanner"
+3522,"Ballot Marking Device,Scanner"
+3523,"Ballot Marking Device,Scanner"
+3524,"Ballot Marking Device,Scanner"
+3525,"Ballot Marking Device,Scanner"
+3526,"Ballot Marking Device,Scanner"
+3527,"Ballot Marking Device,Scanner"
+3528,"Ballot Marking Device,Scanner"
+3529,"Ballot Marking Device,Scanner"
+3530,"Ballot Marking Device,Scanner"
+3531,"Ballot Marking Device,Scanner"
+3532,"Ballot Marking Device,Scanner"
+3533,"Ballot Marking Device,Scanner"
+3534,"Ballot Marking Device,Scanner"
+3535,"Ballot Marking Device,Scanner"
+3536,"Ballot Marking Device,Scanner"
+3537,"Ballot Marking Device,Scanner"
+3538,"Ballot Marking Device,Scanner"
+3539,"Ballot Marking Device,Scanner"
+3540,"Ballot Marking Device,Scanner"
+3541,"Ballot Marking Device,Scanner"
+3542,"Ballot Marking Device,Scanner"
+3543,"Ballot Marking Device,Scanner"
+3544,"Ballot Marking Device,Scanner"
+3545,"Ballot Marking Device,Scanner"
+3546,"Ballot Marking Device,Scanner"
+3547,"Ballot Marking Device,Scanner"
+3548,"Ballot Marking Device,Scanner"
+3549,"Ballot Marking Device,Scanner"
+3550,"Ballot Marking Device,Scanner"
+3551,"Ballot Marking Device,Scanner"
+3552,"Ballot Marking Device,Scanner"
+3553,"Ballot Marking Device,Scanner"
+3554,"Ballot Marking Device,Scanner"
+3555,"Ballot Marking Device,Scanner"
+3556,"Ballot Marking Device,Scanner"
+3557,"Ballot Marking Device,Scanner"
+3558,"Ballot Marking Device,Scanner"
+3559,"Ballot Marking Device,Scanner"
+3560,"Ballot Marking Device,Scanner"
+3561,"Ballot Marking Device,Scanner"
+3562,"Ballot Marking Device,Scanner"
+3563,"Ballot Marking Device,Scanner"
+3564,"Ballot Marking Device,Scanner"
+3565,"Ballot Marking Device,Scanner"
+3566,"Ballot Marking Device,Scanner"
+3567,"Ballot Marking Device,Scanner"
+3568,"Ballot Marking Device,Scanner"
+3569,"Ballot Marking Device,Scanner"
+3570,"Ballot Marking Device,Scanner"
+3571,"Ballot Marking Device,Scanner"
+3572,"Ballot Marking Device,Scanner"
+3573,"Ballot Marking Device,Scanner"
+3574,"Ballot Marking Device,Scanner"
+3575,"Ballot Marking Device,Scanner"
+3576,"Ballot Marking Device,Scanner"
+3577,"Ballot Marking Device,Scanner"
+3578,"Ballot Marking Device,Scanner"
+3579,"Ballot Marking Device,Scanner"
+3580,"Ballot Marking Device,Scanner"
+3581,"Ballot Marking Device,Scanner"
+3582,"Ballot Marking Device,Scanner"
+3583,"Ballot Marking Device,Scanner"
+3584,"Ballot Marking Device,Scanner"
+3585,"Ballot Marking Device,Scanner"
+3586,"Ballot Marking Device,Scanner"
+3587,"Ballot Marking Device,Scanner"
+3588,"Ballot Marking Device,Scanner"
+3589,"Ballot Marking Device,Scanner"
+3590,"Ballot Marking Device,Scanner"
+3591,"Ballot Marking Device,Scanner"
+3592,"Ballot Marking Device,Scanner"
+3593,"Ballot Marking Device,Scanner"
+3594,"Ballot Marking Device,Scanner"
+3595,"Ballot Marking Device,Scanner"
+3596,"Ballot Marking Device,Scanner"
+3597,"Ballot Marking Device,Scanner"
+3598,"Ballot Marking Device,Scanner"
+3599,"Ballot Marking Device,Scanner"
+3600,"Ballot Marking Device,Scanner"
+3601,"Ballot Marking Device,Scanner"
+3602,"Ballot Marking Device,Scanner"
+3603,"Ballot Marking Device,Scanner"
+3604,"Ballot Marking Device,Scanner"
+3605,"Ballot Marking Device,Scanner"
+3606,"Ballot Marking Device,Scanner"
+3607,"Ballot Marking Device,Scanner"
+3608,"Ballot Marking Device,Scanner"
+3609,"Ballot Marking Device,Scanner"
+3610,"Ballot Marking Device,Scanner"
+3611,"Ballot Marking Device,Scanner"
+3612,"Ballot Marking Device,Scanner"
+3613,"Ballot Marking Device,Scanner"
+3614,"Ballot Marking Device,Scanner"
+3615,"Ballot Marking Device,Scanner"
+3616,"Ballot Marking Device,Scanner"
+3617,"Ballot Marking Device,Scanner"
+3618,"Ballot Marking Device,Scanner"
+3619,"Ballot Marking Device,Scanner"
+3620,"Ballot Marking Device,Scanner"
+3621,"Ballot Marking Device,Scanner"
+3622,"Ballot Marking Device,Scanner"
+3623,"Ballot Marking Device,Scanner"
+3624,"Ballot Marking Device,Scanner"
+3625,"Ballot Marking Device,Scanner"
+3626,"Ballot Marking Device,Scanner"
+3627,"Ballot Marking Device,Scanner"
+3628,"Ballot Marking Device,Scanner"
+3629,"Ballot Marking Device,Scanner"
+3630,"Ballot Marking Device,Scanner"
+3631,"Ballot Marking Device,Scanner"
+3632,"Ballot Marking Device,Scanner"
+3633,"Ballot Marking Device,Scanner"
+3634,"Ballot Marking Device,Scanner"
+3635,"Ballot Marking Device,Scanner"
+3636,"Ballot Marking Device,Scanner"
+3637,"Ballot Marking Device,Scanner"
+3638,"Ballot Marking Device,Scanner"
+3639,"Ballot Marking Device,Scanner"
+3640,"Ballot Marking Device,Scanner"
+3641,"Ballot Marking Device,Scanner"
+3642,"Ballot Marking Device,Scanner"
+3643,"Ballot Marking Device,Scanner"
+3644,"Ballot Marking Device,Scanner"
+3645,"Ballot Marking Device,Scanner"
+3646,"Ballot Marking Device,Scanner"
+3647,"Ballot Marking Device,Scanner"
+3648,"Ballot Marking Device,Scanner"
+3649,"Ballot Marking Device,Scanner"
+3650,"Ballot Marking Device,Scanner"
+3651,"Ballot Marking Device,Scanner"
+3652,"Ballot Marking Device,Scanner"
+3653,"Ballot Marking Device,Scanner"
+3654,"Ballot Marking Device,Scanner"
+3655,"Ballot Marking Device,Scanner"
+3656,"Ballot Marking Device,Scanner"
+3657,"Ballot Marking Device,Scanner"
+3658,"Ballot Marking Device,Scanner"
+3659,"Ballot Marking Device,Scanner"
+3660,"Ballot Marking Device,Scanner"
+3661,"Ballot Marking Device,Scanner"
+3662,"Ballot Marking Device,Scanner"
+3663,"Ballot Marking Device,Scanner"
+3664,"Ballot Marking Device,Scanner"
+3665,"Ballot Marking Device,Scanner"
+3666,"Ballot Marking Device,Scanner"
+3668,"Ballot Marking Device,Scanner"
+3669,"Ballot Marking Device,Scanner"
+3670,"Ballot Marking Device,Scanner"
+3671,"Ballot Marking Device,Scanner"
+3674,"Ballot Marking Device,Scanner"
+3675,"Ballot Marking Device,Scanner"
+3676,Ballot Marking Device
+3677,"Ballot Marking Device,Scanner"
+3678,Scanner
+3679,"Ballot Marking Device,Scanner"
+3680,"Ballot Marking Device,Scanner"
+3681,"Ballot Marking Device,Scanner"
+3683,"Ballot Marking Device,Scanner"
+3684,"Ballot Marking Device,Scanner"
+3685,"Ballot Marking Device,Scanner"
+3687,"Ballot Marking Device,Scanner"
+3688,"Ballot Marking Device,Scanner"
+3689,"Ballot Marking Device,Scanner"
+3690,Ballot Marking Device
+3691,Ballot Marking Device
+3692,Scanner
+3693,"Ballot Marking Device,Scanner"
+3694,"Ballot Marking Device,Scanner"
+3695,Ballot Marking Device
+3696,"Ballot Marking Device,Scanner"
+3697,"Ballot Marking Device,Scanner"
+3698,Ballot Marking Device
+3699,"Ballot Marking Device,Scanner"
+3700,"Ballot Marking Device,Scanner"
+3701,"Ballot Marking Device,Scanner"
+3702,"Ballot Marking Device,Scanner"
+3703,"Ballot Marking Device,Scanner"
+3704,"Ballot Marking Device,Scanner"
+3705,"Ballot Marking Device,Scanner"
+3706,"Ballot Marking Device,Scanner"
+3707,"Ballot Marking Device,Scanner"
+3708,"Ballot Marking Device,Scanner"
+3709,"Ballot Marking Device,Scanner"
+3710,Ballot Marking Device
+3711,"Ballot Marking Device,Scanner"
+3712,"Ballot Marking Device,Scanner"
+3713,"Ballot Marking Device,Scanner"
+3714,"Ballot Marking Device,Scanner"
+3715,Scanner
+3716,"Ballot Marking Device,Scanner"
+3717,"Ballot Marking Device,Scanner"
+3718,"Ballot Marking Device,Scanner"
+3719,"Ballot Marking Device,Scanner"
+3720,"Ballot Marking Device,Scanner"
+3721,"Ballot Marking Device,Scanner"
+3722,Ballot Marking Device
+3723,Ballot Marking Device
+3724,Scanner
+3725,"Ballot Marking Device,Scanner"
+3726,Ballot Marking Device
+3727,"Ballot Marking Device,Scanner"
+3728,"Ballot Marking Device,Scanner"
+3729,Scanner
+3730,"Ballot Marking Device,Scanner"
+3731,"Ballot Marking Device,Scanner"
+3732,DRE with VVPAT
+3733,"Ballot Marking Device,Scanner"
+3734,"Ballot Marking Device,Scanner"
+3735,"Ballot Marking Device,Scanner"
+3736,DRE with VVPAT
+3737,"Ballot Marking Device,Scanner"
+3738,DRE with VVPAT
+3739,"Ballot Marking Device,Scanner"
+3740,DRE with VVPAT
+3741,Ballot Marking Device
+3742,"Ballot Marking Device,Scanner"
+3743,"Ballot Marking Device,Scanner"
+3744,DRE with VVPAT
+3745,DRE with VVPAT
+3746,"Ballot Marking Device,Scanner"
+3747,"Ballot Marking Device,Scanner"
+3748,DRE with VVPAT
+3749,"Ballot Marking Device,Scanner"
+3750,"Ballot Marking Device,Scanner"
+3751,DRE with VVPAT
+3752,"Ballot Marking Device,Scanner"
+3753,DRE with VVPAT
+3754,DRE with VVPAT
+3755,DRE with VVPAT
+3756,DRE with VVPAT
+3757,DRE with VVPAT
+3758,DRE with VVPAT
+3759,"Ballot Marking Device,Scanner"
+3760,"Ballot Marking Device,Scanner"
+3761,DRE with VVPAT
+3762,DRE with VVPAT
+3763,"Ballot Marking Device,Scanner"
+3764,"Ballot Marking Device,Scanner"
+3765,"Ballot Marking Device,Scanner"
+3766,"Ballot Marking Device,Scanner"
+3767,DRE with VVPAT
+3768,"Ballot Marking Device,Scanner"
+3769,"Ballot Marking Device,Scanner"
+3770,DRE with VVPAT
+3771,"Ballot Marking Device,Scanner"
+3772,"Ballot Marking Device,Scanner"
+3773,"Ballot Marking Device,Scanner"
+3774,DRE with VVPAT
+3775,DRE with VVPAT
+3776,DRE with VVPAT
+3777,"Ballot Marking Device,Scanner"
+3778,"Ballot Marking Device,Scanner"
+3779,DRE with VVPAT
+3780,DRE with VVPAT
+3781,"Ballot Marking Device,Scanner"
+3782,"Ballot Marking Device,Scanner"
+3783,"Ballot Marking Device,Scanner"
+3784,"Ballot Marking Device,Scanner"
+3785,"Ballot Marking Device,Scanner"
+3786,DRE with VVPAT
+3787,"Ballot Marking Device,Scanner"
+3788,"Ballot Marking Device,Scanner"
+3789,DRE with VVPAT
+3790,"Ballot Marking Device,Scanner"
+3791,DRE with VVPAT
+3792,"Ballot Marking Device,Scanner"
+3793,DRE with VVPAT
+3794,"Ballot Marking Device,Scanner"
+3795,"Ballot Marking Device,Scanner"
+3796,Scanner
+3797,DRE with VVPAT
+3798,DRE with VVPAT
+3799,"Ballot Marking Device,Scanner"
+3800,"Ballot Marking Device,Scanner"
+3801,DRE with VVPAT
+3802,"Ballot Marking Device,Scanner"
+3803,"Ballot Marking Device,Scanner"
+3804,DRE with VVPAT
+3805,DRE with VVPAT
+3806,DRE with VVPAT
+3807,DRE with VVPAT
+3808,"Ballot Marking Device,Scanner"
+3809,"Ballot Marking Device,Scanner"
+3810,DRE with VVPAT
+3811,"Ballot Marking Device,Scanner"
+3812,"Ballot Marking Device,Scanner"
+3813,DRE with VVPAT
+3814,DRE with VVPAT
+3815,DRE with VVPAT
+3816,DRE with VVPAT
+3817,DRE with VVPAT
+3818,DRE with VVPAT
+3819,DRE with VVPAT
+3820,DRE with VVPAT
+3821,DRE with VVPAT
+3822,"Ballot Marking Device,Scanner"
+3823,"Ballot Marking Device,Scanner"
+3824,"Ballot Marking Device,Scanner"
+3825,"Ballot Marking Device,Scanner"
+3826,"Ballot Marking Device,Scanner"
+3827,"Ballot Marking Device,Scanner"
+3828,"Ballot Marking Device,Scanner"
+3829,"Ballot Marking Device,Scanner"
+3830,"Ballot Marking Device,Scanner"
+3831,"Ballot Marking Device,Scanner"
+3832,"Ballot Marking Device,Scanner"
+3833,"Ballot Marking Device,Scanner"
+3834,"Ballot Marking Device,Scanner"
+3835,"Ballot Marking Device,Scanner"
+3836,"Ballot Marking Device,Scanner"
+3837,Scanner
+3838,"Ballot Marking Device,Scanner"
+3839,Ballot Marking Device
+3840,"Ballot Marking Device,DRE no VVPAT,Scanner"
+3841,"Ballot Marking Device,Scanner"
+3842,"Ballot Marking Device,Scanner"
+3843,"Ballot Marking Device,Scanner"
+3844,"Ballot Marking Device,Scanner"
+3845,"Ballot Marking Device,Scanner"
+3846,"Ballot Marking Device,Scanner"
+3847,"Ballot Marking Device,Scanner"
+3848,"Ballot Marking Device,Scanner"
+3849,"DRE no VVPAT,Scanner"
+3850,"Ballot Marking Device,Scanner"
+3851,"Ballot Marking Device,Scanner"
+3852,"DRE no VVPAT,Scanner"
+3853,"Ballot Marking Device,Scanner"
+3854,"Ballot Marking Device,Scanner"
+3855,"Ballot Marking Device,Scanner"
+3856,"Ballot Marking Device,Scanner"
+3857,Ballot Marking Device
+3858,"Ballot Marking Device,Scanner"
+3859,"Ballot Marking Device,Scanner"
+3860,DRE no VVPAT
+3861,"Ballot Marking Device,Scanner"
+3862,"Ballot Marking Device,Scanner"
+3863,"Ballot Marking Device,Scanner"
+3864,"Ballot Marking Device,Scanner"
+3865,"Ballot Marking Device,Scanner"
+3866,"Ballot Marking Device,Scanner"
+3867,"Ballot Marking Device,Scanner"
+3868,"Ballot Marking Device,DRE no VVPAT,Scanner"
+3869,Ballot Marking Device
+3870,"Ballot Marking Device,Scanner"
+3871,"Ballot Marking Device,Scanner"
+3873,"Ballot Marking Device,Scanner"
+3874,"Ballot Marking Device,Scanner"
+3875,"Ballot Marking Device,Scanner"
+3876,"Ballot Marking Device,Scanner"
+3877,"Ballot Marking Device,Scanner"
+3878,"Ballot Marking Device,Scanner"
+3879,"Ballot Marking Device,Scanner"
+3881,"Ballot Marking Device,Scanner"
+3882,"Ballot Marking Device,Scanner"
+3883,"Ballot Marking Device,Scanner"
+3884,"Ballot Marking Device,Scanner"
+3885,"Ballot Marking Device,Scanner"
+3886,"Ballot Marking Device,Scanner"
+3887,"Ballot Marking Device,Scanner"
+3888,"Ballot Marking Device,Scanner"
+3890,Ballot Marking Device
+3891,"Ballot Marking Device,Scanner"
+3892,"Ballot Marking Device,Scanner"
+3893,"Ballot Marking Device,Scanner"
+3894,"Ballot Marking Device,Scanner"
+3895,"Ballot Marking Device,Scanner"
+3896,"Ballot Marking Device,Scanner"
+3897,"Ballot Marking Device,Scanner"
+3898,"Ballot Marking Device,Scanner"
+3899,"Ballot Marking Device,Scanner"
+3900,"Ballot Marking Device,Scanner"
+3901,"Ballot Marking Device,Scanner"
+3902,"Ballot Marking Device,Scanner"
+3903,"DRE no VVPAT,Scanner"
+3904,"Ballot Marking Device,DRE no VVPAT,Scanner"
+3905,"Ballot Marking Device,Scanner"
+3908,"Ballot Marking Device,Scanner"
+3909,"Ballot Marking Device,Scanner"
+3910,"Ballot Marking Device,Scanner"
+3911,Scanner
+3913,"Ballot Marking Device,Scanner"
+3914,"Ballot Marking Device,Scanner"
+3916,"Ballot Marking Device,Scanner"
+3917,"Ballot Marking Device,Scanner"
+3918,"Ballot Marking Device,Scanner"
+3919,"Ballot Marking Device,DRE no VVPAT,Scanner"
+3920,"Ballot Marking Device,Scanner"
+3921,"Ballot Marking Device,DRE no VVPAT,Scanner"
+3922,"Ballot Marking Device,Scanner"
+3923,Ballot Marking Device
+3924,Ballot Marking Device
+3925,"Ballot Marking Device,Scanner"
+3926,"Ballot Marking Device,Scanner"
+3927,Ballot Marking Device
+3928,"Ballot Marking Device,Scanner"
+3929,"Ballot Marking Device,Scanner"
+3930,"Ballot Marking Device,Scanner"
+3931,"Ballot Marking Device,Scanner"
+3932,"Ballot Marking Device,Scanner"
+3933,"Ballot Marking Device,Scanner"
+3934,Scanner
+3935,"Ballot Marking Device,Scanner"
+3936,"Ballot Marking Device,Scanner"
+3937,"Ballot Marking Device,Scanner"
+3938,"Ballot Marking Device,Scanner"
+3939,"Ballot Marking Device,Scanner"
+3940,Scanner
+3941,"Ballot Marking Device,Scanner"
+3942,"Ballot Marking Device,Scanner"
+3943,"Ballot Marking Device,Scanner"
+3944,"DRE no VVPAT,Scanner"
+3945,"Ballot Marking Device,Scanner"
+3946,"Ballot Marking Device,Scanner"
+3947,"Ballot Marking Device,Scanner"
+3948,"Ballot Marking Device,Scanner"
+3949,"Ballot Marking Device,Scanner"
+3950,Scanner
+3951,"Ballot Marking Device,Scanner"
+3952,"Ballot Marking Device,Scanner"
+3953,"Ballot Marking Device,Scanner"
+3954,"Ballot Marking Device,Scanner"
+3955,"Ballot Marking Device,Scanner"
+3956,"Ballot Marking Device,Scanner"
+3958,"DRE no VVPAT,Scanner"
+3959,Scanner
+3960,Ballot Marking Device
+3961,Ballot Marking Device
+3962,"Ballot Marking Device,Scanner"
+3963,"Ballot Marking Device,Scanner"
+3964,"Ballot Marking Device,Scanner"
+3965,"Ballot Marking Device,Scanner"
+3966,"Ballot Marking Device,Scanner"
+3967,Scanner
+3968,"Ballot Marking Device,Scanner"
+3969,"Ballot Marking Device,DRE no VVPAT,Scanner"
+3970,"Ballot Marking Device,Scanner"
+3971,"Ballot Marking Device,Scanner"
+3972,"DRE no VVPAT,Scanner"
+3973,"Ballot Marking Device,Scanner"
+3974,"Ballot Marking Device,Scanner"
+3975,"Ballot Marking Device,Scanner"
+3977,"Ballot Marking Device,Scanner"
+3978,"Ballot Marking Device,Scanner"
+3979,"Ballot Marking Device,Scanner"
+3980,"Ballot Marking Device,Scanner"
+3981,"Ballot Marking Device,Scanner"
+3982,Scanner
+3983,"Ballot Marking Device,Scanner"
+3984,"Ballot Marking Device,Scanner"
+3987,"Ballot Marking Device,Scanner"
+3988,"Ballot Marking Device,Scanner"
+3989,Scanner
+3990,"Ballot Marking Device,Scanner"
+3991,"Ballot Marking Device,Scanner"
+3992,"Ballot Marking Device,Scanner"
+3993,"Ballot Marking Device,Scanner"
+3994,"Ballot Marking Device,Scanner"
+3995,"Ballot Marking Device,Scanner"
+3996,"Ballot Marking Device,Scanner"
+3997,"Ballot Marking Device,Scanner"
+3998,"Ballot Marking Device,Scanner"
+3999,"Ballot Marking Device,Scanner"
+4000,"Ballot Marking Device,Scanner"
+4001,"Ballot Marking Device,Scanner"
+4002,"Ballot Marking Device,Scanner"
+4004,"Ballot Marking Device,Scanner"
+4005,"Ballot Marking Device,Scanner"
+4006,"Ballot Marking Device,Scanner"
+4007,"Ballot Marking Device,Scanner"
+4008,"Ballot Marking Device,Scanner"
+4009,"Ballot Marking Device,Scanner"
+4010,"Ballot Marking Device,Scanner"
+4011,"Ballot Marking Device,Scanner"
+4013,"Ballot Marking Device,Scanner"
+4015,"Ballot Marking Device,Scanner"
+4016,"Ballot Marking Device,Scanner"
+4017,"Ballot Marking Device,Scanner"
+4018,Ballot Marking Device
+4019,"Ballot Marking Device,Scanner"
+4020,"Ballot Marking Device,Scanner"
+4021,"Ballot Marking Device,Scanner"
+4022,"Ballot Marking Device,Scanner"
+4023,"Ballot Marking Device,Scanner"
+4024,"Ballot Marking Device,Scanner"
+4025,"Ballot Marking Device,Scanner"
+4026,"Ballot Marking Device,Scanner"
+4027,"Ballot Marking Device,Scanner"
+4028,"Ballot Marking Device,Scanner"
+4029,"Ballot Marking Device,Scanner"
+4030,"Ballot Marking Device,Scanner"
+4032,"Ballot Marking Device,Scanner"
+4033,"Ballot Marking Device,Scanner"
+4034,"Ballot Marking Device,Scanner"
+4036,"Ballot Marking Device,Scanner"
+4037,"Ballot Marking Device,Scanner"
+4038,"Ballot Marking Device,Scanner"
+4039,Scanner
+4040,"Ballot Marking Device,Scanner"
+4042,"Ballot Marking Device,Scanner"
+4043,"Ballot Marking Device,Scanner"
+4044,"Ballot Marking Device,Scanner"
+4045,"Ballot Marking Device,Scanner"
+4046,"Ballot Marking Device,Scanner"
+4048,"Ballot Marking Device,Scanner"
+4049,"Ballot Marking Device,Scanner"
+4050,Scanner
+4051,"Ballot Marking Device,Scanner"
+4052,"Ballot Marking Device,Scanner"
+4053,Ballot Marking Device
+4054,Scanner
+4055,"Ballot Marking Device,Scanner"
+4056,"Ballot Marking Device,Scanner"
+4057,"Ballot Marking Device,Scanner"
+4058,"Ballot Marking Device,Scanner"
+4059,Scanner
+4060,"Ballot Marking Device,Scanner"
+4061,"Ballot Marking Device,Scanner"
+4062,"Ballot Marking Device,Scanner"
+4063,"Ballot Marking Device,Scanner"
+4064,"Ballot Marking Device,Scanner"
+4065,"Ballot Marking Device,Scanner"
+4066,"Ballot Marking Device,Scanner"
+4067,Ballot Marking Device
+4068,"Ballot Marking Device,Scanner"
+4069,"Ballot Marking Device,Scanner"
+4071,"Ballot Marking Device,Scanner"
+4072,"Ballot Marking Device,Scanner"
+4074,"Ballot Marking Device,Scanner"
+4075,"Ballot Marking Device,Scanner"
+4076,"Ballot Marking Device,Scanner"
+4077,"Ballot Marking Device,Scanner"
+4078,"DRE no VVPAT,Scanner"
+4080,Scanner
+4081,"Ballot Marking Device,Scanner"
+4082,"Ballot Marking Device,Scanner"
+4083,"Ballot Marking Device,Scanner"
+4084,Ballot Marking Device
+4085,"Ballot Marking Device,Scanner"
+4086,"Ballot Marking Device,Scanner"
+4087,Scanner
+4088,"DRE with VVPAT,Scanner"
+4089,"Ballot Marking Device,Scanner"
+4090,"Ballot Marking Device,Scanner"
+4091,"Ballot Marking Device,Scanner"
+4092,"Ballot Marking Device,Scanner"
+4093,"Ballot Marking Device,Scanner"
+4094,Scanner
+4095,Scanner
+4096,"Ballot Marking Device,Scanner"
+4097,"DRE with VVPAT,Scanner"
+4098,Ballot Marking Device
+4099,"Ballot Marking Device,Scanner"
+4100,"Ballot Marking Device,Scanner"
+4101,"Ballot Marking Device,Scanner"
+4102,"Ballot Marking Device,Scanner"
+4103,"Ballot Marking Device,Scanner"
+4104,"Ballot Marking Device,Scanner"
+4105,"Ballot Marking Device,Scanner"
+4106,"Ballot Marking Device,Scanner"
+4107,"Ballot Marking Device,Scanner"
+4108,"Ballot Marking Device,Scanner"
+4109,Ballot Marking Device
+4110,Ballot Marking Device
+4111,Ballot Marking Device
+4112,Ballot Marking Device
+4113,Ballot Marking Device
+4114,Ballot Marking Device
+4115,Ballot Marking Device
+4116,Ballot Marking Device
+4117,Ballot Marking Device
+4118,Ballot Marking Device
+4119,Ballot Marking Device
+4120,Ballot Marking Device
+4121,Ballot Marking Device
+4122,Ballot Marking Device
+4123,Ballot Marking Device
+4124,Ballot Marking Device
+4125,Ballot Marking Device
+4126,Ballot Marking Device
+4127,Ballot Marking Device
+4128,Ballot Marking Device
+4129,Ballot Marking Device
+4130,Ballot Marking Device
+4131,Ballot Marking Device
+4132,Ballot Marking Device
+4133,Ballot Marking Device
+4134,Ballot Marking Device
+4135,Ballot Marking Device
+4136,Ballot Marking Device
+4137,Ballot Marking Device
+4138,Ballot Marking Device
+4139,Ballot Marking Device
+4140,Ballot Marking Device
+4141,Ballot Marking Device
+4142,Ballot Marking Device
+4143,Ballot Marking Device
+4144,Ballot Marking Device
+4145,Ballot Marking Device
+4146,Ballot Marking Device
+4147,Ballot Marking Device
+4148,Ballot Marking Device
+4149,Ballot Marking Device
+4150,Ballot Marking Device
+4151,Ballot Marking Device
+4152,Ballot Marking Device
+4153,Ballot Marking Device
+4154,Ballot Marking Device
+4155,Ballot Marking Device
+4156,Ballot Marking Device
+4157,Ballot Marking Device
+4158,Ballot Marking Device
+4159,Ballot Marking Device
+4160,Ballot Marking Device
+4161,Ballot Marking Device
+4162,Ballot Marking Device
+4163,Ballot Marking Device
+4164,Ballot Marking Device
+4165,Ballot Marking Device
+4166,Ballot Marking Device
+4167,Ballot Marking Device
+4168,Ballot Marking Device
+4169,Ballot Marking Device
+4170,Ballot Marking Device
+4171,Ballot Marking Device
+4172,Ballot Marking Device
+4173,Ballot Marking Device
+4174,Ballot Marking Device
+4175,Ballot Marking Device
+4176,Ballot Marking Device
+4177,Ballot Marking Device
+4178,Ballot Marking Device
+4179,Ballot Marking Device
+4180,Ballot Marking Device
+4181,Ballot Marking Device
+4182,Ballot Marking Device
+4183,Ballot Marking Device
+4184,Ballot Marking Device
+4185,Ballot Marking Device
+4186,Ballot Marking Device
+4187,Ballot Marking Device
+4188,Ballot Marking Device
+4189,Ballot Marking Device
+4190,Ballot Marking Device
+4191,Ballot Marking Device
+4192,Ballot Marking Device
+4193,Ballot Marking Device
+4194,Ballot Marking Device
+4195,Ballot Marking Device
+4196,Ballot Marking Device
+4197,Ballot Marking Device
+4198,Ballot Marking Device
+4199,Ballot Marking Device
+4200,Ballot Marking Device
+4201,Ballot Marking Device
+4202,Ballot Marking Device
+4203,Ballot Marking Device
+4204,Ballot Marking Device
+4205,Ballot Marking Device
+4206,Ballot Marking Device
+4207,Ballot Marking Device
+4208,Ballot Marking Device
+4209,Ballot Marking Device
+4210,Ballot Marking Device
+4211,Ballot Marking Device
+4212,Ballot Marking Device
+4213,Ballot Marking Device
+4214,Ballot Marking Device
+4215,Ballot Marking Device
+4216,Ballot Marking Device
+4217,Ballot Marking Device
+4218,Ballot Marking Device
+4219,Ballot Marking Device
+4220,Ballot Marking Device
+4221,Ballot Marking Device
+4222,Ballot Marking Device
+4223,Ballot Marking Device
+4224,Ballot Marking Device
+4225,Ballot Marking Device
+4226,Ballot Marking Device
+4227,Ballot Marking Device
+4228,Ballot Marking Device
+4229,Ballot Marking Device
+4230,Ballot Marking Device
+4231,Ballot Marking Device
+4232,Ballot Marking Device
+4233,Ballot Marking Device
+4234,Ballot Marking Device
+4235,Ballot Marking Device
+4236,Ballot Marking Device
+4237,Ballot Marking Device
+4238,Ballot Marking Device
+4239,Ballot Marking Device
+4240,Ballot Marking Device
+4241,Ballot Marking Device
+4242,Ballot Marking Device
+4243,Ballot Marking Device
+4244,Ballot Marking Device
+4245,Ballot Marking Device
+4246,Ballot Marking Device
+4247,Ballot Marking Device
+4248,Ballot Marking Device
+4249,Ballot Marking Device
+4250,Ballot Marking Device
+4251,Ballot Marking Device
+4252,Ballot Marking Device
+4253,Ballot Marking Device
+4254,Ballot Marking Device
+4255,Ballot Marking Device
+4256,Ballot Marking Device
+4257,Ballot Marking Device
+4258,Ballot Marking Device
+4259,Ballot Marking Device
+4260,Ballot Marking Device
+4261,Ballot Marking Device
+4262,Ballot Marking Device
+4263,Ballot Marking Device
+4264,Ballot Marking Device
+4265,Ballot Marking Device
+4266,Ballot Marking Device
+4267,Ballot Marking Device
+4268,Ballot Marking Device
+4269,Ballot Marking Device
+4270,Ballot Marking Device
+4271,Ballot Marking Device
+4272,Ballot Marking Device
+4273,Ballot Marking Device
+4274,Ballot Marking Device
+4275,Ballot Marking Device
+4276,Ballot Marking Device
+4277,Ballot Marking Device
+4278,Ballot Marking Device
+4279,Ballot Marking Device
+4280,Ballot Marking Device
+4281,Ballot Marking Device
+4282,Ballot Marking Device
+4283,Ballot Marking Device
+4284,Ballot Marking Device
+4285,Ballot Marking Device
+4286,Ballot Marking Device
+4287,Ballot Marking Device
+4288,Ballot Marking Device
+4289,Ballot Marking Device
+4290,Ballot Marking Device
+4291,Ballot Marking Device
+4292,Ballot Marking Device
+4293,Ballot Marking Device
+4294,Ballot Marking Device
+4295,Ballot Marking Device
+4296,Ballot Marking Device
+4297,Ballot Marking Device
+4298,Ballot Marking Device
+4299,Ballot Marking Device
+4300,Ballot Marking Device
+4301,Ballot Marking Device
+4302,Ballot Marking Device
+4303,Ballot Marking Device
+4304,Ballot Marking Device
+4305,Ballot Marking Device
+4306,Ballot Marking Device
+4307,Ballot Marking Device
+4308,Ballot Marking Device
+4309,Ballot Marking Device
+4310,Ballot Marking Device
+4311,Ballot Marking Device
+4312,Ballot Marking Device
+4313,Ballot Marking Device
+4314,Ballot Marking Device
+4315,Ballot Marking Device
+4316,Ballot Marking Device
+4317,Ballot Marking Device
+4318,Ballot Marking Device
+4319,Ballot Marking Device
+4320,Ballot Marking Device
+4321,Ballot Marking Device
+4322,Ballot Marking Device
+4323,Ballot Marking Device
+4324,Ballot Marking Device
+4325,Ballot Marking Device
+4326,Ballot Marking Device
+4327,Ballot Marking Device
+4328,Ballot Marking Device
+4329,Ballot Marking Device
+4330,Ballot Marking Device
+4331,Ballot Marking Device
+4332,Ballot Marking Device
+4333,Ballot Marking Device
+4334,Ballot Marking Device
+4335,Ballot Marking Device
+4336,Ballot Marking Device
+4337,Ballot Marking Device
+4338,Ballot Marking Device
+4339,Ballot Marking Device
+4340,Ballot Marking Device
+4341,Ballot Marking Device
+4342,Ballot Marking Device
+4343,Ballot Marking Device
+4344,Ballot Marking Device
+4345,Ballot Marking Device
+4346,Ballot Marking Device
+4347,Ballot Marking Device
+4348,Ballot Marking Device
+4349,Ballot Marking Device
+4350,Ballot Marking Device
+4351,Ballot Marking Device
+4352,Ballot Marking Device
+4353,Ballot Marking Device
+4354,Ballot Marking Device
+4355,Ballot Marking Device
+4356,"Ballot Marking Device,Scanner"
+4357,"Ballot Marking Device,Scanner"
+4358,"Ballot Marking Device,Scanner"
+4359,"Ballot Marking Device,Scanner"
+4360,"Ballot Marking Device,Scanner"
+4361,"Ballot Marking Device,Scanner"
+4362,"Ballot Marking Device,Scanner"
+4363,"Ballot Marking Device,Scanner"
+4364,"Ballot Marking Device,Scanner"
+4365,"Ballot Marking Device,Scanner"
+4366,"Ballot Marking Device,Scanner"
+4367,"Ballot Marking Device,Scanner"
+4368,"Ballot Marking Device,Scanner"
+4369,"Ballot Marking Device,Scanner"
+4370,"Ballot Marking Device,Scanner"
+4371,"Ballot Marking Device,Scanner"
+4372,"Ballot Marking Device,Scanner"
+4373,"Ballot Marking Device,Scanner"
+4374,"Ballot Marking Device,Scanner"
+4375,"Ballot Marking Device,Scanner"
+4376,"Ballot Marking Device,Scanner"
+4377,"Ballot Marking Device,Scanner"
+4378,"Ballot Marking Device,Scanner"
+4379,"Ballot Marking Device,Scanner"
+4380,"Ballot Marking Device,Scanner"
+4381,"Ballot Marking Device,Scanner"
+4382,"Ballot Marking Device,Scanner"
+4383,"Ballot Marking Device,Scanner"
+4384,"Ballot Marking Device,Scanner"
+4385,"Ballot Marking Device,Scanner"
+4386,"Ballot Marking Device,Scanner"
+4387,"Ballot Marking Device,Scanner"
+4388,"Ballot Marking Device,Scanner"
+4389,"Ballot Marking Device,Scanner"
+4390,"Ballot Marking Device,Scanner"
+4391,"Ballot Marking Device,Scanner"
+4392,"Ballot Marking Device,Scanner"
+4393,"Ballot Marking Device,Scanner"
+4394,"Ballot Marking Device,Scanner"
+4395,"Ballot Marking Device,Scanner"
+4396,"Ballot Marking Device,Scanner"
+4397,"Ballot Marking Device,Scanner"
+4398,"Ballot Marking Device,Scanner"
+4399,"Ballot Marking Device,Scanner"
+4400,"Ballot Marking Device,Scanner"
+4401,"Ballot Marking Device,Scanner"
+4402,"Ballot Marking Device,Scanner"
+4403,"Ballot Marking Device,Scanner"
+4404,"Ballot Marking Device,Scanner"
+4405,"Ballot Marking Device,Scanner"
+4406,"Ballot Marking Device,Scanner"
+4407,"Ballot Marking Device,Scanner"
+4408,"Ballot Marking Device,Scanner"
+4409,"Ballot Marking Device,Scanner"
+4410,"Ballot Marking Device,Scanner"
+4411,"Ballot Marking Device,Scanner"
+4412,"Ballot Marking Device,Scanner"
+4413,"Ballot Marking Device,Scanner"
+4414,"Ballot Marking Device,Scanner"
+4415,"Ballot Marking Device,Scanner"
+4416,"Ballot Marking Device,Scanner"
+4417,"Ballot Marking Device,Scanner"
+4418,"Ballot Marking Device,Scanner"
+4419,"Ballot Marking Device,Scanner"
+4420,"Ballot Marking Device,Scanner"
+4421,"Ballot Marking Device,Scanner"
+4422,"Ballot Marking Device,Scanner"
+4423,"Ballot Marking Device,Scanner"
+4424,"Ballot Marking Device,Scanner"
+4425,"Ballot Marking Device,Scanner"
+4426,"Ballot Marking Device,Scanner"
+4427,"Ballot Marking Device,Scanner"
+4428,"Ballot Marking Device,Scanner"
+4429,"Ballot Marking Device,Scanner"
+4430,"Ballot Marking Device,Scanner"
+4431,"Ballot Marking Device,Scanner"
+4432,"Ballot Marking Device,Scanner"
+4433,"Ballot Marking Device,Scanner"
+4434,"Ballot Marking Device,Scanner"
+4435,"Ballot Marking Device,Scanner"
+4436,"Ballot Marking Device,Scanner"
+4437,"Ballot Marking Device,Scanner"
+4438,"Ballot Marking Device,Scanner"
+4439,"Ballot Marking Device,Scanner"
+4440,"Ballot Marking Device,Scanner"
+4441,"Ballot Marking Device,Scanner"
+4442,"Ballot Marking Device,Scanner"
+4443,"Ballot Marking Device,Scanner"
+4444,"Ballot Marking Device,Scanner"
+4445,"Ballot Marking Device,Scanner"
+4446,"Ballot Marking Device,Scanner"
+4447,"Ballot Marking Device,Scanner"
+4448,"Ballot Marking Device,Scanner"
+4449,"Ballot Marking Device,Scanner"
+4450,"Ballot Marking Device,Scanner"
+4451,"Ballot Marking Device,Scanner"
+4452,"Ballot Marking Device,Scanner"
+4453,"Ballot Marking Device,Scanner"
+4454,"Ballot Marking Device,Scanner"
+4455,"Ballot Marking Device,Scanner"
+4456,"Ballot Marking Device,Scanner"
+4457,"Ballot Marking Device,Scanner"
+4458,"Ballot Marking Device,Scanner"
+4459,"Ballot Marking Device,Scanner"
+4460,"Ballot Marking Device,Scanner"
+4461,"Ballot Marking Device,Scanner"
+4462,"Ballot Marking Device,Scanner"
+4463,"Ballot Marking Device,Scanner"
+4464,"Ballot Marking Device,Scanner"
+4465,"Ballot Marking Device,Scanner"
+4466,"Ballot Marking Device,Scanner"
+4467,"Ballot Marking Device,Scanner"
+4468,"Ballot Marking Device,Scanner"
+4469,"Ballot Marking Device,Scanner"
+4470,"Ballot Marking Device,Scanner"
+4471,"Ballot Marking Device,Scanner"
+4472,"Ballot Marking Device,Scanner"
+4473,"Ballot Marking Device,Scanner"
+4474,"Ballot Marking Device,Scanner"
+4475,"Ballot Marking Device,Scanner"
+4476,"Ballot Marking Device,Scanner"
+4477,"Ballot Marking Device,Scanner"
+4478,"Ballot Marking Device,Scanner"
+4479,"Ballot Marking Device,Scanner"
+4480,"Ballot Marking Device,Scanner"
+4481,"Ballot Marking Device,Scanner"
+4482,"Ballot Marking Device,Scanner"
+4483,"Ballot Marking Device,Scanner"
+4484,"Ballot Marking Device,Scanner"
+4485,"Ballot Marking Device,Scanner"
+4486,"Ballot Marking Device,Scanner"
+4487,"Ballot Marking Device,Scanner"
+4488,"Ballot Marking Device,Scanner"
+4489,"Ballot Marking Device,Scanner"
+4490,"Ballot Marking Device,Scanner"
+4491,"Ballot Marking Device,Scanner"
+4492,"Ballot Marking Device,Scanner"
+4493,"Ballot Marking Device,Scanner"
+4494,"Ballot Marking Device,Scanner"
+4495,"Ballot Marking Device,Scanner"
+4496,"Ballot Marking Device,Scanner"
+4497,"Ballot Marking Device,Scanner"
+4498,"Ballot Marking Device,Scanner"
+4499,"Ballot Marking Device,Scanner"
+4500,"Ballot Marking Device,Scanner"
+4501,"Ballot Marking Device,Scanner"
+4502,"Ballot Marking Device,Scanner"
+4503,"Ballot Marking Device,Scanner"
+4504,"Ballot Marking Device,Scanner"
+4505,"Ballot Marking Device,Scanner"
+4506,"Ballot Marking Device,Scanner"
+4507,"Ballot Marking Device,Scanner"
+4508,"Ballot Marking Device,Scanner"
+4509,"Ballot Marking Device,Scanner"
+4510,"Ballot Marking Device,Scanner"
+4511,"Ballot Marking Device,Scanner"
+4512,"Ballot Marking Device,Scanner"
+4513,"Ballot Marking Device,Scanner"
+4514,"Ballot Marking Device,Scanner"
+4515,"Ballot Marking Device,Scanner"
+4516,"Ballot Marking Device,Scanner"
+4517,"Ballot Marking Device,Scanner"
+4518,"Ballot Marking Device,Scanner"
+4519,"Ballot Marking Device,Scanner"
+4520,"Ballot Marking Device,Scanner"
+4521,"Ballot Marking Device,Scanner"
+4522,"Ballot Marking Device,Scanner"
+4523,"Ballot Marking Device,Scanner"
+4524,"Ballot Marking Device,Scanner"
+4525,"Ballot Marking Device,Scanner"
+4526,"Ballot Marking Device,Scanner"
+4527,"Ballot Marking Device,Scanner"
+4528,"Ballot Marking Device,Scanner"
+4529,"Ballot Marking Device,Scanner"
+4530,"Ballot Marking Device,Scanner"
+4531,"Ballot Marking Device,Scanner"
+4532,"Ballot Marking Device,Scanner"
+4533,"Ballot Marking Device,Scanner"
+4534,"Ballot Marking Device,Scanner"
+4535,"Ballot Marking Device,Scanner"
+4536,"Ballot Marking Device,Scanner"
+4537,"Ballot Marking Device,Scanner"
+4538,"Ballot Marking Device,Scanner"
+4539,"Ballot Marking Device,Scanner"
+4540,"Ballot Marking Device,Scanner"
+4541,"Ballot Marking Device,Scanner"
+4542,"Ballot Marking Device,Scanner"
+4543,"Ballot Marking Device,Scanner"
+4544,"Ballot Marking Device,Scanner"
+4545,"Ballot Marking Device,Scanner"
+4546,"Ballot Marking Device,Scanner"
+4547,"Ballot Marking Device,Scanner"
+4548,"Ballot Marking Device,Scanner"
+4549,"Ballot Marking Device,Scanner"
+4550,"Ballot Marking Device,Scanner"
+4551,"Ballot Marking Device,Scanner"
+4552,"Ballot Marking Device,Scanner"
+4553,"Ballot Marking Device,Scanner"
+4554,"Ballot Marking Device,Scanner"
+4555,"Ballot Marking Device,Scanner"
+4556,"Ballot Marking Device,Scanner"
+4557,"Ballot Marking Device,Scanner"
+4558,"Ballot Marking Device,Scanner"
+4559,"Ballot Marking Device,Scanner"
+4560,"Ballot Marking Device,Scanner"
+4561,"Ballot Marking Device,Scanner"
+4562,"Ballot Marking Device,Scanner"
+4563,"Ballot Marking Device,Scanner"
+4564,"Ballot Marking Device,Scanner"
+4565,"Ballot Marking Device,Scanner"
+4566,"Ballot Marking Device,Scanner"
+4567,"Ballot Marking Device,Scanner"
+4568,"Ballot Marking Device,Scanner"
+4569,"Ballot Marking Device,Scanner"
+4570,"Ballot Marking Device,Scanner"
+4571,"Ballot Marking Device,Scanner"
+4572,"Ballot Marking Device,Scanner"
+4573,"Ballot Marking Device,Scanner"
+4574,"Ballot Marking Device,Scanner"
+4575,"Ballot Marking Device,Scanner"
+4576,"Ballot Marking Device,Scanner"
+4577,"Ballot Marking Device,Scanner"
+4578,"Ballot Marking Device,Scanner"
+4579,"Ballot Marking Device,Scanner"
+4580,"Ballot Marking Device,Scanner"
+4581,"Ballot Marking Device,Scanner"
+4582,"Ballot Marking Device,Scanner"
+4583,Scanner
+4586,Scanner
+4587,Scanner
+4591,"Ballot Marking Device,Scanner"
+4596,DRE with VVPAT
+4597,Scanner
+4600,DRE with VVPAT
+4601,Scanner
+4604,Ballot Marking Device
+4607,Scanner
+4612,Scanner
+4613,Scanner
+4614,DRE with VVPAT
+4616,Scanner
+4618,Scanner
+4619,DRE with VVPAT
+4622,Scanner
+4623,Scanner
+4624,Scanner
+4625,Scanner
+4627,DRE with VVPAT
+4630,DRE with VVPAT
+4631,DRE with VVPAT
+4632,"Ballot Marking Device,Scanner"
+4636,Scanner
+4641,Scanner
+4642,DRE with VVPAT
+4643,DRE with VVPAT
+4644,DRE with VVPAT
+4645,Scanner
+4646,Scanner
+4647,Scanner
+4649,DRE with VVPAT
+4650,Scanner
+4651,Scanner
+4652,"Ballot Marking Device,Scanner"
+4654,Scanner
+4655,Scanner
+4657,Scanner
+4659,Scanner
+4661,"Ballot Marking Device,Scanner"
+4663,Scanner
+4664,Scanner
+4665,Scanner
+4667,Scanner
+4669,Scanner
+4670,Scanner
+4671,Scanner
+4672,DRE with VVPAT
+4675,Scanner
+4676,Scanner
+4679,Scanner
+4680,Scanner
+4681,Scanner
+4682,Scanner
+4683,Scanner
+4684,Scanner
+4685,Scanner
+4686,Scanner
+4687,Scanner
+4688,Scanner
+4689,DRE with VVPAT
+4690,DRE with VVPAT
+4692,DRE with VVPAT
+4695,Scanner
+4696,Scanner
+4697,Scanner
+4698,Scanner
+4699,Scanner
+4701,Scanner
+4702,Scanner
+4703,DRE with VVPAT
+4704,Scanner
+4705,Scanner
+4708,DRE with VVPAT
+4709,Scanner
+4710,Scanner
+4715,Scanner
+4716,DRE with VVPAT
+4718,Scanner
+4719,Scanner
+4721,DRE with VVPAT
+4722,Scanner
+4723,Scanner
+4724,Scanner
+4726,Scanner
+4728,DRE with VVPAT
+4729,Scanner
+4733,Scanner
+4734,Scanner
+4735,Scanner
+4736,Scanner
+4738,Scanner
+4740,DRE with VVPAT
+4741,Scanner
+4742,Scanner
+4743,"Ballot Marking Device,Scanner"
+4746,DRE with VVPAT
+4748,Scanner
+4750,Scanner
+4751,Scanner
+4752,Scanner
+4753,Scanner
+4755,DRE with VVPAT
+4762,"Ballot Marking Device,Scanner"
+4763,"Ballot Marking Device,Scanner"
+4767,Scanner
+4770,Scanner
+4771,Scanner
+4772,DRE with VVPAT
+4773,DRE with VVPAT
+4779,Scanner
+4780,DRE with VVPAT
+4782,"Ballot Marking Device,Scanner"
+4783,Scanner
+4784,Scanner
+4788,Scanner
+4790,Scanner
+4791,Scanner
+4792,Scanner
+4793,Scanner
+4794,Scanner
+4795,Scanner
+4796,Scanner
+4799,Scanner
+4800,Scanner
+4801,Scanner
+4804,DRE with VVPAT
+4805,Scanner
+4806,Scanner
+4807,Scanner
+4808,Scanner
+4811,Scanner
+4812,Scanner
+4814,Scanner
+4815,Scanner
+4820,Scanner
+4823,Scanner
+4824,Scanner
+4826,Scanner
+4827,Scanner
+4828,Scanner
+4831,Scanner
+4833,"Ballot Marking Device,Scanner"
+4834,Scanner
+4835,Scanner
+4836,Scanner
+4841,Scanner
+4842,Scanner
+4843,Scanner
+4844,Scanner
+4845,Scanner
+4849,DRE with VVPAT
+4851,Scanner
+4852,Scanner
+4853,"Ballot Marking Device,Scanner"
+4856,DRE with VVPAT
+4858,Scanner
+4863,DRE with VVPAT
+4866,Scanner
+4871,"Ballot Marking Device,Scanner"
+4872,Scanner
+4874,Scanner
+4875,Scanner
+4876,Scanner
+4878,Scanner
+4881,Scanner
+4882,Scanner
+4883,Scanner
+4884,Scanner
+4885,Scanner
+4886,DRE with VVPAT
+4887,Scanner
+4888,Scanner
+4890,Scanner
+4891,"Ballot Marking Device,Scanner"
+4892,Scanner
+4894,Scanner
+4903,Scanner
+4907,"Ballot Marking Device,Scanner"
+4909,Scanner
+4910,Scanner
+4911,Scanner
+4912,DRE with VVPAT
+4914,Scanner
+4915,Scanner
+4916,Scanner
+4917,Scanner
+4920,Scanner
+4921,Scanner
+4924,Scanner
+4925,Scanner
+4926,Scanner
+4928,Scanner
+4929,"Ballot Marking Device,Scanner"
+4930,Scanner
+4931,Scanner
+4932,Scanner
+4938,Scanner
+4939,Scanner
+4940,Scanner
+4942,Scanner
+4945,"Ballot Marking Device,Scanner"
+4948,Scanner
+4949,"Ballot Marking Device,Scanner"
+4950,Scanner
+4951,Scanner
+4952,Scanner
+4953,DRE with VVPAT
+4954,DRE with VVPAT
+4955,Scanner
+4956,DRE with VVPAT
+4957,DRE with VVPAT
+4962,Scanner
+4963,Scanner
+4964,DRE with VVPAT
+4965,Scanner
+4968,Scanner
+4969,Scanner
+4970,Scanner
+4972,Scanner
+4973,DRE with VVPAT
+4974,Scanner
+4975,Scanner
+4977,Scanner
+4978,Scanner
+4979,Scanner
+4980,Scanner
+4981,Scanner
+4985,Scanner
+4986,DRE with VVPAT
+4987,Scanner
+4991,Scanner
+4992,Scanner
+4993,Scanner
+4994,Scanner
+4996,Scanner
+4997,Scanner
+4998,Scanner
+4999,Scanner
+5000,Scanner
+5003,Scanner
+5004,Scanner
+5005,"Ballot Marking Device,Scanner"
+5007,Scanner
+5008,Scanner
+5009,Scanner
+5012,Scanner
+5014,Scanner
+5015,Scanner
+5016,Scanner
+5019,Scanner
+5020,Scanner
+5021,Scanner
+5024,Scanner
+5027,Scanner
+5029,Scanner
+5030,Scanner
+5031,Scanner
+5032,DRE with VVPAT
+5034,Scanner
+5036,Scanner
+5037,Scanner
+5040,DRE with VVPAT
+5041,DRE with VVPAT
+5043,Scanner
+5044,Scanner
+5045,"Ballot Marking Device,Scanner"
+5049,Scanner
+5050,Scanner
+5053,Scanner
+5054,Scanner
+5055,Scanner
+5056,Scanner
+5058,Scanner
+5059,Scanner
+5060,Scanner
+5063,Scanner
+5064,Scanner
+5065,Scanner
+5067,"Ballot Marking Device,Scanner"
+5070,Scanner
+5072,DRE with VVPAT
+5073,Scanner
+5075,Scanner
+5076,Scanner
+5080,DRE with VVPAT
+5081,"Ballot Marking Device,Scanner"
+5086,Scanner
+5087,Scanner
+5088,Scanner
+5089,Scanner
+5090,Scanner
+5092,Scanner
+5094,DRE with VVPAT
+5095,Scanner
+5097,Scanner
+5098,Scanner
+5104,Scanner
+5105,"Ballot Marking Device,Scanner"
+5109,Scanner
+5112,Scanner
+5113,DRE with VVPAT
+5115,DRE with VVPAT
+5116,Scanner
+5117,Scanner
+5118,Scanner
+5120,Scanner
+5121,Scanner
+5122,Scanner
+5123,Scanner
+5124,Ballot Marking Device
+5127,DRE with VVPAT
+5131,Scanner
+5135,DRE with VVPAT
+5136,Scanner
+5143,Scanner
+5144,Scanner
+5147,Scanner
+5151,Scanner
+5152,Scanner
+5153,Scanner
+5156,Scanner
+5158,Scanner
+5159,Scanner
+5160,Scanner
+5161,Scanner
+5162,Scanner
+5163,DRE with VVPAT
+5166,Scanner
+5167,Scanner
+5168,Scanner
+5170,Scanner
+5174,DRE with VVPAT
+5175,Scanner
+5176,Scanner
+5178,Scanner
+5181,Scanner
+5183,Scanner
+5184,DRE with VVPAT
+5185,Scanner
+5192,DRE with VVPAT
+5193,Scanner
+5200,DRE with VVPAT
+5205,Scanner
+5208,Scanner
+5209,Scanner
+5211,Scanner
+5212,"Ballot Marking Device,Scanner"
+5214,Scanner
+5218,Scanner
+5219,Scanner
+5220,Scanner
+5221,"Ballot Marking Device,Scanner"
+5223,Scanner
+5225,Scanner
+5228,Scanner
+5229,Scanner
+5230,Scanner
+5231,Scanner
+5234,Scanner
+5237,Scanner
+5239,DRE with VVPAT
+5240,DRE with VVPAT
+5241,DRE with VVPAT
+5242,Scanner
+5243,Scanner
+5244,"Ballot Marking Device,Scanner"
+5245,Scanner
+5246,Scanner
+5247,Scanner
+5249,Scanner
+5250,Scanner
+5253,Scanner
+5254,Scanner
+5256,Scanner
+5257,Scanner
+5258,Scanner
+5260,DRE with VVPAT
+5262,Scanner
+5264,Scanner
+5265,DRE with VVPAT
+5266,DRE with VVPAT
+5267,DRE with VVPAT
+5269,Scanner
+5270,"Ballot Marking Device,Scanner"
+5271,Scanner
+5272,Scanner
+5274,Scanner
+5275,Scanner
+5276,Scanner
+5277,Scanner
+5278,Scanner
+5282,Scanner
+5283,Scanner
+5285,Scanner
+5288,Scanner
+5290,Scanner
+5291,Scanner
+5295,Scanner
+5297,Scanner
+5298,Scanner
+5299,Scanner
+5302,Scanner
+5305,DRE with VVPAT
+5309,Scanner
+5311,Scanner
+5313,Scanner
+5315,"Ballot Marking Device,Scanner"
+5316,Scanner
+5317,Scanner
+5318,Scanner
+5320,Scanner
+5321,Scanner
+5322,Scanner
+5323,Scanner
+5324,DRE with VVPAT
+5325,Scanner
+5329,Scanner
+5332,Scanner
+5333,Scanner
+5334,Scanner
+5335,Scanner
+5336,"Ballot Marking Device,Scanner"
+5337,Scanner
+5338,Scanner
+5339,Scanner
+5340,Scanner
+5342,Scanner
+5343,Scanner
+5344,Scanner
+5345,Scanner
+5347,Scanner
+5348,"Ballot Marking Device,Scanner"
+5349,"Ballot Marking Device,Scanner"
+5350,Scanner
+5352,Scanner
+5353,Scanner
+5354,Scanner
+5355,Scanner
+5356,Scanner
+5357,Scanner
+5360,Scanner
+5361,Scanner
+5368,Scanner
+5369,Scanner
+5370,Scanner
+5371,Scanner
+5373,Scanner
+5375,Scanner
+5376,Scanner
+5383,Scanner
+5384,Scanner
+5386,Scanner
+5387,Scanner
+5390,Scanner
+5391,Scanner
+5393,Scanner
+5395,Scanner
+5396,Scanner
+5397,Scanner
+5398,Scanner
+5399,Scanner
+5400,Scanner
+5401,Scanner
+5402,Scanner
+5403,DRE with VVPAT
+5407,Scanner
+5413,Scanner
+5414,DRE with VVPAT
+5415,DRE with VVPAT
+5416,Scanner
+5417,Scanner
+5420,DRE with VVPAT
+5421,Scanner
+5424,DRE with VVPAT
+5425,Scanner
+5427,"Ballot Marking Device,Scanner"
+5429,Scanner
+5430,Scanner
+5431,Scanner
+5433,Scanner
+5434,Scanner
+5437,"Ballot Marking Device,Scanner"
+5441,DRE with VVPAT
+5445,Scanner
+5447,"Ballot Marking Device,Scanner"
+5448,"Ballot Marking Device,Scanner"
+5449,Scanner
+5450,Scanner
+5451,Scanner
+5452,Scanner
+5453,Scanner
+5454,Ballot Marking Device
+5458,DRE with VVPAT
+5459,Scanner
+5463,Scanner
+5464,DRE with VVPAT
+5466,Scanner
+5468,Scanner
+5469,Scanner
+5470,Scanner
+5472,Scanner
+5474,Scanner
+5475,Scanner
+5480,Scanner
+5483,Scanner
+5485,Scanner
+5486,Scanner
+5487,DRE with VVPAT
+5488,Scanner
+5489,Scanner
+5493,DRE with VVPAT
+5494,Scanner
+5495,"Ballot Marking Device,Scanner"
+5496,Scanner
+5497,Scanner
+5498,Scanner
+5501,Scanner
+5502,DRE with VVPAT
+5505,Ballot Marking Device
+5508,Scanner
+5510,Scanner
+5511,Scanner
+5512,DRE with VVPAT
+5514,Scanner
+5516,Scanner
+5518,Scanner
+5519,Scanner
+5527,Scanner
+5528,Scanner
+5529,Scanner
+5531,Scanner
+5532,Scanner
+5536,Scanner
+5538,Scanner
+5539,Scanner
+5540,Scanner
+5541,Scanner
+5542,Scanner
+5543,Scanner
+5547,Scanner
+5551,"Ballot Marking Device,Scanner"
+5552,DRE with VVPAT
+5553,Scanner
+5554,DRE with VVPAT
+5555,DRE with VVPAT
+5557,Scanner
+5560,Scanner
+5561,Scanner
+5562,DRE with VVPAT
+5563,Scanner
+5564,Scanner
+5565,Scanner
+5566,Scanner
+5567,Scanner
+5568,Scanner
+5573,Scanner
+5574,Scanner
+5575,Scanner
+5576,Scanner
+5577,Scanner
+5578,Scanner
+5579,Scanner
+5580,Scanner
+5582,Scanner
+5583,Scanner
+5585,Scanner
+5586,Scanner
+5587,Scanner
+5593,DRE with VVPAT
+5599,Scanner
+5603,Scanner
+5604,Scanner
+5605,Scanner
+5609,DRE with VVPAT
+5610,DRE with VVPAT
+5612,Scanner
+5613,Scanner
+5614,Scanner
+5615,Scanner
+5616,Scanner
+5617,DRE with VVPAT
+5619,Scanner
+5620,Scanner
+5621,Scanner
+5622,Scanner
+5623,Scanner
+5628,DRE with VVPAT
+5630,Scanner
+5631,Scanner
+5634,Scanner
+5637,Scanner
+5638,Scanner
+5640,Scanner
+5641,Scanner
+5642,Scanner
+5643,Scanner
+5647,Scanner
+5648,Scanner
+5649,Scanner
+5650,Scanner
+5651,Scanner
+5652,Scanner
+5656,DRE with VVPAT
+5658,Scanner
+5659,Scanner
+5660,Scanner
+5661,Scanner
+5666,Scanner
+5667,Scanner
+5668,"Ballot Marking Device,Scanner"
+5670,Scanner
+5674,Scanner
+5675,Scanner
+5678,DRE with VVPAT
+5683,DRE with VVPAT
+5685,DRE with VVPAT
+5686,Scanner
+5689,Scanner
+5690,Scanner
+5691,Scanner
+5692,"Ballot Marking Device,Scanner"
+5693,Scanner
+5694,Scanner
+5700,Scanner
+5705,DRE with VVPAT
+5707,Scanner
+5708,Scanner
+5711,DRE with VVPAT
+5712,Scanner
+5716,Scanner
+5717,DRE with VVPAT
+5723,Scanner
+5725,Scanner
+5728,Scanner
+5729,Scanner
+5734,Scanner
+5735,"Ballot Marking Device,Scanner"
+5736,Scanner
+5739,Scanner
+5740,Scanner
+5741,DRE with VVPAT
+5744,Scanner
+5746,Scanner
+5747,Scanner
+5748,Scanner
+5752,Scanner
+5753,Scanner
+5754,Scanner
+5758,Scanner
+5760,Scanner
+5765,Scanner
+5766,Scanner
+5768,Scanner
+5772,Scanner
+5777,Scanner
+5778,Scanner
+5779,Scanner
+5781,Scanner
+5782,Scanner
+5784,Scanner
+5785,Scanner
+5786,Scanner
+5791,DRE with VVPAT
+5793,DRE with VVPAT
+5794,Scanner
+5795,DRE with VVPAT
+5798,Scanner
+5799,Scanner
+5800,Scanner
+5802,"Ballot Marking Device,Scanner"
+5804,Scanner
+5805,Scanner
+5806,Scanner
+5807,Scanner
+5809,Scanner
+5812,Ballot Marking Device
+5816,Scanner
+5817,Scanner
+5819,Scanner
+5820,Scanner
+5821,Scanner
+5824,Scanner
+5826,Scanner
+5827,Scanner
+5828,Scanner
+5829,Scanner
+5831,Scanner
+5833,Scanner
+5834,Scanner
+5836,DRE with VVPAT
+5841,DRE with VVPAT
+5843,DRE with VVPAT
+5845,DRE with VVPAT
+5846,DRE with VVPAT
+5847,Scanner
+5848,Scanner
+5852,Scanner
+5853,Scanner
+5856,DRE with VVPAT
+5861,Scanner
+5863,Scanner
+5864,Scanner
+5865,Scanner
+5866,Scanner
+5867,Scanner
+5872,Scanner
+5873,Scanner
+5874,Scanner
+5875,Scanner
+5876,Scanner
+5877,Scanner
+5878,Scanner
+5879,Scanner
+5882,Scanner
+5883,"Ballot Marking Device,Scanner"
+5884,"Ballot Marking Device,Scanner"
+5887,Scanner
+5888,DRE with VVPAT
+5889,Scanner
+5890,Scanner
+5891,Scanner
+5892,Scanner
+5894,Scanner
+5901,Scanner
+5905,Scanner
+5909,Scanner
+5910,Scanner
+5911,Scanner
+5912,Scanner
+5913,Scanner
+5916,Scanner
+5918,Scanner
+5921,Scanner
+5924,Scanner
+5925,Scanner
+5926,Scanner
+5928,DRE with VVPAT
+5929,DRE with VVPAT
+5930,Scanner
+5931,Scanner
+5932,Scanner
+5933,"Ballot Marking Device,Scanner"
+5934,Scanner
+5940,DRE with VVPAT
+5941,Scanner
+5942,Scanner
+5943,Scanner
+5944,Scanner
+5945,Scanner
+5946,Scanner
+5947,Scanner
+5948,Scanner
+5949,"Ballot Marking Device,Scanner"
+5951,Scanner
+5952,Scanner
+5953,Scanner
+5954,Scanner
+5956,Scanner
+5957,Scanner
+5958,Scanner
+5960,Scanner
+5965,Scanner
+5972,Scanner
+5973,Scanner
+5974,Scanner
+5975,Scanner
+5978,Scanner
+5979,Scanner
+5980,Scanner
+5982,Scanner
+5984,Scanner
+5985,Scanner
+5986,DRE with VVPAT
+5988,Scanner
+5989,Scanner
+5990,Scanner
+5991,Scanner
+5992,Scanner
+5993,Scanner
+5994,Scanner
+5996,Scanner
+5998,Scanner
+6002,Scanner
+6003,DRE with VVPAT
+6004,Scanner
+6006,Scanner
+6008,Scanner
+6009,"Ballot Marking Device,Scanner"
+6010,Scanner
+6011,Scanner
+6013,Scanner
+6016,Scanner
+6017,Scanner
+6018,"Ballot Marking Device,Scanner"
+6019,Scanner
+6023,Scanner
+6025,Scanner
+6028,Scanner
+6029,Scanner
+6030,Scanner
+6031,"Ballot Marking Device,Scanner"
+6032,Scanner
+6036,Scanner
+6037,DRE with VVPAT
+6038,Scanner
+6042,DRE with VVPAT
+6045,Scanner
+6046,Scanner
+6048,Scanner
+6049,Scanner
+6051,Scanner
+6053,Scanner
+6055,"Ballot Marking Device,Scanner"
+6056,Scanner
+6059,DRE with VVPAT
+6060,Scanner
+6062,DRE with VVPAT
+6063,Scanner
+6064,DRE with VVPAT
+6065,Scanner
+6066,Scanner
+6068,Scanner
+6072,"Ballot Marking Device,Scanner"
+6073,"Ballot Marking Device,Scanner"
+6074,"Ballot Marking Device,Scanner"
+6075,"Ballot Marking Device,Scanner"
+6076,Scanner
+6081,Scanner
+6083,DRE with VVPAT
+6084,"Ballot Marking Device,Scanner"
+6085,Scanner
+6086,Scanner
+6087,Scanner
+6088,Scanner
+6090,Scanner
+6091,Scanner
+6092,Scanner
+6094,DRE with VVPAT
+6095,"Ballot Marking Device,Scanner"
+6096,Scanner
+6098,Scanner
+6102,Scanner
+6106,Scanner
+6107,Scanner
+6108,Scanner
+6109,Scanner
+6110,Scanner
+6111,Scanner
+6112,Scanner
+6115,Scanner
+6116,DRE with VVPAT
+6119,Scanner
+6120,Scanner
+6123,DRE with VVPAT
+6124,DRE with VVPAT
+6126,DRE with VVPAT
+6127,Scanner
+6128,Scanner
+6131,Scanner
+6132,Scanner
+6133,Scanner
+6135,Scanner
+6137,Scanner
+6139,Scanner
+6140,Scanner
+6141,Scanner
+6144,Scanner
+6145,Scanner
+6146,"Ballot Marking Device,Scanner"
+6148,Scanner
+6150,Scanner
+6151,Scanner
+6156,Scanner
+6157,Scanner
+6158,DRE with VVPAT
+6159,Scanner
+6161,DRE with VVPAT
+6162,Scanner
+6163,Scanner
+6164,DRE with VVPAT
+6165,DRE with VVPAT
+6166,Scanner
+6168,DRE with VVPAT
+6169,Scanner
+6170,Scanner
+6172,Scanner
+6178,Scanner
+6181,Scanner
+6182,Scanner
+6183,Scanner
+6186,Scanner
+6187,Scanner
+6188,Scanner
+6190,Scanner
+6191,Scanner
+6192,Scanner
+6193,Scanner
+6194,Scanner
+6195,Scanner
+6197,Scanner
+6199,DRE with VVPAT
+6201,Scanner
+6205,DRE with VVPAT
+6206,Scanner
+6207,Scanner
+6208,Scanner
+6211,Scanner
+6212,Scanner
+6216,"Ballot Marking Device,Scanner"
+6220,Scanner
+6221,Scanner
+6228,Scanner
+6229,Scanner
+6231,Scanner
+6232,Scanner
+6233,Scanner
+6234,Scanner
+6237,Scanner
+6238,Scanner
+6239,Scanner
+6240,Scanner
+6241,Scanner
+6242,Scanner
+6243,Scanner
+6244,DRE with VVPAT
+6247,Scanner
+6248,Scanner
+6249,Scanner
+6254,Scanner
+6255,Scanner
+6260,Scanner
+6261,Scanner
+6262,Scanner
+6263,Scanner
+6264,Scanner
+6265,Scanner
+6266,Scanner
+6267,Scanner
+6268,Scanner
+6274,DRE with VVPAT
+6276,"Ballot Marking Device,Scanner"
+6277,Scanner
+6278,Scanner
+6281,Scanner
+6282,Scanner
+6284,DRE with VVPAT
+6285,Scanner
+6286,Scanner
+6287,Scanner
+6288,Scanner
+6290,Scanner
+6292,Scanner
+6294,Scanner
+6295,DRE with VVPAT
+6300,Scanner
+6301,Scanner
+6302,Scanner
+6303,Scanner
+6304,DRE with VVPAT
+6305,DRE with VVPAT
+6306,DRE with VVPAT
+6308,Scanner
+6309,Scanner
+6311,Scanner
+6314,Scanner
+6316,Scanner
+6317,Scanner
+6322,Scanner
+6325,DRE with VVPAT
+6330,DRE with VVPAT
+6334,Scanner
+6335,Scanner
+6338,Scanner
+6342,Scanner
+6343,Scanner
+6346,DRE with VVPAT
+6347,Scanner
+6348,Scanner
+6350,Scanner
+6351,Scanner
+6352,Scanner
+6353,Scanner
+6354,Scanner
+6357,DRE with VVPAT
+6359,Scanner
+6361,"Ballot Marking Device,Scanner"
+6363,Scanner
+6366,Scanner
+6367,DRE with VVPAT
+6368,Scanner
+6372,Scanner
+6373,Scanner
+6381,Scanner
+6382,Scanner
+6384,Scanner
+6385,"Ballot Marking Device,Scanner"
+6391,Scanner
+6392,Scanner
+6396,DRE with VVPAT
+6399,Scanner
+6400,Scanner
+6401,Scanner
+6402,Scanner
+6409,Scanner
+6411,Scanner
+6412,DRE with VVPAT
+6414,"Ballot Marking Device,Scanner"
+6417,Scanner
+6418,Scanner
+6420,Scanner
+6421,Scanner
+6422,Scanner
+6425,Scanner
+6426,Scanner
+6427,Scanner
+6429,Scanner
+6430,Scanner
+6433,DRE with VVPAT
+6434,"Ballot Marking Device,Scanner"
+6435,"Ballot Marking Device,Scanner"
+6436,"Ballot Marking Device,Scanner"
+6437,"Ballot Marking Device,Scanner"
+6438,"Ballot Marking Device,Scanner"
+6439,"Ballot Marking Device,Scanner"
+6440,"Ballot Marking Device,Scanner"
+6441,"Ballot Marking Device,Scanner"
+6442,"Ballot Marking Device,Scanner"
+6443,"Ballot Marking Device,Scanner"
+6444,"Ballot Marking Device,Scanner"
+6445,"Ballot Marking Device,Scanner"
+6446,"Ballot Marking Device,Scanner"
+6447,"Ballot Marking Device,Scanner"
+6448,"Ballot Marking Device,Scanner"
+6449,"Ballot Marking Device,Scanner"
+6450,"Ballot Marking Device,Scanner"
+6451,"Ballot Marking Device,Scanner"
+6452,"Ballot Marking Device,Scanner"
+6453,"Ballot Marking Device,Scanner"
+6454,"Ballot Marking Device,Scanner"
+6455,"Ballot Marking Device,Scanner"
+6456,"Ballot Marking Device,Scanner"

@@ -1,0 +1,20 @@
+[
+  {"provider":"Clear Ballot","model":"ClearAccess","quantity":1200,"age":"3 years","os":"Linux","certification":"EAC 2.0","scanRate":"120 ballots/min","errorRate":"0.08%","reliability":0.91,"qualityMeasure":0.88},
+  {"provider":"Clear Ballot","model":"ClearCast","quantity":3400,"age":"4 years","os":"Linux","certification":"EAC 2.0","scanRate":"180 ballots/min","errorRate":"0.05%","reliability":0.94,"qualityMeasure":0.92},
+  {"provider":"Clear Ballot","model":"ClearCount","quantity":890,"age":"2 years","os":"Linux","certification":"EAC 2.0","scanRate":"N/A","errorRate":"0.03%","reliability":0.96,"qualityMeasure":0.94},
+  {"provider":"Dominion Voting Systems","model":"Democracy Suite 4.14","quantity":2100,"age":"6 years","os":"Windows 10","certification":"EAC 1.1","scanRate":"100 ballots/min","errorRate":"0.12%","reliability":0.85,"qualityMeasure":0.82},
+  {"provider":"Dominion Voting Systems","model":"Democracy Suite 5.5","quantity":8900,"age":"4 years","os":"Windows 10","certification":"EAC 2.0","scanRate":"150 ballots/min","errorRate":"0.09%","reliability":0.89,"qualityMeasure":0.87},
+  {"provider":"Dominion Voting Systems","model":"ImageCast Evolution","quantity":15200,"age":"5 years","os":"Custom Linux","certification":"EAC 2.0","scanRate":"200 ballots/min","errorRate":"0.07%","reliability":0.92,"qualityMeasure":0.90},
+  {"provider":"Dominion Voting Systems","model":"ImageCast X","quantity":6700,"age":"3 years","os":"Custom Linux","certification":"EAC 2.0","scanRate":"N/A","errorRate":"0.06%","reliability":0.93,"qualityMeasure":0.91},
+  {"provider":"ES&S","model":"DS200","quantity":28500,"age":"8 years","os":"Windows Embedded","certification":"EAC 1.0","scanRate":"85 ballots/min","errorRate":"0.15%","reliability":0.81,"qualityMeasure":0.78},
+  {"provider":"ES&S","model":"DS450","quantity":4200,"age":"7 years","os":"Windows Embedded","certification":"EAC 1.1","scanRate":"300 ballots/min","errorRate":"0.11%","reliability":0.86,"qualityMeasure":0.84},
+  {"provider":"ES&S","model":"DS850","quantity":1800,"age":"5 years","os":"Windows 10","certification":"EAC 2.0","scanRate":"600 ballots/min","errorRate":"0.08%","reliability":0.90,"qualityMeasure":0.88},
+  {"provider":"ES&S","model":"ExpressVote","quantity":18900,"age":"6 years","os":"Custom Embedded","certification":"EAC 2.0","scanRate":"N/A","errorRate":"0.10%","reliability":0.87,"qualityMeasure":0.85},
+  {"provider":"ES&S","model":"ExpressVote XL","quantity":7300,"age":"4 years","os":"Custom Embedded","certification":"EAC 2.0","scanRate":"N/A","errorRate":"0.09%","reliability":0.88,"qualityMeasure":0.86},
+  {"provider":"Hart InterCivic","model":"Verity Central","quantity":890,"age":"5 years","os":"Windows 10","certification":"EAC 2.0","scanRate":"400 ballots/min","errorRate":"0.10%","reliability":0.87,"qualityMeasure":0.85},
+  {"provider":"Hart InterCivic","model":"Verity Scan","quantity":5600,"age":"5 years","os":"Custom Linux","certification":"EAC 2.0","scanRate":"140 ballots/min","errorRate":"0.11%","reliability":0.86,"qualityMeasure":0.84},
+  {"provider":"Hart InterCivic","model":"Verity Touch","quantity":3200,"age":"4 years","os":"Custom Linux","certification":"EAC 2.0","scanRate":"N/A","errorRate":"0.08%","reliability":0.90,"qualityMeasure":0.88},
+  {"provider":"Hart InterCivic","model":"Verity Touch Writer","quantity":1100,"age":"3 years","os":"Custom Linux","certification":"EAC 2.0","scanRate":"N/A","errorRate":"0.07%","reliability":0.91,"qualityMeasure":0.89},
+  {"provider":"Unisyn Voting Solutions","model":"OpenElect OVI","quantity":450,"age":"4 years","os":"Linux","certification":"EAC 2.0","scanRate":"N/A","errorRate":"0.09%","reliability":0.88,"qualityMeasure":0.86},
+  {"provider":"Unisyn Voting Solutions","model":"OpenElect OVO","quantity":780,"age":"5 years","os":"Linux","certification":"EAC 2.0","scanRate":"120 ballots/min","errorRate":"0.12%","reliability":0.85,"qualityMeasure":0.83}
+]

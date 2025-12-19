@@ -1,0 +1,99 @@
+,make,type,model,age,operating_system,cert,scan_rate,error_rate,reliability,quality,discontinued,quantity
+0,AVS,DRE Touchscreen,WINVote,22,Windows 2000 Professional / Windows XP Embedded,Decertified 2007,,,0.65,0.36,True,0
+1,Avante,DRE Touchscreen,Vote-Trakker,24,Windows 2000 Professional,FEC Certified,,"<=1/1,000,000",0.95,0.53,True,0
+2,ES&S,BMD,AutoMARK,22,Windows,VSS 2002,,"<=1/1,000,000",0.7,0.52,True,0
+3,ES&S,Hand-Fed Optical Scanner,DS200,15,Windows,VVSG 1.0 (2005),Highspeed,"<=1/500,000",0.75,0.57,False,38472
+4,ES&S,Batch-Fed Optical Scanner,DS850,13,Windows,VVSG 1.0 (2005),300 ballots/min,"<=1/500,000",0.75,0.64,False,336
+5,Dominion,Hybrid Optical Scanner/BMD,ImageCast Evolution,14,Windows,VVSG 1.0 (2005),,"<=1/500,000",0.75,0.57,False,10075
+6,Dominion,BMD,ImageCast X,12,Android,VVSG 1.0 (2005),,"<=1/500,000",0.75,0.67,False,43049
+7,ES&S,Batch-Fed Optical Scanner,DS450,9,Windows,VVSG 1.0 (2005),72 ballots/minute,"<=1/500,000",0.85,0.64,False,485
+8,ES&S,BMD,ExpressVote,11,Windows,VVSG 1.0 (2005),,"<=1/500,000",0.85,0.62,False,96778
+9,Dominion,Batch-Fed Optical Scanner,ImageCast Central,14,Windows,VVSG 1.0 (2005),High-speed,"<=1/500,000",0.75,0.57,False,812
+10,AVS,Batch-Fed Optical Scanner,WINScan,22,,FEC VSS 2002,,"<=1/1,000,000",0.65,0.39,True,0
+11,Democracy Live,Internet Voting,OmniBallot Online,17,,,,,0.65,0.31,False,0
+12,Dominion,Hand-Fed Optical Scanner,ImageCast Precinct,14,,VVSG 1.0 (2005),,"<=1/500,000",0.75,0.51,False,7469
+13,ES&S,DRE Touchscreen,ExpressTouch,,Windows,VVSG 1.0 (2005),,"<=1/500,000",0.7,0.58,False,751
+14,Dominion,DRE Touchscreen,ImageCast DRE,,Windows,VVSG 1.0 (2005),,"<=1/500,000",0.7,0.58,False,0
+15,ES&S,Hand-Fed Optical Scanner,DS300,,Windows,VVSG 1.0 (2005),,"<=1/500,000",0.7,0.57,False,6344
+16,ES&S,BMD/Tabulator,ExpressVote XL,,Windows,VVSG 1.0 (2005),,"<=1/500,000",0.7,0.58,False,17206
+17,MicroVote,DRE Push Button,MV-464,40,,VSTL Certification Test Plan,,,0.55,0.33,True,0
+18,Dominion,Hand-Fed Optical Scanner,ImageCast Precinct 2,,,VVSG 1.0 (2005),,"<=1/500,000",0.7,0.51,False,3576
+19,ES&S,Batch-Fed Optical Scanner,DS950,,,(VVSG) 2.0,280 ballots/minute,"<=1/1,670,000",0.7,0.66,False,87
+20,MicroVote,DRE Push Button,Infinity,,"Microsoft Windows 2000, Windows XP Professional",,,,0.95,0.48,False,2930
+21,Democracy Live,BMD,OmniBallot Tablet,,Windows 10 IoT Enterprise,,,,0.7,0.45,False,2173
+22,Democracy Live,Remote Ballot Marking,Secure Select,,,,,,1.0,0.62,False,0
+23,Clear Ballot,BMD,ClearAccess,,,VVSG 1.0 (2005),,"<=1/500,000",1.0,0.79,False,1222
+24,Clear Ballot,Hand-Fed Optical Scanner,ClearCast,,,VVSG 1.0 (2005),,"<=1/500,000",1.0,0.71,False,3398
+25,Clear Ballot,Batch-Fed Optical Scanner,ClearCount,,,VVSG 1.0 (2005),,"<=1/500,000",1.0,0.77,False,133
+26,Clear Ballot,BMD,ClearMark,,,NYSBOE (2023),,,1.0,0.72,False,681
+27,Clear Ballot,Hand-Fed Optical Scanner,ClearCast Go,,,,,,1.0,0.83,False,0
+28,DFM Associates,Electronic Poll Book,EIMS,,,,,,1.0,0.6,False,0
+29,DFM Associates,Hand-Fed Optical Scanner,Mark-A-Vote,,,,,,0.75,0.3,False,0
+30,DFM Associates,Electronic Poll Book,Vote Center App,,,,,,1.0,0.6,False,0
+31,Danaher,DRE Push Button,Shouptronic 1242,,,,,,0.65,0.43,False,0
+32,DemTech,Electronic Poll Book,Advocate Precinct,,,,,,0.95,0.6,False,0
+33,DemTech,Electronic Poll Book,ePollTAB,,,,,,0.95,0.62,False,0
+34,Dominion,Hybrid Optical Scanner/DRE,ImageCast Precinct ATI,,,,,,0.95,0.84,False,0
+35,Dominion,BMD,ImageCast Precinct BMD,,,,,,0.95,0.83,False,0
+36,Dominion,Remote Ballot Marking,ImageCast Remote,,,,,,1.0,0.62,False,0
+37,Dominion,DRE Touchscreen,ImageCast X as DRE,,,,,,0.95,0.83,False,12696
+38,ES&S,Batch-Fed Optical Scanner,DS650,,,,,,0.85,0.41,False,0
+39,ES&S,Electronic Poll Book,ExpressPoll,,,,,,1.0,0.65,False,0
+40,ES&S,Hand-Fed Optical Scanner,Model 100,,,,,,0.85,0.39,False,0
+41,ES&S,Batch-Fed Optical Scanner,Model 150,,,,,,0.55,0.31,False,0
+42,ES&S,Batch-Fed Optical Scanner,Model 550,,,,,,0.55,0.43,False,0
+43,ES&S,Batch-Fed Optical Scan Tabulator,Model 650,,,,,,0.65,0.53,False,0
+44,ES&S,DRE Touchscreen,iVotronic,,,,,,0.65,0.3,False,381
+45,ES&S/Unisyn,Hand-Fed Optical Scanner,InkaVote,,,,,,0.85,0.51,False,0
+46,ES&S/Unisyn,BMD,InkaVote Plus,,,,,,0.7,0.34,False,0
+47,Enhanced Voting,Remote Ballot Marking,Enhanced Ballot,,,,,,1.0,0.54,False,0
+48,Enhanced Voting,Remote Ballot Marking,MyBallot,,,,,,0.75,0.43,False,0
+49,Five Cedars Group,BMD,Alternate Format Ballot,,,,,,0.7,0.34,False,0
+50,Hand Count,Hand Count,Hand Counted Paper Ballots,,,,,,0.7,0.34,False,0
+51,Hart InterCivic,Batch-Fed Optical Scanner,Ballot Now,,,,,,0.95,0.7,False,0
+52,Hart InterCivic,Batch-Fed Optical Scanner,Verity Central,,,,,,0.95,0.69,False,176
+53,Hart InterCivic,BMD,Verity Duo,,,,,,1.0,0.55,False,17404
+54,Hart InterCivic,Hand-Fed Optical Scanner,Verity Scan,,,,,,0.95,0.79,False,14332
+55,Hart InterCivic,DRE Touchscreen,Verity Touch,,,,,,0.95,0.65,False,59
+56,Hart InterCivic,BMD,Verity Touch Writer,,,,,,0.95,0.73,False,19697
+57,Hart InterCivic,Hand-Fed Optical Scanner,eScan,,,,,,0.95,0.83,False,2205
+58,Hart InterCivic,Hybrid Optical Scanner/DRE,eScan A/T,,,,,,0.95,0.76,False,0
+59,Hart InterCivic,DRE Dial,eSlate,,,,,,0.95,0.8,False,175
+60,IVS,BMD,Inspire Ballot Marking Device,,,,,,0.95,0.77,False,718
+61,In-House,Electronic Poll Book,In-House Electronic Poll Books,,,,,,1.0,0.68,False,0
+62,In-House,Internet Voting,In-House Internet Voting Systems,,,,,,0.7,0.34,False,0
+63,In-House,Remote Ballot Marking,In-House Remote Ballot Marking Systems,,,,,,0.7,0.34,False,0
+64,KNOWiNK,Electronic Poll Book,Poll Pad,,,,,,1.0,0.62,False,0
+65,MicroVote/Chatsworth,Hand-Fed Optical Scanner,ACP 2200,,,,,,0.65,0.39,False,0
+66,Populex,BMD,Slate,,,,,,0.65,0.29,False,0
+67,Premier Election Solutions (Diebold),Hand-Fed Optical Scanner,AccuVote OS,,,,,,0.95,0.44,False,1822
+68,Premier Election Solutions (Diebold),Batch-Fed Optical Scanner,AccuVote OS Central,,,,,,0.7,0.33,False,0
+69,Premier Election Solutions (Diebold),Hand-Fed Optical Scanner,AccuVote OSX,,,,,,0.65,0.3,False,0
+70,Premier Election Solutions (Diebold),DRE Touchscreen,AccuVote TSX,,,,,,0.7,0.34,False,36
+71,Robis,Electronic Poll Book,AskED ePollbook,,,,,,0.7,0.34,False,0
+72,Sequoia Voting Systems,DRE Push Button,AVC Advantage,,,,,,0.65,0.3,False,0
+73,Sequoia Voting Systems,DRE Touchscreen,AVC Edge,,,,,,0.7,0.34,False,0
+74,Sequoia Voting Systems,Batch-Fed Optical Scanner,Optech 400C,,,,,,0.7,0.33,False,0
+75,Sequoia Voting Systems,Hand-Fed Optical Scanner,Optech Insight,,,,,,0.7,0.33,False,0
+76,Sequoia and ES&S,Hand-Fed Optical Scanner,Optech IIIP-Eagle,,,,,,0.7,0.33,False,0
+77,Smartmatic/Los Angeles County,BMD,VSAP BMD,,,,,,0.95,0.45,False,11144
+78,Smartmatic/Los Angeles County,Remote Ballot Marking,VSAP Interactive Sample Ballot,,,,,,0.95,0.45,False,0
+79,Smartmatic/Los Angeles County,Batch-Fed Optical Scanner,VSAP Tally,,,,,,0.85,0.39,False,0
+80,Tenex,Electronic Poll Book,Precinct Central,,,,,,1.0,0.62,False,0
+81,Triad Governmental Systems,Remote Ballot Marking,Accessible Ballot Marking Tool (ABMT),,,,,,0.95,0.57,False,0
+82,UniLect,Hand-Fed Optical Scanner,Marksense Scanner,,,,,,0.7,0.33,False,0
+83,UniLect,DRE Touchscreen,Patriot,,,,,,0.7,0.34,False,0
+84,Unisyn,Hand-Fed Optical Scanner,Freedom Vote Scan (FVS),,,,,,1.0,0.85,False,1103
+85,Unisyn,BMD,Freedom Vote Tablet (FVT),,,,,,1.0,0.86,False,6089
+86,Unisyn,Batch-Fed Optical Scanner,OpenElect OVCS,,,,,,1.0,0.89,False,0
+87,Unisyn,BMD,OpenElect OVI,,,,,,0.95,0.77,False,784
+88,Unisyn,BMD,OpenElect OVI-VC,,,,,,0.95,0.77,False,0
+89,Unisyn,Hand-Fed Optical Scanner,OpenElect OVO,,,,,,0.95,0.8,False,2169
+90,VR Systems,Electronic Poll Book,EViD,,,,,,1.0,0.62,False,0
+91,Voatz,Internet Voting,Mobile App,,,,,,0.95,0.53,False,0
+92,Vote-PAD,BMD,Ballot Marking System,,,,,,0.7,0.34,False,0
+93,Votec,Electronic Poll Book,VoteSafe,,,,,,0.7,0.34,False,0
+94,Votem,Internet Voting,CastIron Voting Platform,,,,,,0.85,0.48,False,0
+95,VotingWorks,Batch-Fed Optical Scanner,VxCentralScan,,,,,,1.0,0.96,False,0
+96,VotingWorks,BMD,VxMark,,,,,,0.95,0.9,False,0
+97,VotingWorks,Hand-Fed Optical Scanner,VxScan,,,,,,1.0,0.94,False,0

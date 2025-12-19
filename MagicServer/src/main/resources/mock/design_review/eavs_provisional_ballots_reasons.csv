@@ -1,0 +1,11 @@
+VariableName,Label
+E2a,Voter Not on List
+E2b,Voter Lacked ID
+E2c,Election Official Challenged Eligibility
+E2d,Another Person Challenged Eligibility
+E2e,Voter Not Resident
+E2f,Voter Registration Not Updated
+E2g,Voter Did Not Surrender Mail Ballot
+E2h,Judge Extended Voting Hours
+E2i,Voter Used SDR
+E2j,Other

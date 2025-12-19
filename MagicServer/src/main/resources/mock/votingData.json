@@ -1,0 +1,12 @@
+[
+    {
+        "category": "Voter Registration Rate (2024)",
+        "iowa": "2,245,678 registered (82.4% of eligible)",
+        "illinois": "8,756,432 registered (78.9% of eligible)"
+    },
+    {
+        "category": "Voter Turnout Rate (2024)",
+        "iowa": "1,947,832 voted (86.7% of registered, 71.5% of eligible)",
+        "illinois": "6,834,567 voted (78.1% of registered, 61.6% of eligible)"
+    }
+]

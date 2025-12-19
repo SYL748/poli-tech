@@ -1,0 +1,37 @@
+[
+  {
+    "category": "Early In-Person Voting",
+    "iowa": "847,382 votes (43.5% of total turnout)",
+    "illinois": "2,992,267 votes (43.8% of total turnout)"
+  },
+  {
+    "category": "Mail-in/Absentee Voting",
+    "iowa": "456,789 votes (23.4% of total turnout)",
+    "illinois": "2,167,534 votes (31.7% of total turnout)"
+  },
+  {
+    "category": "Drop Box Voting",
+    "iowa": "159,723 votes (8.2% of total turnout)",
+    "illinois": "991,012 votes (14.5% of total turnout)"
+  },
+  {
+    "category": "Curbside Voting",
+    "iowa": "19,478 votes (1.0% of total turnout)",
+    "illinois": "68,346 votes (1.0% of total turnout)"
+  },
+  {
+    "category": "Total Early Voting",
+    "iowa": "1,483,372 votes (76.1% of total turnout)",
+    "illinois": "6,219,159 votes (91.0% of total turnout)"
+  },
+  {
+    "category": "Election Day Voting",
+    "iowa": "464,460 votes (23.9% of total turnout)",
+    "illinois": "615,408 votes (9.0% of total turnout)"
+  },
+  {
+    "category": "Total Votes Cast",
+    "iowa": "1,947,832 votes (86.7% of registered, 71.5% of eligible)",
+    "illinois": "6,834,567 votes (78.1% of registered, 61.6% of eligible)"
+  }
+]

@@ -1,0 +1,178 @@
+Table Name,Field Name,Primary Key,Data Type,Not Null,Description,Foreign Key Table,Foreign Key Field
+us_state_geometry,state_id,TRUE,VARCHAR(8),TRUE,State identifier,,
+us_state_geometry,name,FALSE,VARCHAR(255),TRUE,State full name,,
+us_state_geometry,properties,FALSE,JSONB,TRUE,JSON metadata,,
+us_state_geometry,geometry,FALSE,JSONB,TRUE,Spatial geometry,,
+
+county_geo,geo_id,TRUE,VARCHAR(64),TRUE,County geometry PK,,
+county_geo,name,FALSE,VARCHAR(255),TRUE,Name of county geometry,,
+county_geo,properties,FALSE,JSONB,TRUE,Geometry properties,,
+county_geo,geometry,FALSE,JSONB,TRUE,Geometry data,,
+county_geo,unique_county,FALSE,BOOLEAN,FALSE,Flag unique county,,
+
+state_center,state_id,TRUE,VARCHAR(8),TRUE,State center identifier,state,state_id
+state_center,lon,FALSE,DOUBLE PRECISION,TRUE,Longitude of center,,
+state_center,lat,FALSE,DOUBLE PRECISION,TRUE,Latitude of center,,
+state_center,zoom,FALSE,DOUBLE PRECISION,TRUE,Map zoom level,,
+
+state,state_id,TRUE,VARCHAR(8),TRUE,State PK (FK to geometry),us_state_geometry,state_id
+state,name,FALSE,VARCHAR(255),TRUE,State name,,
+
+county,county_id,TRUE,BIGSERIAL,TRUE,County surrogate PK,,
+county,name,FALSE,VARCHAR(255),TRUE,County name,,
+county,state_id,FALSE,VARCHAR(8),TRUE,FK to state,state,state_id
+county,geo_id,FALSE,VARCHAR(64),TRUE,FK to county_geo (UNIQUE),county_geo,geo_id
+
+-- Table: EAVS region (region_id = state_id || county_id)
+eavs_region,region_id,TRUE,VARCHAR(64),TRUE,Concatenated state_id||county_id,,
+eavs_region,state_id,FALSE,VARCHAR(8),TRUE,FK to state,state,state_id
+eavs_region,county_id,FALSE,BIGINT,TRUE,FK to county,county,county_id
+eavs_region,name,FALSE,VARCHAR(255),TRUE,Region name,,
+eavs_region,geo_id,FALSE,VARCHAR(64),TRUE,FK to county,county,geo_id
+
+active_voters_by_region,region_id,TRUE,VARCHAR(64),TRUE,Region identifier (FK),eavs_region,region_id
+active_voters_by_region,active_voter,FALSE,INTEGER,TRUE,Number active voters,,
+active_voters_by_region,inactive_voter,FALSE,INTEGER,TRUE,Inactive voters,,
+
+mail_ballot_rejection_by_region,region_id,TRUE,VARCHAR(64),TRUE,Region FK,eavs_region,region_id
+mail_ballot_rejection_by_region,late,FALSE,INTEGER,TRUE,Rejection late,,
+mail_ballot_rejection_by_region,missing_voter_signature,FALSE,INTEGER,TRUE,,,
+mail_ballot_rejection_by_region,missing_witness_signature,FALSE,INTEGER,TRUE,,,
+mail_ballot_rejection_by_region,non_matching_voter_signature,FALSE,INTEGER,TRUE,,,
+mail_ballot_rejection_by_region,unofficial_envelope,FALSE,INTEGER,TRUE,,,
+mail_ballot_rejection_by_region,ballot_missing_from_envelope,FALSE,INTEGER,TRUE,,,
+mail_ballot_rejection_by_region,no_secrecy_envelope,FALSE,INTEGER,TRUE,,,
+mail_ballot_rejection_by_region,multiple_ballots_one_envelope,FALSE,INTEGER,TRUE,,,
+mail_ballot_rejection_by_region,envelope_not_sealed,FALSE,INTEGER,TRUE,,,
+mail_ballot_rejection_by_region,no_postmark,FALSE,INTEGER,TRUE,,,
+mail_ballot_rejection_by_region,no_resident_address_on_envelope,FALSE,INTEGER,TRUE,,,
+mail_ballot_rejection_by_region,voter_deceased,FALSE,INTEGER,TRUE,,,
+mail_ballot_rejection_by_region,voter_already_voted,FALSE,INTEGER,TRUE,,,
+mail_ballot_rejection_by_region,missing_documentation,FALSE,INTEGER,TRUE,,,
+mail_ballot_rejection_by_region,voter_not_eligible,FALSE,INTEGER,TRUE,,,
+mail_ballot_rejection_by_region,no_ballot_application,FALSE,INTEGER,TRUE,,,
+
+poll_book_deletion_by_region,region_id,TRUE,VARCHAR(64),TRUE,FK to eavs_region,eavs_region,region_id
+poll_book_deletion_by_region,total_registered_user,FALSE,INTEGER,TRUE,Total registered users,,
+poll_book_deletion_by_region,moved,FALSE,INTEGER,TRUE,,,
+poll_book_deletion_by_region,death,FALSE,INTEGER,TRUE,,,
+poll_book_deletion_by_region,felony,FALSE,INTEGER,TRUE,,,
+poll_book_deletion_by_region,fail_response,FALSE,INTEGER,TRUE,,,
+poll_book_deletion_by_region,incompetent_to_vote,FALSE,INTEGER,TRUE,,,
+poll_book_deletion_by_region,voter_request,FALSE,INTEGER,TRUE,,,
+poll_book_deletion_by_region,duplicate_record,FALSE,INTEGER,TRUE,,,
+
+provisional_by_region,region_id,TRUE,VARCHAR(64),TRUE,Region FK,eavs_region,region_id
+provisional_by_region,voter_not_on_list,FALSE,INTEGER,TRUE,,,
+provisional_by_region,voter_lacked_id,FALSE,INTEGER,TRUE,,,
+provisional_by_region,election_official_challenged_eligibility,FALSE,INTEGER,TRUE,,,
+provisional_by_region,another_person_challenged_eligibility,FALSE,INTEGER,TRUE,,,
+provisional_by_region,voter_not_resident,FALSE,INTEGER,TRUE,,,
+provisional_by_region,voter_registration_not_updated,FALSE,INTEGER,TRUE,,,
+provisional_by_region,voter_did_not_surrender_mail_ballot,FALSE,INTEGER,TRUE,,,
+provisional_by_region,judge_extended_voting_hours,FALSE,INTEGER,TRUE,,,
+provisional_by_region,voter_used_sdr,FALSE,INTEGER,TRUE,,,
+provisional_by_region,total_provisional,FALSE,INTEGER,TRUE,Total provisional,,
+
+active_voters_by_state,state_id,TRUE,VARCHAR(8),TRUE,State FK,state,state_id
+active_voters_by_state,active_voter,FALSE,INTEGER,TRUE,,,
+active_voters_by_state,inactive_voter,FALSE,INTEGER,TRUE,,,
+-- total_voter removed per schema
+
+poll_book_deletion_by_state,state_id,TRUE,VARCHAR(8),TRUE,State FK,state,state_id
+poll_book_deletion_by_state,total_registered_user,FALSE,INTEGER,TRUE,Total registered users,,
+poll_book_deletion_by_state,moved,FALSE,INTEGER,TRUE,,,
+poll_book_deletion_by_state,death,FALSE,INTEGER,TRUE,,,
+poll_book_deletion_by_state,felony,FALSE,INTEGER,TRUE,,,
+poll_book_deletion_by_state,fail_response,FALSE,INTEGER,TRUE,,,
+poll_book_deletion_by_state,incompetent_to_vote,FALSE,INTEGER,TRUE,,,
+poll_book_deletion_by_state,voter_request,FALSE,INTEGER,TRUE,,,
+poll_book_deletion_by_state,duplicate_record,FALSE,INTEGER,TRUE,,,
+
+provisional_by_state,state_id,TRUE,VARCHAR(8),TRUE,State FK,state,state_id
+provisional_by_state,voter_not_on_list,FALSE,INTEGER,TRUE,,,
+provisional_by_state,voter_lacked_id,FALSE,INTEGER,TRUE,,,
+provisional_by_state,election_official_challenged_eligibility,FALSE,INTEGER,TRUE,,,
+provisional_by_state,another_person_challenged_eligibility,FALSE,INTEGER,TRUE,,,
+provisional_by_state,voter_not_resident,FALSE,INTEGER,TRUE,,,
+provisional_by_state,voter_registration_not_updated,FALSE,INTEGER,TRUE,,,
+provisional_by_state,voter_did_not_surrender_mail_ballot,FALSE,INTEGER,TRUE,,,
+provisional_by_state,judge_extended_voting_hours,FALSE,INTEGER,TRUE,,,
+provisional_by_state,voter_used_sdr,FALSE,INTEGER,TRUE,,,
+provisional_by_state,other_reason,FALSE,INTEGER,TRUE,Other reason,,
+
+vote_turnout_by_state,state_id,TRUE,VARCHAR(8),TRUE,State FK,state,state_id
+vote_turnout_by_state,total_registered_voter,FALSE,INTEGER,TRUE,,,
+vote_turnout_by_state,total_votes_cast,FALSE,INTEGER,TRUE,,,
+vote_turnout_by_state,turn_out_rate,FALSE,DOUBLE PRECISION,FALSE,Turnout ratio,,
+
+early_vote_by_state,state_id,TRUE,VARCHAR(8),TRUE,State FK,state,state_id
+early_vote_by_state,total_voters,FALSE,INTEGER,TRUE,,,
+early_vote_by_state,absentee_uocava,FALSE,INTEGER,TRUE,,,
+early_vote_by_state,mail_votes,FALSE,INTEGER,TRUE,,,
+early_vote_by_state,in_person_early_voting,FALSE,INTEGER,TRUE,,,
+early_vote_by_state,mail_votes_in_vbm_jurisdiction,FALSE,INTEGER,TRUE,,,
+early_vote_by_state,drop_box,FALSE,INTEGER,TRUE,,,
+
+mail_ballot_rejection_by_state,state_id,TRUE,VARCHAR(8),TRUE,State FK,state,state_id
+mail_ballot_rejection_by_state,late,FALSE,INTEGER,TRUE,,,
+mail_ballot_rejection_by_state,missing_voter_signature,FALSE,INTEGER,TRUE,,,
+mail_ballot_rejection_by_state,missing_witness_signature,FALSE,INTEGER,TRUE,,,
+mail_ballot_rejection_by_state,non_matching_voter_signature,FALSE,INTEGER,TRUE,,,
+mail_ballot_rejection_by_state,unofficial_envelope,FALSE,INTEGER,TRUE,,,
+mail_ballot_rejection_by_state,ballot_missing_from_envelope,FALSE,INTEGER,TRUE,,,
+mail_ballot_rejection_by_state,no_secrecy_envelope,FALSE,INTEGER,TRUE,,,
+mail_ballot_rejection_by_state,multiple_ballots_one_envelope,FALSE,INTEGER,TRUE,,,
+mail_ballot_rejection_by_state,envelope_not_sealed,FALSE,INTEGER,TRUE,,,
+mail_ballot_rejection_by_state,no_postmark,FALSE,INTEGER,TRUE,,,
+mail_ballot_rejection_by_state,no_resident_address_on_envelope,FALSE,INTEGER,TRUE,,,
+mail_ballot_rejection_by_state,voter_deceased,FALSE,INTEGER,TRUE,,,
+mail_ballot_rejection_by_state,voter_already_voted,FALSE,INTEGER,TRUE,,,
+mail_ballot_rejection_by_state,missing_documentation,FALSE,INTEGER,TRUE,,,
+mail_ballot_rejection_by_state,voter_not_eligible,FALSE,INTEGER,TRUE,,,
+mail_ballot_rejection_by_state,no_ballot_application,FALSE,INTEGER,TRUE,,,
+
+political_party_cvap_by_state,state_id,TRUE,VARCHAR(8),TRUE,State FK,state,state_id
+political_party_cvap_by_state,name,TRUE,VARCHAR(128),TRUE,Party name,,
+political_party_cvap_by_state,cvap_pct,FALSE,DOUBLE PRECISION,FALSE,CVAP share pct,,
+
+state_equipment_history,state_id,TRUE,VARCHAR(8),TRUE,State FK,state,state_id
+state_equipment_history,equipment_count_2016,FALSE,INTEGER,TRUE,Equipment count 2016,,
+state_equipment_history,equipment_count_2020,FALSE,INTEGER,TRUE,Equipment count 2020,,
+state_equipment_history,equipment_count_2024,FALSE,INTEGER,TRUE,Equipment count 2024,,
+
+state_equipment_total,state_id,TRUE,VARCHAR(8),TRUE,State FK,state,state_id
+state_equipment_total,dre_no_vvpat,FALSE,INTEGER,TRUE,,,
+state_equipment_total,dre_with_vvpat,FALSE,INTEGER,TRUE,,,
+state_equipment_total,ballot_marking_device,FALSE,INTEGER,TRUE,,,
+state_equipment_total,scanner,FALSE,INTEGER,TRUE,,,
+
+-- Equipment dimensions
+voting_equipment,id,TRUE,BIGSERIAL,TRUE,Equipment ID,,
+voting_equipment,make,FALSE,VARCHAR(128),TRUE,Make,,
+voting_equipment,model,FALSE,VARCHAR(256),TRUE,Model,,
+voting_equipment,equipment_type,FALSE,VARCHAR(64),TRUE,Type of equipment,,
+voting_equipment,short_description,FALSE,VARCHAR(512),FALSE,Description,,
+voting_equipment,operating_system,FALSE,VARCHAR(128),FALSE,OS used,,
+voting_equipment,certification,FALSE,VARCHAR(128),FALSE,Certification,,
+voting_equipment,spec_scan_rate_per_min,FALSE,NUMERIC(10,2),FALSE,Scan rate spec,,
+voting_equipment,spec_error_rate,FALSE,NUMERIC(6,4),FALSE,Error rate spec,,
+voting_equipment,spec_reliability_rating,FALSE,NUMERIC(5,2),FALSE,Reliability rating spec,,
+voting_equipment,discontinued,FALSE,BOOLEAN,TRUE,Discontinued flag,,
+
+-- Equipment facts
+equipment_summary_by_state,state_id,TRUE,VARCHAR(8),TRUE,State FK,state,state_id
+equipment_summary_by_state,equipment_id,TRUE,BIGINT,TRUE,Equipment FK,voting_equipment,id
+equipment_summary_by_state,quantity,FALSE,INTEGER,TRUE,Quantity deployed,,
+equipment_summary_by_state,age,FALSE,NUMERIC(5,2),FALSE,Average age (years),,
+equipment_summary_by_state,scan_rate,FALSE,NUMERIC(10,2),FALSE,Observed scan rate,,
+equipment_summary_by_state,error_rate,FALSE,NUMERIC(6,4),FALSE,Observed error rate,,
+equipment_summary_by_state,reliability,FALSE,NUMERIC(5,2),FALSE,Observed reliability pct,,
+
+voting_equipment_overview,equipment_id,TRUE,BIGINT,TRUE,Equipment FK,voting_equipment,id
+voting_equipment_overview,quantity,FALSE,INTEGER,TRUE,Total quantity,,
+voting_equipment_overview,avg_age_years,FALSE,NUMERIC(5,2),FALSE,Average age (years),,
+voting_equipment_overview,observed_scan_rate_per_min,FALSE,NUMERIC(10,2),FALSE,Observed scan rate,,
+voting_equipment_overview,observed_error_rate,FALSE,NUMERIC(6,4),FALSE,Observed error rate,,
+voting_equipment_overview,observed_reliability_pct,FALSE,NUMERIC(5,2),FALSE,Observed reliability pct,,
+voting_equipment_overview,quality_score,FALSE,NUMERIC(5,2),FALSE,Composite quality score,,

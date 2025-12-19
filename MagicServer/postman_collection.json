@@ -1,0 +1,923 @@
+{
+	"info": {
+		"name": "MagicServer API Collection",
+		"description": "Complete API collection for testing MagicServer endpoints. Demo data is seeded for Florida (stateId=12) and year=2024.",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "1"
+	},
+	"item": [
+		{
+			"name": "Geo API - Geographic Data",
+			"item": [
+				{
+					"name": "GUI-1: Get All States (GeoJSON FeatureCollection)",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{baseUrl}}/api/geo/states",
+							"host": ["{{baseUrl}}"],
+							"path": ["api", "geo", "states"]
+						},
+						"description": "Returns a GeoJSON FeatureCollection containing all 48 mainland states. Each feature includes:\n- type: 'Feature'\n- properties: State properties (GEO_ID, STATE, NAME, etc.)\n- geometry: State boundary coordinates\n\nUse this for rendering the US map on the splash page."
+					},
+					"response": []
+				},
+				{
+					"name": "GUI-20: Get Specific State (GeoJSON FeatureCollection)",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{baseUrl}}/api/geo/states/:stateId",
+							"host": ["{{baseUrl}}"],
+							"path": ["api", "geo", "states", ":stateId"],
+							"variable": [
+								{
+									"key": "stateId",
+									"value": "12",
+									"description": "State ID (12 = Florida)"
+								}
+							]
+						},
+						"description": "Returns a GeoJSON FeatureCollection with a single state feature. Includes:\n- type: 'FeatureCollection'\n- features: Array with one Feature containing properties and geometry\n\nUse this for displaying a specific state boundary on the state detail page."
+					},
+					"response": []
+				},
+				{
+					"name": "GUI-2: Get Counties for State (GeoJSON FeatureCollection)",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{baseUrl}}/api/geo/states/:stateId/counties",
+							"host": ["{{baseUrl}}"],
+							"path": ["api", "geo", "states", ":stateId", "counties"],
+							"variable": [
+								{
+									"key": "stateId",
+									"value": "12",
+									"description": "State ID (12 = Florida)"
+								}
+							]
+						},
+						"description": "Returns a GeoJSON FeatureCollection of county boundaries for detailed states. Each feature includes:\n- type: 'Feature'\n- properties: County properties (GEO_ID, STATE, COUNTY, NAME, LSAD, CENSUSAREA)\n- geometry: County boundary coordinates\n\nUse this to display EAVS geographic unit boundaries on state maps."
+					},
+					"response": []
+				},
+				{
+					"name": "Get All State Centers",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{baseUrl}}/api/geo/state-centers",
+							"host": ["{{baseUrl}}"],
+							"path": ["api", "geo", "state-centers"]
+						},
+						"description": "Returns an array of state center data for all states. Each object includes:\n- stateId: State identifier\n- name: State name\n- lon: Center longitude\n- lat: Center latitude\n- zoom: Recommended zoom level\n\nUse this to get map view settings for centering on states."
+					},
+					"response": []
+				},
+				{
+					"name": "Get State Center by ID",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{baseUrl}}/api/geo/state-centers/:stateId",
+							"host": ["{{baseUrl}}"],
+							"path": ["api", "geo", "state-centers", ":stateId"],
+							"variable": [
+								{
+									"key": "stateId",
+									"value": "12",
+									"description": "State ID (12 = Florida)"
+								}
+							]
+						},
+						"description": "Returns center coordinates and zoom level for a specific state:\n- stateId: State identifier\n- name: State name\n- lon: Center longitude\n- lat: Center latitude\n- zoom: Recommended zoom level\n\nUse this to center the map on a specific state at the correct zoom level."
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Facts API - State Level",
+			"item": [
+				{
+					"name": "GUI-2: Political Party CVAP by State",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{baseUrl}}/api/facts/states/:stateId/political-party-cvap",
+							"host": ["{{baseUrl}}"],
+							"path": ["api", "facts", "states", ":stateId", "political-party-cvap"],
+							"variable": [
+								{
+									"key": "stateId",
+									"value": "12",
+									"description": "State ID (12 = Florida)"
+								}
+							]
+						},
+						"description": "Returns political party CVAP (Citizen Voting Age Population) percentages for detailed states."
+					},
+					"response": []
+				},
+				{
+					"name": "GUI-3: Provisional Ballots by State",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{baseUrl}}/api/facts/states/:stateId/provisional",
+							"host": ["{{baseUrl}}"],
+							"path": ["api", "facts", "states", ":stateId", "provisional"],
+							"variable": [
+								{
+									"key": "stateId",
+									"value": "12",
+									"description": "State ID (12 = Florida)"
+								}
+							]
+						},
+						"description": "Returns provisional ballot data broken down by category (E2a-E2i) for displaying in a bar chart."
+					},
+					"response": []
+				},
+				{
+					"name": "GUI-5: Active Voters by State",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{baseUrl}}/api/facts/states/:stateId/active-voters",
+							"host": ["{{baseUrl}}"],
+							"path": ["api", "facts", "states", ":stateId", "active-voters"],
+							"variable": [
+								{
+									"key": "stateId",
+									"value": "12",
+									"description": "State ID (12 = Florida)"
+								}
+							]
+						},
+						"description": "Returns active voter statistics for a state: total registered, active, and inactive voters."
+					},
+					"response": []
+				},
+				{
+					"name": "GUI-6: Pollbook Deletions by State",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{baseUrl}}/api/facts/states/:stateId/pollbook-deletions",
+							"host": ["{{baseUrl}}"],
+							"path": ["api", "facts", "states", ":stateId", "pollbook-deletions"],
+							"variable": [
+								{
+									"key": "stateId",
+									"value": "12",
+									"description": "State ID (12 = Florida)"
+								}
+							]
+						},
+						"description": "Returns pollbook deletion statistics by category for a state."
+					},
+					"response": []
+				},
+				{
+					"name": "GUI-7: Mail Ballot Rejections by State",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{baseUrl}}/api/facts/states/:stateId/mail-ballot-rejections",
+							"host": ["{{baseUrl}}"],
+							"path": ["api", "facts", "states", ":stateId", "mail-ballot-rejections"],
+							"variable": [
+								{
+									"key": "stateId",
+									"value": "12",
+									"description": "State ID (12 = Florida)"
+								}
+							]
+						},
+						"description": "Returns mail ballot rejection statistics by reason for a state."
+					},
+					"response": []
+				},
+				{
+					"name": "GUI-9: Early Voting by State",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{baseUrl}}/api/facts/states/:stateId/early-voting",
+							"host": ["{{baseUrl}}"],
+							"path": ["api", "facts", "states", ":stateId", "early-voting"],
+							"variable": [
+								{
+									"key": "stateId",
+									"value": "12",
+									"description": "State ID (12 = Florida)"
+								}
+							]
+						},
+						"description": "Returns early voting statistics for a state across multiple years."
+					},
+					"response": []
+				},
+				{
+					"name": "GUI-10: State Comparison",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{baseUrl}}/api/facts/states/:stateId/comparison",
+							"host": ["{{baseUrl}}"],
+							"path": ["api", "facts", "states", ":stateId", "comparison"],
+							"variable": [
+								{
+									"key": "stateId",
+									"value": "12",
+									"description": "State ID (12 = Florida)"
+								}
+							]
+						},
+						"description": "Returns comparison data for a state: voter turnout, rejection rates, etc."
+					},
+					"response": []
+				},
+				{
+					"name": "GUI-6: Equipment Summary by State",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{baseUrl}}/api/facts/states/:stateId/equipment-summary",
+							"host": ["{{baseUrl}}"],
+							"path": ["api", "facts", "states", ":stateId", "equipment-summary"],
+							"variable": [
+								{
+									"key": "stateId",
+									"value": "12",
+									"description": "State ID (12 = Florida)"
+								}
+							]
+						},
+						"description": "Returns comprehensive equipment summary for a state from denormalized table. Includes: manufacturer, model_name, quantity, equipment_type, age, os, certification_level, scanning_rate, error_rate, reliability, quality, and short_description. Data matches 6_Equipment_Summary_by_State_with_short_description.csv."
+					},
+					"response": []
+				},
+				{
+					"name": "GUI-16: Equipment History by State",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{baseUrl}}/api/facts/states/:stateId/equipment-history",
+							"host": ["{{baseUrl}}"],
+							"path": ["api", "facts", "states", ":stateId", "equipment-history"],
+							"variable": [
+								{
+									"key": "stateId",
+									"value": "12",
+									"description": "State ID (12 = Florida)"
+								}
+							]
+						},
+						"description": "Returns historical equipment data for a state across multiple years."
+					},
+					"response": []
+				},
+				{
+					"name": "GUI-21 & GUI-22: Registration and Turnout Metrics by State",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{baseUrl}}/api/facts/states/:stateId/registration-metrics",
+							"host": ["{{baseUrl}}"],
+							"path": ["api", "facts", "states", ":stateId", "registration-metrics"],
+							"variable": [
+								{
+									"key": "stateId",
+									"value": "12",
+									"description": "State ID (12 = Florida)"
+								}
+							]
+						},
+						"description": "Returns comprehensive voter registration and turnout data for a state. Combines data from registration_metrics_by_state and active_voters_by_state tables. Includes:\n- totalVotesCast: Total votes cast in the election\n- totalCvap: Citizen Voting Age Population\n- registrationRate: Percentage of CVAP that is registered\n- turnoutRate: Percentage voter turnout\n- totalRegisteredVoters: Total number of registered voters\n- activeRegisteredVoters: Number of active registered voters\n\nUse this for GUI-21 and GUI-22 registration and turnout analysis."
+					},
+					"response": []
+				},
+				{
+					"name": "EAVS Data Quality Score by State",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{baseUrl}}/api/facts/states/:stateId/data-quality",
+							"host": ["{{baseUrl}}"],
+							"path": ["api", "facts", "states", ":stateId", "data-quality"],
+							"variable": [
+								{
+									"key": "stateId",
+									"value": "12",
+									"description": "State ID (12 = Florida)"
+								}
+							]
+						},
+						"description": "Returns the EAVS data quality score (from EAVS Missing Data Metric) for a specific state. The score ranges from 0.0 to 1.0, where higher values indicate better data quality. This metric is derived from the 2_EAVS_Missing_Data_Metric.csv dataset.\n\nResponse includes:\n- stateId: State identifier (INTEGER)\n- dataQualityScore: Quality score ranging from 0.0 to 1.0 (DOUBLE)\n\nUse this to assess the reliability and completeness of EAVS data for a given state."
+					},
+					"response": []
+				},
+				{
+					"name": "GUI-28: Equipment EI Curve by State",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{baseUrl}}/api/facts/states/:stateId/equipment-ei-curve",
+							"host": ["{{baseUrl}}"],
+							"path": ["api", "facts", "states", ":stateId", "equipment-ei-curve"],
+							"variable": [
+								{
+									"key": "stateId",
+									"value": "48",
+									"description": "State ID (48 = Texas)"
+								}
+							]
+						},
+						"description": "Returns equipment quality ecological inference (EI) kernel density estimation (KDE) data for visualization. Shows the relationship between equipment quality scores and probability density across different demographic groups.\n\nResponse format:\n{\n  \"stateId\": 48,\n  \"demographicData\": {\n    \"White\": [\n      { \"equipmentQuality\": 0.0, \"probabilityDensity\": 0.0 },\n      { \"equipmentQuality\": 0.0101, \"probabilityDensity\": 0.0 },\n      ...\n    ],\n    \"Hispanic\": [...],\n    \"African American\": [...]\n  }\n}\n\nEach demographic group contains an array of data points with:\n- equipmentQuality: Quality score from 0.0 to 1.0\n- probabilityDensity: Probability density value for KDE curve\n\nUse this for GUI-28 EI KDE density visualization to analyze the relationship between equipment quality and demographic voting patterns."
+					},
+					"response": []
+				},
+				{
+					"name": "GUI-29: Rejected Ballot EI Curve by State",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{baseUrl}}/api/facts/states/:stateId/rejected-ballot-ei-curve",
+							"host": ["{{baseUrl}}"],
+							"path": ["api", "facts", "states", ":stateId", "rejected-ballot-ei-curve"],
+							"variable": [
+								{
+									"key": "stateId",
+									"value": "48",
+									"description": "State ID (48 = Texas)"
+								}
+							]
+						},
+						"description": "Returns rejected ballot ecological inference (EI) kernel density estimation (KDE) data for visualization. Shows the relationship between ballot rejection probability and probability density across different demographic groups.\n\nResponse format:\n{\n  \"stateId\": 48,\n  \"demographicData\": {\n    \"White\": [\n      { \"rejectionProbability\": 0.0, \"probabilityDensity\": 0.0 },\n      { \"rejectionProbability\": 0.0001, \"probabilityDensity\": 0.0 },\n      ...\n    ],\n    \"Hispanic\": [...],\n    \"African American\": [...]\n  }\n}\n\nEach demographic group contains an array of data points with:\n- rejectionProbability: Rejection probability from 0.0 to ~0.03\n- probabilityDensity: Probability density value for KDE curve\n\nUse this for GUI-29 EI KDE density visualization to analyze the relationship between ballot rejection rates and demographic patterns."
+					},
+					"response": []
+				},
+				{
+					"name": "GUI-27: Precinct Demographic Regression by State",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{baseUrl}}/api/facts/states/:stateId/precinct-demographic-regression",
+							"host": ["{{baseUrl}}"],
+							"path": ["api", "facts", "states", ":stateId", "precinct-demographic-regression"],
+							"variable": [
+								{
+									"key": "stateId",
+									"value": "48",
+									"description": "State ID (1 = Alabama, 48 = Texas)"
+								}
+							]
+						},
+						"description": "Returns precinct-level demographic regression coefficients for Gingles analysis. These coefficients represent the quadratic regression relationship between demographic percentages and voting patterns.\n\nResponse format:\n[\n  {\n    \"state\": \"Texas\",\n    \"party\": \"Democratic\",\n    \"demographic\": \"White\",\n    \"coef_a\": 0.000345,\n    \"coef_b\": -0.949716,\n    \"coef_c\": 95.698004\n  },\n  {\n    \"state\": \"Texas\",\n    \"party\": \"Republican\",\n    \"demographic\": \"White\",\n    \"coef_a\": -0.00012,\n    \"coef_b\": 0.927997,\n    \"coef_c\": 3.257758\n  },\n  ...\n]\n\nEach entry contains:\n- state: State name (Alabama or Texas)\n- party: Political party (Democratic or Republican)\n- demographic: Demographic group (White, Hispanic, African American)\n- coef_a, coef_b, coef_c: Quadratic regression coefficients where y = a*x^2 + b*x + c\n\nUse this for GUI-27 Gingles precinct analysis to model voting behavior based on demographic composition."
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Facts API - Region Level",
+			"item": [
+				{
+					"name": "GUI-4: Provisional Ballots by Region",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{baseUrl}}/api/facts/states/:stateId/regions/provisional",
+							"host": ["{{baseUrl}}"],
+							"path": ["api", "facts", "states", ":stateId", "regions", "provisional"],
+							"variable": [
+								{
+									"key": "stateId",
+									"value": "12",
+									"description": "State ID (12 = Florida)"
+								}
+							]
+						},
+						"description": "Returns provisional ballot data by EAVS region with breakdown by category."
+					},
+					"response": []
+				},
+				{
+					"name": "GUI-5: Active Voters by Region",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{baseUrl}}/api/facts/states/:stateId/regions/active-voters",
+							"host": ["{{baseUrl}}"],
+							"path": ["api", "facts", "states", ":stateId", "regions", "active-voters"],
+							"variable": [
+								{
+									"key": "stateId",
+									"value": "12",
+									"description": "State ID (12 = Florida)"
+								}
+							]
+						},
+						"description": "Returns active voter statistics broken down by EAVS region."
+					},
+					"response": []
+				},
+				{
+					"name": "GUI-6: Pollbook Deletions by Region",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{baseUrl}}/api/facts/states/:stateId/regions/pollbook-deletions",
+							"host": ["{{baseUrl}}"],
+							"path": ["api", "facts", "states", ":stateId", "regions", "pollbook-deletions"],
+							"variable": [
+								{
+									"key": "stateId",
+									"value": "12",
+									"description": "State ID (12 = Florida)"
+								}
+							]
+						},
+						"description": "Returns pollbook deletion statistics by EAVS region with category breakdown."
+					},
+					"response": []
+				},
+				{
+					"name": "GUI-7: Mail Ballot Rejections by Region",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{baseUrl}}/api/facts/states/:stateId/regions/mail-ballot-rejections",
+							"host": ["{{baseUrl}}"],
+							"path": ["api", "facts", "states", ":stateId", "regions", "mail-ballot-rejections"],
+							"variable": [
+								{
+									"key": "stateId",
+									"value": "12",
+									"description": "State ID (12 = Florida)"
+								}
+							]
+						},
+						"description": "Returns mail ballot rejection statistics by EAVS region with reason breakdown."
+					},
+					"response": []
+				},
+			{
+				"name": "GUI-24: Dropbox Voting by Region (Bubble Chart)",
+				"request": {
+					"method": "GET",
+					"header": [],
+					"url": {
+						"raw": "{{baseUrl}}/api/facts/states/:stateId/regions/dropbox-voting",
+						"host": ["{{baseUrl}}"],
+						"path": ["api", "facts", "states", ":stateId", "regions", "dropbox-voting"],
+						"variable": [
+							{
+								"key": "stateId",
+								"value": "12",
+								"description": "State ID (12 = Florida)"
+							}
+						]
+					},
+					"description": "Returns dropbox voting metrics broken down by EAVS geographic unit for displaying in a bubble chart. Each data point includes:\n- republicanVotes2024: Republican votes in the region\n- democratVotes2024: Democrat votes in the region\n- totalPresidentialVotes2024: Total presidential votes cast\n- mailInBallots: Number of mail-in ballots\n- totalBallots: Total ballots cast in the region\n- percentRepublican: Percentage of Republican votes (X-axis for bubble chart)\n- percentMailInBallots: Percentage of mail-in ballots (Y-axis for bubble chart)\n\nUse this for GUI-24 bubble chart visualization showing relationship between political party and mail-in ballot usage."
+				},
+				"response": []
+			},
+				{
+					"name": "GUI-14: Equipment Quality vs Rejection by Region",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{baseUrl}}/api/facts/states/:stateId/regions/equipment-quality-rejection",
+							"host": ["{{baseUrl}}"],
+							"path": ["api", "facts", "states", ":stateId", "regions", "equipment-quality-rejection"],
+							"variable": [
+								{
+									"key": "stateId",
+									"value": "12",
+									"description": "State ID (12 = Florida)"
+								}
+							]
+						},
+						"description": "Returns equipment quality and ballot rejection correlation data by EAVS region."
+					},
+					"response": []
+				},
+				{
+					"name": "GUI-10: Display Type of Voting Equipment by Region",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{baseUrl}}/api/facts/states/:stateId/regions/display-equipment-types",
+							"host": ["{{baseUrl}}"],
+							"path": ["api", "facts", "states", ":stateId", "regions", "display-equipment-types"],
+							"variable": [
+								{
+									"key": "stateId",
+									"value": "12",
+									"description": "State ID (12 = Florida)"
+								}
+							]
+						},
+						"description": "Returns the types of voting equipment used in each EAVS geographic unit (county/region) for displaying in a data table.\n\nResponse format:\n[\n  {\n    \"regionName\": \"County Name\",\n    \"typeOfEquipmentUsed\": [\"Scanner\", \"Ballot Marking Device\", \"DRE with VVPAT\"]\n  },\n  ...\n]\n\nEach region includes:\n- regionName: Name of the county/region\n- typeOfEquipmentUsed: Array of equipment type strings\n\nPossible equipment types:\n- Scanner\n- Ballot Marking Device\n- DRE with VVPAT\n- DRE without VVPAT\n\nUse this to identify what types of voting equipment are deployed in each region and regions that may need equipment upgrades or standardization."
+					},
+					"response": []
+				},
+				{
+					"name": "GUI 17: Voter Registration Summary by Region",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{baseUrl}}/api/facts/states/:stateId/regions/voter-registration-summary",
+							"host": ["{{baseUrl}}"],
+							"path": ["api", "facts", "states", ":stateId", "regions", "voter-registration-summary"],
+							"variable": [
+								{
+									"key": "stateId",
+									"value": "12",
+									"description": "State ID (12 = Florida)"
+								}
+							]
+						},
+						"description": "Returns voter registration data with party breakdown and completeness metrics for each region in the state.\n\nResponse format:\n[\n  {\n    \"regionId\": 454,\n    \"regionName\": \"Alachua County\",\n    \"geoId\": 12001,\n    \"totalNumRegisteredVoters\": 202011,\n    \"totalNumRepublican\": 55577,\n    \"totalNumDemocratic\": 90250,\n    \"totalNumUnaffiliated\": 50337,\n    \"totalCvap\": 218105,\n    \"registeredVoterPercentage\": 92.62,\n    \"completeness\": 0.66,\n    \"contactCompleteness\": 0.41\n  },\n  ...\n]\n\nEach region includes:\n- regionId: EAVS region identifier (can be used with voter endpoints)\n- regionName: County/region name\n- geoId: County FIPS code\n- totalNumRegisteredVoters: Total registered voters\n- totalNumRepublican: Republican registered voters\n- totalNumDemocratic: Democrat registered voters\n- totalNumUnaffiliated: Unaffiliated/other registered voters\n- totalCvap: Citizen Voting Age Population\n- registeredVoterPercentage: (total_registered / total_cvap) * 100\n- completeness: Data completeness metric (0.0-1.0)\n- contactCompleteness: Contact info completeness (0.0-1.0)\n\nUse this for:\n- Analyzing voter registration patterns by party\n- Assessing data quality and completeness\n- Comparing registration rates to CVAP"
+					},
+					"response": []
+				},
+				{
+					"name": "GUI-5, GUI-7, GUI-8, GUI-9, GUI-10: County Choropleth Info",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{baseUrl}}/api/facts/states/:stateId/regions/county-choropleth-info",
+							"host": ["{{baseUrl}}"],
+							"path": ["api", "facts", "states", ":stateId", "regions", "county-choropleth-info"],
+							"variable": [
+								{
+									"key": "stateId",
+									"value": "12",
+									"description": "State ID (12 = Florida)"
+								}
+							]
+						},
+						"description": "Returns aggregated county-level data for choropleth map visualization. For each county (region) in the state, provides:\n- regionId: The EAVS region identifier (INTEGER) - can be used to query voter lists\n- countyName: Name of the county/region\n- totalProvisional: Total provisional ballots from provisional_by_region table\n- activeVoterPercentage: Calculated as (active_voter / (active_voter + inactive_voter)) * 100. Returns 0.0 if active_voters_by_region table is not seeded or has no record\n- pollbookDeletionPercentage: Calculated as (sum of all deletion reasons / total_registered_user) * 100\n- rejectionPercentage: Mail ballot rejection percentage from mail_ballot_rejection_by_region table\n- typeOfEquipmentUsed: Array of equipment type strings (e.g., ['Scanner', 'DRE with VVPAT'])\n\nThis endpoint combines data from multiple region tables to provide comprehensive county metrics for map visualization.\n\nThe regionId can be used with voter endpoints:\n- GET /api/voters/regions/{regionId} to get paginated voter lists for that county"
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Facts API - National Level",
+			"item": [
+			{
+				"name": "GUI-11: Average Equipment Age by State (Choropleth Map)",
+				"request": {
+					"method": "GET",
+					"header": [],
+					"url": {
+						"raw": "{{baseUrl}}/api/facts/states/equipment-age",
+						"host": ["{{baseUrl}}"],
+						"path": ["api", "facts", "states", "equipment-age"]
+					},
+					"description": "Returns average age of voting equipment for all states for displaying on a choropleth map on the splash page. The choropleth bins show age from 1 year through 10 years, with an additional category for older than 10 years.\n\nResponse format:\n[\n  {\n    \"stateId\": 1,\n    \"averageAgeOfEquipment\": 12\n  },\n  {\n    \"stateId\": 2,\n    \"averageAgeOfEquipment\": 14\n  },\n  ...\n]\n\nEach entry contains:\n- stateId: State identifier (INTEGER)\n- averageAgeOfEquipment: Average age of equipment in years (INTEGER)\n\nColors should be in the same hue with saturation increasing with older devices. Use this for GUI-11 choropleth visualization to identify states with aging voting equipment that may need replacement."
+				},
+				"response": []
+			},
+				{
+					"name": "GUI-12: Equipment Totals by State",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{baseUrl}}/api/facts/states/equipment-totals",
+							"host": ["{{baseUrl}}"],
+							"path": ["api", "facts", "states", "equipment-totals"]
+						},
+						"description": "Returns total equipment counts by state and year. Used for national equipment inventory view."
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Equipment API",
+			"item": [
+				{
+					"name": "GUI-13: Equipment Overview (National)",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{baseUrl}}/api/equipment/overview",
+							"host": ["{{baseUrl}}"],
+							"path": ["api", "equipment", "overview"]
+						},
+						"description": "Returns voting equipment overview for all states at the national level. Includes make, model, quantity, age, quality scores, and reliability metrics."
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Facts API - Precinct Level",
+			"item": [
+				{
+					"name": "GUI-27: Gingles Chart Data by Precinct",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{baseUrl}}/api/facts/states/:stateId/precincts/gingles-chart",
+							"host": ["{{baseUrl}}"],
+							"path": ["api", "facts", "states", ":stateId", "precincts", "gingles-chart"],
+							"variable": [
+								{
+									"key": "stateId",
+									"value": "48",
+									"description": "State ID (48 = Texas)"
+								}
+							]
+						},
+						"description": "Returns Gingles chart data for all precincts in Texas (state_id=48). Each precinct has multiple rows (one per political party). Data includes:\n- county: County name (fetched via JOIN with county table)\n- countyFips: County FIPS code\n- precinctName: Name of the precinct\n- precinctId: Precinct identifier\n- totalVotes: Total votes cast in the precinct\n- whitePct: Percentage of white population\n- hispanicPct: Percentage of Hispanic population\n- africanAmericanPct: Percentage of African American population\n- party: Political party (Democratic or Republican)\n- votePercent: Vote percentage for the party\n- votes: Number of votes for the party\n\nThis visualization helps identify racially polarized voting patterns as required for Voting Rights Act preclearance analysis."
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Voter API - Individual Voter Records",
+			"item": [
+				{
+					"name": "Get Voters by Region ID (All Parties)",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{baseUrl}}/api/voters/regions/:regionId?page=0",
+							"host": ["{{baseUrl}}"],
+							"path": ["api", "voters", "regions", ":regionId"],
+							"query": [
+								{
+									"key": "page",
+									"value": "0",
+									"description": "Page number (0-based). Each page returns 7 voters."
+								},
+								{
+									"key": "party",
+									"value": "",
+									"description": "Optional party filter (Republican, Democrat, Other). Leave empty for all parties.",
+									"disabled": true
+								}
+							],
+							"variable": [
+								{
+									"key": "regionId",
+									"value": "496",
+									"description": "Region ID (496 has 30 test voters in V23 seed)"
+								}
+							]
+						},
+						"description": "Returns 7 voters per page for the specified region (by region_id). Each page contains unique voters that haven't been seen in previous pages. Voters are sorted by ID to ensure consistent pagination.\n\nTest data (V23__seed_voter_list.sql):\n- region_id 496: 30 total voters\n  - 6 Republicans\n  - 8 Democrats\n  - 16 Other\n\nPagination without filter:\n- Page 0: Voters 1-7\n- Page 1: Voters 8-14\n- Page 2: Voters 15-21\n- Page 3: Voters 22-28\n- Page 4: Voters 29-30 (last page with only 2 voters)\n\nResponse includes:\n- voters: List of up to 7 voters with id, regionId, regionName, nameFull, party\n- currentPage: Current page number (0-based)\n- totalPages: Total pages available (5 pages for 30 voters)\n- totalElements: Total number of voters in the region (30)\n- hasNext: true if more pages available\n- hasPrevious: true if not on first page\n- pageSize: Always 7\n\nUse this when you already know the region_id from other queries."
+					},
+					"response": []
+				},
+				{
+					"name": "Get Voters by Region ID (Republicans Only)",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{baseUrl}}/api/voters/regions/:regionId?page=0&party=Republican",
+							"host": ["{{baseUrl}}"],
+							"path": ["api", "voters", "regions", ":regionId"],
+							"query": [
+								{
+									"key": "page",
+									"value": "0",
+									"description": "Page number (0-based). Each page returns 7 voters."
+								},
+								{
+									"key": "party",
+									"value": "Republican",
+									"description": "Filter by party: Republican"
+								}
+							],
+							"variable": [
+								{
+									"key": "regionId",
+									"value": "496",
+									"description": "Region ID (496 has 30 test voters in V23 seed)"
+								}
+							]
+						},
+						"description": "Returns 7 Republican voters per page for the specified region.\n\nTest data (V23__seed_voter_list.sql):\n- region_id 496: 6 Republican voters\n  - Carlos Ulyses Largaespada\n  - Judith Esther Reyes Higgins\n  - Luz Guianbelly Dallas Contreras\n  - Mayde Diaz Alvarez\n  - Tiffany Hervis\n  - Guianeya De Las Mercedes Diaz\n  - Jina Hernandez\n\nWith party=Republican filter:\n- Page 0: 6-7 Republican voters (depending on data)\n- totalElements: 6-7 (only Republicans counted)\n- totalPages: 1\n\nResponse includes only Republican voters in the voters array."
+					},
+					"response": []
+				},
+				{
+					"name": "Get Voters by Region ID (Democrats Only)",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{baseUrl}}/api/voters/regions/:regionId?page=0&party=Democrat",
+							"host": ["{{baseUrl}}"],
+							"path": ["api", "voters", "regions", ":regionId"],
+							"query": [
+								{
+									"key": "page",
+									"value": "0",
+									"description": "Page number (0-based). Each page returns 7 voters."
+								},
+								{
+									"key": "party",
+									"value": "Democrat",
+									"description": "Filter by party: Democrat"
+								}
+							],
+							"variable": [
+								{
+									"key": "regionId",
+									"value": "496",
+									"description": "Region ID (496 has 30 test voters in V23 seed)"
+								}
+							]
+						},
+						"description": "Returns 7 Democrat voters per page for the specified region.\n\nTest data (V23__seed_voter_list.sql):\n- region_id 496: 8 Democrat voters\n  - Maria Maddalena Castellaneta\n  - Gloria Patricia Taylor\n  - Ronaldo Loaisiga\n  - Steven John Valentino\n  - Tymesha O'Neka Jones\n  - Kayla Pacheco\n  - Gail Delores Wilson\n  - James Harris\n  - Franklin L Smith\n  - Albanery Badia\n\nWith party=Democrat filter:\n- Page 0: 7 Democrat voters\n- Page 1: Remaining Democrat voters (if more than 7)\n- totalElements: 8-10 (only Democrats counted)\n- totalPages: 2\n\nResponse includes only Democrat voters in the voters array."
+					},
+					"response": []
+				},
+				{
+					"name": "Get Voters by Region ID (Other Parties)",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{baseUrl}}/api/voters/regions/:regionId?page=0&party=Other",
+							"host": ["{{baseUrl}}"],
+							"path": ["api", "voters", "regions", ":regionId"],
+							"query": [
+								{
+									"key": "page",
+									"value": "0",
+									"description": "Page number (0-based). Each page returns 7 voters."
+								},
+								{
+									"key": "party",
+									"value": "Other",
+									"description": "Filter by party: Other"
+								}
+							],
+							"variable": [
+								{
+									"key": "regionId",
+									"value": "496",
+									"description": "Region ID (496 has 30 test voters in V23 seed)"
+								}
+							]
+						},
+						"description": "Returns 7 voters from other parties (not Republican or Democrat) per page.\n\nTest data (V23__seed_voter_list.sql):\n- region_id 496: 16 Other voters\n\nWith party=Other filter:\n- Page 0: 7 Other voters\n- Page 1: 7 Other voters\n- Page 2: 2 Other voters\n- totalElements: 16 (only Other counted)\n- totalPages: 3\n\nResponse includes only voters with party='Other' in the voters array."
+					},
+					"response": []
+				},
+				{
+					"name": "Get Voters by Region Name (All Parties)",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{baseUrl}}/api/voters/regions/by-name/:regionName?page=0",
+							"host": ["{{baseUrl}}"],
+							"path": ["api", "voters", "regions", "by-name", ":regionName"],
+							"query": [
+								{
+									"key": "page",
+									"value": "0",
+									"description": "Page number (0-based). Each page returns 7 voters."
+								},
+								{
+									"key": "party",
+									"value": "",
+									"description": "Optional party filter (Republican, Democrat, Other). Leave empty for all parties.",
+									"disabled": true
+								}
+							],
+							"variable": [
+								{
+									"key": "regionName",
+									"value": "Miami-Dade County",
+									"description": "Region (county) name - must match name in eavs_region table"
+								}
+							]
+						},
+						"description": "Returns 7 voters per page for the specified region (by region name). The service looks up the region_id from the eavs_region table using the region name, then returns paginated voters.\n\nEach page contains unique voters that haven't been seen in previous pages. Voters are sorted by ID to ensure consistent pagination.\n\nNote: The region name must exactly match the name in the eavs_region table (case-sensitive). For the test data in V23__seed_voter_list.sql (region_id 496), you'll need to query the eavs_region table to find the corresponding region name.\n\nResponse includes:\n- voters: List of up to 7 voters with id, regionId, regionName, nameFull, party\n- currentPage: Current page number (0-based)\n- totalPages: Total pages available\n- totalElements: Total number of voters in the region\n- hasNext: true if more pages available\n- hasPrevious: true if not on first page\n- pageSize: Always 7\n\nReturns 404 if region name not found in eavs_region table.\n\nUse this when you know the region/county name but not the region_id."
+					},
+					"response": []
+				},
+				{
+					"name": "Get Voters by Region Name (Republicans Only)",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{baseUrl}}/api/voters/regions/by-name/:regionName?page=0&party=Republican",
+							"host": ["{{baseUrl}}"],
+							"path": ["api", "voters", "regions", "by-name", ":regionName"],
+							"query": [
+								{
+									"key": "page",
+									"value": "0",
+									"description": "Page number (0-based). Each page returns 7 voters."
+								},
+								{
+									"key": "party",
+									"value": "Republican",
+									"description": "Filter by party: Republican"
+								}
+							],
+							"variable": [
+								{
+									"key": "regionName",
+									"value": "Miami-Dade County",
+									"description": "Region (county) name - must match name in eavs_region table"
+								}
+							]
+						},
+						"description": "Returns 7 Republican voters per page for the specified region (by region name).\n\nFilters results to only include voters with party='Republican'.\n\nThe service looks up the region_id from the eavs_region table using the region name, then returns paginated Republican voters only.\n\nResponse includes:\n- voters: List of up to 7 Republican voters only\n- totalElements: Total number of Republican voters in the region\n- totalPages: Total pages for Republican voters (based on count/7)\n\nReturns 404 if region name not found in eavs_region table."
+					},
+					"response": []
+				},
+				{
+					"name": "Get Voters by Region Name (Democrats Only)",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{baseUrl}}/api/voters/regions/by-name/:regionName?page=0&party=Democrat",
+							"host": ["{{baseUrl}}"],
+							"path": ["api", "voters", "regions", "by-name", ":regionName"],
+							"query": [
+								{
+									"key": "page",
+									"value": "0",
+									"description": "Page number (0-based). Each page returns 7 voters."
+								},
+								{
+									"key": "party",
+									"value": "Democrat",
+									"description": "Filter by party: Democrat"
+								}
+							],
+							"variable": [
+								{
+									"key": "regionName",
+									"value": "Miami-Dade County",
+									"description": "Region (county) name - must match name in eavs_region table"
+								}
+							]
+						},
+						"description": "Returns 7 Democrat voters per page for the specified region (by region name).\n\nFilters results to only include voters with party='Democrat'.\n\nThe service looks up the region_id from the eavs_region table using the region name, then returns paginated Democrat voters only.\n\nResponse includes:\n- voters: List of up to 7 Democrat voters only\n- totalElements: Total number of Democrat voters in the region\n- totalPages: Total pages for Democrat voters (based on count/7)\n\nReturns 404 if region name not found in eavs_region table."
+					},
+					"response": []
+				}
+			]
+		}
+	],
+	"variable": [
+		{
+			"key": "baseUrl",
+			"value": "http://localhost:8080",
+			"type": "string"
+		}
+	]
+}
+

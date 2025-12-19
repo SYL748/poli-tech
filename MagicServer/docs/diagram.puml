@@ -1,0 +1,938 @@
+@startuml
+skinparam packageStyle rectangle
+skinparam classAttributeIconSize 0
+skinparam shadowing false
+skinparam linetype ortho
+hide circle
+
+' Stereotypes
+' <<controller>>, <<service>>, <<repository>>, <<dto>>, <<entity>>, <<view>>
+
+' ==============
+' 1) GEO section
+' ==============
+package "geo" {
+  class GeoController <<controller>> {
+    + getAllStates(): List<UsStateGeometryDto>
+    + getStateById(stateId: String): Optional<UsStateGeometryDto>
+    + getAllStateCenters(): List<StateCenterDto>
+    + getAllCounties(): List<CountyGeoDto>
+    + getCountyByGeoId(geoId: String): Optional<CountyGeoDto>
+  }
+
+  note right of GeoController
+  Provides five REST endpoints that fan out to GeoService for
+  state list, state detail, centers, counties, and a single county.
+  end note
+
+  class GeoService <<service>> {
+    + getAllStates(): List<UsStateGeometryDto>
+    + getStateById(stateId: String): Optional<UsStateGeometryDto>
+    + getAllStateCenters(): List<StateCenterDto>
+    + getAllCounties(): List<CountyGeoDto>
+    + getCountyByGeoId(geoId: String): Optional<CountyGeoDto>
+  }
+
+  note right of GeoService
+  Mirrors the five controller calls, orchestrating repository lookups
+  for states, centers, and counties before mapping to DTOs.
+  end note
+
+  class GeoRepository <<repository>> {
+    + findAllStates(): List<UsStateGeometryEntity>
+    + findStateById(stateId: String): Optional<UsStateGeometryEntity>
+    + findAllStateCenters(): List<StateCenterEntity>
+    + findAllCounties(): List<CountyGeoEntity>
+    + findCountyByGeoId(geoId: String): Optional<CountyGeoEntity>
+  }
+
+  class UsStateGeometryDto <<dto>> {
+    + stateId: String
+    + name: String
+    + properties: Map<String, Object>
+    + geometry: Object
+  }
+
+  class CountyGeoDto <<dto>> {
+    + geoId: String
+    + name: String
+    + properties: Map<String, Object>
+    + geometry: Object
+    + uniqueCounty: boolean
+  }
+
+  class StateCenterDto <<dto>> {
+    + name: String
+    + lat: double
+    + lon: double
+    + zoom: double
+  }
+
+  class UsStateGeometryEntity <<entity>> {
+    - stateId: String
+    - name: String
+    - properties: String
+    - geometry: String
+    + getStateId(): String
+    + getName(): String
+    + getProperties(): String
+    + getGeometry(): String
+  }
+
+  class CountyGeoEntity <<entity>> {
+    - geoId: String
+    - name: String
+    - properties: String
+    - geometry: String
+    - uniqueCounty: boolean
+    + getGeoId(): String
+    + getName(): String
+    + getProperties(): String
+    + getGeometry(): String
+    + isUniqueCounty(): boolean
+  }
+
+  class StateCenterEntity <<entity>> {
+    - stateId: String
+    - lon: double
+    - lat: double
+    - zoom: double
+  }
+
+  note right of GeoRepository
+  Reads:
+   - us_state_geometry(state_id, name, properties::jsonb, geometry::jsonb)
+   - county_geo(geo_id, name, properties::jsonb, geometry::jsonb, unique_county)
+   - state_center(state_id, lon, lat, zoom)
+  Returns entities; GeoService maps entities to DTOs
+  end note
+}
+
+' ==============================================
+' 2) Jurisdiction (state/county + eavs_region view)
+' ==============================================
+package "jurisdiction" {
+  class JurisdictionRepository <<repository>> {
+    + findStateById(stateId: String): Optional<StateEntity>
+    + findCountiesByStateId(stateId: String): List<CountyEntity>
+    + findRegionsByStateId(stateId: String): List<RegionEntity>
+    + findPrecinctsByStateId(stateId: String): List<PrecinctEntity>
+    + findBlocksByStateId(stateId: String): List<BlockEntity>
+  }
+
+  class StateEntity <<entity>> {
+    - stateId: String
+    - name: String
+  }
+  class CountyEntity <<entity>> {
+    - countyId: long
+    - name: String
+    - stateId: String
+    - geoId: String
+  }
+  class RegionEntity <<entity>> {
+    - regionId: String
+    - stateId: String
+    - countyId: long
+    - name: String
+    - geoId: String
+  }
+
+  class PrecinctEntity <<entity>> {
+    - precinctId: String
+    - stateId: String
+    - name: String
+  }
+
+  class BlockEntity <<entity>> {
+    - blockId: String
+    - stateId: String
+    - name: String
+  }
+
+  note right of JurisdictionRepository
+  Reads:
+   - state (PK state_id, UNIQUE name)
+   - county (county_id, name, state_id, geo_id UNIQUE)
+   - eavs_region (region_id, state_id, county_id, name, geo_id)
+   - precinct (precinct_id, state_id, name)
+   - census_block (block_id, state_id, name)
+  Returns entities
+  end note
+}
+
+' (Reason package removed to match V8 schema: no separate reason code tables)
+
+' ===========================================================
+' 4) Equipment dimensions & 7) Equipment facts/views (V8)
+' ===========================================================
+package "equipment" {
+  class EquipmentController <<controller>> {
+    + getEquipmentSummaryByState(stateId: String): List<EquipmentSummaryByStateDto>
+    + getVotingEquipmentOverview(): List<VotingEquipmentOverviewDto>
+  }
+
+  note right of EquipmentController
+  Two endpoints surface state summaries and national overviews,
+  each delegating directly to EquipmentService.
+  end note
+
+  class EquipmentService <<service>> {
+    + getEquipmentSummaryByState(stateId: String): List<EquipmentSummaryByStateDto>
+    + getVotingEquipmentOverview(): List<VotingEquipmentOverviewDto>
+  }
+
+  note right of EquipmentService
+  Coordinates repository calls for per-state inventory and the national
+  overview, mapping entity data into DTO responses.
+  end note
+
+  class EquipmentRepository <<repository>> {
+    + findEquipmentSummaryByState(stateId: String): List<EquipmentSummaryByStateEntity>
+    + findVotingEquipmentOverview(): List<VotingEquipmentOverviewEntity>
+  }
+
+  class EquipmentSummaryByStateDto <<dto>> {
+    + stateId: String
+    + equipmentId: long
+    + quantity: int
+    + age: java.math.BigDecimal
+    + reliability: java.math.BigDecimal
+    + scanRate: java.math.BigDecimal
+    + errorRate: java.math.BigDecimal
+  }
+
+  class VotingEquipmentOverviewDto <<dto>> {
+    + equipmentId: long
+    + quantity: int
+    + avgAgeYears: java.math.BigDecimal
+    + observedScanRatePerMin: java.math.BigDecimal
+    + observedErrorRate: java.math.BigDecimal
+    + observedReliabilityPct: java.math.BigDecimal
+    + qualityScore: java.math.BigDecimal
+  }
+
+  class EquipmentSummaryByStateEntity <<entity>> {
+    - stateId: String
+    - equipmentId: long
+    - quantity: int
+    - age: java.math.BigDecimal
+    - scanRate: java.math.BigDecimal
+    - errorRate: java.math.BigDecimal
+    - reliability: java.math.BigDecimal
+  }
+
+  class VotingEquipmentOverviewEntity <<entity>> {
+    - equipmentId: long
+    - quantity: int
+    - avgAgeYears: java.math.BigDecimal
+    - observedScanRatePerMin: java.math.BigDecimal
+    - observedErrorRate: java.math.BigDecimal
+    - observedReliabilityPct: java.math.BigDecimal
+    - qualityScore: java.math.BigDecimal
+  }
+
+  note right of EquipmentRepository
+  Reads/derives from tables:
+    - voting_equipment (id, make, model, equipment_type, short_description, operating_system, certification, spec_* , discontinued)
+    - equipment_summary_by_state (state_id, equipment_id, quantity, age, scan_rate, error_rate, reliability)
+    - voting_equipment_overview (equipment_id, quantity, avg_age_years, observed_*, quality_score)
+  Returns entities/views; service maps to DTOs
+  end note
+}
+
+' ==========================================
+' 5) Facts (controller only)
+' ==========================================
+package "facts" {
+  class FactsController <<controller>> {
+    + getMailBallotRejectionsByRegion(stateId: String): List<RegionMailBallotRejectionDto>
+    + getActiveVotersByRegion(stateId: String): List<RegionActiveVotersDto>
+    + getProvisionalByRegion(stateId: String): List<RegionProvisionalDto>
+    + getPollBookDeletionsByRegion(stateId: String): List<RegionPollBookDeletionDto>
+    + getDropboxVotingByRegion(stateId: String): List<RegionDropboxVotingDto>
+    + getActiveVotersByState(stateId: String): StateActiveVoterDto
+    + getVoteTurnoutByState(stateId: String): StateVoteTurnoutDto
+    + getEarlyVoteByState(stateId: String): StateEarlyVoteDto
+    + getPollBookDeletionsByState(stateId: String): StatePollBookDeletionDto
+    + getProvisionalByState(stateId: String): StateProvisionalDto
+    + getMailBallotRejectionByState(stateId: String): StateMailRejectionDto
+    + getPoliticalPartyCvapByState(stateId: String): List<PoliticalPartyCvapByStateDto>
+    + getStateEquipmentHistory(stateId: String): StateEquipmentHistoryDto
+    + getStateEquipmentTotal(stateId: String): StateEquipmentTotalDto
+    + getMailAndDropboxByState(stateId: String): StateMailAndDropboxDto
+    + getEquipmentRejectionRegression(stateId: String, party: String): List<EquipmentRejectionRegressionCoefDto>
+    + getGinglesChartByPrecinct(stateId: String): List<GinglesChartPrecinctDto>
+    + getEquipmentEiCurve(stateId: String, demographic: String): List<EquipmentEiCurvePointDto>
+    + getVoterRegistrationBubblePoints(stateId: String): List<VoterRegistrationBubblePointDto>
+  }
+
+  note right of FactsController
+  Central API gateway for all fact data: routes calls to region, state,
+  precinct, block, and equipment analytics services.
+  end note
+}
+
+' ==========================================
+' 6) Region-level facts (wide per region/county)
+' ==========================================
+package "facts.region" {
+  class RegionFactsService <<service>> {
+    + getMailBallotRejectionsByRegion(stateId: String): List<RegionMailBallotRejectionDto>
+    + getActiveVotersByRegion(stateId: String): List<RegionActiveVotersDto>
+    + getProvisionalByRegion(stateId: String): List<RegionProvisionalDto>
+    + getPollBookDeletionsByRegion(stateId: String): List<RegionPollBookDeletionDto>
+    + getDropboxVotingByRegion(stateId: String): List<RegionDropboxVotingDto>
+  }
+
+  note right of RegionFactsService
+  Wraps five region-level datasets, filtering by state and mapping
+  repository entities into DTO lists for the controller.
+  end note
+
+  class RegionFactsRepository <<repository>> {
+    + findMailBallotRejectionByRegion(stateId: String): List<MailBallotRejectionByRegionEntity>
+    + findActiveVotersByRegion(stateId: String): List<ActiveVotersByRegionEntity>
+    + findProvisionalByRegion(stateId: String): List<ProvisionalByRegionEntity>
+    + findPollBookDeletionByRegion(stateId: String): List<PollBookDeletionByRegionEntity>
+    + findDropboxVotingByRegion(stateId: String): List<DropboxVotingByRegionEntity>
+  }
+
+  class RegionMailBallotRejectionDto <<dto>> {
+    + regionId: String
+    + late: int
+    + missingVoterSignature: int
+    + missingWitnessSignature: int
+    + nonMatchingVoterSignature: int
+    + unofficialEnvelope: int
+    + ballotMissingFromEnvelope: int
+    + noSecrecyEnvelope: int
+    + multipleBallotsOneEnvelope: int
+    + envelopeNotSealed: int
+    + noPostmark: int
+    + noResidentAddressOnEnvelope: int
+    + voterDeceased: int
+    + voterAlreadyVoted: int
+    + missingDocumentation: int
+    + voterNotEligible: int
+    + noBallotApplication: int
+  }
+
+  class RegionActiveVotersDto <<dto>> {
+    + regionId: String
+    + activeVoter: int
+    + inactiveVoter: int
+  }
+
+  class RegionProvisionalDto <<dto>> {
+    + regionId: String
+    + voterNotOnList: int
+    + voterLackedId: int
+    + electionOfficialChallengedEligibility: int
+    + anotherPersonChallengedEligibility: int
+    + voterNotResident: int
+    + voterRegistrationNotUpdated: int
+    + voterDidNotSurrenderMailBallot: int
+    + judgeExtendedVotingHours: int
+    + voterUsedSdr: int
+    + totalProvisional: int
+  }
+
+  class RegionPollBookDeletionDto <<dto>> {
+    + regionId: String
+    + totalRegisteredUser: int
+    + moved: int
+    + death: int
+    + felony: int
+    + failResponse: int
+    + incompetentToVote: int
+    + voterRequest: int
+    + duplicateRecord: int
+  }
+
+  class RegionDropboxVotingDto <<dto>> {
+    + regionId: String
+    + republicanVotes2024: int
+    + democratVotes2024: int
+    + totalPresidentialVotes2024: int
+    + dropboxVotes: int
+    + totalBallots: int
+    + percentRepublican: double
+    + percentDropbox: double
+  }
+
+  class MailBallotRejectionByRegionEntity <<entity>> {
+    - regionId: String
+    - late: int
+    - missingVoterSignature: int
+    - missingWitnessSignature: int
+    - nonMatchingVoterSignature: int
+    - unofficialEnvelope: int
+    - ballotMissingFromEnvelope: int
+    - noSecrecyEnvelope: int
+    - multipleBallotsOneEnvelope: int
+    - envelopeNotSealed: int
+    - noPostmark: int
+    - noResidentAddressOnEnvelope: int
+    - voterDeceased: int
+    - voterAlreadyVoted: int
+    - missingDocumentation: int
+    - voterNotEligible: int
+    - noBallotApplication: int
+  }
+
+  class ActiveVotersByRegionEntity <<entity>> {
+    - regionId: String
+    - activeVoter: int
+    - inactiveVoter: int
+  }
+
+  class ProvisionalByRegionEntity <<entity>> {
+    - regionId: String
+    - voterNotOnList: int
+    - voterLackedId: int
+    - electionOfficialChallengedEligibility: int
+    - anotherPersonChallengedEligibility: int
+    - voterNotResident: int
+    - voterRegistrationNotUpdated: int
+    - voterDidNotSurrenderMailBallot: int
+    - judgeExtendedVotingHours: int
+    - voterUsedSdr: int
+  }
+
+  class PollBookDeletionByRegionEntity <<entity>> {
+    - regionId: String
+    - totalRegisteredUser: int
+    - moved: int
+    - death: int
+    - felony: int
+    - failResponse: int
+    - incompetentToVote: int
+    - voterRequest: int
+    - duplicateRecord: int
+  }
+
+  class DropboxVotingByRegionEntity <<entity>> {
+    - regionId: String
+    - republicanVotes2024: int
+    - democratVotes2024: int
+    - totalPresidentialVotes2024: int
+    - dropboxVotes: int
+    - totalBallots: int
+    - percentRepublican: double
+    - percentDropbox: double
+  }
+
+  note right of RegionFactsRepository
+  Reads tables:
+   - mail_ballot_rejection_by_region (PRIMARY KEY region_id)
+   - active_voters_by_region
+   - provisional_by_region
+   - poll_book_deletion_by_region
+   - dropbox_voting_by_region
+  Joins eavs_region/county to filter by state_id.
+  Returns entities; service maps to DTOs
+  end note
+}
+
+' ==========================================
+' 7) State-level facts (wide per state)
+' ==========================================
+package "facts.state" {
+  class StateFactsService <<service>> {
+    + getActiveVotersByState(stateId: String): StateActiveVoterDto
+    + getVoteTurnoutByState(stateId: String): StateVoteTurnoutDto
+    + getEarlyVoteByState(stateId: String): StateEarlyVoteDto
+    + getPollBookDeletionsByState(stateId: String): StatePollBookDeletionDto
+    + getProvisionalByState(stateId: String): StateProvisionalDto
+    + getMailBallotRejectionByState(stateId: String): StateMailRejectionDto
+    + getPoliticalPartyCvapByState(stateId: String): List<PoliticalPartyCvapByStateDto>
+    + getStateEquipmentHistory(stateId: String): StateEquipmentHistoryDto
+    + getStateEquipmentTotal(stateId: String): StateEquipmentTotalDto
+    + getMailAndDropboxByState(stateId: String): StateMailAndDropboxDto
+    + getEquipmentRejectionRegression(stateId: String, party: String): List<EquipmentRejectionRegressionCoefDto>
+    + getEquipmentEiCurve(stateId: String, demographic: String): List<EquipmentEiCurvePointDto>
+  }
+
+  note right of StateFactsService
+  Handles the broad state-level portfolio (turnout, equipment, mail,
+  analytics), composing repository results into the DTOs used by FactsController.
+  end note
+
+  class StateFactsRepository <<repository>> {
+    + findActiveVotersByState(stateId: String): ActiveVotersByStateEntity
+    + findVoteTurnoutByState(stateId: String): VoteTurnoutByStateEntity
+    + findEarlyVoteByState(stateId: String): EarlyVoteByStateEntity
+    + findPollBookDeletionByState(stateId: String): PollBookDeletionByStateEntity
+    + findProvisionalByState(stateId: String): ProvisionalByStateEntity
+    + findMailBallotRejectionByState(stateId: String): MailBallotRejectionByStateEntity
+    + findPoliticalPartyCvapByState(stateId: String): List<PoliticalPartyCvapByStateEntity>
+    + findStateEquipmentHistory(stateId: String): StateEquipmentHistoryEntity
+    + findStateEquipmentTotal(stateId: String): StateEquipmentTotalEntity
+    + findMailAndDropboxByState(stateId: String): MailAndDropboxByStateEntity
+    + findEquipmentRejectionRegression(stateId: String, party: String): List<EquipmentRejectionRegressionCoefEntity>
+    + findEquipmentEiCurve(stateId: String, demographic: String): List<EquipmentEiCurvePointEntity>
+  }
+
+  class StateMailRejectionDto <<dto>> {
+    + stateId: String
+    + late: int
+    + missingVoterSignature: int
+    + missingWitnessSignature: int
+    + nonMatchingVoterSignature: int
+    + unofficialEnvelope: int
+    + ballotMissingFromEnvelope: int
+    + noSecrecyEnvelope: int
+    + multipleBallotsOneEnvelope: int
+    + envelopeNotSealed: int
+    + noPostmark: int
+    + noResidentAddressOnEnvelope: int
+    + voterDeceased: int
+    + voterAlreadyVoted: int
+    + missingDocumentation: int
+    + voterNotEligible: int
+    + noBallotApplication: int
+  }
+
+  class StateProvisionalDto <<dto>> {
+    + stateId: String
+    + voterNotOnList: int
+    + voterLackedId: int
+    + electionOfficialChallengedEligibility: int
+    + anotherPersonChallengedEligibility: int
+    + voterNotResident: int
+    + voterRegistrationNotUpdated: int
+    + voterDidNotSurrenderMailBallot: int
+    + judgeExtendedVotingHours: int
+    + voterUsedSdr: int
+    + otherReason: int
+  }
+
+  class StateActiveVoterDto <<dto>> {
+    + stateId: String
+    + activeVoter: int
+    + inactiveVoter: int
+  }
+
+  class StateVoteTurnoutDto <<dto>> {
+    + stateId: String
+    + totalRegisteredVoter: int
+    + totalVotesCast: int
+    + turnOutRate: double
+  }
+
+  class StateEarlyVoteDto <<dto>> {
+    + stateId: String
+    + totalVoters: int
+    + absenteeUocava: int
+    + mailVotes: int
+    + inPersonEarlyVoting: int
+    + mailVotesInVbmJurisdiction: int
+    + dropBox: int
+  }
+
+  class StatePollBookDeletionDto <<dto>> {
+    + stateId: String
+    + totalRegisteredUser: int
+    + moved: int
+    + death: int
+    + felony: int
+    + failResponse: int
+    + incompetentToVote: int
+    + voterRequest: int
+    + duplicateRecord: int
+  }
+
+  class PoliticalPartyCvapByStateDto <<dto>> {
+    + stateId: String
+    + name: String
+    + cvapPct: double
+  }
+
+  class StateEquipmentHistoryDto <<dto>> {
+    + stateId: String
+    + equipmentCount2016: int
+    + equipmentCount2020: int
+    + equipmentCount2024: int
+  }
+
+  class StateEquipmentTotalDto <<dto>> {
+    + stateId: String
+    + dreNoVvpat: int
+    + dreWithVvpat: int
+    + ballotMarkingDevice: int
+    + scanner: int
+  }
+
+  class StateMailAndDropboxDto <<dto>> {
+    + stateId: String
+    + totalVotesCast: int
+    + totalMailBallot: int
+    + dropboxVotes: int
+    + percentMailBallot: double
+    + percentDropbox: double
+    + totalRegisteredVoter: int
+    + turnOutRate: double
+    + felonyVotingRights: String
+    + earlyVotingPeriodDays: Integer
+    + voterIdRequirement: String
+    + sameDayRegistration: String
+    + absenteeRequestDeadline: String
+    + automaticVoterRegistration: String
+    + noExcuseAbsenteeVoting: boolean
+  }
+
+  class EquipmentRejectionRegressionCoefDto <<dto>> {
+    + stateId: String
+    + politicalParty: String
+    + termOrder: int
+    + coefficient: java.math.BigDecimal
+    + rSquared: java.math.BigDecimal
+  }
+
+  class EquipmentEiCurvePointDto <<dto>> {
+    + stateId: String
+    + demographicGroup: String
+    + qualityScore: java.math.BigDecimal
+    + probability: java.math.BigDecimal
+  }
+
+  class MailBallotRejectionByStateEntity <<entity>> {
+    - stateId: String
+    - late: int
+    - missingVoterSignature: int
+    - missingWitnessSignature: int
+    - nonMatchingVoterSignature: int
+    - unofficialEnvelope: int
+    - ballotMissingFromEnvelope: int
+    - noSecrecyEnvelope: int
+    - multipleBallotsOneEnvelope: int
+    - envelopeNotSealed: int
+    - noPostmark: int
+    - noResidentAddressOnEnvelope: int
+    - voterDeceased: int
+    - voterAlreadyVoted: int
+    - missingDocumentation: int
+    - voterNotEligible: int
+    - noBallotApplication: int
+  }
+
+  class ProvisionalByStateEntity <<entity>> {
+    - stateId: String
+    - voterNotOnList: int
+    - voterLackedId: int
+    - electionOfficialChallengedEligibility: int
+    - anotherPersonChallengedEligibility: int
+    - voterNotResident: int
+    - voterRegistrationNotUpdated: int
+    - voterDidNotSurrenderMailBallot: int
+    - judgeExtendedVotingHours: int
+    - voterUsedSdr: int
+    - otherReason: int
+  }
+
+  class ActiveVotersByStateEntity <<entity>> {
+    - stateId: String
+    - activeVoter: int
+    - inactiveVoter: int
+  }
+
+  class VoteTurnoutByStateEntity <<entity>> {
+    - stateId: String
+    - totalRegisteredVoter: int
+    - totalVotesCast: int
+    - turnOutRate: double
+  }
+
+  class EarlyVoteByStateEntity <<entity>> {
+    - stateId: String
+    - totalVoters: int
+    - absenteeUocava: int
+    - mailVotes: int
+    - inPersonEarlyVoting: int
+    - mailVotesInVbmJurisdiction: int
+    - dropBox: int
+  }
+
+  class PollBookDeletionByStateEntity <<entity>> {
+    - stateId: String
+    - totalRegisteredUser: int
+    - moved: int
+    - death: int
+    - felony: int
+    - failResponse: int
+    - incompetentToVote: int
+    - voterRequest: int
+    - duplicateRecord: int
+  }
+
+  class PoliticalPartyCvapByStateEntity <<entity>> {
+    - stateId: String
+    - name: String
+    - cvapPct: double
+  }
+
+  class StateEquipmentHistoryEntity <<entity>> {
+    - stateId: String
+    - equipmentCount2016: int
+    - equipmentCount2020: int
+    - equipmentCount2024: int
+  }
+
+  class StateEquipmentTotalEntity <<entity>> {
+    - stateId: String
+    - dreNoVvpat: int
+    - dreWithVvpat: int
+    - ballotMarkingDevice: int
+    - scanner: int
+  }
+
+  class MailAndDropboxByStateEntity <<entity>> {
+    - stateId: String
+    - totalVotesCast: int
+    - totalMailBallot: int
+    - dropboxVotes: int
+    - percentMailBallot: double
+    - percentDropbox: double
+    - totalRegisteredVoter: int
+    - turnOutRate: double
+    - felonyVotingRights: String
+    - earlyVotingPeriodDays: Integer
+    - voterIdRequirement: String
+    - sameDayRegistration: String
+    - absenteeRequestDeadline: String
+    - automaticVoterRegistration: String
+    - noExcuseAbsenteeVoting: boolean
+  }
+
+  class EquipmentRejectionRegressionCoefEntity <<entity>> {
+    - stateId: String
+    - politicalParty: String
+    - termOrder: int
+    - coefficient: java.math.BigDecimal
+    - rSquared: java.math.BigDecimal
+  }
+
+  class EquipmentEiCurvePointEntity <<entity>> {
+    - stateId: String
+    - demographicGroup: String
+    - qualityScore: java.math.BigDecimal
+    - probability: java.math.BigDecimal
+  }
+
+  note right of StateFactsRepository
+  Reads tables:
+   - mail_ballot_rejection_by_state
+   - provisional_by_state
+   - active_voters_by_state
+   - vote_turnout_by_state
+   - early_vote_by_state
+   - poll_book_deletion_by_state
+   - political_party_cvap_by_state
+   - state_equipment_history
+   - state_equipment_total
+   - mail_and_dropbox_by_state
+   - equipment_rejection_regression_coef
+   - equipment_ei_curve_point
+  Returns entities; service maps to DTOs; service computes summaries for UI.
+  end note
+}
+
+' ==========================================
+' 8) Precinct-level facts
+' ==========================================
+package "facts.precinct" {
+  class PrecinctFactsService <<service>> {
+    + getGinglesChartByPrecinct(stateId: String): List<GinglesChartPrecinctDto>
+  }
+
+  note right of PrecinctFactsService
+  Focused service that fetches Gingles chart precinct rows for the
+  selected state and prepares them for the controller.
+  end note
+
+  class PrecinctFactsRepository <<repository>> {
+    + findGinglesChartByPrecinct(stateId: String): List<GinglesChartPrecinctEntity>
+  }
+
+  class GinglesChartPrecinctDto <<dto>> {
+    + precinctId: String
+    + precinctName: String
+    + stateId: String
+    + percentWhite: double
+    + percentBlack: double
+    + percentHispanic: double
+    + percentDem: double
+    + percentRep: double
+  }
+
+  class GinglesChartPrecinctEntity <<entity>> {
+    - precinctId: String
+    - precinctName: String
+    - stateId: String
+    - percentWhite: double
+    - percentBlack: double
+    - percentHispanic: double
+    - percentDem: double
+    - percentRep: double
+  }
+
+  note right of PrecinctFactsRepository
+  Reads table:
+   - gingles_chart_precinct_data
+  Filters by state_id; service maps to DTOs.
+  end note
+}
+
+' ==========================================
+' 9) Block-level facts (voter registration bubble)
+' ==========================================
+package "facts.block" {
+  class BlockFactsService <<service>> {
+    + getVoterRegistrationBubblePoints(stateId: String): List<VoterRegistrationBubblePointDto>
+  }
+
+  note right of BlockFactsService
+  Supplies the voter-registration bubble chart by retrieving all census
+  block points for a state and mapping to DTOs.
+  end note
+
+  class BlockFactsRepository <<repository>> {
+    + findVoterRegistrationBubblePoints(stateId: String): List<VoterRegistrationBubblePointEntity>
+  }
+
+  class VoterRegistrationBubblePointDto <<dto>> {
+    + blockId: String
+    + stateId: String
+    + dominantParty: String
+    + republicanRegistered: int
+    + democratRegistered: int
+    + totalRegistered: int
+    + latitude: double
+    + longitude: double
+  }
+
+  class VoterRegistrationBubblePointEntity <<entity>> {
+    - blockId: String
+    - stateId: String
+    - dominantParty: String
+    - republicanRegistered: int
+    - democratRegistered: int
+    - totalRegistered: int
+    - latitude: double
+    - longitude: double
+  }
+
+  note right of BlockFactsRepository
+  Reads table:
+   - voter_registration_bubble_point
+  Joins census_block/state to filter by state_id; service maps to DTOs.
+  end note
+}
+
+' ===========================
+' Layered relationships (C→S→R)
+' ===========================
+GeoController --> GeoService
+GeoService --> GeoRepository
+GeoRepository ..> UsStateGeometryEntity
+GeoRepository ..> CountyGeoEntity
+GeoRepository ..> StateCenterEntity
+GeoService ..> UsStateGeometryDto
+GeoService ..> CountyGeoDto
+GeoService ..> StateCenterDto
+GeoController ..> UsStateGeometryDto
+GeoController ..> CountyGeoDto
+GeoController ..> StateCenterDto
+
+EquipmentController --> EquipmentService
+EquipmentService --> EquipmentRepository
+EquipmentRepository ..> EquipmentSummaryByStateEntity
+EquipmentRepository ..> VotingEquipmentOverviewEntity
+EquipmentService ..> EquipmentSummaryByStateDto
+EquipmentService ..> VotingEquipmentOverviewDto
+EquipmentController ..> EquipmentSummaryByStateDto
+EquipmentController ..> VotingEquipmentOverviewDto
+
+StateFactsService --> StateFactsRepository
+StateFactsRepository ..> MailBallotRejectionByStateEntity
+StateFactsRepository ..> ProvisionalByStateEntity
+StateFactsRepository ..> ActiveVotersByStateEntity
+StateFactsRepository ..> VoteTurnoutByStateEntity
+StateFactsRepository ..> EarlyVoteByStateEntity
+StateFactsRepository ..> PollBookDeletionByStateEntity
+StateFactsRepository ..> PoliticalPartyCvapByStateEntity
+StateFactsRepository ..> StateEquipmentHistoryEntity
+StateFactsRepository ..> StateEquipmentTotalEntity
+StateFactsRepository ..> MailAndDropboxByStateEntity
+StateFactsRepository ..> EquipmentRejectionRegressionCoefEntity
+StateFactsRepository ..> EquipmentEiCurvePointEntity
+StateFactsService ..> StateActiveVoterDto
+StateFactsService ..> StateVoteTurnoutDto
+StateFactsService ..> StateEarlyVoteDto
+StateFactsService ..> StatePollBookDeletionDto
+StateFactsService ..> StateProvisionalDto
+StateFactsService ..> StateMailRejectionDto
+StateFactsService ..> PoliticalPartyCvapByStateDto
+StateFactsService ..> StateEquipmentHistoryDto
+StateFactsService ..> StateEquipmentTotalDto
+StateFactsService ..> StateMailAndDropboxDto
+StateFactsService ..> EquipmentRejectionRegressionCoefDto
+StateFactsService ..> EquipmentEiCurvePointDto
+StateFactsService ..> jurisdiction.JurisdictionRepository
+
+FactsController --> RegionFactsService
+RegionFactsService --> RegionFactsRepository
+RegionFactsRepository ..> MailBallotRejectionByRegionEntity
+RegionFactsRepository ..> ActiveVotersByRegionEntity
+RegionFactsRepository ..> ProvisionalByRegionEntity
+RegionFactsRepository ..> PollBookDeletionByRegionEntity
+RegionFactsRepository ..> DropboxVotingByRegionEntity
+RegionFactsService ..> RegionMailBallotRejectionDto
+RegionFactsService ..> RegionActiveVotersDto
+RegionFactsService ..> RegionProvisionalDto
+RegionFactsService ..> RegionPollBookDeletionDto
+RegionFactsService ..> RegionDropboxVotingDto
+FactsController --> StateFactsService
+FactsController ..> RegionDropboxVotingDto
+FactsController ..> RegionMailBallotRejectionDto
+FactsController ..> RegionActiveVotersDto
+FactsController ..> RegionProvisionalDto
+FactsController ..> RegionPollBookDeletionDto
+FactsController ..> StateMailAndDropboxDto
+FactsController ..> StateActiveVoterDto
+FactsController ..> StateVoteTurnoutDto
+FactsController ..> StateEarlyVoteDto
+FactsController ..> StatePollBookDeletionDto
+FactsController ..> StateProvisionalDto
+FactsController ..> StateMailRejectionDto
+FactsController ..> PoliticalPartyCvapByStateDto
+FactsController ..> StateEquipmentHistoryDto
+FactsController ..> StateEquipmentTotalDto
+FactsController ..> EquipmentRejectionRegressionCoefDto
+FactsController ..> EquipmentEiCurvePointDto
+FactsController --> PrecinctFactsService
+FactsController ..> GinglesChartPrecinctDto
+FactsController --> BlockFactsService
+FactsController ..> VoterRegistrationBubblePointDto
+
+PrecinctFactsService --> PrecinctFactsRepository
+PrecinctFactsRepository ..> GinglesChartPrecinctEntity
+PrecinctFactsService ..> GinglesChartPrecinctDto
+PrecinctFactsService ..> JurisdictionRepository
+
+BlockFactsService --> BlockFactsRepository
+BlockFactsRepository ..> VoterRegistrationBubblePointEntity
+BlockFactsService ..> VoterRegistrationBubblePointDto
+BlockFactsService ..> JurisdictionRepository
+
+RegionFactsService ..> jurisdiction.JurisdictionRepository
+JurisdictionRepository ..> StateEntity
+JurisdictionRepository ..> CountyEntity
+JurisdictionRepository ..> RegionEntity
+JurisdictionRepository ..> PrecinctEntity
+JurisdictionRepository ..> BlockEntity
+
+@enduml
+
+

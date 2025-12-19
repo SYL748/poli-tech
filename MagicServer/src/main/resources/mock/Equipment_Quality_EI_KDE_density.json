@@ -1,0 +1,1210 @@
+{
+  "48": {
+    "African American": [
+      {
+        "equipment_quality": 0.0,
+        "probability_density": 278.5051
+      },
+      {
+        "equipment_quality": 0.0101,
+        "probability_density": 5.1942
+      },
+      {
+        "equipment_quality": 0.0202,
+        "probability_density": 1.0674
+      },
+      {
+        "equipment_quality": 0.0303,
+        "probability_density": 0.0073
+      },
+      {
+        "equipment_quality": 0.0404,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.0505,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.0606,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.0707,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.0808,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.0909,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.101,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.1111,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.1212,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.1313,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.1414,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.1515,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.1616,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.1717,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.1818,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.1919,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.202,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.2121,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.2222,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.2323,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.2424,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.2525,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.2626,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.2727,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.2828,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.2929,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.303,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.3131,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.3232,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.3333,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.3434,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.3535,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.3636,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.3737,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.3838,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.3939,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.404,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.4141,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.4242,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.4343,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.4444,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.4545,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.4646,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.4747,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.4848,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.4949,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.5051,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.5152,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.5253,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.5354,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.5455,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.5556,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.5657,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.5758,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.5859,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.596,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.6061,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.6162,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.6263,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.6364,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.6465,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.6566,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.6667,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.6768,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.6869,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.697,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.7071,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.7172,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.7273,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.7374,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.7475,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.7576,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.7677,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.7778,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.7879,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.798,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.8081,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.8182,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.8283,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.8384,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.8485,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.8586,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.8687,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.8788,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.8889,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.899,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.9091,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.9192,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.9293,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.9394,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.9495,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.9596,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.9697,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.9798,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.9899,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 1.0,
+        "probability_density": 0.0
+      }
+    ],
+    "Hispanic": [
+      {
+        "equipment_quality": 0.0,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.0101,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.0202,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.0303,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.0404,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.0505,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.0606,
+        "probability_density": 0.0006
+      },
+      {
+        "equipment_quality": 0.0707,
+        "probability_density": 0.3351
+      },
+      {
+        "equipment_quality": 0.0808,
+        "probability_density": 6.2163
+      },
+      {
+        "equipment_quality": 0.0909,
+        "probability_density": 19.6939
+      },
+      {
+        "equipment_quality": 0.101,
+        "probability_density": 25.1455
+      },
+      {
+        "equipment_quality": 0.1111,
+        "probability_density": 20.1679
+      },
+      {
+        "equipment_quality": 0.1212,
+        "probability_density": 14.5667
+      },
+      {
+        "equipment_quality": 0.1313,
+        "probability_density": 7.103
+      },
+      {
+        "equipment_quality": 0.1414,
+        "probability_density": 3.3517
+      },
+      {
+        "equipment_quality": 0.1515,
+        "probability_density": 1.5454
+      },
+      {
+        "equipment_quality": 0.1616,
+        "probability_density": 0.7999
+      },
+      {
+        "equipment_quality": 0.1717,
+        "probability_density": 0.1712
+      },
+      {
+        "equipment_quality": 0.1818,
+        "probability_density": 0.0299
+      },
+      {
+        "equipment_quality": 0.1919,
+        "probability_density": 0.0171
+      },
+      {
+        "equipment_quality": 0.202,
+        "probability_density": 0.0037
+      },
+      {
+        "equipment_quality": 0.2121,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.2222,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.2323,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.2424,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.2525,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.2626,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.2727,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.2828,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.2929,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.303,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.3131,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.3232,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.3333,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.3434,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.3535,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.3636,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.3737,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.3838,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.3939,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.404,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.4141,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.4242,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.4343,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.4444,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.4545,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.4646,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.4747,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.4848,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.4949,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.5051,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.5152,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.5253,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.5354,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.5455,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.5556,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.5657,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.5758,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.5859,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.596,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.6061,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.6162,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.6263,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.6364,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.6465,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.6566,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.6667,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.6768,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.6869,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.697,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.7071,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.7172,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.7273,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.7374,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.7475,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.7576,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.7677,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.7778,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.7879,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.798,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.8081,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.8182,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.8283,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.8384,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.8485,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.8586,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.8687,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.8788,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.8889,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.899,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.9091,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.9192,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.9293,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.9394,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.9495,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.9596,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.9697,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.9798,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.9899,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 1.0,
+        "probability_density": 0.0
+      }
+    ],
+    "White": [
+      {
+        "equipment_quality": 0.0,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.0101,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.0202,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.0303,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.0404,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.0505,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.0606,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.0707,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.0808,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.0909,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.101,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.1111,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.1212,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.1313,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.1414,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.1515,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.1616,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.1717,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.1818,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.1919,
+        "probability_density": 0.0062
+      },
+      {
+        "equipment_quality": 0.202,
+        "probability_density": 0.6462
+      },
+      {
+        "equipment_quality": 0.2121,
+        "probability_density": 3.5332
+      },
+      {
+        "equipment_quality": 0.2222,
+        "probability_density": 8.3624
+      },
+      {
+        "equipment_quality": 0.2323,
+        "probability_density": 15.846
+      },
+      {
+        "equipment_quality": 0.2424,
+        "probability_density": 21.4179
+      },
+      {
+        "equipment_quality": 0.2525,
+        "probability_density": 21.817
+      },
+      {
+        "equipment_quality": 0.2626,
+        "probability_density": 14.4018
+      },
+      {
+        "equipment_quality": 0.2727,
+        "probability_density": 8.2237
+      },
+      {
+        "equipment_quality": 0.2828,
+        "probability_density": 3.499
+      },
+      {
+        "equipment_quality": 0.2929,
+        "probability_density": 0.9334
+      },
+      {
+        "equipment_quality": 0.303,
+        "probability_density": 0.2324
+      },
+      {
+        "equipment_quality": 0.3131,
+        "probability_density": 0.0109
+      },
+      {
+        "equipment_quality": 0.3232,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.3333,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.3434,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.3535,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.3636,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.3737,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.3838,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.3939,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.404,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.4141,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.4242,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.4343,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.4444,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.4545,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.4646,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.4747,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.4848,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.4949,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.5051,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.5152,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.5253,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.5354,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.5455,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.5556,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.5657,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.5758,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.5859,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.596,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.6061,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.6162,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.6263,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.6364,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.6465,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.6566,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.6667,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.6768,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.6869,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.697,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.7071,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.7172,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.7273,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.7374,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.7475,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.7576,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.7677,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.7778,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.7879,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.798,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.8081,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.8182,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.8283,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.8384,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.8485,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.8586,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.8687,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.8788,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.8889,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.899,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.9091,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.9192,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.9293,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.9394,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.9495,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.9596,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.9697,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.9798,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 0.9899,
+        "probability_density": 0.0
+      },
+      {
+        "equipment_quality": 1.0,
+        "probability_density": 0.0
+      }
+    ]
+  }
+}
