@@ -119,6 +119,7 @@ Some features require the Florida voter name file.
 
 1. Download the Florida voter file from Google Drive:
    - https://drive.google.com/drive/folders/1XWjmDua2RzkoKH4cL_ohRaq9aczKronp?usp=drive_link
+   and rename to `19_fl_voter_list`
 
 2. Move the file to:
    ```
