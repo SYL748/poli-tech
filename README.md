@@ -123,13 +123,13 @@ Some features require the Florida voter name file.
 
 2. Move the file to:
    ```
-   MagicServer/script-to-load-fl-voter/
+   MagicServer/seed-florida-voter-script/
    ```
 
 3. Run:
    ```bash
    cd MagicServer/script-to-load-fl-voter
-   bash ./load_19_fl_voter.sh
+   bash ./load_voter_data.sh
    ```
 
 ---
