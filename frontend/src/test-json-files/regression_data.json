@@ -1,0 +1,120 @@
+{
+  "coefficients": [
+    {
+      "party": "Democratic",
+      "demographic": "White",
+      "coef_a": 0.000345,
+      "coef_b": -0.949716,
+      "coef_c": 95.698004
+    },
+    {
+      "party": "Democratic",
+      "demographic": "Hispanic",
+      "coef_a": 0.147286,
+      "coef_b": -3.577919,
+      "coef_c": 38.735892
+    },
+    {
+      "party": "Democratic",
+      "demographic": "African American",
+      "coef_a": -0.000887,
+      "coef_b": 0.929412,
+      "coef_c": 8.68537
+    },
+    {
+      "party": "Democratic",
+      "demographic": "Asian",
+      "coef_a": -2.277488,
+      "coef_b": 16.833888,
+      "coef_c": 24.704798
+    },
+    {
+      "party": "Republican",
+      "demographic": "White",
+      "coef_a": -0.00012,
+      "coef_b": 0.927997,
+      "coef_c": 3.257758
+    },
+    {
+      "party": "Republican",
+      "demographic": "Hispanic",
+      "coef_a": -0.136168,
+      "coef_b": 3.407108,
+      "coef_c": 60.158556
+    },
+    {
+      "party": "Republican",
+      "demographic": "African American",
+      "coef_a": 0.001088,
+      "coef_b": -0.948037,
+      "coef_c": 90.196806
+    },
+    {
+      "party": "Republican",
+      "demographic": "Asian",
+      "coef_a": 2.364011,
+      "coef_b": -17.656307,
+      "coef_c": 74.298031
+    }
+  ],
+  "by_demographic": {
+    "White": {
+      "Democratic": {
+        "coef_a": 0.000345,
+        "coef_b": -0.949716,
+        "coef_c": 95.698004
+      },
+      "Republican": {
+        "coef_a": -0.00012,
+        "coef_b": 0.927997,
+        "coef_c": 3.257758
+      }
+    },
+    "Hispanic": {
+      "Democratic": {
+        "coef_a": 0.147286,
+        "coef_b": -3.577919,
+        "coef_c": 38.735892
+      },
+      "Republican": {
+        "coef_a": -0.136168,
+        "coef_b": 3.407108,
+        "coef_c": 60.158556
+      }
+    },
+    "African American": {
+      "Democratic": {
+        "coef_a": -0.000887,
+        "coef_b": 0.929412,
+        "coef_c": 8.68537
+      },
+      "Republican": {
+        "coef_a": 0.001088,
+        "coef_b": -0.948037,
+        "coef_c": 90.196806
+      }
+    },
+    "Asian": {
+      "Democratic": {
+        "coef_a": -2.277488,
+        "coef_b": 16.833888,
+        "coef_c": 24.704798
+      },
+      "Republican": {
+        "coef_a": 2.364011,
+        "coef_b": -17.656307,
+        "coef_c": 74.298031
+      }
+    }
+  },
+  "demographics": [
+    "White",
+    "Hispanic",
+    "African American",
+    "Asian"
+  ],
+  "parties": [
+    "Democratic",
+    "Republican"
+  ]
+}

@@ -1,0 +1,29 @@
+[
+    {
+        "state_id": 10,
+        "active_registered_voters": 520000,
+        "total_registered_voters": 560000,
+        "total_cvap": 720000,
+        "total_votes_cast": 390000,
+        "registration_rate": 0.78,
+        "turnout_rate": 0.70
+    },
+    {
+        "state_id": 17,
+        "active_registered_voters": 6700000,
+        "total_registered_voters": 7000000,
+        "total_cvap": 8900000,
+        "total_votes_cast": 5200000,
+        "registration_rate": 0.79,
+        "turnout_rate": 0.74
+    },
+    {
+        "state_id": 19,
+        "active_registered_voters": 2050000,
+        "total_registered_voters": 2150000,
+        "total_cvap": 2600000,
+        "total_votes_cast": 1600000,
+        "registration_rate": 0.83,
+        "turnout_rate": 0.74
+    }
+]

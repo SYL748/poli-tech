@@ -1,0 +1,402 @@
+[
+  {
+    "region_name": "Region 1",
+    "republican_votes_2024": 3200,
+    "democrat_votes_2024": 4100,
+    "percent_republican": 0.438,
+    "total_ballots": 7800,
+    "percent_mail_in_ballot": 0.22
+  },
+  {
+    "region_name": "Region 2",
+    "republican_votes_2024": 5100,
+    "democrat_votes_2024": 4800,
+    "percent_republican": 0.515,
+    "total_ballots": 10200,
+    "percent_mail_in_ballot": 0.18
+  },
+  {
+    "region_name": "Region 3",
+    "republican_votes_2024": 1800,
+    "democrat_votes_2024": 2600,
+    "percent_republican": 0.409,
+    "total_ballots": 5200,
+    "percent_mail_in_ballot": 0.25
+  },
+  {
+    "region_name": "Region 4",
+    "republican_votes_2024": 6000,
+    "democrat_votes_2024": 4000,
+    "percent_republican": 0.6,
+    "total_ballots": 11000,
+    "percent_mail_in_ballot": 0.19
+  },
+  {
+    "region_name": "Region 5",
+    "republican_votes_2024": 2200,
+    "democrat_votes_2024": 2700,
+    "percent_republican": 0.449,
+    "total_ballots": 5600,
+    "percent_mail_in_ballot": 0.28
+  },
+  {
+    "region_name": "Region 6",
+    "republican_votes_2024": 3100,
+    "democrat_votes_2024": 3300,
+    "percent_republican": 0.484,
+    "total_ballots": 6700,
+    "percent_mail_in_ballot": 0.21
+  },
+  {
+    "region_name": "Region 7",
+    "republican_votes_2024": 4500,
+    "democrat_votes_2024": 3800,
+    "percent_republican": 0.542,
+    "total_ballots": 8900,
+    "percent_mail_in_ballot": 0.17
+  },
+  {
+    "region_name": "Region 8",
+    "republican_votes_2024": 2900,
+    "democrat_votes_2024": 3500,
+    "percent_republican": 0.453,
+    "total_ballots": 6900,
+    "percent_mail_in_ballot": 0.31
+  },
+  {
+    "region_name": "Region 9",
+    "republican_votes_2024": 5200,
+    "democrat_votes_2024": 5100,
+    "percent_republican": 0.505,
+    "total_ballots": 10800,
+    "percent_mail_in_ballot": 0.16
+  },
+  {
+    "region_name": "Region 10",
+    "republican_votes_2024": 1600,
+    "democrat_votes_2024": 2400,
+    "percent_republican": 0.4,
+    "total_ballots": 4500,
+    "percent_mail_in_ballot": 0.33
+  },
+  {
+    "region_name": "Region 11",
+    "republican_votes_2024": 3400,
+    "democrat_votes_2024": 3600,
+    "percent_republican": 0.486,
+    "total_ballots": 7200,
+    "percent_mail_in_ballot": 0.23
+  },
+  {
+    "region_name": "Region 12",
+    "republican_votes_2024": 4700,
+    "democrat_votes_2024": 5000,
+    "percent_republican": 0.484,
+    "total_ballots": 9900,
+    "percent_mail_in_ballot": 0.20
+  },
+  {
+    "region_name": "Region 13",
+    "republican_votes_2024": 2100,
+    "democrat_votes_2024": 2600,
+    "percent_republican": 0.447,
+    "total_ballots": 5400,
+    "percent_mail_in_ballot": 0.27
+  },
+  {
+    "region_name": "Region 14",
+    "republican_votes_2024": 5800,
+    "democrat_votes_2024": 4600,
+    "percent_republican": 0.558,
+    "total_ballots": 10400,
+    "percent_mail_in_ballot": 0.19
+  },
+  {
+    "region_name": "Region 15",
+    "republican_votes_2024": 2400,
+    "democrat_votes_2024": 2800,
+    "percent_republican": 0.462,
+    "total_ballots": 5900,
+    "percent_mail_in_ballot": 0.30
+  },
+  {
+    "region_name": "Region 16",
+    "republican_votes_2024": 3000,
+    "democrat_votes_2024": 3300,
+    "percent_republican": 0.476,
+    "total_ballots": 6500,
+    "percent_mail_in_ballot": 0.26
+  },
+  {
+    "region_name": "Region 17",
+    "republican_votes_2024": 4300,
+    "democrat_votes_2024": 3900,
+    "percent_republican": 0.524,
+    "total_ballots": 8600,
+    "percent_mail_in_ballot": 0.18
+  },
+  {
+    "region_name": "Region 18",
+    "republican_votes_2024": 1900,
+    "democrat_votes_2024": 2500,
+    "percent_republican": 0.431,
+    "total_ballots": 5100,
+    "percent_mail_in_ballot": 0.32
+  },
+  {
+    "region_name": "Region 19",
+    "republican_votes_2024": 5500,
+    "democrat_votes_2024": 5200,
+    "percent_republican": 0.514,
+    "total_ballots": 11300,
+    "percent_mail_in_ballot": 0.15
+  },
+  {
+    "region_name": "Region 20",
+    "republican_votes_2024": 1700,
+    "democrat_votes_2024": 2600,
+    "percent_republican": 0.395,
+    "total_ballots": 4800,
+    "percent_mail_in_ballot": 0.35
+  },
+  {
+    "region_name": "Region 21",
+    "republican_votes_2024": 3700,
+    "democrat_votes_2024": 4000,
+    "percent_republican": 0.481,
+    "total_ballots": 7800,
+    "percent_mail_in_ballot": 0.22
+  },
+  {
+    "region_name": "Region 22",
+    "republican_votes_2024": 4900,
+    "democrat_votes_2024": 4700,
+    "percent_republican": 0.51,
+    "total_ballots": 9800,
+    "percent_mail_in_ballot": 0.19
+  },
+  {
+    "region_name": "Region 23",
+    "republican_votes_2024": 2600,
+    "democrat_votes_2024": 2800,
+    "percent_republican": 0.481,
+    "total_ballots": 5700,
+    "percent_mail_in_ballot": 0.29
+  },
+  {
+    "region_name": "Region 24",
+    "republican_votes_2024": 6200,
+    "democrat_votes_2024": 4800,
+    "percent_republican": 0.564,
+    "total_ballots": 11200,
+    "percent_mail_in_ballot": 0.21
+  },
+  {
+    "region_name": "Region 25",
+    "republican_votes_2024": 2300,
+    "democrat_votes_2024": 2900,
+    "percent_republican": 0.442,
+    "total_ballots": 6100,
+    "percent_mail_in_ballot": 0.28
+  },
+  {
+    "region_name": "Region 26",
+    "republican_votes_2024": 3500,
+    "democrat_votes_2024": 3900,
+    "percent_republican": 0.473,
+    "total_ballots": 7600,
+    "percent_mail_in_ballot": 0.23
+  },
+  {
+    "region_name": "Region 27",
+    "republican_votes_2024": 5200,
+    "democrat_votes_2024": 5000,
+    "percent_republican": 0.51,
+    "total_ballots": 10300,
+    "percent_mail_in_ballot": 0.17
+  },
+  {
+    "region_name": "Region 28",
+    "republican_votes_2024": 2000,
+    "democrat_votes_2024": 2400,
+    "percent_republican": 0.455,
+    "total_ballots": 5000,
+    "percent_mail_in_ballot": 0.31
+  },
+  {
+    "region_name": "Region 29",
+    "republican_votes_2024": 5800,
+    "democrat_votes_2024": 5300,
+    "percent_republican": 0.522,
+    "total_ballots": 11500,
+    "percent_mail_in_ballot": 0.16
+  },
+  {
+    "region_name": "Region 30",
+    "republican_votes_2024": 1500,
+    "democrat_votes_2024": 2200,
+    "percent_republican": 0.405,
+    "total_ballots": 4300,
+    "percent_mail_in_ballot": 0.34
+  },
+  {
+    "region_name": "Region 31",
+    "republican_votes_2024": 3100,
+    "democrat_votes_2024": 3600,
+    "percent_republican": 0.462,
+    "total_ballots": 6900,
+    "percent_mail_in_ballot": 0.24
+  },
+  {
+    "region_name": "Region 32",
+    "republican_votes_2024": 4800,
+    "democrat_votes_2024": 5100,
+    "percent_republican": 0.485,
+    "total_ballots": 10100,
+    "percent_mail_in_ballot": 0.18
+  },
+  {
+    "region_name": "Region 33",
+    "republican_votes_2024": 2300,
+    "democrat_votes_2024": 2600,
+    "percent_republican": 0.469,
+    "total_ballots": 5500,
+    "percent_mail_in_ballot": 0.30
+  },
+  {
+    "region_name": "Region 34",
+    "republican_votes_2024": 6100,
+    "democrat_votes_2024": 4800,
+    "percent_republican": 0.559,
+    "total_ballots": 11300,
+    "percent_mail_in_ballot": 0.20
+  },
+  {
+    "region_name": "Region 35",
+    "republican_votes_2024": 2100,
+    "democrat_votes_2024": 3000,
+    "percent_republican": 0.412,
+    "total_ballots": 5800,
+    "percent_mail_in_ballot": 0.29
+  },
+  {
+    "region_name": "Region 36",
+    "republican_votes_2024": 3300,
+    "democrat_votes_2024": 3700,
+    "percent_republican": 0.471,
+    "total_ballots": 7200,
+    "percent_mail_in_ballot": 0.23
+  },
+  {
+    "region_name": "Region 37",
+    "republican_votes_2024": 5000,
+    "democrat_votes_2024": 4900,
+    "percent_republican": 0.505,
+    "total_ballots": 10100,
+    "percent_mail_in_ballot": 0.19
+  },
+  {
+    "region_name": "Region 38",
+    "republican_votes_2024": 2600,
+    "democrat_votes_2024": 3100,
+    "percent_republican": 0.456,
+    "total_ballots": 6000,
+    "percent_mail_in_ballot": 0.27
+  },
+  {
+    "region_name": "Region 39",
+    "republican_votes_2024": 5600,
+    "democrat_votes_2024": 5200,
+    "percent_republican": 0.518,
+    "total_ballots": 10900,
+    "percent_mail_in_ballot": 0.16
+  },
+  {
+    "region_name": "Region 40",
+    "republican_votes_2024": 1900,
+    "democrat_votes_2024": 2600,
+    "percent_republican": 0.422,
+    "total_ballots": 5200,
+    "percent_mail_in_ballot": 0.33
+  },
+  {
+    "region_name": "Region 41",
+    "republican_votes_2024": 3500,
+    "democrat_votes_2024": 3800,
+    "percent_republican": 0.48,
+    "total_ballots": 7400,
+    "percent_mail_in_ballot": 0.22
+  },
+  {
+    "region_name": "Region 42",
+    "republican_votes_2024": 5100,
+    "democrat_votes_2024": 4700,
+    "percent_republican": 0.52,
+    "total_ballots": 10200,
+    "percent_mail_in_ballot": 0.17
+  },
+  {
+    "region_name": "Region 43",
+    "republican_votes_2024": 2800,
+    "democrat_votes_2024": 2900,
+    "percent_republican": 0.491,
+    "total_ballots": 5900,
+    "percent_mail_in_ballot": 0.28
+  },
+  {
+    "region_name": "Region 44",
+    "republican_votes_2024": 6000,
+    "democrat_votes_2024": 4500,
+    "percent_republican": 0.571,
+    "total_ballots": 10800,
+    "percent_mail_in_ballot": 0.21
+  },
+  {
+    "region_name": "Region 45",
+    "republican_votes_2024": 2400,
+    "democrat_votes_2024": 3100,
+    "percent_republican": 0.436,
+    "total_ballots": 5700,
+    "percent_mail_in_ballot": 0.29
+  },
+  {
+    "region_name": "Region 46",
+    "republican_votes_2024": 3600,
+    "democrat_votes_2024": 3400,
+    "percent_republican": 0.514,
+    "total_ballots": 7100,
+    "percent_mail_in_ballot": 0.24
+  },
+  {
+    "region_name": "Region 47",
+    "republican_votes_2024": 4800,
+    "democrat_votes_2024": 5300,
+    "percent_republican": 0.475,
+    "total_ballots": 10300,
+    "percent_mail_in_ballot": 0.18
+  },
+  {
+    "region_name": "Region 48",
+    "republican_votes_2024": 2100,
+    "democrat_votes_2024": 2400,
+    "percent_republican": 0.467,
+    "total_ballots": 5200,
+    "percent_mail_in_ballot": 0.31
+  },
+  {
+    "region_name": "Region 49",
+    "republican_votes_2024": 5700,
+    "democrat_votes_2024": 5000,
+    "percent_republican": 0.533,
+    "total_ballots": 11000,
+    "percent_mail_in_ballot": 0.15
+  },
+  {
+    "region_name": "Region 50",
+    "republican_votes_2024": 3000,
+    "democrat_votes_2024": 3400,
+    "percent_republican": 0.469,
+    "total_ballots": 6500,
+    "percent_mail_in_ballot": 0.24
+  }
+]

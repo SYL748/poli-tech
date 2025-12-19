@@ -1,0 +1,13 @@
+{
+  "stateId": 5,
+  "voterNotOnList": 12450,
+  "voterLackedId": 8234,
+  "electionOfficialChallengedEligibility": 1523,
+  "anotherPersonChallengedEligibility": 892,
+  "voterNotResident": 2103,
+  "voterRegistrationNotUpdated": 5678,
+  "voterDidNotSurrenderMailBallot": 3421,
+  "judgeExtendedVotingHours": 1092,
+  "voterUsedSdr": 4567,
+  "otherReasons": 2890
+}

@@ -1,0 +1,16 @@
+{
+  "stateId": "17",
+  "totalVotesCast": 5845123,
+  "inPersonEarly": 2156789,
+  "mailAccepted": 1665432,
+  "dropboxAccepted": 485321,
+  "uocavaAccepted": 45678,
+  "provisionalCounted": 123456,
+  "totalEarly": 4476676,
+  "percentInPersonEarly": 36.9,
+  "percentMail": 28.5,
+  "percentDropbox": 8.3,
+  "percentUocava": 0.8,
+  "percentProvisional": 2.1,
+  "percentTotalEarly": 76.6
+}

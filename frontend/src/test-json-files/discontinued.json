@@ -1,0 +1,167 @@
+[
+  {
+    "manufacturer": "MicroVote",
+    "model_name": "Infinity",
+    "discontinued": "TRUE"
+  },
+  {
+    "manufacturer": "Dominion",
+    "model_name": "ImageCast Remote",
+    "discontinued": "TRUE"
+  },
+  {
+    "manufacturer": "ES&S",
+    "model_name": "iVotronic",
+    "discontinued": "TRUE"
+  },
+  {
+    "manufacturer": "ES&S",
+    "model_name": "Model 100",
+    "discontinued": "TRUE"
+  },
+  {
+    "manufacturer": "Populex",
+    "model_name": "Slate",
+    "discontinued": "TRUE"
+  },
+  {
+    "manufacturer": "Premier Election Solutions (Diebold)",
+    "model_name": "AccuVote OS",
+    "discontinued": "TRUE"
+  },
+  {
+    "manufacturer": "Premier Election Solutions (Diebold)",
+    "model_name": "AccuVote OSX",
+    "discontinued": "TRUE"
+  },
+  {
+    "manufacturer": "Sequoia Voting Systems",
+    "model_name": "AVC Advantage",
+    "discontinued": "TRUE"
+  },
+  {
+    "manufacturer": "Smartmatic/Los Angeles County",
+    "model_name": "VSAP BMD",
+    "discontinued": "TRUE"
+  },
+  {
+    "manufacturer": "Smartmatic/Los Angeles County",
+    "model_name": "VSAP Tally",
+    "discontinued": "TRUE"
+  },
+  {
+    "manufacturer": "Smartmatic/Los Angeles County",
+    "model_name": "VSAP Interactive Sample Ballot",
+    "discontinued": "TRUE"
+  },
+  {
+    "manufacturer": "Triad Governmental Systems",
+    "model_name": "Accessible Ballot Marking Tool (ABMT)",
+    "discontinued": "TRUE"
+  },
+  {
+    "manufacturer": "Unisyn",
+    "model_name": "OpenElect OVI",
+    "discontinued": "TRUE"
+  },
+  {
+    "manufacturer": "Unisyn",
+    "model_name": "OpenElect OVI-VC",
+    "discontinued": "TRUE"
+  },
+  {
+    "manufacturer": "Unisyn",
+    "model_name": "OpenElect OVCS",
+    "discontinued": "TRUE"
+  },
+  {
+    "manufacturer": "Unisyn",
+    "model_name": "OpenElect OVO",
+    "discontinued": "TRUE"
+  },
+  {
+    "manufacturer": "Voatz",
+    "model_name": "Mobile App",
+    "discontinued": "TRUE"
+  },
+  {
+    "manufacturer": "Votem",
+    "model_name": "CastIron Voting Platform",
+    "discontinued": "TRUE"
+  },
+  {
+    "manufacturer": "VotingWorks",
+    "model_name": "VxMark",
+    "discontinued": "TRUE"
+  },
+  {
+    "manufacturer": "ES&S",
+    "model_name": "Model 650",
+    "discontinued": "TRUE"
+  },
+  {
+    "manufacturer": "ES&S",
+    "model_name": "DS650",
+    "discontinued": "TRUE"
+  },
+  {
+    "manufacturer": "ES&S",
+    "model_name": "Model 150",
+    "discontinued": "TRUE"
+  },
+  {
+    "manufacturer": "ES&S",
+    "model_name": "Model 550",
+    "discontinued": "TRUE"
+  },
+  {
+    "manufacturer": "ES&S/Unisyn",
+    "model_name": "InkaVote",
+    "discontinued": "TRUE"
+  },
+  {
+    "manufacturer": "AVS",
+    "model_name": "WINVote",
+    "discontinued": "TRUE"
+  },
+  {
+    "manufacturer": "Avante",
+    "model_name": "Vote-Trakker",
+    "discontinued": "TRUE"
+  },
+  {
+    "manufacturer": "AVS",
+    "model_name": "WINScan",
+    "discontinued": "TRUE"
+  },
+  {
+    "manufacturer": "DFM Associates",
+    "model_name": "Mark-A-Vote",
+    "discontinued": "TRUE"
+  },
+  {
+    "manufacturer": "Danaher",
+    "model_name": "Shouptronic 1242",
+    "discontinued": "TRUE"
+  },
+  {
+    "manufacturer": "Hart InterCivic",
+    "model_name": "Verity Duo",
+    "discontinued": "TRUE"
+  },
+  {
+    "manufacturer": "Hart InterCivic",
+    "model_name": "Verity Touch",
+    "discontinued": "TRUE"
+  },
+  {
+    "manufacturer": "Democracy Live",
+    "model_name": "Secure Select",
+    "discontinued": "TRUE"
+  },
+  {
+    "manufacturer": "ES&S",
+    "model_name": "AutoMARK",
+    "discontinued": "TRUE"
+  }
+]

@@ -1,0 +1,3222 @@
+{
+  "01": {
+    "African American": [
+      {
+        "rejection_probability": 0.0,
+        "probability_density": 3.9014
+      },
+      {
+        "rejection_probability": 0.0001,
+        "probability_density": 6.5902
+      },
+      {
+        "rejection_probability": 0.0003,
+        "probability_density": 10.3798
+      },
+      {
+        "rejection_probability": 0.0004,
+        "probability_density": 15.3399
+      },
+      {
+        "rejection_probability": 0.0006,
+        "probability_density": 21.4086
+      },
+      {
+        "rejection_probability": 0.0007,
+        "probability_density": 28.4066
+      },
+      {
+        "rejection_probability": 0.0009,
+        "probability_density": 36.0861
+      },
+      {
+        "rejection_probability": 0.001,
+        "probability_density": 44.1842
+      },
+      {
+        "rejection_probability": 0.0012,
+        "probability_density": 52.4395
+      },
+      {
+        "rejection_probability": 0.0013,
+        "probability_density": 60.5737
+      },
+      {
+        "rejection_probability": 0.0015,
+        "probability_density": 68.2901
+      },
+      {
+        "rejection_probability": 0.0016,
+        "probability_density": 75.35
+      },
+      {
+        "rejection_probability": 0.0018,
+        "probability_density": 81.7034
+      },
+      {
+        "rejection_probability": 0.0019,
+        "probability_density": 87.5597
+      },
+      {
+        "rejection_probability": 0.0021,
+        "probability_density": 93.2948
+      },
+      {
+        "rejection_probability": 0.0022,
+        "probability_density": 99.2262
+      },
+      {
+        "rejection_probability": 0.0024,
+        "probability_density": 105.4178
+      },
+      {
+        "rejection_probability": 0.0025,
+        "probability_density": 111.6564
+      },
+      {
+        "rejection_probability": 0.0027,
+        "probability_density": 117.6019
+      },
+      {
+        "rejection_probability": 0.0028,
+        "probability_density": 122.9897
+      },
+      {
+        "rejection_probability": 0.003,
+        "probability_density": 127.7627
+      },
+      {
+        "rejection_probability": 0.0031,
+        "probability_density": 132.0779
+      },
+      {
+        "rejection_probability": 0.0033,
+        "probability_density": 136.2009
+      },
+      {
+        "rejection_probability": 0.0034,
+        "probability_density": 140.3288
+      },
+      {
+        "rejection_probability": 0.0036,
+        "probability_density": 144.423
+      },
+      {
+        "rejection_probability": 0.0037,
+        "probability_density": 148.1578
+      },
+      {
+        "rejection_probability": 0.0039,
+        "probability_density": 151.0555
+      },
+      {
+        "rejection_probability": 0.004,
+        "probability_density": 152.7526
+      },
+      {
+        "rejection_probability": 0.0042,
+        "probability_density": 153.237
+      },
+      {
+        "rejection_probability": 0.0043,
+        "probability_density": 152.907
+      },
+      {
+        "rejection_probability": 0.0045,
+        "probability_density": 152.4209
+      },
+      {
+        "rejection_probability": 0.0046,
+        "probability_density": 152.4279
+      },
+      {
+        "rejection_probability": 0.0048,
+        "probability_density": 153.3108
+      },
+      {
+        "rejection_probability": 0.0049,
+        "probability_density": 155.0414
+      },
+      {
+        "rejection_probability": 0.0051,
+        "probability_density": 157.2002
+      },
+      {
+        "rejection_probability": 0.0052,
+        "probability_density": 159.1532
+      },
+      {
+        "rejection_probability": 0.0054,
+        "probability_density": 160.3162
+      },
+      {
+        "rejection_probability": 0.0055,
+        "probability_density": 160.3876
+      },
+      {
+        "rejection_probability": 0.0057,
+        "probability_density": 159.4343
+      },
+      {
+        "rejection_probability": 0.0058,
+        "probability_density": 157.7906
+      },
+      {
+        "rejection_probability": 0.006,
+        "probability_density": 155.8378
+      },
+      {
+        "rejection_probability": 0.0061,
+        "probability_density": 153.7917
+      },
+      {
+        "rejection_probability": 0.0062,
+        "probability_density": 151.6137
+      },
+      {
+        "rejection_probability": 0.0064,
+        "probability_density": 149.0724
+      },
+      {
+        "rejection_probability": 0.0065,
+        "probability_density": 145.8945
+      },
+      {
+        "rejection_probability": 0.0067,
+        "probability_density": 141.8972
+      },
+      {
+        "rejection_probability": 0.0068,
+        "probability_density": 137.0284
+      },
+      {
+        "rejection_probability": 0.007,
+        "probability_density": 131.3157
+      },
+      {
+        "rejection_probability": 0.0071,
+        "probability_density": 124.7939
+      },
+      {
+        "rejection_probability": 0.0073,
+        "probability_density": 117.4899
+      },
+      {
+        "rejection_probability": 0.0074,
+        "probability_density": 109.481
+      },
+      {
+        "rejection_probability": 0.0076,
+        "probability_density": 100.9701
+      },
+      {
+        "rejection_probability": 0.0077,
+        "probability_density": 92.2959
+      },
+      {
+        "rejection_probability": 0.0079,
+        "probability_density": 83.8416
+      },
+      {
+        "rejection_probability": 0.008,
+        "probability_density": 75.9025
+      },
+      {
+        "rejection_probability": 0.0082,
+        "probability_density": 68.6061
+      },
+      {
+        "rejection_probability": 0.0083,
+        "probability_density": 61.9289
+      },
+      {
+        "rejection_probability": 0.0085,
+        "probability_density": 55.7731
+      },
+      {
+        "rejection_probability": 0.0086,
+        "probability_density": 50.036
+      },
+      {
+        "rejection_probability": 0.0088,
+        "probability_density": 44.6448
+      },
+      {
+        "rejection_probability": 0.0089,
+        "probability_density": 39.578
+      },
+      {
+        "rejection_probability": 0.0091,
+        "probability_density": 34.8858
+      },
+      {
+        "rejection_probability": 0.0092,
+        "probability_density": 30.6866
+      },
+      {
+        "rejection_probability": 0.0094,
+        "probability_density": 27.113
+      },
+      {
+        "rejection_probability": 0.0095,
+        "probability_density": 24.2223
+      },
+      {
+        "rejection_probability": 0.0097,
+        "probability_density": 21.9388
+      },
+      {
+        "rejection_probability": 0.0098,
+        "probability_density": 20.0737
+      },
+      {
+        "rejection_probability": 0.01,
+        "probability_density": 18.4088
+      },
+      {
+        "rejection_probability": 0.0101,
+        "probability_density": 16.7761
+      },
+      {
+        "rejection_probability": 0.0103,
+        "probability_density": 15.0878
+      },
+      {
+        "rejection_probability": 0.0104,
+        "probability_density": 13.3233
+      },
+      {
+        "rejection_probability": 0.0106,
+        "probability_density": 11.5078
+      },
+      {
+        "rejection_probability": 0.0107,
+        "probability_density": 9.6972
+      },
+      {
+        "rejection_probability": 0.0109,
+        "probability_density": 7.9636
+      },
+      {
+        "rejection_probability": 0.011,
+        "probability_density": 6.3737
+      },
+      {
+        "rejection_probability": 0.0112,
+        "probability_density": 4.9728
+      },
+      {
+        "rejection_probability": 0.0113,
+        "probability_density": 3.7819
+      },
+      {
+        "rejection_probability": 0.0115,
+        "probability_density": 2.8068
+      },
+      {
+        "rejection_probability": 0.0116,
+        "probability_density": 2.0453
+      },
+      {
+        "rejection_probability": 0.0118,
+        "probability_density": 1.4843
+      },
+      {
+        "rejection_probability": 0.0119,
+        "probability_density": 1.0946
+      },
+      {
+        "rejection_probability": 0.0121,
+        "probability_density": 0.8311
+      },
+      {
+        "rejection_probability": 0.0122,
+        "probability_density": 0.6443
+      },
+      {
+        "rejection_probability": 0.0123,
+        "probability_density": 0.4949
+      },
+      {
+        "rejection_probability": 0.0125,
+        "probability_density": 0.3634
+      },
+      {
+        "rejection_probability": 0.0126,
+        "probability_density": 0.2479
+      },
+      {
+        "rejection_probability": 0.0128,
+        "probability_density": 0.154
+      },
+      {
+        "rejection_probability": 0.0129,
+        "probability_density": 0.0861
+      },
+      {
+        "rejection_probability": 0.0131,
+        "probability_density": 0.0431
+      },
+      {
+        "rejection_probability": 0.0132,
+        "probability_density": 0.0192
+      },
+      {
+        "rejection_probability": 0.0134,
+        "probability_density": 0.0076
+      },
+      {
+        "rejection_probability": 0.0135,
+        "probability_density": 0.0027
+      },
+      {
+        "rejection_probability": 0.0137,
+        "probability_density": 0.0008
+      },
+      {
+        "rejection_probability": 0.0138,
+        "probability_density": 0.0002
+      },
+      {
+        "rejection_probability": 0.014,
+        "probability_density": 0.0001
+      },
+      {
+        "rejection_probability": 0.0141,
+        "probability_density": 0.0
+      },
+      {
+        "rejection_probability": 0.0143,
+        "probability_density": 0.0
+      },
+      {
+        "rejection_probability": 0.0144,
+        "probability_density": 0.0
+      },
+      {
+        "rejection_probability": 0.0146,
+        "probability_density": 0.0
+      },
+      {
+        "rejection_probability": 0.0147,
+        "probability_density": 0.0
+      }
+    ],
+    "Asian": [
+      {
+        "rejection_probability": 0.0,
+        "probability_density": 1.7018
+      },
+      {
+        "rejection_probability": 0.0033,
+        "probability_density": 2.529
+      },
+      {
+        "rejection_probability": 0.0067,
+        "probability_density": 3.482
+      },
+      {
+        "rejection_probability": 0.01,
+        "probability_density": 4.4784
+      },
+      {
+        "rejection_probability": 0.0133,
+        "probability_density": 5.4289
+      },
+      {
+        "rejection_probability": 0.0166,
+        "probability_density": 6.2629
+      },
+      {
+        "rejection_probability": 0.02,
+        "probability_density": 6.9457
+      },
+      {
+        "rejection_probability": 0.0233,
+        "probability_density": 7.4797
+      },
+      {
+        "rejection_probability": 0.0266,
+        "probability_density": 7.8912
+      },
+      {
+        "rejection_probability": 0.0299,
+        "probability_density": 8.2119
+      },
+      {
+        "rejection_probability": 0.0333,
+        "probability_density": 8.4654
+      },
+      {
+        "rejection_probability": 0.0366,
+        "probability_density": 8.6632
+      },
+      {
+        "rejection_probability": 0.0399,
+        "probability_density": 8.808
+      },
+      {
+        "rejection_probability": 0.0432,
+        "probability_density": 8.8975
+      },
+      {
+        "rejection_probability": 0.0466,
+        "probability_density": 8.9272
+      },
+      {
+        "rejection_probability": 0.0499,
+        "probability_density": 8.8935
+      },
+      {
+        "rejection_probability": 0.0532,
+        "probability_density": 8.7984
+      },
+      {
+        "rejection_probability": 0.0565,
+        "probability_density": 8.6514
+      },
+      {
+        "rejection_probability": 0.0599,
+        "probability_density": 8.467
+      },
+      {
+        "rejection_probability": 0.0632,
+        "probability_density": 8.2585
+      },
+      {
+        "rejection_probability": 0.0665,
+        "probability_density": 8.0341
+      },
+      {
+        "rejection_probability": 0.0698,
+        "probability_density": 7.7969
+      },
+      {
+        "rejection_probability": 0.0732,
+        "probability_density": 7.547
+      },
+      {
+        "rejection_probability": 0.0765,
+        "probability_density": 7.2842
+      },
+      {
+        "rejection_probability": 0.0798,
+        "probability_density": 7.0084
+      },
+      {
+        "rejection_probability": 0.0831,
+        "probability_density": 6.7189
+      },
+      {
+        "rejection_probability": 0.0865,
+        "probability_density": 6.4163
+      },
+      {
+        "rejection_probability": 0.0898,
+        "probability_density": 6.1059
+      },
+      {
+        "rejection_probability": 0.0931,
+        "probability_density": 5.7999
+      },
+      {
+        "rejection_probability": 0.0965,
+        "probability_density": 5.5154
+      },
+      {
+        "rejection_probability": 0.0998,
+        "probability_density": 5.2667
+      },
+      {
+        "rejection_probability": 0.1031,
+        "probability_density": 5.0586
+      },
+      {
+        "rejection_probability": 0.1064,
+        "probability_density": 4.8846
+      },
+      {
+        "rejection_probability": 0.1098,
+        "probability_density": 4.7309
+      },
+      {
+        "rejection_probability": 0.1131,
+        "probability_density": 4.5836
+      },
+      {
+        "rejection_probability": 0.1164,
+        "probability_density": 4.4331
+      },
+      {
+        "rejection_probability": 0.1197,
+        "probability_density": 4.2747
+      },
+      {
+        "rejection_probability": 0.1231,
+        "probability_density": 4.1066
+      },
+      {
+        "rejection_probability": 0.1264,
+        "probability_density": 3.9292
+      },
+      {
+        "rejection_probability": 0.1297,
+        "probability_density": 3.7462
+      },
+      {
+        "rejection_probability": 0.133,
+        "probability_density": 3.5648
+      },
+      {
+        "rejection_probability": 0.1364,
+        "probability_density": 3.3928
+      },
+      {
+        "rejection_probability": 0.1397,
+        "probability_density": 3.2331
+      },
+      {
+        "rejection_probability": 0.143,
+        "probability_density": 3.081
+      },
+      {
+        "rejection_probability": 0.1463,
+        "probability_density": 2.9249
+      },
+      {
+        "rejection_probability": 0.1497,
+        "probability_density": 2.7522
+      },
+      {
+        "rejection_probability": 0.153,
+        "probability_density": 2.5556
+      },
+      {
+        "rejection_probability": 0.1563,
+        "probability_density": 2.3374
+      },
+      {
+        "rejection_probability": 0.1596,
+        "probability_density": 2.1086
+      },
+      {
+        "rejection_probability": 0.163,
+        "probability_density": 1.8846
+      },
+      {
+        "rejection_probability": 0.1663,
+        "probability_density": 1.6793
+      },
+      {
+        "rejection_probability": 0.1696,
+        "probability_density": 1.4998
+      },
+      {
+        "rejection_probability": 0.1729,
+        "probability_density": 1.3461
+      },
+      {
+        "rejection_probability": 0.1763,
+        "probability_density": 1.2131
+      },
+      {
+        "rejection_probability": 0.1796,
+        "probability_density": 1.095
+      },
+      {
+        "rejection_probability": 0.1829,
+        "probability_density": 0.9874
+      },
+      {
+        "rejection_probability": 0.1863,
+        "probability_density": 0.889
+      },
+      {
+        "rejection_probability": 0.1896,
+        "probability_density": 0.8006
+      },
+      {
+        "rejection_probability": 0.1929,
+        "probability_density": 0.7236
+      },
+      {
+        "rejection_probability": 0.1962,
+        "probability_density": 0.6582
+      },
+      {
+        "rejection_probability": 0.1996,
+        "probability_density": 0.6024
+      },
+      {
+        "rejection_probability": 0.2029,
+        "probability_density": 0.5522
+      },
+      {
+        "rejection_probability": 0.2062,
+        "probability_density": 0.5031
+      },
+      {
+        "rejection_probability": 0.2095,
+        "probability_density": 0.4526
+      },
+      {
+        "rejection_probability": 0.2129,
+        "probability_density": 0.401
+      },
+      {
+        "rejection_probability": 0.2162,
+        "probability_density": 0.3509
+      },
+      {
+        "rejection_probability": 0.2195,
+        "probability_density": 0.3058
+      },
+      {
+        "rejection_probability": 0.2228,
+        "probability_density": 0.2676
+      },
+      {
+        "rejection_probability": 0.2262,
+        "probability_density": 0.2363
+      },
+      {
+        "rejection_probability": 0.2295,
+        "probability_density": 0.2099
+      },
+      {
+        "rejection_probability": 0.2328,
+        "probability_density": 0.1867
+      },
+      {
+        "rejection_probability": 0.2361,
+        "probability_density": 0.1655
+      },
+      {
+        "rejection_probability": 0.2395,
+        "probability_density": 0.1467
+      },
+      {
+        "rejection_probability": 0.2428,
+        "probability_density": 0.1308
+      },
+      {
+        "rejection_probability": 0.2461,
+        "probability_density": 0.1178
+      },
+      {
+        "rejection_probability": 0.2494,
+        "probability_density": 0.1065
+      },
+      {
+        "rejection_probability": 0.2528,
+        "probability_density": 0.0952
+      },
+      {
+        "rejection_probability": 0.2561,
+        "probability_density": 0.0831
+      },
+      {
+        "rejection_probability": 0.2594,
+        "probability_density": 0.0708
+      },
+      {
+        "rejection_probability": 0.2628,
+        "probability_density": 0.0597
+      },
+      {
+        "rejection_probability": 0.2661,
+        "probability_density": 0.0508
+      },
+      {
+        "rejection_probability": 0.2694,
+        "probability_density": 0.0438
+      },
+      {
+        "rejection_probability": 0.2727,
+        "probability_density": 0.0374
+      },
+      {
+        "rejection_probability": 0.2761,
+        "probability_density": 0.0306
+      },
+      {
+        "rejection_probability": 0.2794,
+        "probability_density": 0.0233
+      },
+      {
+        "rejection_probability": 0.2827,
+        "probability_density": 0.016
+      },
+      {
+        "rejection_probability": 0.286,
+        "probability_density": 0.0099
+      },
+      {
+        "rejection_probability": 0.2894,
+        "probability_density": 0.0054
+      },
+      {
+        "rejection_probability": 0.2927,
+        "probability_density": 0.0026
+      },
+      {
+        "rejection_probability": 0.296,
+        "probability_density": 0.0011
+      },
+      {
+        "rejection_probability": 0.2993,
+        "probability_density": 0.0004
+      },
+      {
+        "rejection_probability": 0.3027,
+        "probability_density": 0.0001
+      },
+      {
+        "rejection_probability": 0.306,
+        "probability_density": 0.0
+      },
+      {
+        "rejection_probability": 0.3093,
+        "probability_density": 0.0
+      },
+      {
+        "rejection_probability": 0.3126,
+        "probability_density": 0.0
+      },
+      {
+        "rejection_probability": 0.316,
+        "probability_density": 0.0
+      },
+      {
+        "rejection_probability": 0.3193,
+        "probability_density": 0.0
+      },
+      {
+        "rejection_probability": 0.3226,
+        "probability_density": 0.0
+      },
+      {
+        "rejection_probability": 0.3259,
+        "probability_density": 0.0
+      },
+      {
+        "rejection_probability": 0.3293,
+        "probability_density": 0.0
+      }
+    ],
+    "Hispanic": [
+      {
+        "rejection_probability": 0.0,
+        "probability_density": 4.0415
+      },
+      {
+        "rejection_probability": 0.0017,
+        "probability_density": 6.0141
+      },
+      {
+        "rejection_probability": 0.0034,
+        "probability_density": 8.2343
+      },
+      {
+        "rejection_probability": 0.0052,
+        "probability_density": 10.4945
+      },
+      {
+        "rejection_probability": 0.0069,
+        "probability_density": 12.6064
+      },
+      {
+        "rejection_probability": 0.0086,
+        "probability_density": 14.4471
+      },
+      {
+        "rejection_probability": 0.0103,
+        "probability_density": 15.96
+      },
+      {
+        "rejection_probability": 0.0121,
+        "probability_density": 17.1272
+      },
+      {
+        "rejection_probability": 0.0138,
+        "probability_density": 17.9468
+      },
+      {
+        "rejection_probability": 0.0155,
+        "probability_density": 18.4314
+      },
+      {
+        "rejection_probability": 0.0172,
+        "probability_density": 18.6169
+      },
+      {
+        "rejection_probability": 0.019,
+        "probability_density": 18.5625
+      },
+      {
+        "rejection_probability": 0.0207,
+        "probability_density": 18.3378
+      },
+      {
+        "rejection_probability": 0.0224,
+        "probability_density": 18.007
+      },
+      {
+        "rejection_probability": 0.0241,
+        "probability_density": 17.6233
+      },
+      {
+        "rejection_probability": 0.0258,
+        "probability_density": 17.2321
+      },
+      {
+        "rejection_probability": 0.0276,
+        "probability_density": 16.8708
+      },
+      {
+        "rejection_probability": 0.0293,
+        "probability_density": 16.5566
+      },
+      {
+        "rejection_probability": 0.031,
+        "probability_density": 16.2675
+      },
+      {
+        "rejection_probability": 0.0327,
+        "probability_density": 15.9395
+      },
+      {
+        "rejection_probability": 0.0345,
+        "probability_density": 15.4951
+      },
+      {
+        "rejection_probability": 0.0362,
+        "probability_density": 14.8909
+      },
+      {
+        "rejection_probability": 0.0379,
+        "probability_density": 14.1534
+      },
+      {
+        "rejection_probability": 0.0396,
+        "probability_density": 13.3714
+      },
+      {
+        "rejection_probability": 0.0413,
+        "probability_density": 12.6477
+      },
+      {
+        "rejection_probability": 0.0431,
+        "probability_density": 12.0438
+      },
+      {
+        "rejection_probability": 0.0448,
+        "probability_density": 11.5567
+      },
+      {
+        "rejection_probability": 0.0465,
+        "probability_density": 11.1372
+      },
+      {
+        "rejection_probability": 0.0482,
+        "probability_density": 10.7332
+      },
+      {
+        "rejection_probability": 0.05,
+        "probability_density": 10.3234
+      },
+      {
+        "rejection_probability": 0.0517,
+        "probability_density": 9.921
+      },
+      {
+        "rejection_probability": 0.0534,
+        "probability_density": 9.5521
+      },
+      {
+        "rejection_probability": 0.0551,
+        "probability_density": 9.2269
+      },
+      {
+        "rejection_probability": 0.0569,
+        "probability_density": 8.9257
+      },
+      {
+        "rejection_probability": 0.0586,
+        "probability_density": 8.6073
+      },
+      {
+        "rejection_probability": 0.0603,
+        "probability_density": 8.2315
+      },
+      {
+        "rejection_probability": 0.062,
+        "probability_density": 7.7796
+      },
+      {
+        "rejection_probability": 0.0637,
+        "probability_density": 7.262
+      },
+      {
+        "rejection_probability": 0.0655,
+        "probability_density": 6.7112
+      },
+      {
+        "rejection_probability": 0.0672,
+        "probability_density": 6.168
+      },
+      {
+        "rejection_probability": 0.0689,
+        "probability_density": 5.6681
+      },
+      {
+        "rejection_probability": 0.0706,
+        "probability_density": 5.2333
+      },
+      {
+        "rejection_probability": 0.0724,
+        "probability_density": 4.8695
+      },
+      {
+        "rejection_probability": 0.0741,
+        "probability_density": 4.5684
+      },
+      {
+        "rejection_probability": 0.0758,
+        "probability_density": 4.3113
+      },
+      {
+        "rejection_probability": 0.0775,
+        "probability_density": 4.0731
+      },
+      {
+        "rejection_probability": 0.0792,
+        "probability_density": 3.8266
+      },
+      {
+        "rejection_probability": 0.081,
+        "probability_density": 3.5505
+      },
+      {
+        "rejection_probability": 0.0827,
+        "probability_density": 3.2378
+      },
+      {
+        "rejection_probability": 0.0844,
+        "probability_density": 2.8998
+      },
+      {
+        "rejection_probability": 0.0861,
+        "probability_density": 2.5623
+      },
+      {
+        "rejection_probability": 0.0879,
+        "probability_density": 2.2555
+      },
+      {
+        "rejection_probability": 0.0896,
+        "probability_density": 2.0017
+      },
+      {
+        "rejection_probability": 0.0913,
+        "probability_density": 1.8086
+      },
+      {
+        "rejection_probability": 0.093,
+        "probability_density": 1.6684
+      },
+      {
+        "rejection_probability": 0.0948,
+        "probability_density": 1.564
+      },
+      {
+        "rejection_probability": 0.0965,
+        "probability_density": 1.4748
+      },
+      {
+        "rejection_probability": 0.0982,
+        "probability_density": 1.3835
+      },
+      {
+        "rejection_probability": 0.0999,
+        "probability_density": 1.2805
+      },
+      {
+        "rejection_probability": 0.1016,
+        "probability_density": 1.1667
+      },
+      {
+        "rejection_probability": 0.1034,
+        "probability_density": 1.0515
+      },
+      {
+        "rejection_probability": 0.1051,
+        "probability_density": 0.9464
+      },
+      {
+        "rejection_probability": 0.1068,
+        "probability_density": 0.8562
+      },
+      {
+        "rejection_probability": 0.1085,
+        "probability_density": 0.7767
+      },
+      {
+        "rejection_probability": 0.1103,
+        "probability_density": 0.6992
+      },
+      {
+        "rejection_probability": 0.112,
+        "probability_density": 0.6174
+      },
+      {
+        "rejection_probability": 0.1137,
+        "probability_density": 0.5313
+      },
+      {
+        "rejection_probability": 0.1154,
+        "probability_density": 0.4446
+      },
+      {
+        "rejection_probability": 0.1171,
+        "probability_density": 0.3623
+      },
+      {
+        "rejection_probability": 0.1189,
+        "probability_density": 0.2888
+      },
+      {
+        "rejection_probability": 0.1206,
+        "probability_density": 0.2277
+      },
+      {
+        "rejection_probability": 0.1223,
+        "probability_density": 0.1809
+      },
+      {
+        "rejection_probability": 0.124,
+        "probability_density": 0.1473
+      },
+      {
+        "rejection_probability": 0.1258,
+        "probability_density": 0.1235
+      },
+      {
+        "rejection_probability": 0.1275,
+        "probability_density": 0.1058
+      },
+      {
+        "rejection_probability": 0.1292,
+        "probability_density": 0.092
+      },
+      {
+        "rejection_probability": 0.1309,
+        "probability_density": 0.0815
+      },
+      {
+        "rejection_probability": 0.1327,
+        "probability_density": 0.0744
+      },
+      {
+        "rejection_probability": 0.1344,
+        "probability_density": 0.0698
+      },
+      {
+        "rejection_probability": 0.1361,
+        "probability_density": 0.066
+      },
+      {
+        "rejection_probability": 0.1378,
+        "probability_density": 0.061
+      },
+      {
+        "rejection_probability": 0.1395,
+        "probability_density": 0.0541
+      },
+      {
+        "rejection_probability": 0.1413,
+        "probability_density": 0.0454
+      },
+      {
+        "rejection_probability": 0.143,
+        "probability_density": 0.0357
+      },
+      {
+        "rejection_probability": 0.1447,
+        "probability_density": 0.026
+      },
+      {
+        "rejection_probability": 0.1464,
+        "probability_density": 0.0173
+      },
+      {
+        "rejection_probability": 0.1482,
+        "probability_density": 0.0104
+      },
+      {
+        "rejection_probability": 0.1499,
+        "probability_density": 0.0056
+      },
+      {
+        "rejection_probability": 0.1516,
+        "probability_density": 0.0027
+      },
+      {
+        "rejection_probability": 0.1533,
+        "probability_density": 0.0011
+      },
+      {
+        "rejection_probability": 0.1551,
+        "probability_density": 0.0004
+      },
+      {
+        "rejection_probability": 0.1568,
+        "probability_density": 0.0001
+      },
+      {
+        "rejection_probability": 0.1585,
+        "probability_density": 0.0
+      },
+      {
+        "rejection_probability": 0.1602,
+        "probability_density": 0.0
+      },
+      {
+        "rejection_probability": 0.1619,
+        "probability_density": 0.0
+      },
+      {
+        "rejection_probability": 0.1637,
+        "probability_density": 0.0
+      },
+      {
+        "rejection_probability": 0.1654,
+        "probability_density": 0.0
+      },
+      {
+        "rejection_probability": 0.1671,
+        "probability_density": 0.0
+      },
+      {
+        "rejection_probability": 0.1688,
+        "probability_density": 0.0
+      },
+      {
+        "rejection_probability": 0.1706,
+        "probability_density": 0.0
+      }
+    ],
+    "White": [
+      {
+        "rejection_probability": 0.0,
+        "probability_density": 0.4803
+      },
+      {
+        "rejection_probability": 0.0001,
+        "probability_density": 0.9522
+      },
+      {
+        "rejection_probability": 0.0001,
+        "probability_density": 1.6887
+      },
+      {
+        "rejection_probability": 0.0002,
+        "probability_density": 2.7035
+      },
+      {
+        "rejection_probability": 0.0003,
+        "probability_density": 3.9628
+      },
+      {
+        "rejection_probability": 0.0003,
+        "probability_density": 5.4336
+      },
+      {
+        "rejection_probability": 0.0004,
+        "probability_density": 7.1687
+      },
+      {
+        "rejection_probability": 0.0005,
+        "probability_density": 9.3624
+      },
+      {
+        "rejection_probability": 0.0006,
+        "probability_density": 12.2992
+      },
+      {
+        "rejection_probability": 0.0006,
+        "probability_density": 16.1918
+      },
+      {
+        "rejection_probability": 0.0007,
+        "probability_density": 21.0155
+      },
+      {
+        "rejection_probability": 0.0008,
+        "probability_density": 26.4946
+      },
+      {
+        "rejection_probability": 0.0008,
+        "probability_density": 32.2936
+      },
+      {
+        "rejection_probability": 0.0009,
+        "probability_density": 38.2882
+      },
+      {
+        "rejection_probability": 0.001,
+        "probability_density": 44.699
+      },
+      {
+        "rejection_probability": 0.001,
+        "probability_density": 51.9688
+      },
+      {
+        "rejection_probability": 0.0011,
+        "probability_density": 60.4682
+      },
+      {
+        "rejection_probability": 0.0012,
+        "probability_density": 70.2572
+      },
+      {
+        "rejection_probability": 0.0012,
+        "probability_density": 81.1029
+      },
+      {
+        "rejection_probability": 0.0013,
+        "probability_density": 92.75
+      },
+      {
+        "rejection_probability": 0.0014,
+        "probability_density": 105.2203
+      },
+      {
+        "rejection_probability": 0.0015,
+        "probability_density": 118.8762
+      },
+      {
+        "rejection_probability": 0.0015,
+        "probability_density": 134.1957
+      },
+      {
+        "rejection_probability": 0.0016,
+        "probability_density": 151.4739
+      },
+      {
+        "rejection_probability": 0.0017,
+        "probability_density": 170.7125
+      },
+      {
+        "rejection_probability": 0.0017,
+        "probability_density": 191.7324
+      },
+      {
+        "rejection_probability": 0.0018,
+        "probability_density": 214.3244
+      },
+      {
+        "rejection_probability": 0.0019,
+        "probability_density": 238.2618
+      },
+      {
+        "rejection_probability": 0.0019,
+        "probability_density": 263.1676
+      },
+      {
+        "rejection_probability": 0.002,
+        "probability_density": 288.3461
+      },
+      {
+        "rejection_probability": 0.0021,
+        "probability_density": 312.6886
+      },
+      {
+        "rejection_probability": 0.0021,
+        "probability_density": 334.7456
+      },
+      {
+        "rejection_probability": 0.0022,
+        "probability_density": 353.0505
+      },
+      {
+        "rejection_probability": 0.0023,
+        "probability_density": 366.659
+      },
+      {
+        "rejection_probability": 0.0024,
+        "probability_density": 375.6543
+      },
+      {
+        "rejection_probability": 0.0024,
+        "probability_density": 381.2465
+      },
+      {
+        "rejection_probability": 0.0025,
+        "probability_density": 385.2672
+      },
+      {
+        "rejection_probability": 0.0026,
+        "probability_density": 389.2483
+      },
+      {
+        "rejection_probability": 0.0026,
+        "probability_density": 393.6269
+      },
+      {
+        "rejection_probability": 0.0027,
+        "probability_density": 397.6191
+      },
+      {
+        "rejection_probability": 0.0028,
+        "probability_density": 399.853
+      },
+      {
+        "rejection_probability": 0.0028,
+        "probability_density": 399.2557
+      },
+      {
+        "rejection_probability": 0.0029,
+        "probability_density": 395.5023
+      },
+      {
+        "rejection_probability": 0.003,
+        "probability_density": 388.7999
+      },
+      {
+        "rejection_probability": 0.003,
+        "probability_density": 379.4272
+      },
+      {
+        "rejection_probability": 0.0031,
+        "probability_density": 367.6024
+      },
+      {
+        "rejection_probability": 0.0032,
+        "probability_density": 353.7913
+      },
+      {
+        "rejection_probability": 0.0032,
+        "probability_density": 339.0499
+      },
+      {
+        "rejection_probability": 0.0033,
+        "probability_density": 324.9495
+      },
+      {
+        "rejection_probability": 0.0034,
+        "probability_density": 313.0308
+      },
+      {
+        "rejection_probability": 0.0035,
+        "probability_density": 304.1319
+      },
+      {
+        "rejection_probability": 0.0035,
+        "probability_density": 298.0068
+      },
+      {
+        "rejection_probability": 0.0036,
+        "probability_density": 293.4187
+      },
+      {
+        "rejection_probability": 0.0037,
+        "probability_density": 288.6224
+      },
+      {
+        "rejection_probability": 0.0037,
+        "probability_density": 282.0069
+      },
+      {
+        "rejection_probability": 0.0038,
+        "probability_density": 272.6406
+      },
+      {
+        "rejection_probability": 0.0039,
+        "probability_density": 260.5004
+      },
+      {
+        "rejection_probability": 0.0039,
+        "probability_density": 246.3031
+      },
+      {
+        "rejection_probability": 0.004,
+        "probability_density": 231.0534
+      },
+      {
+        "rejection_probability": 0.0041,
+        "probability_density": 215.5742
+      },
+      {
+        "rejection_probability": 0.0041,
+        "probability_density": 200.2635
+      },
+      {
+        "rejection_probability": 0.0042,
+        "probability_density": 185.1618
+      },
+      {
+        "rejection_probability": 0.0043,
+        "probability_density": 170.2069
+      },
+      {
+        "rejection_probability": 0.0044,
+        "probability_density": 155.4703
+      },
+      {
+        "rejection_probability": 0.0044,
+        "probability_density": 141.2444
+      },
+      {
+        "rejection_probability": 0.0045,
+        "probability_density": 128.0011
+      },
+      {
+        "rejection_probability": 0.0046,
+        "probability_density": 116.2814
+      },
+      {
+        "rejection_probability": 0.0046,
+        "probability_density": 106.5257
+      },
+      {
+        "rejection_probability": 0.0047,
+        "probability_density": 98.8508
+      },
+      {
+        "rejection_probability": 0.0048,
+        "probability_density": 92.8717
+      },
+      {
+        "rejection_probability": 0.0048,
+        "probability_density": 87.7188
+      },
+      {
+        "rejection_probability": 0.0049,
+        "probability_density": 82.3074
+      },
+      {
+        "rejection_probability": 0.005,
+        "probability_density": 75.7409
+      },
+      {
+        "rejection_probability": 0.005,
+        "probability_density": 67.6452
+      },
+      {
+        "rejection_probability": 0.0051,
+        "probability_density": 58.2704
+      },
+      {
+        "rejection_probability": 0.0052,
+        "probability_density": 48.3344
+      },
+      {
+        "rejection_probability": 0.0053,
+        "probability_density": 38.7102
+      },
+      {
+        "rejection_probability": 0.0053,
+        "probability_density": 30.115
+      },
+      {
+        "rejection_probability": 0.0054,
+        "probability_density": 22.9296
+      },
+      {
+        "rejection_probability": 0.0055,
+        "probability_density": 17.1893
+      },
+      {
+        "rejection_probability": 0.0055,
+        "probability_density": 12.7016
+      },
+      {
+        "rejection_probability": 0.0056,
+        "probability_density": 9.2001
+      },
+      {
+        "rejection_probability": 0.0057,
+        "probability_density": 6.4572
+      },
+      {
+        "rejection_probability": 0.0057,
+        "probability_density": 4.3253
+      },
+      {
+        "rejection_probability": 0.0058,
+        "probability_density": 2.7206
+      },
+      {
+        "rejection_probability": 0.0059,
+        "probability_density": 1.5823
+      },
+      {
+        "rejection_probability": 0.0059,
+        "probability_density": 0.8395
+      },
+      {
+        "rejection_probability": 0.006,
+        "probability_density": 0.4017
+      },
+      {
+        "rejection_probability": 0.0061,
+        "probability_density": 0.1719
+      },
+      {
+        "rejection_probability": 0.0062,
+        "probability_density": 0.0653
+      },
+      {
+        "rejection_probability": 0.0062,
+        "probability_density": 0.0219
+      },
+      {
+        "rejection_probability": 0.0063,
+        "probability_density": 0.0065
+      },
+      {
+        "rejection_probability": 0.0064,
+        "probability_density": 0.0017
+      },
+      {
+        "rejection_probability": 0.0064,
+        "probability_density": 0.0004
+      },
+      {
+        "rejection_probability": 0.0065,
+        "probability_density": 0.0001
+      },
+      {
+        "rejection_probability": 0.0066,
+        "probability_density": 0.0
+      },
+      {
+        "rejection_probability": 0.0066,
+        "probability_density": 0.0
+      },
+      {
+        "rejection_probability": 0.0067,
+        "probability_density": 0.0
+      },
+      {
+        "rejection_probability": 0.0068,
+        "probability_density": 0.0
+      },
+      {
+        "rejection_probability": 0.0068,
+        "probability_density": 0.0
+      }
+    ]
+  },
+  "12": {
+    "African American": [
+      {
+        "rejection_probability": 0.0,
+        "probability_density": 6.1379
+      },
+      {
+        "rejection_probability": 0.0002,
+        "probability_density": 9.4444
+      },
+      {
+        "rejection_probability": 0.0003,
+        "probability_density": 13.7065
+      },
+      {
+        "rejection_probability": 0.0005,
+        "probability_density": 18.921
+      },
+      {
+        "rejection_probability": 0.0006,
+        "probability_density": 25.0769
+      },
+      {
+        "rejection_probability": 0.0008,
+        "probability_density": 32.2125
+      },
+      {
+        "rejection_probability": 0.001,
+        "probability_density": 40.4182
+      },
+      {
+        "rejection_probability": 0.0011,
+        "probability_density": 49.7603
+      },
+      {
+        "rejection_probability": 0.0013,
+        "probability_density": 60.1833
+      },
+      {
+        "rejection_probability": 0.0015,
+        "probability_density": 71.4943
+      },
+      {
+        "rejection_probability": 0.0016,
+        "probability_density": 83.469
+      },
+      {
+        "rejection_probability": 0.0018,
+        "probability_density": 95.9815
+      },
+      {
+        "rejection_probability": 0.0019,
+        "probability_density": 108.9994
+      },
+      {
+        "rejection_probability": 0.0021,
+        "probability_density": 122.3867
+      },
+      {
+        "rejection_probability": 0.0023,
+        "probability_density": 135.6629
+      },
+      {
+        "rejection_probability": 0.0024,
+        "probability_density": 147.9681
+      },
+      {
+        "rejection_probability": 0.0026,
+        "probability_density": 158.3435
+      },
+      {
+        "rejection_probability": 0.0027,
+        "probability_density": 166.1416
+      },
+      {
+        "rejection_probability": 0.0029,
+        "probability_density": 171.2402
+      },
+      {
+        "rejection_probability": 0.0031,
+        "probability_density": 173.9191
+      },
+      {
+        "rejection_probability": 0.0032,
+        "probability_density": 174.5797
+      },
+      {
+        "rejection_probability": 0.0034,
+        "probability_density": 173.5987
+      },
+      {
+        "rejection_probability": 0.0035,
+        "probability_density": 171.397
+      },
+      {
+        "rejection_probability": 0.0037,
+        "probability_density": 168.5443
+      },
+      {
+        "rejection_probability": 0.0039,
+        "probability_density": 165.7036
+      },
+      {
+        "rejection_probability": 0.004,
+        "probability_density": 163.4206
+      },
+      {
+        "rejection_probability": 0.0042,
+        "probability_density": 161.9267
+      },
+      {
+        "rejection_probability": 0.0044,
+        "probability_density": 161.0881
+      },
+      {
+        "rejection_probability": 0.0045,
+        "probability_density": 160.5013
+      },
+      {
+        "rejection_probability": 0.0047,
+        "probability_density": 159.6513
+      },
+      {
+        "rejection_probability": 0.0048,
+        "probability_density": 158.0698
+      },
+      {
+        "rejection_probability": 0.005,
+        "probability_density": 155.4791
+      },
+      {
+        "rejection_probability": 0.0052,
+        "probability_density": 151.8974
+      },
+      {
+        "rejection_probability": 0.0053,
+        "probability_density": 147.6478
+      },
+      {
+        "rejection_probability": 0.0055,
+        "probability_density": 143.2207
+      },
+      {
+        "rejection_probability": 0.0056,
+        "probability_density": 139.0375
+      },
+      {
+        "rejection_probability": 0.0058,
+        "probability_density": 135.2508
+      },
+      {
+        "rejection_probability": 0.006,
+        "probability_density": 131.691
+      },
+      {
+        "rejection_probability": 0.0061,
+        "probability_density": 127.9589
+      },
+      {
+        "rejection_probability": 0.0063,
+        "probability_density": 123.5863
+      },
+      {
+        "rejection_probability": 0.0065,
+        "probability_density": 118.1986
+      },
+      {
+        "rejection_probability": 0.0066,
+        "probability_density": 111.6565
+      },
+      {
+        "rejection_probability": 0.0068,
+        "probability_density": 104.1407
+      },
+      {
+        "rejection_probability": 0.0069,
+        "probability_density": 96.1218
+      },
+      {
+        "rejection_probability": 0.0071,
+        "probability_density": 88.1908
+      },
+      {
+        "rejection_probability": 0.0073,
+        "probability_density": 80.8254
+      },
+      {
+        "rejection_probability": 0.0074,
+        "probability_density": 74.237
+      },
+      {
+        "rejection_probability": 0.0076,
+        "probability_density": 68.388
+      },
+      {
+        "rejection_probability": 0.0077,
+        "probability_density": 63.1333
+      },
+      {
+        "rejection_probability": 0.0079,
+        "probability_density": 58.348
+      },
+      {
+        "rejection_probability": 0.0081,
+        "probability_density": 53.9545
+      },
+      {
+        "rejection_probability": 0.0082,
+        "probability_density": 49.8921
+      },
+      {
+        "rejection_probability": 0.0084,
+        "probability_density": 46.11
+      },
+      {
+        "rejection_probability": 0.0085,
+        "probability_density": 42.5986
+      },
+      {
+        "rejection_probability": 0.0087,
+        "probability_density": 39.3965
+      },
+      {
+        "rejection_probability": 0.0089,
+        "probability_density": 36.5401
+      },
+      {
+        "rejection_probability": 0.009,
+        "probability_density": 33.996
+      },
+      {
+        "rejection_probability": 0.0092,
+        "probability_density": 31.6383
+      },
+      {
+        "rejection_probability": 0.0094,
+        "probability_density": 29.2901
+      },
+      {
+        "rejection_probability": 0.0095,
+        "probability_density": 26.803
+      },
+      {
+        "rejection_probability": 0.0097,
+        "probability_density": 24.1302
+      },
+      {
+        "rejection_probability": 0.0098,
+        "probability_density": 21.3541
+      },
+      {
+        "rejection_probability": 0.01,
+        "probability_density": 18.6468
+      },
+      {
+        "rejection_probability": 0.0102,
+        "probability_density": 16.1833
+      },
+      {
+        "rejection_probability": 0.0103,
+        "probability_density": 14.0606
+      },
+      {
+        "rejection_probability": 0.0105,
+        "probability_density": 12.2717
+      },
+      {
+        "rejection_probability": 0.0106,
+        "probability_density": 10.7373
+      },
+      {
+        "rejection_probability": 0.0108,
+        "probability_density": 9.3574
+      },
+      {
+        "rejection_probability": 0.011,
+        "probability_density": 8.0492
+      },
+      {
+        "rejection_probability": 0.0111,
+        "probability_density": 6.7675
+      },
+      {
+        "rejection_probability": 0.0113,
+        "probability_density": 5.5197
+      },
+      {
+        "rejection_probability": 0.0115,
+        "probability_density": 4.3681
+      },
+      {
+        "rejection_probability": 0.0116,
+        "probability_density": 3.4013
+      },
+      {
+        "rejection_probability": 0.0118,
+        "probability_density": 2.6814
+      },
+      {
+        "rejection_probability": 0.0119,
+        "probability_density": 2.2022
+      },
+      {
+        "rejection_probability": 0.0121,
+        "probability_density": 1.8917
+      },
+      {
+        "rejection_probability": 0.0123,
+        "probability_density": 1.6597
+      },
+      {
+        "rejection_probability": 0.0124,
+        "probability_density": 1.4494
+      },
+      {
+        "rejection_probability": 0.0126,
+        "probability_density": 1.2558
+      },
+      {
+        "rejection_probability": 0.0127,
+        "probability_density": 1.1016
+      },
+      {
+        "rejection_probability": 0.0129,
+        "probability_density": 0.9983
+      },
+      {
+        "rejection_probability": 0.0131,
+        "probability_density": 0.9258
+      },
+      {
+        "rejection_probability": 0.0132,
+        "probability_density": 0.844
+      },
+      {
+        "rejection_probability": 0.0134,
+        "probability_density": 0.7222
+      },
+      {
+        "rejection_probability": 0.0136,
+        "probability_density": 0.5607
+      },
+      {
+        "rejection_probability": 0.0137,
+        "probability_density": 0.3871
+      },
+      {
+        "rejection_probability": 0.0139,
+        "probability_density": 0.2349
+      },
+      {
+        "rejection_probability": 0.014,
+        "probability_density": 0.1246
+      },
+      {
+        "rejection_probability": 0.0142,
+        "probability_density": 0.0576
+      },
+      {
+        "rejection_probability": 0.0144,
+        "probability_density": 0.0231
+      },
+      {
+        "rejection_probability": 0.0145,
+        "probability_density": 0.0081
+      },
+      {
+        "rejection_probability": 0.0147,
+        "probability_density": 0.0024
+      },
+      {
+        "rejection_probability": 0.0148,
+        "probability_density": 0.0006
+      },
+      {
+        "rejection_probability": 0.015,
+        "probability_density": 0.0001
+      },
+      {
+        "rejection_probability": 0.0152,
+        "probability_density": 0.0
+      },
+      {
+        "rejection_probability": 0.0153,
+        "probability_density": 0.0
+      },
+      {
+        "rejection_probability": 0.0155,
+        "probability_density": 0.0
+      },
+      {
+        "rejection_probability": 0.0156,
+        "probability_density": 0.0
+      },
+      {
+        "rejection_probability": 0.0158,
+        "probability_density": 0.0
+      },
+      {
+        "rejection_probability": 0.016,
+        "probability_density": 0.0
+      }
+    ],
+    "Asian": [
+      {
+        "rejection_probability": 0.0,
+        "probability_density": 0.0
+      },
+      {
+        "rejection_probability": 0.0019,
+        "probability_density": 0.0001
+      },
+      {
+        "rejection_probability": 0.0037,
+        "probability_density": 0.0006
+      },
+      {
+        "rejection_probability": 0.0056,
+        "probability_density": 0.0023
+      },
+      {
+        "rejection_probability": 0.0074,
+        "probability_density": 0.0068
+      },
+      {
+        "rejection_probability": 0.0093,
+        "probability_density": 0.0164
+      },
+      {
+        "rejection_probability": 0.0112,
+        "probability_density": 0.0334
+      },
+      {
+        "rejection_probability": 0.013,
+        "probability_density": 0.0583
+      },
+      {
+        "rejection_probability": 0.0149,
+        "probability_density": 0.0899
+      },
+      {
+        "rejection_probability": 0.0167,
+        "probability_density": 0.1268
+      },
+      {
+        "rejection_probability": 0.0186,
+        "probability_density": 0.1691
+      },
+      {
+        "rejection_probability": 0.0205,
+        "probability_density": 0.2176
+      },
+      {
+        "rejection_probability": 0.0223,
+        "probability_density": 0.2717
+      },
+      {
+        "rejection_probability": 0.0242,
+        "probability_density": 0.3289
+      },
+      {
+        "rejection_probability": 0.026,
+        "probability_density": 0.387
+      },
+      {
+        "rejection_probability": 0.0279,
+        "probability_density": 0.4497
+      },
+      {
+        "rejection_probability": 0.0298,
+        "probability_density": 0.5334
+      },
+      {
+        "rejection_probability": 0.0316,
+        "probability_density": 0.6672
+      },
+      {
+        "rejection_probability": 0.0335,
+        "probability_density": 0.8797
+      },
+      {
+        "rejection_probability": 0.0353,
+        "probability_density": 1.184
+      },
+      {
+        "rejection_probability": 0.0372,
+        "probability_density": 1.5757
+      },
+      {
+        "rejection_probability": 0.0391,
+        "probability_density": 2.0431
+      },
+      {
+        "rejection_probability": 0.0409,
+        "probability_density": 2.5705
+      },
+      {
+        "rejection_probability": 0.0428,
+        "probability_density": 3.1268
+      },
+      {
+        "rejection_probability": 0.0446,
+        "probability_density": 3.6605
+      },
+      {
+        "rejection_probability": 0.0465,
+        "probability_density": 4.1292
+      },
+      {
+        "rejection_probability": 0.0483,
+        "probability_density": 4.5424
+      },
+      {
+        "rejection_probability": 0.0502,
+        "probability_density": 4.9688
+      },
+      {
+        "rejection_probability": 0.0521,
+        "probability_density": 5.4892
+      },
+      {
+        "rejection_probability": 0.0539,
+        "probability_density": 6.1353
+      },
+      {
+        "rejection_probability": 0.0558,
+        "probability_density": 6.875
+      },
+      {
+        "rejection_probability": 0.0576,
+        "probability_density": 7.6556
+      },
+      {
+        "rejection_probability": 0.0595,
+        "probability_density": 8.4537
+      },
+      {
+        "rejection_probability": 0.0614,
+        "probability_density": 9.2755
+      },
+      {
+        "rejection_probability": 0.0632,
+        "probability_density": 10.1273
+      },
+      {
+        "rejection_probability": 0.0651,
+        "probability_density": 11.0081
+      },
+      {
+        "rejection_probability": 0.0669,
+        "probability_density": 11.9303
+      },
+      {
+        "rejection_probability": 0.0688,
+        "probability_density": 12.9242
+      },
+      {
+        "rejection_probability": 0.0707,
+        "probability_density": 14.0072
+      },
+      {
+        "rejection_probability": 0.0725,
+        "probability_density": 15.1475
+      },
+      {
+        "rejection_probability": 0.0744,
+        "probability_density": 16.2613
+      },
+      {
+        "rejection_probability": 0.0762,
+        "probability_density": 17.2471
+      },
+      {
+        "rejection_probability": 0.0781,
+        "probability_density": 18.0179
+      },
+      {
+        "rejection_probability": 0.08,
+        "probability_density": 18.5065
+      },
+      {
+        "rejection_probability": 0.0818,
+        "probability_density": 18.6713
+      },
+      {
+        "rejection_probability": 0.0837,
+        "probability_density": 18.5389
+      },
+      {
+        "rejection_probability": 0.0855,
+        "probability_density": 18.2482
+      },
+      {
+        "rejection_probability": 0.0874,
+        "probability_density": 18.0063
+      },
+      {
+        "rejection_probability": 0.0893,
+        "probability_density": 17.9443
+      },
+      {
+        "rejection_probability": 0.0911,
+        "probability_density": 18.0
+      },
+      {
+        "rejection_probability": 0.093,
+        "probability_density": 17.9577
+      },
+      {
+        "rejection_probability": 0.0948,
+        "probability_density": 17.6174
+      },
+      {
+        "rejection_probability": 0.0967,
+        "probability_density": 16.937
+      },
+      {
+        "rejection_probability": 0.0986,
+        "probability_density": 16.0295
+      },
+      {
+        "rejection_probability": 0.1004,
+        "probability_density": 15.0443
+      },
+      {
+        "rejection_probability": 0.1023,
+        "probability_density": 14.0629
+      },
+      {
+        "rejection_probability": 0.1041,
+        "probability_density": 13.0914
+      },
+      {
+        "rejection_probability": 0.106,
+        "probability_density": 12.1108
+      },
+      {
+        "rejection_probability": 0.1079,
+        "probability_density": 11.1097
+      },
+      {
+        "rejection_probability": 0.1097,
+        "probability_density": 10.0868
+      },
+      {
+        "rejection_probability": 0.1116,
+        "probability_density": 9.0518
+      },
+      {
+        "rejection_probability": 0.1134,
+        "probability_density": 8.0314
+      },
+      {
+        "rejection_probability": 0.1153,
+        "probability_density": 7.0646
+      },
+      {
+        "rejection_probability": 0.1172,
+        "probability_density": 6.1855
+      },
+      {
+        "rejection_probability": 0.119,
+        "probability_density": 5.4103
+      },
+      {
+        "rejection_probability": 0.1209,
+        "probability_density": 4.735
+      },
+      {
+        "rejection_probability": 0.1227,
+        "probability_density": 4.1417
+      },
+      {
+        "rejection_probability": 0.1246,
+        "probability_density": 3.6085
+      },
+      {
+        "rejection_probability": 0.1265,
+        "probability_density": 3.1186
+      },
+      {
+        "rejection_probability": 0.1283,
+        "probability_density": 2.6619
+      },
+      {
+        "rejection_probability": 0.1302,
+        "probability_density": 2.232
+      },
+      {
+        "rejection_probability": 0.132,
+        "probability_density": 1.8222
+      },
+      {
+        "rejection_probability": 0.1339,
+        "probability_density": 1.4301
+      },
+      {
+        "rejection_probability": 0.1357,
+        "probability_density": 1.0668
+      },
+      {
+        "rejection_probability": 0.1376,
+        "probability_density": 0.7581
+      },
+      {
+        "rejection_probability": 0.1395,
+        "probability_density": 0.5278
+      },
+      {
+        "rejection_probability": 0.1413,
+        "probability_density": 0.3768
+      },
+      {
+        "rejection_probability": 0.1432,
+        "probability_density": 0.2817
+      },
+      {
+        "rejection_probability": 0.145,
+        "probability_density": 0.2138
+      },
+      {
+        "rejection_probability": 0.1469,
+        "probability_density": 0.1571
+      },
+      {
+        "rejection_probability": 0.1488,
+        "probability_density": 0.1101
+      },
+      {
+        "rejection_probability": 0.1506,
+        "probability_density": 0.0755
+      },
+      {
+        "rejection_probability": 0.1525,
+        "probability_density": 0.0524
+      },
+      {
+        "rejection_probability": 0.1543,
+        "probability_density": 0.0365
+      },
+      {
+        "rejection_probability": 0.1562,
+        "probability_density": 0.0241
+      },
+      {
+        "rejection_probability": 0.1581,
+        "probability_density": 0.014
+      },
+      {
+        "rejection_probability": 0.1599,
+        "probability_density": 0.0069
+      },
+      {
+        "rejection_probability": 0.1618,
+        "probability_density": 0.0028
+      },
+      {
+        "rejection_probability": 0.1636,
+        "probability_density": 0.0009
+      },
+      {
+        "rejection_probability": 0.1655,
+        "probability_density": 0.0002
+      },
+      {
+        "rejection_probability": 0.1674,
+        "probability_density": 0.0001
+      },
+      {
+        "rejection_probability": 0.1692,
+        "probability_density": 0.0
+      },
+      {
+        "rejection_probability": 0.1711,
+        "probability_density": 0.0
+      },
+      {
+        "rejection_probability": 0.1729,
+        "probability_density": 0.0
+      },
+      {
+        "rejection_probability": 0.1748,
+        "probability_density": 0.0
+      },
+      {
+        "rejection_probability": 0.1767,
+        "probability_density": 0.0
+      },
+      {
+        "rejection_probability": 0.1785,
+        "probability_density": 0.0
+      },
+      {
+        "rejection_probability": 0.1804,
+        "probability_density": 0.0
+      },
+      {
+        "rejection_probability": 0.1822,
+        "probability_density": 0.0
+      },
+      {
+        "rejection_probability": 0.1841,
+        "probability_density": 0.0
+      }
+    ],
+    "Hispanic": [
+      {
+        "rejection_probability": 0.0,
+        "probability_density": 1.4067
+      },
+      {
+        "rejection_probability": 0.0002,
+        "probability_density": 2.59
+      },
+      {
+        "rejection_probability": 0.0004,
+        "probability_density": 4.284
+      },
+      {
+        "rejection_probability": 0.0006,
+        "probability_density": 6.5983
+      },
+      {
+        "rejection_probability": 0.0008,
+        "probability_density": 9.762
+      },
+      {
+        "rejection_probability": 0.001,
+        "probability_density": 14.081
+      },
+      {
+        "rejection_probability": 0.0012,
+        "probability_density": 19.7534
+      },
+      {
+        "rejection_probability": 0.0014,
+        "probability_density": 26.7127
+      },
+      {
+        "rejection_probability": 0.0016,
+        "probability_density": 34.7124
+      },
+      {
+        "rejection_probability": 0.0018,
+        "probability_density": 43.6632
+      },
+      {
+        "rejection_probability": 0.0019,
+        "probability_density": 53.9417
+      },
+      {
+        "rejection_probability": 0.0021,
+        "probability_density": 66.2899
+      },
+      {
+        "rejection_probability": 0.0023,
+        "probability_density": 81.1949
+      },
+      {
+        "rejection_probability": 0.0025,
+        "probability_density": 98.1886
+      },
+      {
+        "rejection_probability": 0.0027,
+        "probability_density": 115.7862
+      },
+      {
+        "rejection_probability": 0.0029,
+        "probability_density": 132.2253
+      },
+      {
+        "rejection_probability": 0.0031,
+        "probability_density": 146.2897
+      },
+      {
+        "rejection_probability": 0.0033,
+        "probability_density": 157.5507
+      },
+      {
+        "rejection_probability": 0.0035,
+        "probability_density": 166.2147
+      },
+      {
+        "rejection_probability": 0.0037,
+        "probability_density": 172.9566
+      },
+      {
+        "rejection_probability": 0.0039,
+        "probability_density": 178.5391
+      },
+      {
+        "rejection_probability": 0.0041,
+        "probability_density": 183.1514
+      },
+      {
+        "rejection_probability": 0.0043,
+        "probability_density": 186.2301
+      },
+      {
+        "rejection_probability": 0.0045,
+        "probability_density": 187.2012
+      },
+      {
+        "rejection_probability": 0.0047,
+        "probability_density": 186.26
+      },
+      {
+        "rejection_probability": 0.0049,
+        "probability_density": 184.2022
+      },
+      {
+        "rejection_probability": 0.0051,
+        "probability_density": 181.6416
+      },
+      {
+        "rejection_probability": 0.0053,
+        "probability_density": 178.5545
+      },
+      {
+        "rejection_probability": 0.0055,
+        "probability_density": 174.425
+      },
+      {
+        "rejection_probability": 0.0056,
+        "probability_density": 168.6768
+      },
+      {
+        "rejection_probability": 0.0058,
+        "probability_density": 161.1473
+      },
+      {
+        "rejection_probability": 0.006,
+        "probability_density": 152.4185
+      },
+      {
+        "rejection_probability": 0.0062,
+        "probability_density": 143.6661
+      },
+      {
+        "rejection_probability": 0.0064,
+        "probability_density": 135.9092
+      },
+      {
+        "rejection_probability": 0.0066,
+        "probability_density": 129.2209
+      },
+      {
+        "rejection_probability": 0.0068,
+        "probability_density": 122.6897
+      },
+      {
+        "rejection_probability": 0.007,
+        "probability_density": 115.2318
+      },
+      {
+        "rejection_probability": 0.0072,
+        "probability_density": 106.5009
+      },
+      {
+        "rejection_probability": 0.0074,
+        "probability_density": 97.0771
+      },
+      {
+        "rejection_probability": 0.0076,
+        "probability_density": 87.8438
+      },
+      {
+        "rejection_probability": 0.0078,
+        "probability_density": 79.2521
+      },
+      {
+        "rejection_probability": 0.008,
+        "probability_density": 71.1967
+      },
+      {
+        "rejection_probability": 0.0082,
+        "probability_density": 63.4742
+      },
+      {
+        "rejection_probability": 0.0084,
+        "probability_density": 56.2054
+      },
+      {
+        "rejection_probability": 0.0086,
+        "probability_density": 49.7827
+      },
+      {
+        "rejection_probability": 0.0088,
+        "probability_density": 44.471
+      },
+      {
+        "rejection_probability": 0.009,
+        "probability_density": 40.1037
+      },
+      {
+        "rejection_probability": 0.0092,
+        "probability_density": 36.1929
+      },
+      {
+        "rejection_probability": 0.0093,
+        "probability_density": 32.3436
+      },
+      {
+        "rejection_probability": 0.0095,
+        "probability_density": 28.5271
+      },
+      {
+        "rejection_probability": 0.0097,
+        "probability_density": 24.9472
+      },
+      {
+        "rejection_probability": 0.0099,
+        "probability_density": 21.7374
+      },
+      {
+        "rejection_probability": 0.0101,
+        "probability_density": 18.8921
+      },
+      {
+        "rejection_probability": 0.0103,
+        "probability_density": 16.4288
+      },
+      {
+        "rejection_probability": 0.0105,
+        "probability_density": 14.4533
+      },
+      {
+        "rejection_probability": 0.0107,
+        "probability_density": 13.0075
+      },
+      {
+        "rejection_probability": 0.0109,
+        "probability_density": 11.9279
+      },
+      {
+        "rejection_probability": 0.0111,
+        "probability_density": 10.9054
+      },
+      {
+        "rejection_probability": 0.0113,
+        "probability_density": 9.6922
+      },
+      {
+        "rejection_probability": 0.0115,
+        "probability_density": 8.2768
+      },
+      {
+        "rejection_probability": 0.0117,
+        "probability_density": 6.8844
+      },
+      {
+        "rejection_probability": 0.0119,
+        "probability_density": 5.7961
+      },
+      {
+        "rejection_probability": 0.0121,
+        "probability_density": 5.1467
+      },
+      {
+        "rejection_probability": 0.0123,
+        "probability_density": 4.8846
+      },
+      {
+        "rejection_probability": 0.0125,
+        "probability_density": 4.8718
+      },
+      {
+        "rejection_probability": 0.0127,
+        "probability_density": 4.9555
+      },
+      {
+        "rejection_probability": 0.0129,
+        "probability_density": 4.9699
+      },
+      {
+        "rejection_probability": 0.013,
+        "probability_density": 4.7743
+      },
+      {
+        "rejection_probability": 0.0132,
+        "probability_density": 4.3462
+      },
+      {
+        "rejection_probability": 0.0134,
+        "probability_density": 3.7969
+      },
+      {
+        "rejection_probability": 0.0136,
+        "probability_density": 3.2645
+      },
+      {
+        "rejection_probability": 0.0138,
+        "probability_density": 2.804
+      },
+      {
+        "rejection_probability": 0.014,
+        "probability_density": 2.3808
+      },
+      {
+        "rejection_probability": 0.0142,
+        "probability_density": 1.944
+      },
+      {
+        "rejection_probability": 0.0144,
+        "probability_density": 1.4917
+      },
+      {
+        "rejection_probability": 0.0146,
+        "probability_density": 1.0751
+      },
+      {
+        "rejection_probability": 0.0148,
+        "probability_density": 0.7529
+      },
+      {
+        "rejection_probability": 0.015,
+        "probability_density": 0.5472
+      },
+      {
+        "rejection_probability": 0.0152,
+        "probability_density": 0.4365
+      },
+      {
+        "rejection_probability": 0.0154,
+        "probability_density": 0.3816
+      },
+      {
+        "rejection_probability": 0.0156,
+        "probability_density": 0.3526
+      },
+      {
+        "rejection_probability": 0.0158,
+        "probability_density": 0.3333
+      },
+      {
+        "rejection_probability": 0.016,
+        "probability_density": 0.3091
+      },
+      {
+        "rejection_probability": 0.0162,
+        "probability_density": 0.2651
+      },
+      {
+        "rejection_probability": 0.0164,
+        "probability_density": 0.1985
+      },
+      {
+        "rejection_probability": 0.0166,
+        "probability_density": 0.125
+      },
+      {
+        "rejection_probability": 0.0167,
+        "probability_density": 0.0648
+      },
+      {
+        "rejection_probability": 0.0169,
+        "probability_density": 0.0274
+      },
+      {
+        "rejection_probability": 0.0171,
+        "probability_density": 0.0094
+      },
+      {
+        "rejection_probability": 0.0173,
+        "probability_density": 0.0026
+      },
+      {
+        "rejection_probability": 0.0175,
+        "probability_density": 0.0006
+      },
+      {
+        "rejection_probability": 0.0177,
+        "probability_density": 0.0001
+      },
+      {
+        "rejection_probability": 0.0179,
+        "probability_density": 0.0
+      },
+      {
+        "rejection_probability": 0.0181,
+        "probability_density": 0.0
+      },
+      {
+        "rejection_probability": 0.0183,
+        "probability_density": 0.0
+      },
+      {
+        "rejection_probability": 0.0185,
+        "probability_density": 0.0
+      },
+      {
+        "rejection_probability": 0.0187,
+        "probability_density": 0.0
+      },
+      {
+        "rejection_probability": 0.0189,
+        "probability_density": 0.0
+      },
+      {
+        "rejection_probability": 0.0191,
+        "probability_density": 0.0
+      },
+      {
+        "rejection_probability": 0.0193,
+        "probability_density": 0.0
+      }
+    ],
+    "White": [
+      {
+        "rejection_probability": 0.0,
+        "probability_density": 0.0
+      },
+      {
+        "rejection_probability": 0.0001,
+        "probability_density": 0.0
+      },
+      {
+        "rejection_probability": 0.0002,
+        "probability_density": 0.0
+      },
+      {
+        "rejection_probability": 0.0002,
+        "probability_density": 0.0
+      },
+      {
+        "rejection_probability": 0.0003,
+        "probability_density": 0.0
+      },
+      {
+        "rejection_probability": 0.0004,
+        "probability_density": 0.0
+      },
+      {
+        "rejection_probability": 0.0005,
+        "probability_density": 0.0004
+      },
+      {
+        "rejection_probability": 0.0006,
+        "probability_density": 0.003
+      },
+      {
+        "rejection_probability": 0.0006,
+        "probability_density": 0.0167
+      },
+      {
+        "rejection_probability": 0.0007,
+        "probability_density": 0.0702
+      },
+      {
+        "rejection_probability": 0.0008,
+        "probability_density": 0.2258
+      },
+      {
+        "rejection_probability": 0.0009,
+        "probability_density": 0.5638
+      },
+      {
+        "rejection_probability": 0.001,
+        "probability_density": 1.1376
+      },
+      {
+        "rejection_probability": 0.001,
+        "probability_density": 2.0003
+      },
+      {
+        "rejection_probability": 0.0011,
+        "probability_density": 3.3664
+      },
+      {
+        "rejection_probability": 0.0012,
+        "probability_density": 5.6519
+      },
+      {
+        "rejection_probability": 0.0013,
+        "probability_density": 9.1263
+      },
+      {
+        "rejection_probability": 0.0014,
+        "probability_density": 13.59
+      },
+      {
+        "rejection_probability": 0.0014,
+        "probability_density": 18.673
+      },
+      {
+        "rejection_probability": 0.0015,
+        "probability_density": 24.4045
+      },
+      {
+        "rejection_probability": 0.0016,
+        "probability_density": 31.2324
+      },
+      {
+        "rejection_probability": 0.0017,
+        "probability_density": 39.5309
+      },
+      {
+        "rejection_probability": 0.0018,
+        "probability_density": 49.3369
+      },
+      {
+        "rejection_probability": 0.0019,
+        "probability_density": 60.6618
+      },
+      {
+        "rejection_probability": 0.0019,
+        "probability_density": 73.9332
+      },
+      {
+        "rejection_probability": 0.002,
+        "probability_density": 89.9585
+      },
+      {
+        "rejection_probability": 0.0021,
+        "probability_density": 109.5058
+      },
+      {
+        "rejection_probability": 0.0022,
+        "probability_density": 132.964
+      },
+      {
+        "rejection_probability": 0.0023,
+        "probability_density": 159.9889
+      },
+      {
+        "rejection_probability": 0.0023,
+        "probability_density": 189.0858
+      },
+      {
+        "rejection_probability": 0.0024,
+        "probability_density": 218.0196
+      },
+      {
+        "rejection_probability": 0.0025,
+        "probability_density": 245.537
+      },
+      {
+        "rejection_probability": 0.0026,
+        "probability_density": 272.7639
+      },
+      {
+        "rejection_probability": 0.0027,
+        "probability_density": 302.2848
+      },
+      {
+        "rejection_probability": 0.0027,
+        "probability_density": 335.6249
+      },
+      {
+        "rejection_probability": 0.0028,
+        "probability_density": 371.794
+      },
+      {
+        "rejection_probability": 0.0029,
+        "probability_density": 408.2441
+      },
+      {
+        "rejection_probability": 0.003,
+        "probability_density": 442.6956
+      },
+      {
+        "rejection_probability": 0.0031,
+        "probability_density": 473.3348
+      },
+      {
+        "rejection_probability": 0.0031,
+        "probability_density": 497.4185
+      },
+      {
+        "rejection_probability": 0.0032,
+        "probability_density": 510.7868
+      },
+      {
+        "rejection_probability": 0.0033,
+        "probability_density": 510.2844
+      },
+      {
+        "rejection_probability": 0.0034,
+        "probability_density": 498.0174
+      },
+      {
+        "rejection_probability": 0.0035,
+        "probability_density": 482.1547
+      },
+      {
+        "rejection_probability": 0.0035,
+        "probability_density": 470.6887
+      },
+      {
+        "rejection_probability": 0.0036,
+        "probability_density": 464.1811
+      },
+      {
+        "rejection_probability": 0.0037,
+        "probability_density": 456.3947
+      },
+      {
+        "rejection_probability": 0.0038,
+        "probability_density": 441.6227
+      },
+      {
+        "rejection_probability": 0.0039,
+        "probability_density": 419.765
+      },
+      {
+        "rejection_probability": 0.0039,
+        "probability_density": 394.4956
+      },
+      {
+        "rejection_probability": 0.004,
+        "probability_density": 368.6091
+      },
+      {
+        "rejection_probability": 0.0041,
+        "probability_density": 342.6881
+      },
+      {
+        "rejection_probability": 0.0042,
+        "probability_density": 317.0168
+      },
+      {
+        "rejection_probability": 0.0043,
+        "probability_density": 292.2557
+      },
+      {
+        "rejection_probability": 0.0043,
+        "probability_density": 268.0411
+      },
+      {
+        "rejection_probability": 0.0044,
+        "probability_density": 242.7848
+      },
+      {
+        "rejection_probability": 0.0045,
+        "probability_density": 215.6108
+      },
+      {
+        "rejection_probability": 0.0046,
+        "probability_density": 187.5847
+      },
+      {
+        "rejection_probability": 0.0047,
+        "probability_density": 160.7963
+      },
+      {
+        "rejection_probability": 0.0048,
+        "probability_density": 136.9505
+      },
+      {
+        "rejection_probability": 0.0048,
+        "probability_density": 116.5794
+      },
+      {
+        "rejection_probability": 0.0049,
+        "probability_density": 98.8855
+      },
+      {
+        "rejection_probability": 0.005,
+        "probability_density": 82.634
+      },
+      {
+        "rejection_probability": 0.0051,
+        "probability_density": 67.5464
+      },
+      {
+        "rejection_probability": 0.0052,
+        "probability_density": 54.4271
+      },
+      {
+        "rejection_probability": 0.0052,
+        "probability_density": 43.8183
+      },
+      {
+        "rejection_probability": 0.0053,
+        "probability_density": 35.2243
+      },
+      {
+        "rejection_probability": 0.0054,
+        "probability_density": 27.9639
+      },
+      {
+        "rejection_probability": 0.0055,
+        "probability_density": 22.0742
+      },
+      {
+        "rejection_probability": 0.0056,
+        "probability_density": 17.8708
+      },
+      {
+        "rejection_probability": 0.0056,
+        "probability_density": 15.0545
+      },
+      {
+        "rejection_probability": 0.0057,
+        "probability_density": 12.7773
+      },
+      {
+        "rejection_probability": 0.0058,
+        "probability_density": 10.5438
+      },
+      {
+        "rejection_probability": 0.0059,
+        "probability_density": 8.6738
+      },
+      {
+        "rejection_probability": 0.006,
+        "probability_density": 7.688
+      },
+      {
+        "rejection_probability": 0.006,
+        "probability_density": 7.4617
+      },
+      {
+        "rejection_probability": 0.0061,
+        "probability_density": 7.2193
+      },
+      {
+        "rejection_probability": 0.0062,
+        "probability_density": 6.2756
+      },
+      {
+        "rejection_probability": 0.0063,
+        "probability_density": 4.6304
+      },
+      {
+        "rejection_probability": 0.0064,
+        "probability_density": 2.8696
+      },
+      {
+        "rejection_probability": 0.0064,
+        "probability_density": 1.5965
+      },
+      {
+        "rejection_probability": 0.0065,
+        "probability_density": 0.9851
+      },
+      {
+        "rejection_probability": 0.0066,
+        "probability_density": 0.7904
+      },
+      {
+        "rejection_probability": 0.0067,
+        "probability_density": 0.6749
+      },
+      {
+        "rejection_probability": 0.0068,
+        "probability_density": 0.4866
+      },
+      {
+        "rejection_probability": 0.0068,
+        "probability_density": 0.2714
+      },
+      {
+        "rejection_probability": 0.0069,
+        "probability_density": 0.1144
+      },
+      {
+        "rejection_probability": 0.007,
+        "probability_density": 0.0362
+      },
+      {
+        "rejection_probability": 0.0071,
+        "probability_density": 0.0086
+      },
+      {
+        "rejection_probability": 0.0072,
+        "probability_density": 0.0015
+      },
+      {
+        "rejection_probability": 0.0072,
+        "probability_density": 0.0002
+      },
+      {
+        "rejection_probability": 0.0073,
+        "probability_density": 0.0
+      },
+      {
+        "rejection_probability": 0.0074,
+        "probability_density": 0.0
+      },
+      {
+        "rejection_probability": 0.0075,
+        "probability_density": 0.0
+      },
+      {
+        "rejection_probability": 0.0076,
+        "probability_density": 0.0
+      },
+      {
+        "rejection_probability": 0.0076,
+        "probability_density": 0.0
+      },
+      {
+        "rejection_probability": 0.0077,
+        "probability_density": 0.0
+      },
+      {
+        "rejection_probability": 0.0078,
+        "probability_density": 0.0
+      },
+      {
+        "rejection_probability": 0.0079,
+        "probability_density": 0.0
+      },
+      {
+        "rejection_probability": 0.008,
+        "probability_density": 0.0
+      }
+    ]
+  }
+}
