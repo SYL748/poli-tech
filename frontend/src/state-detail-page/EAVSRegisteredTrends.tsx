@@ -50,7 +50,6 @@ const EAVSRegisteredTrends = () => {
         return;
       }
 
-      // ✅ sanitize data so lines don't break on NaN/null/undefined
       const regions: EAVSRegion[] = eavsTrends.regions.map((r) => ({
         ...r,
         a1a_2016: toNum0((r as any).a1a_2016),

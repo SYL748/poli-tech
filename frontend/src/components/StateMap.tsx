@@ -50,7 +50,7 @@ interface StateMapProps {
 	viewType?: string;
 }
 
-/* ================= TYPES FOR VOTERS API ================= */
+/* TYPES FOR VOTERS API */
 
 type VoterParty = "Republican" | "Democrat" | "Other" | string;
 
@@ -74,7 +74,7 @@ type PagedVotersResponse = {
 
 type PartyFilter = "All" | "Republican" | "Democrat";
 
-/* ================= HELPERS ================= */
+/* HELPERS */
 
 function formatMetricLabel(metric: string): string {
 	switch (metric) {
@@ -199,7 +199,7 @@ function getBinColor(value: number, bins: number[]) {
 	return BIN_COLORS[4];
 }
 
-/* ================= EQUIPMENT PATTERNS ================= */
+/* EQUIPMENT PATTERNS */
 
 const EQUIPMENT_TYPES = ["DRE with VVPAT", "DRE no VVPAT", "Scanner", "Ballot Marking Device"] as const;
 type EquipmentType = (typeof EQUIPMENT_TYPES)[number];
@@ -307,7 +307,7 @@ function EquipmentPatternDefs({
 	return null;
 }
 
-/* ================= MAP ================= */
+/* MAP */
 
 let currentHoveredLayer: L.Path | null = null;
 
@@ -352,7 +352,6 @@ const StateMap = ({ isDetail = false }: StateMapProps) => {
 	const { stateCenter, isStateCenterLoading } = useStateCenter(id);
 	const { choroplethData, isChoroplethDataLoading } = useChoroplethData(id);
 
-	// ✅ voter registration choropleth source
 	const { VoterReistrationRegionSum, isVoterReistrationRegionSumsLoading } =
 		useVoterRegistrationRegionSum(id);
 
@@ -367,7 +366,6 @@ const StateMap = ({ isDetail = false }: StateMapProps) => {
 
 	const [hoverInfo, setHoverInfo] = useState<{ name: string; value: number | string } | null>(null);
 
-	// ===== popup state =====
 	const [openVotersDialog, setOpenVotersDialog] = useState(false);
 	const [selectedRegionId, setSelectedRegionId] = useState<string>("");
 	const [selectedRegionName, setSelectedRegionName] = useState<string>("");
@@ -383,7 +381,6 @@ const StateMap = ({ isDetail = false }: StateMapProps) => {
 
 	const regionEnabled = isFlorida && openVotersDialog && selectedRegionId !== "";
 
-	// IMPORTANT: you cannot conditionally call hooks — call all 3 but disable via regionId=""
 	const { votersPage: allPage, isVotersLoading: isAllLoading } = useVotersByRegion(
 		regionEnabled && partyFilter === "All" ? selectedRegionId : "",
 		page
@@ -409,7 +406,7 @@ const StateMap = ({ isDetail = false }: StateMapProps) => {
 				? isvotersRepPageLoading
 				: isvotersDemPageLoading;
 
-	// If you switch filter and the page is now out-of-range, clamp (only in that case)
+	// If you switch filter and the page is now out-of-range
 	useEffect(() => {
 		if (!activePage) return;
 		const totalPages = Math.max(1, activePage.totalPages);
@@ -504,11 +501,9 @@ const StateMap = ({ isDetail = false }: StateMapProps) => {
 	};
 
 	const handleCloseDialog = () => {
-		// IMPORTANT: don't reset immediately -> prevents red "No data returned..." flash while dialog is closing
 		setOpenVotersDialog(false);
 	};
 
-	// Click action (does NOT change hoverboard)
 	const handleCountyClick = (rawName: string, record: any) => {
 		if (!isFlorida) return;
 		if (!record) return;
@@ -932,14 +927,14 @@ const StateMap = ({ isDetail = false }: StateMapProps) => {
 				)}
 			</Box>
 
-			{/* ================= POPUP TABLE (Florida only) ================= */}
+			{/* POPUP TABLE (Florida only) */}
 			<Dialog
 				open={openVotersDialog}
 				onClose={handleCloseDialog}
 				maxWidth="sm"
 				fullWidth
 				PaperProps={{
-					sx: { maxWidth: 520 } // tweak: 500–560
+					sx: { maxWidth: 520 }
 				}}
 				TransitionProps={{
 					onExited: () => {

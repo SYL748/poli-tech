@@ -39,7 +39,6 @@ const demographicFieldMap: Record<DemographicKey, keyof PrecinctResult> = {
 
 const MARGIN = { top: 60, right: 40, bottom: 70, left: 80 }
 
-/* ---------- resize hook ---------- */
 
 function useElementSize<T extends HTMLElement>(ref: React.RefObject<T | null>) {
     const [size, setSize] = useState({ width: 0, height: 0 })
@@ -63,7 +62,6 @@ function useElementSize<T extends HTMLElement>(ref: React.RefObject<T | null>) {
     return size
 }
 
-/* ---------- component ---------- */
 
 const GinglesChart = () => {
     const { id } = useParams()
@@ -107,7 +105,6 @@ const GinglesChart = () => {
 
     const demographicField = demographicFieldMap[selectedDemographic]
 
-    /* ---------- points ---------- */
 
     const screenPoints = useMemo(() => {
         const innerW = W - MARGIN.left - MARGIN.right
@@ -129,7 +126,6 @@ const GinglesChart = () => {
         })
     }, [W, H, precinctResults, demographicField])
 
-    /* ---------- draw ---------- */
 
     useEffect(() => {
         if (!svgRef.current || !canvasRef.current) return
@@ -138,7 +134,6 @@ const GinglesChart = () => {
         const innerH = H - MARGIN.top - MARGIN.bottom
         if (innerW <= 0 || innerH <= 0) return
 
-        /* ----- SVG ----- */
 
         const svgRoot = d3.select(svgRef.current)
         svgRoot.attr("width", W).attr("height", H)
@@ -170,7 +165,6 @@ const GinglesChart = () => {
                     .style("font-weight", "600")
             )
 
-        /* labels */
 
         svg
             .append("text")
@@ -200,7 +194,6 @@ const GinglesChart = () => {
             .attr("font-weight", 800)
             .text("Gingles Chart: Racially Polarized Voting")
 
-        /* regression lines */
 
         const drawRegression = (party: Party, color: string) => {
             const c = regressionCoeffs[selectedDemographic]?.[party]
@@ -228,7 +221,6 @@ const GinglesChart = () => {
         drawRegression("Democratic", "#0d47a1") // dark navy blue
         drawRegression("Republican", "#8e0000") // dark deep red
 
-        /* ----- Canvas ----- */
 
         const canvas = canvasRef.current
         const ctx = canvas.getContext("2d")!

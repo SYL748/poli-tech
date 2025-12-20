@@ -17,7 +17,7 @@ interface CustomTableProps {
   rows: (string | number | boolean | React.ReactNode)[][];
   rowsPerPage?: number;
   maxChars?: number;
-  total?: boolean; // ✅ optional footer totals
+  total?: boolean;
 }
 
 const CustomTable: React.FC<CustomTableProps> = ({
@@ -54,7 +54,6 @@ const CustomTable: React.FC<CustomTableProps> = ({
   // footer row exists only when total === true
   const footerRowsCount = total ? 1 : 0;
 
-  // keep your spacing fudge factor (9), but account for footer row only when enabled
   const rowHeight =
     containerHeight > 0
       ? (containerHeight - headerHeight - 9) / (rowsPerPage + footerRowsCount)
@@ -88,7 +87,7 @@ const CustomTable: React.FC<CustomTableProps> = ({
 
   const pageRows = rows.slice(page * rowsPerPage, page * rowsPerPage + rowsPerPage);
 
-  // ✅ only compute totals when enabled
+  // only compute totals when enabled
   const columnTotals = React.useMemo(() => {
     if (!total) return [];
 
@@ -195,7 +194,7 @@ const CustomTable: React.FC<CustomTableProps> = ({
               ))}
             </TableBody>
 
-            {/* ✅ FOOTER TOTALS (optional) */}
+            {/* FOOTER TOTALS (optional) */}
             {total && (
               <TableFooter>
                 <TableRow

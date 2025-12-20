@@ -221,7 +221,7 @@ const EquipmentQualityVsRejection = () => {
         hideTooltip();
       });
 
-    // ✅ Legend: ONLY bubble size note
+    // Legend: ONLY bubble size note
     const legend = g.append("g").attr("transform", `translate(${width - 220}, 10)`);
 
     legend

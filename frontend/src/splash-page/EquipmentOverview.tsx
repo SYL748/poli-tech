@@ -14,7 +14,6 @@ import {
 } from "@mui/material";
 import { useVotingEquipmentOverview } from "../queries/dataHooks";
 
-/** This is what your TABLE wants */
 export type VotingEquipment = {
   make: string;
   type: string;
@@ -24,18 +23,13 @@ export type VotingEquipment = {
   cert: string | null;
   scanRate: string | number | null;
   errorRate: string | number | null;
-  reliability: number | null; // assumed 0..1
-  quality: number | null;     // assumed 0..1
+  reliability: number | null; 
+  quality: number | null;     
   discontinued: boolean;
   quantity: number;
 };
 
-/**
- * This is what your API/Hooks likely returns (record shape).
- * Add/remove fields to match your actual backend response.
- */
 export type VotingEquipmentRecord = {
-  // common alt names
   manufacturer?: string | null;
   modelName?: string | null;
   equipmentType?: string | null;
@@ -43,7 +37,6 @@ export type VotingEquipmentRecord = {
   certificationLevel?: string | null;
   scanningRate?: string | number | null;
 
-  // sometimes already in your "table" naming
   make?: string | null;
   model?: string | null;
   type?: string | null;
@@ -51,7 +44,6 @@ export type VotingEquipmentRecord = {
   cert?: string | null;
   scanRate?: string | number | null;
 
-  // data
   quantity?: number | null;
   age?: number | null;
   errorRate?: string | number | null;
@@ -60,7 +52,6 @@ export type VotingEquipmentRecord = {
   discontinued?: boolean | null;
 };
 
-// ---------------- UI constants ----------------
 const ROW_HEIGHT = 61;
 const MAX_LINES = 2;
 const ROWS_PER_PAGE = 8;
@@ -69,7 +60,6 @@ const HEAD_BG = "#f2f2f2";
 const STATUS_COL_WIDTH = 190;
 const PROVIDER_COL_WIDTH = 140;
 
-// ---------------- helpers ----------------
 const CellText = ({ children }: { children: React.ReactNode }) => (
   <Box
     sx={{
@@ -188,7 +178,6 @@ const formatErrorRatePercent = (errorRate: string | number | null | undefined): 
   return s;
 };
 
-/** ✅ Adapter: record -> table row */
 const toVotingEquipment = (r: VotingEquipmentRecord): VotingEquipment => {
   return {
     make: (r.make ?? r.manufacturer ?? "N/A") || "N/A",
@@ -206,12 +195,10 @@ const toVotingEquipment = (r: VotingEquipmentRecord): VotingEquipment => {
   };
 };
 
-// ---------------- component ----------------
 const EquipmentOverview = () => {
   const { votingEquipmentOverview, isVotingEquipmentOverviewLoading } = useVotingEquipmentOverview();
   const [page, setPage] = useState(0);
 
-  // ✅ DO NOT cast. Map records -> UI type.
   const records: VotingEquipmentRecord[] = Array.isArray(votingEquipmentOverview)
     ? (votingEquipmentOverview as VotingEquipmentRecord[])
     : [];
@@ -272,7 +259,6 @@ const EquipmentOverview = () => {
                   },
                 }}
               >
-                {/* ✅ sticky first column */}
                 <TableCell
                   sx={{
                     ...leftCell,

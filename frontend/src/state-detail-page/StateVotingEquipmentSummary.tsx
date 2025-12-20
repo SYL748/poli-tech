@@ -6,7 +6,6 @@ import CustomTable from "../components/CustomTable";
 import { ReturnStateVotingEquipmentSummary } from "../utils/TableChartStructure";
 import type { VotingEquipmentRecord } from "../utils/Types";
 
-/** ✅ paste your JSON here (or import it) */
 const DISCONTINUED_LIST = [
   { manufacturer: "MicroVote", model_name: "Infinity", discontinued: "TRUE" },
   { manufacturer: "Dominion", model_name: "ImageCast Remote", discontinued: "TRUE" },
@@ -90,7 +89,7 @@ const StateVotingEquipmentSummary = () => {
   const { StateEquipmentSummaryTable, isStateEquipmentSummaryTableLoading } =
     useGetStateEquipmentTable(id);
 
-  // ✅ build lookup set once
+  // build lookup set once
   const discontinuedSet = useMemo(() => {
     return new Set(
       DISCONTINUED_LIST.filter((x) => String(x.discontinued).toUpperCase() === "TRUE").map((x) =>
@@ -114,7 +113,7 @@ const StateVotingEquipmentSummary = () => {
         formatValue((r as any)?.[f], f)
       );
 
-      // ✅ if match found in JSON -> mark entire row red (text)
+      // if match found in JSON -> mark entire row red (text)
       if (isDiscontinued) {
         return values.map((v, i) => (
           <span key={i} style={{ color: "#d32f2f", fontWeight: 600 }}>

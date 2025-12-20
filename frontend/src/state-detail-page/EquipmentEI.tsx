@@ -83,7 +83,7 @@ function trimTailsSmart(data: Row[], epsRatio = 0.001, padPoints = 20): Row[] {
   return out
 }
 
-// ✅ FORCE smooth: fit a single Gaussian (weighted by density), then render that curve.
+// FORCE smooth: fit a single Gaussian (weighted by density), then render that curve.
 function gaussianFit(xs: number[], ys: number[]) {
   const pairs = xs
     .map((x, i) => ({ x, y: ys[i] }))
